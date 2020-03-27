@@ -1740,10 +1740,10 @@
    "name" : "_ZN7android8hardware5radio4V1_520RadioAccessSpecifier5Bands10utranBandsEv"
   },
   {
-   "name" : "_ZN7android8hardware5radio4V1_520RadioAccessSpecifier5Bands11eutranBandsEONS0_8hidl_vecINS1_4V1_111EutranBandsEEE"
+   "name" : "_ZN7android8hardware5radio4V1_520RadioAccessSpecifier5Bands11eutranBandsEONS0_8hidl_vecINS2_11EutranBandsEEE"
   },
   {
-   "name" : "_ZN7android8hardware5radio4V1_520RadioAccessSpecifier5Bands11eutranBandsERKNS0_8hidl_vecINS1_4V1_111EutranBandsEEE"
+   "name" : "_ZN7android8hardware5radio4V1_520RadioAccessSpecifier5Bands11eutranBandsERKNS0_8hidl_vecINS2_11EutranBandsEEE"
   },
   {
    "name" : "_ZN7android8hardware5radio4V1_520RadioAccessSpecifier5Bands11eutranBandsEv"
@@ -12822,8 +12822,32 @@
      "name" : "android::hardware::radio::V1_5::NgranBands::BAND_86"
     },
     {
+     "enum_field_value" : 89,
+     "name" : "android::hardware::radio::V1_5::NgranBands::BAND_89"
+    },
+    {
      "enum_field_value" : 90,
      "name" : "android::hardware::radio::V1_5::NgranBands::BAND_90"
+    },
+    {
+     "enum_field_value" : 91,
+     "name" : "android::hardware::radio::V1_5::NgranBands::BAND_91"
+    },
+    {
+     "enum_field_value" : 92,
+     "name" : "android::hardware::radio::V1_5::NgranBands::BAND_92"
+    },
+    {
+     "enum_field_value" : 93,
+     "name" : "android::hardware::radio::V1_5::NgranBands::BAND_93"
+    },
+    {
+     "enum_field_value" : 94,
+     "name" : "android::hardware::radio::V1_5::NgranBands::BAND_94"
+    },
+    {
+     "enum_field_value" : 95,
+     "name" : "android::hardware::radio::V1_5::NgranBands::BAND_95"
     },
     {
      "enum_field_value" : 257,
@@ -13193,6 +13217,259 @@
    "size" : 1,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/radio/1.5/android.hardware.radio@1.5_genc++_headers/gen/android/hardware/radio/1.5/types.h",
    "underlying_type" : "_ZTIh"
+  },
+  {
+   "alignment" : 4,
+   "enum_fields" :
+   [
+    {
+     "enum_field_value" : 1,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_1"
+    },
+    {
+     "enum_field_value" : 2,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_2"
+    },
+    {
+     "enum_field_value" : 3,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_3"
+    },
+    {
+     "enum_field_value" : 4,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_4"
+    },
+    {
+     "enum_field_value" : 5,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_5"
+    },
+    {
+     "enum_field_value" : 6,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_6"
+    },
+    {
+     "enum_field_value" : 7,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_7"
+    },
+    {
+     "enum_field_value" : 8,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_8"
+    },
+    {
+     "enum_field_value" : 9,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_9"
+    },
+    {
+     "enum_field_value" : 10,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_10"
+    },
+    {
+     "enum_field_value" : 11,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_11"
+    },
+    {
+     "enum_field_value" : 12,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_12"
+    },
+    {
+     "enum_field_value" : 13,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_13"
+    },
+    {
+     "enum_field_value" : 14,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_14"
+    },
+    {
+     "enum_field_value" : 17,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_17"
+    },
+    {
+     "enum_field_value" : 18,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_18"
+    },
+    {
+     "enum_field_value" : 19,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_19"
+    },
+    {
+     "enum_field_value" : 20,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_20"
+    },
+    {
+     "enum_field_value" : 21,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_21"
+    },
+    {
+     "enum_field_value" : 22,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_22"
+    },
+    {
+     "enum_field_value" : 23,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_23"
+    },
+    {
+     "enum_field_value" : 24,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_24"
+    },
+    {
+     "enum_field_value" : 25,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_25"
+    },
+    {
+     "enum_field_value" : 26,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_26"
+    },
+    {
+     "enum_field_value" : 27,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_27"
+    },
+    {
+     "enum_field_value" : 28,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_28"
+    },
+    {
+     "enum_field_value" : 30,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_30"
+    },
+    {
+     "enum_field_value" : 31,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_31"
+    },
+    {
+     "enum_field_value" : 33,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_33"
+    },
+    {
+     "enum_field_value" : 34,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_34"
+    },
+    {
+     "enum_field_value" : 35,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_35"
+    },
+    {
+     "enum_field_value" : 36,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_36"
+    },
+    {
+     "enum_field_value" : 37,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_37"
+    },
+    {
+     "enum_field_value" : 38,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_38"
+    },
+    {
+     "enum_field_value" : 39,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_39"
+    },
+    {
+     "enum_field_value" : 40,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_40"
+    },
+    {
+     "enum_field_value" : 41,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_41"
+    },
+    {
+     "enum_field_value" : 42,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_42"
+    },
+    {
+     "enum_field_value" : 43,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_43"
+    },
+    {
+     "enum_field_value" : 44,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_44"
+    },
+    {
+     "enum_field_value" : 45,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_45"
+    },
+    {
+     "enum_field_value" : 46,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_46"
+    },
+    {
+     "enum_field_value" : 47,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_47"
+    },
+    {
+     "enum_field_value" : 48,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_48"
+    },
+    {
+     "enum_field_value" : 65,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_65"
+    },
+    {
+     "enum_field_value" : 66,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_66"
+    },
+    {
+     "enum_field_value" : 68,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_68"
+    },
+    {
+     "enum_field_value" : 70,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_70"
+    },
+    {
+     "enum_field_value" : 49,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_49"
+    },
+    {
+     "enum_field_value" : 50,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_50"
+    },
+    {
+     "enum_field_value" : 51,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_51"
+    },
+    {
+     "enum_field_value" : 52,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_52"
+    },
+    {
+     "enum_field_value" : 53,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_53"
+    },
+    {
+     "enum_field_value" : 71,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_71"
+    },
+    {
+     "enum_field_value" : 72,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_72"
+    },
+    {
+     "enum_field_value" : 73,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_73"
+    },
+    {
+     "enum_field_value" : 74,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_74"
+    },
+    {
+     "enum_field_value" : 85,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_85"
+    },
+    {
+     "enum_field_value" : 87,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_87"
+    },
+    {
+     "enum_field_value" : 88,
+     "name" : "android::hardware::radio::V1_5::EutranBands::BAND_88"
+    }
+   ],
+   "linker_set_key" : "_ZTIN7android8hardware5radio4V1_511EutranBandsE",
+   "name" : "android::hardware::radio::V1_5::EutranBands",
+   "referenced_type" : "_ZTIN7android8hardware5radio4V1_511EutranBandsE",
+   "self_type" : "_ZTIN7android8hardware5radio4V1_511EutranBandsE",
+   "size" : 4,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/radio/1.5/android.hardware.radio@1.5_genc++_headers/gen/android/hardware/radio/1.5/types.h",
+   "underlying_type" : "_ZTIi"
   },
   {
    "alignment" : 1,
@@ -22885,7 +23162,7 @@
   },
   {
    "function_name" : "android::hardware::radio::V1_5::RadioAccessSpecifier::Bands::eutranBands",
-   "linker_set_key" : "_ZN7android8hardware5radio4V1_520RadioAccessSpecifier5Bands11eutranBandsEONS0_8hidl_vecINS1_4V1_111EutranBandsEEE",
+   "linker_set_key" : "_ZN7android8hardware5radio4V1_520RadioAccessSpecifier5Bands11eutranBandsEONS0_8hidl_vecINS2_11EutranBandsEEE",
    "parameters" :
    [
     {
@@ -22893,7 +23170,7 @@
      "referenced_type" : "_ZTIPN7android8hardware5radio4V1_520RadioAccessSpecifier5BandsE"
     },
     {
-     "referenced_type" : "_ZTION7android8hardware8hidl_vecINS0_5radio4V1_111EutranBandsEEE"
+     "referenced_type" : "_ZTION7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE"
     }
    ],
    "return_type" : "_ZTIv",
@@ -22901,7 +23178,7 @@
   },
   {
    "function_name" : "android::hardware::radio::V1_5::RadioAccessSpecifier::Bands::eutranBands",
-   "linker_set_key" : "_ZN7android8hardware5radio4V1_520RadioAccessSpecifier5Bands11eutranBandsERKNS0_8hidl_vecINS1_4V1_111EutranBandsEEE",
+   "linker_set_key" : "_ZN7android8hardware5radio4V1_520RadioAccessSpecifier5Bands11eutranBandsERKNS0_8hidl_vecINS2_11EutranBandsEEE",
    "parameters" :
    [
     {
@@ -22909,7 +23186,7 @@
      "referenced_type" : "_ZTIPN7android8hardware5radio4V1_520RadioAccessSpecifier5BandsE"
     },
     {
-     "referenced_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_5radio4V1_111EutranBandsEEE"
+     "referenced_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE"
     }
    ],
    "return_type" : "_ZTIv",
@@ -22925,7 +23202,7 @@
      "referenced_type" : "_ZTIPN7android8hardware5radio4V1_520RadioAccessSpecifier5BandsE"
     }
    ],
-   "return_type" : "_ZTIRN7android8hardware8hidl_vecINS0_5radio4V1_111EutranBandsEEE",
+   "return_type" : "_ZTIRN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/radio/1.5/android.hardware.radio@1.5_genc++_headers/gen/android/hardware/radio/1.5/types.h"
   },
   {
@@ -30394,7 +30671,7 @@
      "referenced_type" : "_ZTIPKN7android8hardware5radio4V1_520RadioAccessSpecifier5BandsE"
     }
    ],
-   "return_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_5radio4V1_111EutranBandsEEE",
+   "return_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/radio/1.5/android.hardware.radio@1.5_genc++_headers/gen/android/hardware/radio/1.5/types.h"
   },
   {
@@ -31955,6 +32232,15 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIRKN7android8hardware5radio4V1_511EutranBandsE",
+   "name" : "const android::hardware::radio::V1_5::EutranBands &",
+   "referenced_type" : "_ZTIKN7android8hardware5radio4V1_511EutranBandsE",
+   "self_type" : "_ZTIRKN7android8hardware5radio4V1_511EutranBandsE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIRKN7android8hardware5radio4V1_511LinkAddressE",
    "name" : "const android::hardware::radio::V1_5::LinkAddress &",
    "referenced_type" : "_ZTIKN7android8hardware5radio4V1_511LinkAddressE",
@@ -32225,15 +32511,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKN7android8hardware7details12hidl_pointerINS0_5radio4V1_111EutranBandsEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::hardware::radio::V1_1::EutranBands> &",
-   "referenced_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_5radio4V1_111EutranBandsEEE",
-   "self_type" : "_ZTIRKN7android8hardware7details12hidl_pointerINS0_5radio4V1_111EutranBandsEEE",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKN7android8hardware7details12hidl_pointerINS0_5radio4V1_510NgranBandsEEE",
    "name" : "const android::hardware::details::hidl_pointer<android::hardware::radio::V1_5::NgranBands> &",
    "referenced_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_5radio4V1_510NgranBandsEEE",
@@ -32247,6 +32524,15 @@
    "name" : "const android::hardware::details::hidl_pointer<android::hardware::radio::V1_5::UtranBands> &",
    "referenced_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_5radio4V1_510UtranBandsEEE",
    "self_type" : "_ZTIRKN7android8hardware7details12hidl_pointerINS0_5radio4V1_510UtranBandsEEE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEE",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::radio::V1_5::EutranBands> &",
+   "referenced_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEE",
+   "self_type" : "_ZTIRKN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
@@ -32860,6 +33146,15 @@
    "name" : "const android::hardware::hidl_vec<android::hardware::radio::V1_5::BarringInfo> &",
    "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_5radio4V1_511BarringInfoEEE",
    "self_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_5radio4V1_511BarringInfoEEE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
+   "name" : "const android::hardware::hidl_vec<android::hardware::radio::V1_5::EutranBands> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
@@ -33873,6 +34168,15 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIRN7android8hardware5radio4V1_511EutranBandsE",
+   "name" : "android::hardware::radio::V1_5::EutranBands &",
+   "referenced_type" : "_ZTIN7android8hardware5radio4V1_511EutranBandsE",
+   "self_type" : "_ZTIRN7android8hardware5radio4V1_511EutranBandsE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware5radio4V1_511LinkAddressE",
    "name" : "android::hardware::radio::V1_5::LinkAddress &",
    "referenced_type" : "_ZTIN7android8hardware5radio4V1_511LinkAddressE",
@@ -34701,6 +35005,15 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIRN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEE",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::radio::V1_5::EutranBands> &",
+   "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEE",
+   "self_type" : "_ZTIRN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware7details12hidl_pointerINS0_5radio4V1_511LinkAddressEEE",
    "name" : "android::hardware::details::hidl_pointer<android::hardware::radio::V1_5::LinkAddress> &",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_511LinkAddressEEE",
@@ -35367,6 +35680,15 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIRN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
+   "name" : "android::hardware::hidl_vec<android::hardware::radio::V1_5::EutranBands> &",
+   "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
+   "self_type" : "_ZTIRN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android8hardware8hidl_vecINS0_5radio4V1_511LinkAddressEEE",
    "name" : "android::hardware::hidl_vec<android::hardware::radio::V1_5::LinkAddress> &",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_5radio4V1_511LinkAddressEEE",
@@ -35991,15 +36313,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android8hardware5radio4V1_111EutranBandsE",
-   "name" : "const android::hardware::radio::V1_1::EutranBands *",
-   "referenced_type" : "_ZTIKN7android8hardware5radio4V1_111EutranBandsE",
-   "self_type" : "_ZTIPKN7android8hardware5radio4V1_111EutranBandsE",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware5radio4V1_114IRadioResponseE",
    "name" : "const android::hardware::radio::V1_1::IRadioResponse *",
    "referenced_type" : "_ZTIKN7android8hardware5radio4V1_114IRadioResponseE",
@@ -36274,6 +36587,15 @@
    "name" : "const android::hardware::radio::V1_5::BarringInfo *",
    "referenced_type" : "_ZTIKN7android8hardware5radio4V1_511BarringInfoE",
    "self_type" : "_ZTIPKN7android8hardware5radio4V1_511BarringInfoE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKN7android8hardware5radio4V1_511EutranBandsE",
+   "name" : "const android::hardware::radio::V1_5::EutranBands *",
+   "referenced_type" : "_ZTIKN7android8hardware5radio4V1_511EutranBandsE",
+   "self_type" : "_ZTIPKN7android8hardware5radio4V1_511EutranBandsE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
@@ -37062,6 +37384,15 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEE",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::radio::V1_5::EutranBands> *",
+   "referenced_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEE",
+   "self_type" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_5radio4V1_511LinkAddressEEE",
    "name" : "const android::hardware::details::hidl_pointer<android::hardware::radio::V1_5::LinkAddress> *",
    "referenced_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_5radio4V1_511LinkAddressEEE",
@@ -37732,6 +38063,15 @@
    "name" : "const android::hardware::hidl_vec<android::hardware::radio::V1_5::BarringInfo> *",
    "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_5radio4V1_511BarringInfoEEE",
    "self_type" : "_ZTIPKN7android8hardware8hidl_vecINS0_5radio4V1_511BarringInfoEEE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
+   "name" : "const android::hardware::hidl_vec<android::hardware::radio::V1_5::EutranBands> *",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
+   "self_type" : "_ZTIPKN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
@@ -39330,6 +39670,15 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIPN7android8hardware5radio4V1_511EutranBandsE",
+   "name" : "android::hardware::radio::V1_5::EutranBands *",
+   "referenced_type" : "_ZTIN7android8hardware5radio4V1_511EutranBandsE",
+   "self_type" : "_ZTIPN7android8hardware5radio4V1_511EutranBandsE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware5radio4V1_511LinkAddressE",
    "name" : "android::hardware::radio::V1_5::LinkAddress *",
    "referenced_type" : "_ZTIN7android8hardware5radio4V1_511LinkAddressE",
@@ -40338,6 +40687,15 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIPN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEE",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::radio::V1_5::EutranBands> *",
+   "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEE",
+   "self_type" : "_ZTIPN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware7details12hidl_pointerINS0_5radio4V1_511LinkAddressEEE",
    "name" : "android::hardware::details::hidl_pointer<android::hardware::radio::V1_5::LinkAddress> *",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_511LinkAddressEEE",
@@ -41037,6 +41395,15 @@
    "self_type" : "_ZTIPN7android8hardware8hidl_vecINS0_5radio4V1_511BarringInfoEEE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
+   "name" : "android::hardware::hidl_vec<android::hardware::radio::V1_5::EutranBands> *",
+   "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
+   "self_type" : "_ZTIPN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
   {
    "alignment" : 4,
@@ -44263,6 +44630,16 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/radio/1.5/android.hardware.radio@1.5_genc++_headers/gen/android/hardware/radio/1.5/types.h"
   },
   {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKN7android8hardware5radio4V1_511EutranBandsE",
+   "name" : "const android::hardware::radio::V1_5::EutranBands",
+   "referenced_type" : "_ZTIN7android8hardware5radio4V1_511EutranBandsE",
+   "self_type" : "_ZTIKN7android8hardware5radio4V1_511EutranBandsE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware5radio4V1_511LinkAddressE",
@@ -45385,6 +45762,16 @@
   {
    "alignment" : 4,
    "is_const" : true,
+   "linker_set_key" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEE",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::radio::V1_5::EutranBands>",
+   "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEE",
+   "self_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEE",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_5radio4V1_511LinkAddressEEE",
    "name" : "const android::hardware::details::hidl_pointer<android::hardware::radio::V1_5::LinkAddress>",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_511LinkAddressEEE",
@@ -46137,6 +46524,16 @@
    "name" : "const android::hardware::hidl_vec<android::hardware::radio::V1_5::BarringInfo>",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_5radio4V1_511BarringInfoEEE",
    "self_type" : "_ZTIKN7android8hardware8hidl_vecINS0_5radio4V1_511BarringInfoEEE",
+   "size" : 16,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
+   "name" : "const android::hardware::hidl_vec<android::hardware::radio::V1_5::EutranBands>",
+   "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
+   "self_type" : "_ZTIKN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
    "size" : 16,
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
@@ -47373,11 +47770,11 @@
   {
    "alignment" : 4,
    "is_const" : true,
-   "linker_set_key" : "_ZTIKNSt3__15arrayIN7android8hardware5radio4V1_510NgranBandsELj43EEE",
-   "name" : "const std::array<android::hardware::radio::V1_5::NgranBands, 43>",
-   "referenced_type" : "_ZTINSt3__15arrayIN7android8hardware5radio4V1_510NgranBandsELj43EEE",
-   "self_type" : "_ZTIKNSt3__15arrayIN7android8hardware5radio4V1_510NgranBandsELj43EEE",
-   "size" : 172,
+   "linker_set_key" : "_ZTIKNSt3__15arrayIN7android8hardware5radio4V1_510NgranBandsELj49EEE",
+   "name" : "const std::array<android::hardware::radio::V1_5::NgranBands, 49>",
+   "referenced_type" : "_ZTINSt3__15arrayIN7android8hardware5radio4V1_510NgranBandsELj49EEE",
+   "self_type" : "_ZTIKNSt3__15arrayIN7android8hardware5radio4V1_510NgranBandsELj49EEE",
+   "size" : 196,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/radio/1.5/android.hardware.radio@1.5_genc++_headers/gen/android/hardware/radio/1.5/types.h"
   },
   {
@@ -47408,6 +47805,16 @@
    "referenced_type" : "_ZTINSt3__15arrayIN7android8hardware5radio4V1_511BarringInfo11ServiceTypeELj42EEE",
    "self_type" : "_ZTIKNSt3__15arrayIN7android8hardware5radio4V1_511BarringInfo11ServiceTypeELj42EEE",
    "size" : 168,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/radio/1.5/android.hardware.radio@1.5_genc++_headers/gen/android/hardware/radio/1.5/types.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKNSt3__15arrayIN7android8hardware5radio4V1_511EutranBandsELj60EEE",
+   "name" : "const std::array<android::hardware::radio::V1_5::EutranBands, 60>",
+   "referenced_type" : "_ZTINSt3__15arrayIN7android8hardware5radio4V1_511EutranBandsELj60EEE",
+   "self_type" : "_ZTIKNSt3__15arrayIN7android8hardware5radio4V1_511EutranBandsELj60EEE",
+   "size" : 240,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/radio/1.5/android.hardware.radio@1.5_genc++_headers/gen/android/hardware/radio/1.5/types.h"
   },
   {
@@ -88462,7 +88869,7 @@
     {
      "field_name" : "bands",
      "field_offset" : 1152,
-     "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_5radio4V1_111EutranBandsEEE"
+     "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE"
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware5radio4V1_515CellIdentityLteE",
@@ -91021,7 +91428,7 @@
     },
     {
      "field_name" : "eutranBands",
-     "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_5radio4V1_111EutranBandsEEE"
+     "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE"
     },
     {
      "field_name" : "ngranBands",
@@ -96835,6 +97242,46 @@
    [
     {
      "access" : "private",
+     "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEUt_E"
+    }
+   ],
+   "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEE",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::radio::V1_5::EutranBands>",
+   "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEE",
+   "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEE",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h",
+   "template_args" : [ "_ZTIN7android8hardware5radio4V1_511EutranBandsE" ]
+  },
+  {
+   "access" : "private",
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "mPointer",
+     "referenced_type" : "_ZTIPN7android8hardware5radio4V1_511EutranBandsE"
+    },
+    {
+     "field_name" : "_pad",
+     "referenced_type" : "_ZTIy"
+    }
+   ],
+   "is_anonymous" : true,
+   "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEUt_E",
+   "name" : "android::hardware::details::hidl_pointer<EutranBands>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "record_kind" : "union",
+   "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEUt_E",
+   "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEUt_E",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "access" : "private",
      "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_511LinkAddressEEUt_E"
     }
    ],
@@ -99786,6 +100233,42 @@
     {
      "access" : "private",
      "field_name" : "mBuffer",
+     "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_511EutranBandsEEE"
+    },
+    {
+     "access" : "private",
+     "field_name" : "mSize",
+     "field_offset" : 64,
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "access" : "private",
+     "field_name" : "mOwnsBuffer",
+     "field_offset" : 96,
+     "referenced_type" : "_ZTIb"
+    },
+    {
+     "access" : "private",
+     "field_name" : "mPad",
+     "field_offset" : 104,
+     "referenced_type" : "_ZTIA3_h"
+    }
+   ],
+   "linker_set_key" : "_ZTIN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
+   "name" : "android::hardware::hidl_vec<android::hardware::radio::V1_5::EutranBands>",
+   "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
+   "self_type" : "_ZTIN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
+   "size" : 16,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h",
+   "template_args" : [ "_ZTIN7android8hardware5radio4V1_511EutranBandsE" ]
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "access" : "private",
+     "field_name" : "mBuffer",
      "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_511LinkAddressEEE"
     },
     {
@@ -100722,15 +101205,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTION7android8hardware8hidl_vecINS0_5radio4V1_111EutranBandsEEE",
-   "name" : "android::hardware::hidl_vec<android::hardware::radio::V1_1::EutranBands> &&",
-   "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_5radio4V1_111EutranBandsEEE",
-   "self_type" : "_ZTION7android8hardware8hidl_vecINS0_5radio4V1_111EutranBandsEEE",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTION7android8hardware8hidl_vecINS0_5radio4V1_510NgranBandsEEE",
    "name" : "android::hardware::hidl_vec<android::hardware::radio::V1_5::NgranBands> &&",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_5radio4V1_510NgranBandsEEE",
@@ -100744,6 +101218,15 @@
    "name" : "android::hardware::hidl_vec<android::hardware::radio::V1_5::UtranBands> &&",
    "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_5radio4V1_510UtranBandsEEE",
    "self_type" : "_ZTION7android8hardware8hidl_vecINS0_5radio4V1_510UtranBandsEEE",
+   "size" : 4,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTION7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
+   "name" : "android::hardware::hidl_vec<android::hardware::radio::V1_5::EutranBands> &&",
+   "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
+   "self_type" : "_ZTION7android8hardware8hidl_vecINS0_5radio4V1_511EutranBandsEEE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
