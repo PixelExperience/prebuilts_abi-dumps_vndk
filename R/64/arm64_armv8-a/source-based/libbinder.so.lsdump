@@ -1645,6 +1645,9 @@
    "name" : "_ZN7android6binder20LazyServiceRegistrar11getInstanceEv"
   },
   {
+   "name" : "_ZN7android6binder20LazyServiceRegistrar12forcePersistEb"
+  },
+  {
    "name" : "_ZN7android6binder20LazyServiceRegistrar15registerServiceERKNS_2spINS_7IBinderEEERKNSt3__112basic_stringIcNS7_11char_traitsIcEENS7_9allocatorIcEEEEbi"
   },
   {
@@ -1706,6 +1709,9 @@
   },
   {
    "name" : "_ZN7android6binder8internal21ClientCounterCallback11tryShutdownEv"
+  },
+  {
+   "name" : "_ZN7android6binder8internal21ClientCounterCallback12forcePersistEb"
   },
   {
    "name" : "_ZN7android6binder8internal21ClientCounterCallback15registerServiceERKNS_2spINS_7IBinderEEERKNSt3__112basic_stringIcNS8_11char_traitsIcEENS8_9allocatorIcEEEEbi"
@@ -13846,6 +13852,22 @@
    "function_name" : "android::binder::LazyServiceRegistrar::getInstance",
    "linker_set_key" : "_ZN7android6binder20LazyServiceRegistrar11getInstanceEv",
    "return_type" : "_ZTIRN7android6binder20LazyServiceRegistrarE",
+   "source_file" : "/frameworks/native/libs/binder/include/binder/LazyServiceRegistrar.h"
+  },
+  {
+   "function_name" : "android::binder::LazyServiceRegistrar::forcePersist",
+   "linker_set_key" : "_ZN7android6binder20LazyServiceRegistrar12forcePersistEb",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN7android6binder20LazyServiceRegistrarE"
+    },
+    {
+     "referenced_type" : "_ZTIb"
+    }
+   ],
+   "return_type" : "_ZTIv",
    "source_file" : "/frameworks/native/libs/binder/include/binder/LazyServiceRegistrar.h"
   },
   {
