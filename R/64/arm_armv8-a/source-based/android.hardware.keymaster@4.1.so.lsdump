@@ -233,14 +233,6 @@
  [
   {
    "binding" : "weak",
-   "name" : "_ZN7android8hardware10fromBinderINS0_9keymaster4V4_110IOperationENS3_13BpHwOperationENS3_13BnHwOperationEEENS_2spIT_EERKNS7_INS0_7IBinderEEE"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZN7android8hardware7details13castInterfaceINS0_9keymaster4V4_110IOperationENS_4hidl4base4V1_05IBaseENS4_13BpHwOperationEEENS0_6ReturnINS_2spIT_EEEENSC_IT0_EEPKcb"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZN7android8hardware7details13castInterfaceINS0_9keymaster4V4_116IKeymasterDeviceENS3_4V4_016IKeymasterDeviceENS4_19BpHwKeymasterDeviceEEENS0_6ReturnINS_2spIT_EEEENSA_IT0_EEPKcb"
   },
   {
@@ -249,144 +241,7 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZN7android8hardware7details15wrapPassthroughINS0_9keymaster4V4_110IOperationEvEENS_2spIT_EES8_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZN7android8hardware7details18getServiceInternalINS0_9keymaster4V4_113BpHwOperationENS4_10IOperationEvvEENS_2spIT0_EERKNSt3__112basic_stringIcNSA_11char_traitsIcEENSA_9allocatorIcEEEEbb"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZN7android8hardware7details18getServiceInternalINS0_9keymaster4V4_119BpHwKeymasterDeviceENS4_16IKeymasterDeviceEvvEENS_2spIT0_EERKNSt3__112basic_stringIcNSA_11char_traitsIcEENSA_9allocatorIcEEEEbb"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_110IOperation10getServiceERKNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEEb"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_110IOperation11linkToDeathERKNS_2spINS0_20hidl_death_recipientEEEy"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_110IOperation12getDebugInfoENSt3__18functionIFvRKNS_4hidl4base4V1_09DebugInfoEEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_110IOperation12getHashChainENSt3__18functionIFvRKNS0_8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEEEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_110IOperation13tryGetServiceERKNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEEb"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_110IOperation13unlinkToDeathERKNS_2spINS0_20hidl_death_recipientEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_110IOperation14interfaceChainENSt3__18functionIFvRKNS0_8hidl_vecINS0_11hidl_stringEEEEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_110IOperation17registerAsServiceERKNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_110IOperation19interfaceDescriptorENSt3__18functionIFvRKNS0_11hidl_stringEEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_110IOperation21notifySyspropsChangedEv"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_110IOperation21setHALInstrumentationEv"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_110IOperation24registerForNotificationsERKNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEERKNS_2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_110IOperation4pingEv"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_110IOperation5debugERKNS0_11hidl_handleERKNS0_8hidl_vecINS0_11hidl_stringEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_110IOperation8castFromERKNS_2spINS_4hidl4base4V1_05IBaseEEEb"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_110IOperation8castFromERKNS_2spIS3_EEb"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_111BsOperation13addOnewayTaskENSt3__18functionIFvvEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_111BsOperationC1ENS_2spINS2_10IOperationEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_111BsOperationC2ENS_2spINS2_10IOperationEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BnHwOperation10onTransactEjRKNS0_6ParcelEPS4_jNSt3__18functionIFvRS4_EEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BnHwOperation12getDebugInfoENSt3__18functionIFvRKNS_4hidl4base4V1_09DebugInfoEEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BnHwOperation27_hidl_getOperationChallengeEPNS_4hidl4base4V1_08BnHwBaseERKNS0_6ParcelEPS9_NSt3__18functionIFvRS9_EEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BnHwOperation4pingEv"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BnHwOperationC1ERKNS_2spINS2_10IOperationEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BnHwOperationC2ERKNS_2spINS2_10IOperationEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BnHwOperationD0Ev"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BnHwOperationD1Ev"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BnHwOperationD2Ev"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation11linkToDeathERKNS_2spINS0_20hidl_death_recipientEEEy"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation12getDebugInfoENSt3__18functionIFvRKNS_4hidl4base4V1_09DebugInfoEEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation12getHashChainENSt3__18functionIFvRKNS0_8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEEEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation13unlinkToDeathERKNS_2spINS0_20hidl_death_recipientEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation14interfaceChainENSt3__18functionIFvRKNS0_8hidl_vecINS0_11hidl_stringEEEEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation15onLastStrongRefEPKv"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation19interfaceDescriptorENSt3__18functionIFvRKNS0_11hidl_stringEEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation21getOperationChallengeENSt3__18functionIFvNS2_9ErrorCodeEyEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation21notifySyspropsChangedEv"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation21setHALInstrumentationEv"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation27_hidl_getOperationChallengeEPNS0_10IInterfaceEPNS0_7details16HidlInstrumentorENSt3__18functionIFvNS2_9ErrorCodeEyEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation4pingEv"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation5debugERKNS0_11hidl_handleERKNS0_8hidl_vecINS0_11hidl_stringEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperationC1ERKNS_2spINS0_7IBinderEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperationC2ERKNS_2spINS0_7IBinderEEE"
   },
   {
    "name" : "_ZN7android8hardware9keymaster4V4_116IKeymasterDevice10getServiceERKNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEEb"
@@ -455,9 +310,6 @@
    "name" : "_ZN7android8hardware9keymaster4V4_119BnHwKeymasterDevice12getDebugInfoENSt3__18functionIFvRKNS_4hidl4base4V1_09DebugInfoEEEE"
   },
   {
-   "name" : "_ZN7android8hardware9keymaster4V4_119BnHwKeymasterDevice13_hidl_beginOpEPNS_4hidl4base4V1_08BnHwBaseERKNS0_6ParcelEPS9_NSt3__18functionIFvRS9_EEE"
-  },
-  {
    "name" : "_ZN7android8hardware9keymaster4V4_119BnHwKeymasterDevice18_hidl_deviceLockedEPNS_4hidl4base4V1_08BnHwBaseERKNS0_6ParcelEPS9_NSt3__18functionIFvRS9_EEE"
   },
   {
@@ -498,9 +350,6 @@
   },
   {
    "name" : "_ZN7android8hardware9keymaster4V4_119BpHwKeymasterDevice12getHashChainENSt3__18functionIFvRKNS0_8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEEEEE"
-  },
-  {
-   "name" : "_ZN7android8hardware9keymaster4V4_119BpHwKeymasterDevice13_hidl_beginOpEPNS0_10IInterfaceEPNS0_7details16HidlInstrumentorENS1_4V4_010KeyPurposeERKNS0_8hidl_vecIhEERKNSB_INS9_12KeyParameterEEERKNS9_17HardwareAuthTokenENSt3__18functionIFvNS2_9ErrorCodeESI_RKNS_2spINS2_10IOperationEEEEEE"
   },
   {
    "name" : "_ZN7android8hardware9keymaster4V4_119BpHwKeymasterDevice13addRngEntropyERKNS0_8hidl_vecIhEE"
@@ -575,9 +424,6 @@
    "name" : "_ZN7android8hardware9keymaster4V4_119BpHwKeymasterDevice6updateEyRKNS0_8hidl_vecINS1_4V4_012KeyParameterEEERKNS4_IhEERKNS5_17HardwareAuthTokenERKNS5_17VerificationTokenENSt3__18functionIFvNS5_9ErrorCodeEjS9_SC_EEE"
   },
   {
-   "name" : "_ZN7android8hardware9keymaster4V4_119BpHwKeymasterDevice7beginOpENS1_4V4_010KeyPurposeERKNS0_8hidl_vecIhEERKNS6_INS4_12KeyParameterEEERKNS4_17HardwareAuthTokenENSt3__18functionIFvNS2_9ErrorCodeESD_RKNS_2spINS2_10IOperationEEEEEE"
-  },
-  {
    "name" : "_ZN7android8hardware9keymaster4V4_119BpHwKeymasterDevice9attestKeyERKNS0_8hidl_vecIhEERKNS4_INS1_4V4_012KeyParameterEEENSt3__18functionIFvNS8_9ErrorCodeERKNS4_IS5_EEEEE"
   },
   {
@@ -644,28 +490,13 @@
    "name" : "_ZNSt3__16vectorIPvNS_9allocatorIS1_EEE21__push_back_slow_pathIS1_EEvOT_"
   },
   {
-   "name" : "_ZThn20_N7android8hardware9keymaster4V4_113BnHwOperationD0Ev"
-  },
-  {
-   "name" : "_ZThn20_N7android8hardware9keymaster4V4_113BnHwOperationD1Ev"
-  },
-  {
    "name" : "_ZThn20_N7android8hardware9keymaster4V4_119BnHwKeymasterDeviceD0Ev"
   },
   {
    "name" : "_ZThn20_N7android8hardware9keymaster4V4_119BnHwKeymasterDeviceD1Ev"
   },
   {
-   "name" : "_ZThn8_N7android8hardware9keymaster4V4_113BpHwOperation15onLastStrongRefEPKv"
-  },
-  {
    "name" : "_ZThn8_N7android8hardware9keymaster4V4_119BpHwKeymasterDevice15onLastStrongRefEPKv"
-  },
-  {
-   "name" : "_ZTv0_n12_N7android8hardware9keymaster4V4_113BnHwOperationD0Ev"
-  },
-  {
-   "name" : "_ZTv0_n12_N7android8hardware9keymaster4V4_113BnHwOperationD1Ev"
   },
   {
    "name" : "_ZTv0_n12_N7android8hardware9keymaster4V4_119BnHwKeymasterDeviceD0Ev"
@@ -674,50 +505,13 @@
    "name" : "_ZTv0_n12_N7android8hardware9keymaster4V4_119BnHwKeymasterDeviceD1Ev"
   },
   {
-   "name" : "_ZTv0_n20_N7android8hardware9keymaster4V4_113BpHwOperation15onLastStrongRefEPKv"
-  },
-  {
    "name" : "_ZTv0_n20_N7android8hardware9keymaster4V4_119BpHwKeymasterDevice15onLastStrongRefEPKv"
   }
  ],
  "elf_objects" :
  [
   {
-   "name" : "_ZN7android8hardware9keymaster4V4_110IOperation10descriptorE"
-  },
-  {
    "name" : "_ZN7android8hardware9keymaster4V4_116IKeymasterDevice10descriptorE"
-  },
-  {
-   "name" : "_ZTCN7android8hardware9keymaster4V4_110IOperationE0_NS_4hidl4base4V1_05IBaseE"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZTCN7android8hardware9keymaster4V4_111BsOperationE0_NS2_10IOperationE"
-  },
-  {
-   "name" : "_ZTCN7android8hardware9keymaster4V4_113BnHwOperationE0_NS0_7IBinderE"
-  },
-  {
-   "name" : "_ZTCN7android8hardware9keymaster4V4_113BnHwOperationE0_NS0_9BHwBinderE"
-  },
-  {
-   "name" : "_ZTCN7android8hardware9keymaster4V4_113BnHwOperationE0_NS_4hidl4base4V1_08BnHwBaseE"
-  },
-  {
-   "name" : "_ZTCN7android8hardware9keymaster4V4_113BpHwOperationE0_NS0_11BpInterfaceINS2_10IOperationEEE"
-  },
-  {
-   "name" : "_ZTCN7android8hardware9keymaster4V4_113BpHwOperationE0_NS2_10IOperationE"
-  },
-  {
-   "name" : "_ZTCN7android8hardware9keymaster4V4_113BpHwOperationE0_NS_4hidl4base4V1_05IBaseE"
-  },
-  {
-   "name" : "_ZTCN7android8hardware9keymaster4V4_113BpHwOperationE4_NS0_10IInterfaceE"
-  },
-  {
-   "name" : "_ZTCN7android8hardware9keymaster4V4_113BpHwOperationE8_NS0_11BpHwRefBaseE"
   },
   {
    "name" : "_ZTCN7android8hardware9keymaster4V4_116IKeymasterDeviceE0_NS1_4V4_016IKeymasterDeviceE"
@@ -757,15 +551,6 @@
    "name" : "_ZTCN7android8hardware9keymaster4V4_119BpHwKeymasterDeviceE8_NS0_11BpHwRefBaseE"
   },
   {
-   "name" : "_ZTTN7android8hardware9keymaster4V4_110IOperationE"
-  },
-  {
-   "name" : "_ZTTN7android8hardware9keymaster4V4_113BnHwOperationE"
-  },
-  {
-   "name" : "_ZTTN7android8hardware9keymaster4V4_113BpHwOperationE"
-  },
-  {
    "name" : "_ZTTN7android8hardware9keymaster4V4_116IKeymasterDeviceE"
   },
   {
@@ -773,19 +558,6 @@
   },
   {
    "name" : "_ZTTN7android8hardware9keymaster4V4_119BpHwKeymasterDeviceE"
-  },
-  {
-   "name" : "_ZTVN7android8hardware9keymaster4V4_110IOperationE"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZTVN7android8hardware9keymaster4V4_111BsOperationE"
-  },
-  {
-   "name" : "_ZTVN7android8hardware9keymaster4V4_113BnHwOperationE"
-  },
-  {
-   "name" : "_ZTVN7android8hardware9keymaster4V4_113BpHwOperationE"
   },
   {
    "name" : "_ZTVN7android8hardware9keymaster4V4_116IKeymasterDeviceE"
@@ -5043,48 +4815,6 @@
  "functions" :
  [
   {
-   "function_name" : "android::hardware::fromBinder",
-   "linker_set_key" : "_ZN7android8hardware10fromBinderINS0_9keymaster4V4_110IOperationENS3_13BpHwOperationENS3_13BnHwOperationEEENS_2spIT_EERKNS7_INS0_7IBinderEEE",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIRKN7android2spINS_8hardware7IBinderEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlBinderSupport.h",
-   "template_args" :
-   [
-    "_ZTIN7android8hardware9keymaster4V4_110IOperationE",
-    "_ZTIN7android8hardware9keymaster4V4_113BpHwOperationE",
-    "_ZTIN7android8hardware9keymaster4V4_113BnHwOperationE"
-   ]
-  },
-  {
-   "function_name" : "android::hardware::details::castInterface",
-   "linker_set_key" : "_ZN7android8hardware7details13castInterfaceINS0_9keymaster4V4_110IOperationENS_4hidl4base4V1_05IBaseENS4_13BpHwOperationEEENS0_6ReturnINS_2spIT_EEEENSC_IT0_EEPKcb",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIN7android2spINS_4hidl4base4V1_05IBaseEEE"
-    },
-    {
-     "referenced_type" : "_ZTIPKc"
-    },
-    {
-     "referenced_type" : "_ZTIb"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h",
-   "template_args" :
-   [
-    "_ZTIN7android8hardware9keymaster4V4_110IOperationE",
-    "_ZTIN7android4hidl4base4V1_05IBaseE",
-    "_ZTIN7android8hardware9keymaster4V4_113BpHwOperationE"
-   ]
-  },
-  {
    "function_name" : "android::hardware::details::castInterface",
    "linker_set_key" : "_ZN7android8hardware7details13castInterfaceINS0_9keymaster4V4_116IKeymasterDeviceENS3_4V4_016IKeymasterDeviceENS4_19BpHwKeymasterDeviceEEENS0_6ReturnINS_2spIT_EEEENSA_IT0_EEPKcb",
    "parameters" :
@@ -5133,44 +4863,6 @@
    ]
   },
   {
-   "function_name" : "android::hardware::details::wrapPassthrough",
-   "linker_set_key" : "_ZN7android8hardware7details15wrapPassthroughINS0_9keymaster4V4_110IOperationEvEENS_2spIT_EES8_",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIN7android2spINS_8hardware9keymaster4V4_110IOperationEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlPassthroughSupport.h",
-   "template_args" : [ "_ZTIN7android8hardware9keymaster4V4_110IOperationE", "_ZTIv" ]
-  },
-  {
-   "function_name" : "android::hardware::details::getServiceInternal",
-   "linker_set_key" : "_ZN7android8hardware7details18getServiceInternalINS0_9keymaster4V4_113BpHwOperationENS4_10IOperationEvvEENS_2spIT0_EERKNSt3__112basic_stringIcNSA_11char_traitsIcEENSA_9allocatorIcEEEEbb",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++/gen/android/hardware/keymaster/4.1/OperationAll.sdump"
-    },
-    {
-     "referenced_type" : "_ZTIb"
-    },
-    {
-     "referenced_type" : "_ZTIb"
-    }
-   ],
-   "return_type" : "_ZTIN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h",
-   "template_args" :
-   [
-    "_ZTIN7android8hardware9keymaster4V4_113BpHwOperationE",
-    "_ZTIN7android8hardware9keymaster4V4_110IOperationE",
-    "_ZTIv",
-    "_ZTIv"
-   ]
-  },
-  {
    "function_name" : "android::hardware::details::getServiceInternal",
    "linker_set_key" : "_ZN7android8hardware7details18getServiceInternalINS0_9keymaster4V4_119BpHwKeymasterDeviceENS4_16IKeymasterDeviceEvvEENS_2spIT0_EERKNSt3__112basic_stringIcNSA_11char_traitsIcEENSA_9allocatorIcEEEEbb",
    "parameters" :
@@ -5194,702 +4886,6 @@
     "_ZTIv",
     "_ZTIv"
    ]
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::IOperation::getService",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_110IOperation10getServiceERKNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEEb",
-   "parameters" :
-   [
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++/gen/android/hardware/keymaster/4.1/OperationAll.sdump"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIb"
-    }
-   ],
-   "return_type" : "_ZTIN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::IOperation::linkToDeath",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_110IOperation11linkToDeathERKNS_2spINS0_20hidl_death_recipientEEEy",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_110IOperationE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android2spINS_8hardware20hidl_death_recipientEEE"
-    },
-    {
-     "referenced_type" : "_ZTIy"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIbEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::IOperation::getDebugInfo",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_110IOperation12getDebugInfoENSt3__18functionIFvRKNS_4hidl4base4V1_09DebugInfoEEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_110IOperationE"
-    },
-    {
-     "referenced_type" : "_ZTINSt3__18functionIFvRKN7android4hidl4base4V1_09DebugInfoEEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::IOperation::getHashChain",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_110IOperation12getHashChainENSt3__18functionIFvRKNS0_8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEEEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_110IOperationE"
-    },
-    {
-     "referenced_type" : "_ZTINSt3__18functionIFvRKN7android8hardware8hidl_vecINS2_10hidl_arrayIhLj32EJEEEEEEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::IOperation::tryGetService",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_110IOperation13tryGetServiceERKNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEEb",
-   "parameters" :
-   [
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++/gen/android/hardware/keymaster/4.1/OperationAll.sdump"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIb"
-    }
-   ],
-   "return_type" : "_ZTIN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::IOperation::unlinkToDeath",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_110IOperation13unlinkToDeathERKNS_2spINS0_20hidl_death_recipientEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_110IOperationE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android2spINS_8hardware20hidl_death_recipientEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIbEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::IOperation::interfaceChain",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_110IOperation14interfaceChainENSt3__18functionIFvRKNS0_8hidl_vecINS0_11hidl_stringEEEEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_110IOperationE"
-    },
-    {
-     "referenced_type" : "_ZTINSt3__18functionIFvRKN7android8hardware8hidl_vecINS2_11hidl_stringEEEEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::IOperation::registerAsService",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_110IOperation17registerAsServiceERKNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_110IOperationE"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++/gen/android/hardware/keymaster/4.1/OperationAll.sdump"
-    }
-   ],
-   "return_type" : "_ZTIi",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::IOperation::interfaceDescriptor",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_110IOperation19interfaceDescriptorENSt3__18functionIFvRKNS0_11hidl_stringEEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_110IOperationE"
-    },
-    {
-     "referenced_type" : "_ZTINSt3__18functionIFvRKN7android8hardware11hidl_stringEEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::IOperation::notifySyspropsChanged",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_110IOperation21notifySyspropsChangedEv",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_110IOperationE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::IOperation::setHALInstrumentation",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_110IOperation21setHALInstrumentationEv",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_110IOperationE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::IOperation::registerForNotifications",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_110IOperation24registerForNotificationsERKNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEERKNS_2spINS_4hidl7manager4V1_020IServiceNotificationEEE",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++/gen/android/hardware/keymaster/4.1/OperationAll.sdump"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
-    }
-   ],
-   "return_type" : "_ZTIb",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::IOperation::ping",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_110IOperation4pingEv",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_110IOperationE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::IOperation::debug",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_110IOperation5debugERKNS0_11hidl_handleERKNS0_8hidl_vecINS0_11hidl_stringEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_110IOperationE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android8hardware11hidl_handleE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_11hidl_stringEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::IOperation::castFrom",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_110IOperation8castFromERKNS_2spINS_4hidl4base4V1_05IBaseEEEb",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIRKN7android2spINS_4hidl4base4V1_05IBaseEEE"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIb"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::IOperation::castFrom",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_110IOperation8castFromERKNS_2spIS3_EEb",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIRKN7android2spINS_8hardware9keymaster4V4_110IOperationEEE"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIb"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h"
-  },
-  {
-   "access" : "private",
-   "function_name" : "android::hardware::keymaster::V4_1::BsOperation::addOnewayTask",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_111BsOperation13addOnewayTaskENSt3__18functionIFvvEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_111BsOperationE"
-    },
-    {
-     "referenced_type" : "_ZTINSt3__18functionIFvvEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BsOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BsOperation::BsOperation",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_111BsOperationC1ENS_2spINS2_10IOperationEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_111BsOperationE"
-    },
-    {
-     "referenced_type" : "_ZTIKN7android2spINS_8hardware9keymaster4V4_110IOperationEEE"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BsOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BsOperation::BsOperation",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_111BsOperationC2ENS_2spINS2_10IOperationEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_111BsOperationE"
-    },
-    {
-     "referenced_type" : "_ZTIKN7android2spINS_8hardware9keymaster4V4_110IOperationEEE"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BsOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BnHwOperation::onTransact",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BnHwOperation10onTransactEjRKNS0_6ParcelEPS4_jNSt3__18functionIFvRS4_EEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BnHwOperationE"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android8hardware6ParcelE"
-    },
-    {
-     "referenced_type" : "_ZTIPN7android8hardware6ParcelE"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTINSt3__18functionIFvRN7android8hardware6ParcelEEEE"
-    }
-   ],
-   "return_type" : "_ZTIi",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BnHwOperation.h"
-  },
-  {
-   "access" : "private",
-   "function_name" : "android::hardware::keymaster::V4_1::BnHwOperation::getDebugInfo",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BnHwOperation12getDebugInfoENSt3__18functionIFvRKNS_4hidl4base4V1_09DebugInfoEEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BnHwOperationE"
-    },
-    {
-     "referenced_type" : "_ZTINSt3__18functionIFvRKN7android4hidl4base4V1_09DebugInfoEEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BnHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BnHwOperation::_hidl_getOperationChallenge",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BnHwOperation27_hidl_getOperationChallengeEPNS_4hidl4base4V1_08BnHwBaseERKNS0_6ParcelEPS9_NSt3__18functionIFvRS9_EEE",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPN7android4hidl4base4V1_08BnHwBaseE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android8hardware6ParcelE"
-    },
-    {
-     "referenced_type" : "_ZTIPN7android8hardware6ParcelE"
-    },
-    {
-     "referenced_type" : "_ZTINSt3__18functionIFvRN7android8hardware6ParcelEEEE"
-    }
-   ],
-   "return_type" : "_ZTIi",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BnHwOperation.h"
-  },
-  {
-   "access" : "private",
-   "function_name" : "android::hardware::keymaster::V4_1::BnHwOperation::ping",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BnHwOperation4pingEv",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BnHwOperationE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BnHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BnHwOperation::BnHwOperation",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BnHwOperationC1ERKNS_2spINS2_10IOperationEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BnHwOperationE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android2spINS_8hardware9keymaster4V4_110IOperationEEE"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BnHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BnHwOperation::BnHwOperation",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BnHwOperationC2ERKNS_2spINS2_10IOperationEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BnHwOperationE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android2spINS_8hardware9keymaster4V4_110IOperationEEE"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BnHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BnHwOperation::~BnHwOperation",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BnHwOperationD0Ev",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BnHwOperationE"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BnHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BnHwOperation::~BnHwOperation",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BnHwOperationD1Ev",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BnHwOperationE"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BnHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BnHwOperation::~BnHwOperation",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BnHwOperationD2Ev",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BnHwOperationE"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BnHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BpHwOperation::linkToDeath",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation11linkToDeathERKNS_2spINS0_20hidl_death_recipientEEEy",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BpHwOperationE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android2spINS_8hardware20hidl_death_recipientEEE"
-    },
-    {
-     "referenced_type" : "_ZTIy"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIbEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BpHwOperation::getDebugInfo",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation12getDebugInfoENSt3__18functionIFvRKNS_4hidl4base4V1_09DebugInfoEEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BpHwOperationE"
-    },
-    {
-     "referenced_type" : "_ZTINSt3__18functionIFvRKN7android4hidl4base4V1_09DebugInfoEEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BpHwOperation::getHashChain",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation12getHashChainENSt3__18functionIFvRKNS0_8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEEEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BpHwOperationE"
-    },
-    {
-     "referenced_type" : "_ZTINSt3__18functionIFvRKN7android8hardware8hidl_vecINS2_10hidl_arrayIhLj32EJEEEEEEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BpHwOperation::unlinkToDeath",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation13unlinkToDeathERKNS_2spINS0_20hidl_death_recipientEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BpHwOperationE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android2spINS_8hardware20hidl_death_recipientEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIbEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BpHwOperation::interfaceChain",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation14interfaceChainENSt3__18functionIFvRKNS0_8hidl_vecINS0_11hidl_stringEEEEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BpHwOperationE"
-    },
-    {
-     "referenced_type" : "_ZTINSt3__18functionIFvRKN7android8hardware8hidl_vecINS2_11hidl_stringEEEEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BpHwOperation::onLastStrongRef",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation15onLastStrongRefEPKv",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BpHwOperationE"
-    },
-    {
-     "referenced_type" : "_ZTIPKv"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BpHwOperation::interfaceDescriptor",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation19interfaceDescriptorENSt3__18functionIFvRKNS0_11hidl_stringEEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BpHwOperationE"
-    },
-    {
-     "referenced_type" : "_ZTINSt3__18functionIFvRKN7android8hardware11hidl_stringEEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BpHwOperation::getOperationChallenge",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation21getOperationChallengeENSt3__18functionIFvNS2_9ErrorCodeEyEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BpHwOperationE"
-    },
-    {
-     "referenced_type" : "_ZTINSt3__18functionIFvN7android8hardware9keymaster4V4_19ErrorCodeEyEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BpHwOperation::notifySyspropsChanged",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation21notifySyspropsChangedEv",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BpHwOperationE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BpHwOperation::setHALInstrumentation",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation21setHALInstrumentationEv",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BpHwOperationE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BpHwOperation::_hidl_getOperationChallenge",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation27_hidl_getOperationChallengeEPNS0_10IInterfaceEPNS0_7details16HidlInstrumentorENSt3__18functionIFvNS2_9ErrorCodeEyEEE",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPN7android8hardware10IInterfaceE"
-    },
-    {
-     "referenced_type" : "_ZTIPN7android8hardware7details16HidlInstrumentorE"
-    },
-    {
-     "referenced_type" : "_ZTINSt3__18functionIFvN7android8hardware9keymaster4V4_19ErrorCodeEyEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BpHwOperation::ping",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation4pingEv",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BpHwOperationE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BpHwOperation::debug",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation5debugERKNS0_11hidl_handleERKNS0_8hidl_vecINS0_11hidl_stringEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BpHwOperationE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android8hardware11hidl_handleE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_11hidl_stringEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BpHwOperation::BpHwOperation",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BpHwOperationC1ERKNS_2spINS0_7IBinderEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BpHwOperationE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android2spINS_8hardware7IBinderEEE"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BpHwOperation::BpHwOperation",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_113BpHwOperationC2ERKNS_2spINS0_7IBinderEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BpHwOperationE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android2spINS_8hardware7IBinderEEE"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h"
   },
   {
    "function_name" : "android::hardware::keymaster::V4_1::IKeymasterDevice::getService",
@@ -6259,27 +5255,6 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BnHwKeymasterDevice.h"
   },
   {
-   "function_name" : "android::hardware::keymaster::V4_1::BnHwKeymasterDevice::_hidl_beginOp",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_119BnHwKeymasterDevice13_hidl_beginOpEPNS_4hidl4base4V1_08BnHwBaseERKNS0_6ParcelEPS9_NSt3__18functionIFvRS9_EEE",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPN7android4hidl4base4V1_08BnHwBaseE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android8hardware6ParcelE"
-    },
-    {
-     "referenced_type" : "_ZTIPN7android8hardware6ParcelE"
-    },
-    {
-     "referenced_type" : "_ZTINSt3__18functionIFvRN7android8hardware6ParcelEEEE"
-    }
-   ],
-   "return_type" : "_ZTIi",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BnHwKeymasterDevice.h"
-  },
-  {
    "function_name" : "android::hardware::keymaster::V4_1::BnHwKeymasterDevice::_hidl_deviceLocked",
    "linker_set_key" : "_ZN7android8hardware9keymaster4V4_119BnHwKeymasterDevice18_hidl_deviceLockedEPNS_4hidl4base4V1_08BnHwBaseERKNS0_6ParcelEPS9_NSt3__18functionIFvRS9_EEE",
    "parameters" :
@@ -6512,36 +5487,6 @@
     },
     {
      "referenced_type" : "_ZTINSt3__18functionIFvRKN7android8hardware8hidl_vecINS2_10hidl_arrayIhLj32EJEEEEEEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwKeymasterDevice.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BpHwKeymasterDevice::_hidl_beginOp",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_119BpHwKeymasterDevice13_hidl_beginOpEPNS0_10IInterfaceEPNS0_7details16HidlInstrumentorENS1_4V4_010KeyPurposeERKNS0_8hidl_vecIhEERKNSB_INS9_12KeyParameterEEERKNS9_17HardwareAuthTokenENSt3__18functionIFvNS2_9ErrorCodeESI_RKNS_2spINS2_10IOperationEEEEEE",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPN7android8hardware10IInterfaceE"
-    },
-    {
-     "referenced_type" : "_ZTIPN7android8hardware7details16HidlInstrumentorE"
-    },
-    {
-     "referenced_type" : "_ZTIN7android8hardware9keymaster4V4_010KeyPurposeE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android8hardware8hidl_vecIhEE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_9keymaster4V4_012KeyParameterEEE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android8hardware9keymaster4V4_017HardwareAuthTokenE"
-    },
-    {
-     "referenced_type" : "_ZTINSt3__18functionIFvN7android8hardware9keymaster4V4_19ErrorCodeERKNS2_8hidl_vecINS3_4V4_012KeyParameterEEERKNS1_2spINS4_10IOperationEEEEEE"
     }
    ],
    "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
@@ -7005,34 +5950,6 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwKeymasterDevice.h"
   },
   {
-   "function_name" : "android::hardware::keymaster::V4_1::BpHwKeymasterDevice::beginOp",
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_119BpHwKeymasterDevice7beginOpENS1_4V4_010KeyPurposeERKNS0_8hidl_vecIhEERKNS6_INS4_12KeyParameterEEERKNS4_17HardwareAuthTokenENSt3__18functionIFvNS2_9ErrorCodeESD_RKNS_2spINS2_10IOperationEEEEEE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_119BpHwKeymasterDeviceE"
-    },
-    {
-     "referenced_type" : "_ZTIN7android8hardware9keymaster4V4_010KeyPurposeE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android8hardware8hidl_vecIhEE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_9keymaster4V4_012KeyParameterEEE"
-    },
-    {
-     "referenced_type" : "_ZTIRKN7android8hardware9keymaster4V4_017HardwareAuthTokenE"
-    },
-    {
-     "referenced_type" : "_ZTINSt3__18functionIFvN7android8hardware9keymaster4V4_19ErrorCodeERKNS2_8hidl_vecINS3_4V4_012KeyParameterEEERKNS1_2spINS4_10IOperationEEEEEE"
-    }
-   ],
-   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwKeymasterDevice.h"
-  },
-  {
    "function_name" : "android::hardware::keymaster::V4_1::BpHwKeymasterDevice::attestKey",
    "linker_set_key" : "_ZN7android8hardware9keymaster4V4_119BpHwKeymasterDevice9attestKeyERKNS0_8hidl_vecIhEERKNS4_INS1_4V4_012KeyParameterEEENSt3__18functionIFvNS8_9ErrorCodeERKNS4_IS5_EEEEE",
    "parameters" :
@@ -7156,22 +6073,6 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwKeymasterDevice.h"
   },
   {
-   "function_name" : "android::hardware::keymaster::V4_1::BpHwOperation::onLastStrongRef",
-   "linker_set_key" : "_ZThn8_N7android8hardware9keymaster4V4_113BpHwOperation15onLastStrongRefEPKv",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BpHwOperationE"
-    },
-    {
-     "referenced_type" : "_ZTIPKv"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h"
-  },
-  {
    "function_name" : "android::hardware::keymaster::V4_1::BpHwKeymasterDevice::onLastStrongRef",
    "linker_set_key" : "_ZThn8_N7android8hardware9keymaster4V4_119BpHwKeymasterDevice15onLastStrongRefEPKv",
    "parameters" :
@@ -7186,22 +6087,6 @@
    ],
    "return_type" : "_ZTIv",
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwKeymasterDevice.h"
-  },
-  {
-   "function_name" : "android::hardware::keymaster::V4_1::BpHwOperation::onLastStrongRef",
-   "linker_set_key" : "_ZTv0_n20_N7android8hardware9keymaster4V4_113BpHwOperation15onLastStrongRefEPKv",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_113BpHwOperationE"
-    },
-    {
-     "referenced_type" : "_ZTIPKv"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h"
   },
   {
    "function_name" : "android::hardware::keymaster::V4_1::BpHwKeymasterDevice::onLastStrongRef",
@@ -7222,12 +6107,6 @@
  ],
  "global_vars" :
  [
-  {
-   "linker_set_key" : "_ZN7android8hardware9keymaster4V4_110IOperation10descriptorE",
-   "name" : "android::hardware::keymaster::V4_1::IOperation::descriptor",
-   "referenced_type" : "_ZTIPKc",
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h"
-  },
   {
    "linker_set_key" : "_ZN7android8hardware9keymaster4V4_116IKeymasterDevice10descriptorE",
    "name" : "android::hardware::keymaster::V4_1::IKeymasterDevice::descriptor",
@@ -7297,15 +6176,6 @@
    "name" : "const android::sp<android::hardware::keymaster::V4_0::IKeymasterDevice> &",
    "referenced_type" : "_ZTIKN7android2spINS_8hardware9keymaster4V4_016IKeymasterDeviceEEE",
    "self_type" : "_ZTIRKN7android2spINS_8hardware9keymaster4V4_016IKeymasterDeviceEEE",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "name" : "const android::sp<android::hardware::keymaster::V4_1::IOperation> &",
-   "referenced_type" : "_ZTIKN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "self_type" : "_ZTIRKN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
    "size" : 4,
    "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
   },
@@ -7436,13 +6306,6 @@
   {
    "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
    "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++/gen/android/hardware/keymaster/4.1/OperationAll.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++/gen/android/hardware/keymaster/4.1/OperationAll.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
    "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++/gen/android/hardware/keymaster/4.1/types.sdump",
    "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++/gen/android/hardware/keymaster/4.1/types.sdump",
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
@@ -7530,28 +6393,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++/gen/android/hardware/keymaster/4.1/OperationAll.sdump",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++/gen/android/hardware/keymaster/4.1/OperationAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++/gen/android/hardware/keymaster/4.1/OperationAll.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++/gen/android/hardware/keymaster/4.1/OperationAll.sdump",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
@@ -7683,15 +6528,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "name" : "android::sp<android::hardware::keymaster::V4_1::IOperation> &",
-   "referenced_type" : "_ZTIN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "self_type" : "_ZTIRN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRN7android2spINS_8hardware9keymaster4V4_116IKeymasterDeviceEEE",
    "name" : "android::sp<android::hardware::keymaster::V4_1::IKeymasterDevice> &",
    "referenced_type" : "_ZTIN7android2spINS_8hardware9keymaster4V4_116IKeymasterDeviceEEE",
@@ -7786,15 +6622,6 @@
    "name" : "android::hardware::Return<android::hardware::keymaster::V4_1::ErrorCode> &",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS0_9keymaster4V4_19ErrorCodeEEE",
    "self_type" : "_ZTIRN7android8hardware6ReturnINS0_9keymaster4V4_19ErrorCodeEEE",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/Status.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::keymaster::V4_1::IOperation> > &",
-   "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
-   "self_type" : "_ZTIRN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/Status.h"
   },
@@ -8073,15 +6900,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "name" : "const android::sp<android::hardware::keymaster::V4_1::IOperation> *",
-   "referenced_type" : "_ZTIKN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "self_type" : "_ZTIPKN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android2spINS_8hardware9keymaster4V4_116IKeymasterDeviceEEE",
    "name" : "const android::sp<android::hardware::keymaster::V4_1::IKeymasterDevice> *",
    "referenced_type" : "_ZTIKN7android2spINS_8hardware9keymaster4V4_116IKeymasterDeviceEEE",
@@ -8226,15 +7044,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::keymaster::V4_1::IOperation> > *",
-   "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
-   "self_type" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/Status.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_116IKeymasterDeviceEEEEE",
    "name" : "const android::hardware::Return<android::sp<android::hardware::keymaster::V4_1::IKeymasterDevice> > *",
    "referenced_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_116IKeymasterDeviceEEEEE",
@@ -8352,15 +7161,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android8hardware9keymaster4V4_012KeyParameterE",
-   "name" : "const android::hardware::keymaster::V4_0::KeyParameter *",
-   "referenced_type" : "_ZTIKN7android8hardware9keymaster4V4_012KeyParameterE",
-   "self_type" : "_ZTIPKN7android8hardware9keymaster4V4_012KeyParameterE",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android8hardware9keymaster4V4_016IKeymasterDeviceE",
    "name" : "const android::hardware::keymaster::V4_0::IKeymasterDevice *",
    "referenced_type" : "_ZTIKN7android8hardware9keymaster4V4_016IKeymasterDeviceE",
@@ -8376,24 +7176,6 @@
    "self_type" : "_ZTIPKN7android8hardware9keymaster4V4_019BpHwKeymasterDeviceE",
    "size" : 4,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.0/android.hardware.keymaster@4.0_genc++_headers/gen/android/hardware/keymaster/4.0/BpHwKeymasterDevice.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android8hardware9keymaster4V4_110IOperationE",
-   "name" : "const android::hardware::keymaster::V4_1::IOperation *",
-   "referenced_type" : "_ZTIKN7android8hardware9keymaster4V4_110IOperationE",
-   "self_type" : "_ZTIPKN7android8hardware9keymaster4V4_110IOperationE",
-   "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android8hardware9keymaster4V4_113BpHwOperationE",
-   "name" : "const android::hardware::keymaster::V4_1::BpHwOperation *",
-   "referenced_type" : "_ZTIKN7android8hardware9keymaster4V4_113BpHwOperationE",
-   "self_type" : "_ZTIPKN7android8hardware9keymaster4V4_113BpHwOperationE",
-   "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h"
   },
   {
    "alignment" : 4,
@@ -8545,15 +7327,6 @@
    "name" : "android::sp<android::hardware::keymaster::V4_0::IKeymasterDevice> *",
    "referenced_type" : "_ZTIN7android2spINS_8hardware9keymaster4V4_016IKeymasterDeviceEEE",
    "self_type" : "_ZTIPN7android2spINS_8hardware9keymaster4V4_016IKeymasterDeviceEEE",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "name" : "android::sp<android::hardware::keymaster::V4_1::IOperation> *",
-   "referenced_type" : "_ZTIN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "self_type" : "_ZTIPN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
    "size" : 4,
    "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
   },
@@ -8748,15 +7521,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPN7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEEE",
-   "name" : "android::hardware::BpInterface<android::hardware::keymaster::V4_1::IOperation> *",
-   "referenced_type" : "_ZTIN7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEEE",
-   "self_type" : "_ZTIPN7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEEE",
-   "size" : 4,
-   "source_file" : "/system/libhwbinder/include/hwbinder/IInterface.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware11BpInterfaceINS0_9keymaster4V4_116IKeymasterDeviceEEE",
    "name" : "android::hardware::BpInterface<android::hardware::keymaster::V4_1::IKeymasterDevice> *",
    "referenced_type" : "_ZTIN7android8hardware11BpInterfaceINS0_9keymaster4V4_116IKeymasterDeviceEEE",
@@ -8878,15 +7642,6 @@
    "name" : "android::hardware::Return<android::hardware::keymaster::V4_1::ErrorCode> *",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS0_9keymaster4V4_19ErrorCodeEEE",
    "self_type" : "_ZTIPN7android8hardware6ReturnINS0_9keymaster4V4_19ErrorCodeEEE",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/Status.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::keymaster::V4_1::IOperation> > *",
-   "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
-   "self_type" : "_ZTIPN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/Status.h"
   },
@@ -9072,42 +7827,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPN7android8hardware9keymaster4V4_110IOperationE",
-   "name" : "android::hardware::keymaster::V4_1::IOperation *",
-   "referenced_type" : "_ZTIN7android8hardware9keymaster4V4_110IOperationE",
-   "self_type" : "_ZTIPN7android8hardware9keymaster4V4_110IOperationE",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPN7android8hardware9keymaster4V4_111BsOperationE",
-   "name" : "android::hardware::keymaster::V4_1::BsOperation *",
-   "referenced_type" : "_ZTIN7android8hardware9keymaster4V4_111BsOperationE",
-   "self_type" : "_ZTIPN7android8hardware9keymaster4V4_111BsOperationE",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPN7android8hardware9keymaster4V4_113BnHwOperationE",
-   "name" : "android::hardware::keymaster::V4_1::BnHwOperation *",
-   "referenced_type" : "_ZTIN7android8hardware9keymaster4V4_113BnHwOperationE",
-   "self_type" : "_ZTIPN7android8hardware9keymaster4V4_113BnHwOperationE",
-   "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BnHwOperation.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPN7android8hardware9keymaster4V4_113BpHwOperationE",
-   "name" : "android::hardware::keymaster::V4_1::BpHwOperation *",
-   "referenced_type" : "_ZTIN7android8hardware9keymaster4V4_113BpHwOperationE",
-   "self_type" : "_ZTIPN7android8hardware9keymaster4V4_113BpHwOperationE",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android8hardware9keymaster4V4_116IKeymasterDeviceE",
    "name" : "android::hardware::keymaster::V4_1::IKeymasterDevice *",
    "referenced_type" : "_ZTIN7android8hardware9keymaster4V4_116IKeymasterDeviceE",
@@ -9186,15 +7905,6 @@
    "self_type" : "_ZTIPi",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPj",
-   "name" : "unsigned int *",
-   "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIPj",
-   "size" : 4,
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlBinderSupport.h"
   },
   {
    "alignment" : 4,
@@ -9344,16 +8054,6 @@
    "name" : "const android::sp<android::hardware::keymaster::V4_0::IKeymasterDevice>",
    "referenced_type" : "_ZTIN7android2spINS_8hardware9keymaster4V4_016IKeymasterDeviceEEE",
    "self_type" : "_ZTIKN7android2spINS_8hardware9keymaster4V4_016IKeymasterDeviceEEE",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "name" : "const android::sp<android::hardware::keymaster::V4_1::IOperation>",
-   "referenced_type" : "_ZTIN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "self_type" : "_ZTIKN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
    "size" : 4,
    "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
   },
@@ -9574,16 +8274,6 @@
    "name" : "const android::hardware::Return<android::hardware::keymaster::V4_1::ErrorCode>",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS0_9keymaster4V4_19ErrorCodeEEE",
    "self_type" : "_ZTIKN7android8hardware6ReturnINS0_9keymaster4V4_19ErrorCodeEEE",
-   "size" : 28,
-   "source_file" : "/system/libhidl/base/include/hidl/Status.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
-   "name" : "const android::hardware::Return<android::sp<android::hardware::keymaster::V4_1::IOperation> >",
-   "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
-   "self_type" : "_ZTIKN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
    "size" : 28,
    "source_file" : "/system/libhidl/base/include/hidl/Status.h"
   },
@@ -9958,26 +8648,6 @@
   {
    "alignment" : 4,
    "is_const" : true,
-   "linker_set_key" : "_ZTIKN7android8hardware9keymaster4V4_110IOperationE",
-   "name" : "const android::hardware::keymaster::V4_1::IOperation",
-   "referenced_type" : "_ZTIN7android8hardware9keymaster4V4_110IOperationE",
-   "self_type" : "_ZTIKN7android8hardware9keymaster4V4_110IOperationE",
-   "size" : 12,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKN7android8hardware9keymaster4V4_113BpHwOperationE",
-   "name" : "const android::hardware::keymaster::V4_1::BpHwOperation",
-   "referenced_type" : "_ZTIN7android8hardware9keymaster4V4_113BpHwOperationE",
-   "self_type" : "_ZTIKN7android8hardware9keymaster4V4_113BpHwOperationE",
-   "size" : 92,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware9keymaster4V4_116IKeymasterDeviceE",
    "name" : "const android::hardware::keymaster::V4_1::IKeymasterDevice",
    "referenced_type" : "_ZTIN7android8hardware9keymaster4V4_116IKeymasterDeviceE",
@@ -10254,16 +8924,6 @@
    "self_type" : "_ZTIKPKN7android4hidl4base4V1_05IBaseE",
    "size" : 4,
    "source_file" : "/system/libhidl/transport/include/hidl/ConcurrentMap.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++/gen/android/hardware/keymaster/4.1/OperationAll.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++/gen/android/hardware/keymaster/4.1/OperationAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
   {
    "alignment" : 4,
@@ -12049,25 +10709,6 @@
    "size" : 4,
    "source_file" : "/system/core/libutils/include/utils/StrongPointer.h",
    "template_args" : [ "_ZTIN7android8hardware9keymaster4V4_016IKeymasterDeviceE" ]
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "access" : "private",
-     "field_name" : "m_ptr",
-     "referenced_type" : "_ZTIPN7android8hardware9keymaster4V4_110IOperationE"
-    }
-   ],
-   "linker_set_key" : "_ZTIN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "name" : "android::sp<android::hardware::keymaster::V4_1::IOperation>",
-   "record_kind" : "class",
-   "referenced_type" : "_ZTIN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "self_type" : "_ZTIN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h",
-   "template_args" : [ "_ZTIN7android8hardware9keymaster4V4_110IOperationE" ]
   },
   {
    "alignment" : 4,
@@ -13942,190 +12583,6 @@
    "base_specifiers" :
    [
     {
-     "referenced_type" : "_ZTIN7android8hardware9keymaster4V4_110IOperationE"
-    },
-    {
-     "referenced_type" : "_ZTIN7android8hardware10IInterfaceE"
-    },
-    {
-     "referenced_type" : "_ZTIN7android8hardware11BpHwRefBaseE"
-    }
-   ],
-   "linker_set_key" : "_ZTIN7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEEE",
-   "name" : "android::hardware::BpInterface<android::hardware::keymaster::V4_1::IOperation>",
-   "record_kind" : "class",
-   "referenced_type" : "_ZTIN7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEEE",
-   "self_type" : "_ZTIN7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEEE",
-   "size" : 32,
-   "source_file" : "/system/libhwbinder/include/hwbinder/IInterface.h",
-   "template_args" : [ "_ZTIN7android8hardware9keymaster4V4_110IOperationE" ],
-   "vtable_components" :
-   [
-    {
-     "component_value" : 24,
-     "kind" : "vbase_offset"
-    },
-    {
-     "kind" : "offset_to_top"
-    },
-    {
-     "kind" : "rtti",
-     "mangled_component_name" : "_ZTIN7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEEE"
-    },
-    {
-     "mangled_component_name" : "_ZNK7android8hardware9keymaster4V4_110IOperation8isRemoteEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation14interfaceChainENSt3__18functionIFvRKNS0_8hidl_vecINS0_11hidl_stringEEEEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation5debugERKNS0_11hidl_handleERKNS0_8hidl_vecINS0_11hidl_stringEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation19interfaceDescriptorENSt3__18functionIFvRKNS0_11hidl_stringEEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation12getHashChainENSt3__18functionIFvRKNS0_8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEEEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation21setHALInstrumentationEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation11linkToDeathERKNS_2spINS0_20hidl_death_recipientEEEy"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation4pingEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation12getDebugInfoENSt3__18functionIFvRKNS_4hidl4base4V1_09DebugInfoEEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation21notifySyspropsChangedEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation13unlinkToDeathERKNS_2spINS0_20hidl_death_recipientEEE"
-    },
-    {
-     "kind" : "complete_dtor_pointer",
-     "mangled_component_name" : "_ZN7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEED1Ev"
-    },
-    {
-     "kind" : "deleting_dtor_pointer",
-     "mangled_component_name" : "_ZN7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEED0Ev"
-    },
-    {
-     "is_pure" : true,
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation21getOperationChallengeENSt3__18functionIFvNS2_9ErrorCodeEyEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEE10onAsBinderEv"
-    },
-    {
-     "component_value" : 20,
-     "kind" : "vbase_offset"
-    },
-    {
-     "component_value" : -4,
-     "kind" : "offset_to_top"
-    },
-    {
-     "kind" : "rtti",
-     "mangled_component_name" : "_ZTIN7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEEE"
-    },
-    {
-     "kind" : "complete_dtor_pointer",
-     "mangled_component_name" : "_ZThn4_N7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEED1Ev"
-    },
-    {
-     "kind" : "deleting_dtor_pointer",
-     "mangled_component_name" : "_ZThn4_N7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEED0Ev"
-    },
-    {
-     "mangled_component_name" : "_ZThn4_N7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEE10onAsBinderEv"
-    },
-    {
-     "component_value" : 16,
-     "kind" : "vbase_offset"
-    },
-    {
-     "component_value" : -8,
-     "kind" : "offset_to_top"
-    },
-    {
-     "kind" : "rtti",
-     "mangled_component_name" : "_ZTIN7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEEE"
-    },
-    {
-     "kind" : "complete_dtor_pointer",
-     "mangled_component_name" : "_ZThn8_N7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEED1Ev"
-    },
-    {
-     "kind" : "deleting_dtor_pointer",
-     "mangled_component_name" : "_ZThn8_N7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEED0Ev"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware11BpHwRefBase10onFirstRefEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware11BpHwRefBase15onLastStrongRefEPKv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware11BpHwRefBase20onIncStrongAttemptedEjPKv"
-    },
-    {
-     "kind" : "vcall_offset"
-    },
-    {
-     "component_value" : -16,
-     "kind" : "vcall_offset"
-    },
-    {
-     "component_value" : -16,
-     "kind" : "vcall_offset"
-    },
-    {
-     "component_value" : -16,
-     "kind" : "vcall_offset"
-    },
-    {
-     "component_value" : -24,
-     "kind" : "vcall_offset"
-    },
-    {
-     "component_value" : -24,
-     "kind" : "offset_to_top"
-    },
-    {
-     "kind" : "rtti",
-     "mangled_component_name" : "_ZTIN7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEEE"
-    },
-    {
-     "kind" : "complete_dtor_pointer",
-     "mangled_component_name" : "_ZTv0_n12_N7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEED1Ev"
-    },
-    {
-     "kind" : "deleting_dtor_pointer",
-     "mangled_component_name" : "_ZTv0_n12_N7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEED0Ev"
-    },
-    {
-     "mangled_component_name" : "_ZTv0_n16_N7android8hardware11BpHwRefBase10onFirstRefEv"
-    },
-    {
-     "mangled_component_name" : "_ZTv0_n20_N7android8hardware11BpHwRefBase15onLastStrongRefEPKv"
-    },
-    {
-     "mangled_component_name" : "_ZTv0_n24_N7android8hardware11BpHwRefBase20onIncStrongAttemptedEjPKv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android7RefBase13onLastWeakRefEPKv"
-    }
-   ]
-  },
-  {
-   "alignment" : 4,
-   "base_specifiers" :
-   [
-    {
      "referenced_type" : "_ZTIN7android8hardware9keymaster4V4_116IKeymasterDeviceE"
     },
     {
@@ -14280,10 +12737,6 @@
     {
      "is_pure" : true,
      "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_116IKeymasterDevice14earlyBootEndedEv"
-    },
-    {
-     "is_pure" : true,
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_116IKeymasterDevice7beginOpENS1_4V4_010KeyPurposeERKNS0_8hidl_vecIhEERKNS6_INS4_12KeyParameterEEERKNS4_17HardwareAuthTokenENSt3__18functionIFvNS2_9ErrorCodeESD_RKNS_2spINS2_10IOperationEEEEEE"
     },
     {
      "mangled_component_name" : "_ZN7android8hardware11BpInterfaceINS0_9keymaster4V4_116IKeymasterDeviceEE10onAsBinderEv"
@@ -15444,32 +13897,6 @@
    "size" : 28,
    "source_file" : "/system/libhidl/base/include/hidl/Status.h",
    "template_args" : [ "_ZTIN7android8hardware9keymaster4V4_19ErrorCodeE" ]
-  },
-  {
-   "alignment" : 4,
-   "base_specifiers" :
-   [
-    {
-     "referenced_type" : "_ZTIN7android8hardware7details13return_statusE"
-    }
-   ],
-   "fields" :
-   [
-    {
-     "access" : "private",
-     "field_name" : "mVal",
-     "field_offset" : 192,
-     "referenced_type" : "_ZTIN7android2spINS_8hardware9keymaster4V4_110IOperationEEE"
-    }
-   ],
-   "linker_set_key" : "_ZTIN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::keymaster::V4_1::IOperation> >",
-   "record_kind" : "class",
-   "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
-   "self_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
-   "size" : 28,
-   "source_file" : "/system/libhidl/base/include/hidl/Status.h",
-   "template_args" : [ "_ZTIN7android2spINS_8hardware9keymaster4V4_110IOperationEEE" ]
   },
   {
    "alignment" : 4,
@@ -17734,623 +16161,6 @@
    "base_specifiers" :
    [
     {
-     "referenced_type" : "_ZTIN7android4hidl4base4V1_05IBaseE"
-    }
-   ],
-   "linker_set_key" : "_ZTIN7android8hardware9keymaster4V4_110IOperationE",
-   "name" : "android::hardware::keymaster::V4_1::IOperation",
-   "referenced_type" : "_ZTIN7android8hardware9keymaster4V4_110IOperationE",
-   "self_type" : "_ZTIN7android8hardware9keymaster4V4_110IOperationE",
-   "size" : 12,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/IOperation.h",
-   "vtable_components" :
-   [
-    {
-     "component_value" : 4,
-     "kind" : "vbase_offset"
-    },
-    {
-     "kind" : "offset_to_top"
-    },
-    {
-     "kind" : "rtti",
-     "mangled_component_name" : "_ZTIN7android8hardware9keymaster4V4_110IOperationE"
-    },
-    {
-     "mangled_component_name" : "_ZNK7android8hardware9keymaster4V4_110IOperation8isRemoteEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation14interfaceChainENSt3__18functionIFvRKNS0_8hidl_vecINS0_11hidl_stringEEEEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation5debugERKNS0_11hidl_handleERKNS0_8hidl_vecINS0_11hidl_stringEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation19interfaceDescriptorENSt3__18functionIFvRKNS0_11hidl_stringEEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation12getHashChainENSt3__18functionIFvRKNS0_8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEEEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation21setHALInstrumentationEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation11linkToDeathERKNS_2spINS0_20hidl_death_recipientEEEy"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation4pingEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation12getDebugInfoENSt3__18functionIFvRKNS_4hidl4base4V1_09DebugInfoEEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation21notifySyspropsChangedEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation13unlinkToDeathERKNS_2spINS0_20hidl_death_recipientEEE"
-    },
-    {
-     "kind" : "complete_dtor_pointer",
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperationD1Ev"
-    },
-    {
-     "kind" : "deleting_dtor_pointer",
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperationD0Ev"
-    },
-    {
-     "is_pure" : true,
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_110IOperation21getOperationChallengeENSt3__18functionIFvNS2_9ErrorCodeEyEEE"
-    },
-    {
-     "kind" : "vcall_offset"
-    },
-    {
-     "kind" : "vcall_offset"
-    },
-    {
-     "kind" : "vcall_offset"
-    },
-    {
-     "kind" : "vcall_offset"
-    },
-    {
-     "component_value" : -4,
-     "kind" : "vcall_offset"
-    },
-    {
-     "component_value" : -4,
-     "kind" : "offset_to_top"
-    },
-    {
-     "kind" : "rtti",
-     "mangled_component_name" : "_ZTIN7android8hardware9keymaster4V4_110IOperationE"
-    },
-    {
-     "kind" : "complete_dtor_pointer",
-     "mangled_component_name" : "_ZTv0_n12_N7android8hardware9keymaster4V4_110IOperationD1Ev"
-    },
-    {
-     "kind" : "deleting_dtor_pointer",
-     "mangled_component_name" : "_ZTv0_n12_N7android8hardware9keymaster4V4_110IOperationD0Ev"
-    },
-    {
-     "mangled_component_name" : "_ZN7android7RefBase10onFirstRefEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android7RefBase15onLastStrongRefEPKv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android7RefBase20onIncStrongAttemptedEjPKv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android7RefBase13onLastWeakRefEPKv"
-    }
-   ]
-  },
-  {
-   "alignment" : 4,
-   "base_specifiers" :
-   [
-    {
-     "referenced_type" : "_ZTIN7android8hardware9keymaster4V4_110IOperationE"
-    },
-    {
-     "referenced_type" : "_ZTIN7android8hardware7details16HidlInstrumentorE"
-    }
-   ],
-   "fields" :
-   [
-    {
-     "access" : "private",
-     "field_name" : "mImpl",
-     "field_offset" : 384,
-     "referenced_type" : "_ZTIKN7android2spINS_8hardware9keymaster4V4_110IOperationEEE"
-    },
-    {
-     "access" : "private",
-     "field_name" : "mOnewayQueue",
-     "field_offset" : 416,
-     "referenced_type" : "_ZTIN7android8hardware7details10TaskRunnerE"
-    }
-   ],
-   "linker_set_key" : "_ZTIN7android8hardware9keymaster4V4_111BsOperationE",
-   "name" : "android::hardware::keymaster::V4_1::BsOperation",
-   "referenced_type" : "_ZTIN7android8hardware9keymaster4V4_111BsOperationE",
-   "self_type" : "_ZTIN7android8hardware9keymaster4V4_111BsOperationE",
-   "size" : 68,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BsOperation.h",
-   "vtable_components" :
-   [
-    {
-     "component_value" : 60,
-     "kind" : "vbase_offset"
-    },
-    {
-     "kind" : "offset_to_top"
-    },
-    {
-     "kind" : "rtti",
-     "mangled_component_name" : "_ZTIN7android8hardware9keymaster4V4_111BsOperationE"
-    },
-    {
-     "mangled_component_name" : "_ZNK7android8hardware9keymaster4V4_110IOperation8isRemoteEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_111BsOperation14interfaceChainENSt3__18functionIFvRKNS0_8hidl_vecINS0_11hidl_stringEEEEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_111BsOperation5debugERKNS0_11hidl_handleERKNS0_8hidl_vecINS0_11hidl_stringEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_111BsOperation19interfaceDescriptorENSt3__18functionIFvRKNS0_11hidl_stringEEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_111BsOperation12getHashChainENSt3__18functionIFvRKNS0_8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEEEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_111BsOperation21setHALInstrumentationEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_111BsOperation11linkToDeathERKNS_2spINS0_20hidl_death_recipientEEEy"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_111BsOperation4pingEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_111BsOperation12getDebugInfoENSt3__18functionIFvRKNS_4hidl4base4V1_09DebugInfoEEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_111BsOperation21notifySyspropsChangedEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_111BsOperation13unlinkToDeathERKNS_2spINS0_20hidl_death_recipientEEE"
-    },
-    {
-     "kind" : "complete_dtor_pointer",
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_111BsOperationD1Ev"
-    },
-    {
-     "kind" : "deleting_dtor_pointer",
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_111BsOperationD0Ev"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_111BsOperation21getOperationChallengeENSt3__18functionIFvNS2_9ErrorCodeEyEEE"
-    },
-    {
-     "component_value" : -4,
-     "kind" : "offset_to_top"
-    },
-    {
-     "kind" : "rtti",
-     "mangled_component_name" : "_ZTIN7android8hardware9keymaster4V4_111BsOperationE"
-    },
-    {
-     "kind" : "complete_dtor_pointer",
-     "mangled_component_name" : "_ZThn4_N7android8hardware9keymaster4V4_111BsOperationD1Ev"
-    },
-    {
-     "kind" : "deleting_dtor_pointer",
-     "mangled_component_name" : "_ZThn4_N7android8hardware9keymaster4V4_111BsOperationD0Ev"
-    },
-    {
-     "kind" : "vcall_offset"
-    },
-    {
-     "kind" : "vcall_offset"
-    },
-    {
-     "kind" : "vcall_offset"
-    },
-    {
-     "kind" : "vcall_offset"
-    },
-    {
-     "component_value" : -60,
-     "kind" : "vcall_offset"
-    },
-    {
-     "component_value" : -60,
-     "kind" : "offset_to_top"
-    },
-    {
-     "kind" : "rtti",
-     "mangled_component_name" : "_ZTIN7android8hardware9keymaster4V4_111BsOperationE"
-    },
-    {
-     "kind" : "complete_dtor_pointer",
-     "mangled_component_name" : "_ZTv0_n12_N7android8hardware9keymaster4V4_111BsOperationD1Ev"
-    },
-    {
-     "kind" : "deleting_dtor_pointer",
-     "mangled_component_name" : "_ZTv0_n12_N7android8hardware9keymaster4V4_111BsOperationD0Ev"
-    },
-    {
-     "mangled_component_name" : "_ZN7android7RefBase10onFirstRefEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android7RefBase15onLastStrongRefEPKv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android7RefBase20onIncStrongAttemptedEjPKv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android7RefBase13onLastWeakRefEPKv"
-    }
-   ]
-  },
-  {
-   "alignment" : 4,
-   "base_specifiers" :
-   [
-    {
-     "referenced_type" : "_ZTIN7android4hidl4base4V1_08BnHwBaseE"
-    }
-   ],
-   "fields" :
-   [
-    {
-     "access" : "private",
-     "field_name" : "_hidl_mImpl",
-     "field_offset" : 544,
-     "referenced_type" : "_ZTIN7android2spINS_8hardware9keymaster4V4_110IOperationEEE"
-    }
-   ],
-   "linker_set_key" : "_ZTIN7android8hardware9keymaster4V4_113BnHwOperationE",
-   "name" : "android::hardware::keymaster::V4_1::BnHwOperation",
-   "referenced_type" : "_ZTIN7android8hardware9keymaster4V4_113BnHwOperationE",
-   "self_type" : "_ZTIN7android8hardware9keymaster4V4_113BnHwOperationE",
-   "size" : 80,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BnHwOperation.h",
-   "vtable_components" :
-   [
-    {
-     "component_value" : 72,
-     "kind" : "vbase_offset"
-    },
-    {
-     "kind" : "offset_to_top"
-    },
-    {
-     "kind" : "rtti",
-     "mangled_component_name" : "_ZTIN7android8hardware9keymaster4V4_113BnHwOperationE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9BHwBinder8transactEjRKNS0_6ParcelEPS2_jNSt3__18functionIFvRS2_EEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9BHwBinder11linkToDeathERKNS_2spINS0_7IBinder14DeathRecipientEEEPvj"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9BHwBinder13unlinkToDeathERKNS_2wpINS0_7IBinder14DeathRecipientEEEPvjPS5_"
-    },
-    {
-     "mangled_component_name" : "_ZNK7android4hidl4base4V1_08BnHwBase13checkSubclassEPKv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9BHwBinder12attachObjectEPKvPvS4_PFvS3_S4_S4_E"
-    },
-    {
-     "mangled_component_name" : "_ZNK7android8hardware9BHwBinder10findObjectEPKv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9BHwBinder12detachObjectEPKv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9BHwBinder11localBinderEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware7IBinder12remoteBinderEv"
-    },
-    {
-     "kind" : "complete_dtor_pointer",
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_113BnHwOperationD1Ev"
-    },
-    {
-     "kind" : "deleting_dtor_pointer",
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_113BnHwOperationD0Ev"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_113BnHwOperation10onTransactEjRKNS0_6ParcelEPS4_jNSt3__18functionIFvRS4_EEE"
-    },
-    {
-     "component_value" : -20,
-     "kind" : "offset_to_top"
-    },
-    {
-     "kind" : "rtti",
-     "mangled_component_name" : "_ZTIN7android8hardware9keymaster4V4_113BnHwOperationE"
-    },
-    {
-     "kind" : "complete_dtor_pointer",
-     "mangled_component_name" : "_ZThn20_N7android8hardware9keymaster4V4_113BnHwOperationD1Ev"
-    },
-    {
-     "kind" : "deleting_dtor_pointer",
-     "mangled_component_name" : "_ZThn20_N7android8hardware9keymaster4V4_113BnHwOperationD0Ev"
-    },
-    {
-     "kind" : "vcall_offset"
-    },
-    {
-     "kind" : "vcall_offset"
-    },
-    {
-     "kind" : "vcall_offset"
-    },
-    {
-     "kind" : "vcall_offset"
-    },
-    {
-     "component_value" : -72,
-     "kind" : "vcall_offset"
-    },
-    {
-     "component_value" : -72,
-     "kind" : "offset_to_top"
-    },
-    {
-     "kind" : "rtti",
-     "mangled_component_name" : "_ZTIN7android8hardware9keymaster4V4_113BnHwOperationE"
-    },
-    {
-     "kind" : "complete_dtor_pointer",
-     "mangled_component_name" : "_ZTv0_n12_N7android8hardware9keymaster4V4_113BnHwOperationD1Ev"
-    },
-    {
-     "kind" : "deleting_dtor_pointer",
-     "mangled_component_name" : "_ZTv0_n12_N7android8hardware9keymaster4V4_113BnHwOperationD0Ev"
-    },
-    {
-     "mangled_component_name" : "_ZN7android7RefBase10onFirstRefEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android7RefBase15onLastStrongRefEPKv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android7RefBase20onIncStrongAttemptedEjPKv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android7RefBase13onLastWeakRefEPKv"
-    }
-   ]
-  },
-  {
-   "alignment" : 4,
-   "base_specifiers" :
-   [
-    {
-     "referenced_type" : "_ZTIN7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEEE"
-    },
-    {
-     "referenced_type" : "_ZTIN7android8hardware7details16HidlInstrumentorE"
-    }
-   ],
-   "fields" :
-   [
-    {
-     "access" : "private",
-     "field_name" : "_hidl_mMutex",
-     "field_offset" : 544,
-     "referenced_type" : "_ZTINSt3__15mutexE"
-    },
-    {
-     "access" : "private",
-     "field_name" : "_hidl_mDeathRecipients",
-     "field_offset" : 576,
-     "referenced_type" : "_ZTINSt3__16vectorIN7android2spINS1_8hardware27hidl_binder_death_recipientEEENS_9allocatorIS5_EEEE"
-    }
-   ],
-   "linker_set_key" : "_ZTIN7android8hardware9keymaster4V4_113BpHwOperationE",
-   "name" : "android::hardware::keymaster::V4_1::BpHwOperation",
-   "referenced_type" : "_ZTIN7android8hardware9keymaster4V4_113BpHwOperationE",
-   "self_type" : "_ZTIN7android8hardware9keymaster4V4_113BpHwOperationE",
-   "size" : 92,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/4.1/android.hardware.keymaster@4.1_genc++_headers/gen/android/hardware/keymaster/4.1/BpHwOperation.h",
-   "vtable_components" :
-   [
-    {
-     "component_value" : 84,
-     "kind" : "vbase_offset"
-    },
-    {
-     "kind" : "offset_to_top"
-    },
-    {
-     "kind" : "rtti",
-     "mangled_component_name" : "_ZTIN7android8hardware9keymaster4V4_113BpHwOperationE"
-    },
-    {
-     "mangled_component_name" : "_ZNK7android8hardware9keymaster4V4_113BpHwOperation8isRemoteEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation14interfaceChainENSt3__18functionIFvRKNS0_8hidl_vecINS0_11hidl_stringEEEEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation5debugERKNS0_11hidl_handleERKNS0_8hidl_vecINS0_11hidl_stringEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation19interfaceDescriptorENSt3__18functionIFvRKNS0_11hidl_stringEEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation12getHashChainENSt3__18functionIFvRKNS0_8hidl_vecINS0_10hidl_arrayIhLj32EJEEEEEEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation21setHALInstrumentationEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation11linkToDeathERKNS_2spINS0_20hidl_death_recipientEEEy"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation4pingEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation12getDebugInfoENSt3__18functionIFvRKNS_4hidl4base4V1_09DebugInfoEEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation21notifySyspropsChangedEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation13unlinkToDeathERKNS_2spINS0_20hidl_death_recipientEEE"
-    },
-    {
-     "kind" : "complete_dtor_pointer",
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperationD1Ev"
-    },
-    {
-     "kind" : "deleting_dtor_pointer",
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperationD0Ev"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation21getOperationChallengeENSt3__18functionIFvNS2_9ErrorCodeEyEEE"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEE10onAsBinderEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_113BpHwOperation15onLastStrongRefEPKv"
-    },
-    {
-     "component_value" : 80,
-     "kind" : "vbase_offset"
-    },
-    {
-     "component_value" : -4,
-     "kind" : "offset_to_top"
-    },
-    {
-     "kind" : "rtti",
-     "mangled_component_name" : "_ZTIN7android8hardware9keymaster4V4_113BpHwOperationE"
-    },
-    {
-     "kind" : "complete_dtor_pointer",
-     "mangled_component_name" : "_ZThn4_N7android8hardware9keymaster4V4_113BpHwOperationD1Ev"
-    },
-    {
-     "kind" : "deleting_dtor_pointer",
-     "mangled_component_name" : "_ZThn4_N7android8hardware9keymaster4V4_113BpHwOperationD0Ev"
-    },
-    {
-     "mangled_component_name" : "_ZThn4_N7android8hardware11BpInterfaceINS0_9keymaster4V4_110IOperationEE10onAsBinderEv"
-    },
-    {
-     "component_value" : 76,
-     "kind" : "vbase_offset"
-    },
-    {
-     "component_value" : -8,
-     "kind" : "offset_to_top"
-    },
-    {
-     "kind" : "rtti",
-     "mangled_component_name" : "_ZTIN7android8hardware9keymaster4V4_113BpHwOperationE"
-    },
-    {
-     "kind" : "complete_dtor_pointer",
-     "mangled_component_name" : "_ZThn8_N7android8hardware9keymaster4V4_113BpHwOperationD1Ev"
-    },
-    {
-     "kind" : "deleting_dtor_pointer",
-     "mangled_component_name" : "_ZThn8_N7android8hardware9keymaster4V4_113BpHwOperationD0Ev"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware11BpHwRefBase10onFirstRefEv"
-    },
-    {
-     "mangled_component_name" : "_ZThn8_N7android8hardware9keymaster4V4_113BpHwOperation15onLastStrongRefEPKv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware11BpHwRefBase20onIncStrongAttemptedEjPKv"
-    },
-    {
-     "component_value" : -24,
-     "kind" : "offset_to_top"
-    },
-    {
-     "kind" : "rtti",
-     "mangled_component_name" : "_ZTIN7android8hardware9keymaster4V4_113BpHwOperationE"
-    },
-    {
-     "kind" : "complete_dtor_pointer",
-     "mangled_component_name" : "_ZThn24_N7android8hardware9keymaster4V4_113BpHwOperationD1Ev"
-    },
-    {
-     "kind" : "deleting_dtor_pointer",
-     "mangled_component_name" : "_ZThn24_N7android8hardware9keymaster4V4_113BpHwOperationD0Ev"
-    },
-    {
-     "kind" : "vcall_offset"
-    },
-    {
-     "component_value" : -76,
-     "kind" : "vcall_offset"
-    },
-    {
-     "component_value" : -84,
-     "kind" : "vcall_offset"
-    },
-    {
-     "component_value" : -76,
-     "kind" : "vcall_offset"
-    },
-    {
-     "component_value" : -84,
-     "kind" : "vcall_offset"
-    },
-    {
-     "component_value" : -84,
-     "kind" : "offset_to_top"
-    },
-    {
-     "kind" : "rtti",
-     "mangled_component_name" : "_ZTIN7android8hardware9keymaster4V4_113BpHwOperationE"
-    },
-    {
-     "kind" : "complete_dtor_pointer",
-     "mangled_component_name" : "_ZTv0_n12_N7android8hardware9keymaster4V4_113BpHwOperationD1Ev"
-    },
-    {
-     "kind" : "deleting_dtor_pointer",
-     "mangled_component_name" : "_ZTv0_n12_N7android8hardware9keymaster4V4_113BpHwOperationD0Ev"
-    },
-    {
-     "mangled_component_name" : "_ZTv0_n16_N7android8hardware11BpHwRefBase10onFirstRefEv"
-    },
-    {
-     "mangled_component_name" : "_ZTv0_n20_N7android8hardware9keymaster4V4_113BpHwOperation15onLastStrongRefEPKv"
-    },
-    {
-     "mangled_component_name" : "_ZTv0_n24_N7android8hardware11BpHwRefBase20onIncStrongAttemptedEjPKv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android7RefBase13onLastWeakRefEPKv"
-    }
-   ]
-  },
-  {
-   "alignment" : 4,
-   "base_specifiers" :
-   [
-    {
      "referenced_type" : "_ZTIN7android8hardware9keymaster4V4_016IKeymasterDeviceE"
     }
    ],
@@ -18497,10 +16307,6 @@
     {
      "is_pure" : true,
      "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_116IKeymasterDevice14earlyBootEndedEv"
-    },
-    {
-     "is_pure" : true,
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_116IKeymasterDevice7beginOpENS1_4V4_010KeyPurposeERKNS0_8hidl_vecIhEERKNS6_INS4_12KeyParameterEEERKNS4_17HardwareAuthTokenENSt3__18functionIFvNS2_9ErrorCodeESD_RKNS_2spINS2_10IOperationEEEEEE"
     },
     {
      "kind" : "vcall_offset"
@@ -18696,9 +16502,6 @@
     },
     {
      "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_117BsKeymasterDevice14earlyBootEndedEv"
-    },
-    {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_117BsKeymasterDevice7beginOpENS1_4V4_010KeyPurposeERKNS0_8hidl_vecIhEERKNS6_INS4_12KeyParameterEEERKNS4_17HardwareAuthTokenENSt3__18functionIFvNS2_9ErrorCodeESD_RKNS_2spINS2_10IOperationEEEEEE"
     },
     {
      "component_value" : -4,
@@ -19048,9 +16851,6 @@
      "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_119BpHwKeymasterDevice14earlyBootEndedEv"
     },
     {
-     "mangled_component_name" : "_ZN7android8hardware9keymaster4V4_119BpHwKeymasterDevice7beginOpENS1_4V4_010KeyPurposeERKNS0_8hidl_vecIhEERKNS6_INS4_12KeyParameterEEERKNS4_17HardwareAuthTokenENSt3__18functionIFvNS2_9ErrorCodeESD_RKNS_2spINS2_10IOperationEEEEEE"
-    },
-    {
      "mangled_component_name" : "_ZN7android8hardware11BpInterfaceINS0_9keymaster4V4_116IKeymasterDeviceEE10onAsBinderEv"
     },
     {
@@ -19227,15 +17027,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTION7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "name" : "android::sp<android::hardware::keymaster::V4_1::IOperation> &&",
-   "referenced_type" : "_ZTIN7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "self_type" : "_ZTION7android2spINS_8hardware9keymaster4V4_110IOperationEEE",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTION7android2spINS_8hardware9keymaster4V4_116IKeymasterDeviceEEE",
    "name" : "android::sp<android::hardware::keymaster::V4_1::IKeymasterDevice> &&",
    "referenced_type" : "_ZTIN7android2spINS_8hardware9keymaster4V4_116IKeymasterDeviceEEE",
@@ -19285,15 +17076,6 @@
    "name" : "android::hardware::Return<android::hardware::keymaster::V4_1::ErrorCode> &&",
    "referenced_type" : "_ZTIN7android8hardware6ReturnINS0_9keymaster4V4_19ErrorCodeEEE",
    "self_type" : "_ZTION7android8hardware6ReturnINS0_9keymaster4V4_19ErrorCodeEEE",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/Status.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTION7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
-   "name" : "android::hardware::Return<android::sp<android::hardware::keymaster::V4_1::IOperation> > &&",
-   "referenced_type" : "_ZTIN7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
-   "self_type" : "_ZTION7android8hardware6ReturnINS_2spINS0_9keymaster4V4_110IOperationEEEEE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/Status.h"
   },
