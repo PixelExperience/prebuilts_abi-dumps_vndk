@@ -430,6 +430,9 @@
    "name" : "_ZN7android8hardware10automotive3evs4V1_113BnHwEvsCamera27_hidl_getPhysicalCameraInfoEPNS_4hidl4base4V1_08BnHwBaseERKNS0_6ParcelEPSA_NSt3__18functionIFvRSA_EEE"
   },
   {
+   "name" : "_ZN7android8hardware10automotive3evs4V1_113BnHwEvsCamera27_hidl_importExternalBuffersEPNS_4hidl4base4V1_08BnHwBaseERKNS0_6ParcelEPSA_NSt3__18functionIFvRSA_EEE"
+  },
+  {
    "name" : "_ZN7android8hardware10automotive3evs4V1_113BnHwEvsCamera4pingEv"
   },
   {
@@ -544,6 +547,9 @@
    "name" : "_ZN7android8hardware10automotive3evs4V1_113BpHwEvsCamera21getPhysicalCameraInfoERKNS0_11hidl_stringENSt3__18functionIFvRKNS3_10CameraDescEEEE"
   },
   {
+   "name" : "_ZN7android8hardware10automotive3evs4V1_113BpHwEvsCamera21importExternalBuffersERKNS0_8hidl_vecINS3_10BufferDescEEENSt3__18functionIFvNS2_4V1_09EvsResultEiEEE"
+  },
+  {
    "name" : "_ZN7android8hardware10automotive3evs4V1_113BpHwEvsCamera21notifySyspropsChangedEv"
   },
   {
@@ -575,6 +581,9 @@
   },
   {
    "name" : "_ZN7android8hardware10automotive3evs4V1_113BpHwEvsCamera27_hidl_getPhysicalCameraInfoEPNS0_10IInterfaceEPNS0_7details16HidlInstrumentorERKNS0_11hidl_stringENSt3__18functionIFvRKNS3_10CameraDescEEEE"
+  },
+  {
+   "name" : "_ZN7android8hardware10automotive3evs4V1_113BpHwEvsCamera27_hidl_importExternalBuffersEPNS0_10IInterfaceEPNS0_7details16HidlInstrumentorERKNS0_8hidl_vecINS3_10BufferDescEEENSt3__18functionIFvNS2_4V1_09EvsResultEiEEE"
   },
   {
    "name" : "_ZN7android8hardware10automotive3evs4V1_113BpHwEvsCamera4pingEv"
@@ -7243,7 +7252,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsDisplayAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -7311,7 +7320,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsDisplayAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -7364,7 +7373,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsDisplayAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIi",
@@ -7418,7 +7427,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsDisplayAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -7879,6 +7888,27 @@
   {
    "function_name" : "android::hardware::automotive::evs::V1_1::BnHwEvsCamera::_hidl_getPhysicalCameraInfo",
    "linker_set_key" : "_ZN7android8hardware10automotive3evs4V1_113BnHwEvsCamera27_hidl_getPhysicalCameraInfoEPNS_4hidl4base4V1_08BnHwBaseERKNS0_6ParcelEPSA_NSt3__18functionIFvRSA_EEE",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPN7android4hidl4base4V1_08BnHwBaseE"
+    },
+    {
+     "referenced_type" : "_ZTIRKN7android8hardware6ParcelE"
+    },
+    {
+     "referenced_type" : "_ZTIPN7android8hardware6ParcelE"
+    },
+    {
+     "referenced_type" : "_ZTINSt3__18functionIFvRN7android8hardware6ParcelEEEE"
+    }
+   ],
+   "return_type" : "_ZTIi",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++_headers/gen/android/hardware/automotive/evs/1.1/BnHwEvsCamera.h"
+  },
+  {
+   "function_name" : "android::hardware::automotive::evs::V1_1::BnHwEvsCamera::_hidl_importExternalBuffers",
+   "linker_set_key" : "_ZN7android8hardware10automotive3evs4V1_113BnHwEvsCamera27_hidl_importExternalBuffersEPNS_4hidl4base4V1_08BnHwBaseERKNS0_6ParcelEPSA_NSt3__18functionIFvRSA_EEE",
    "parameters" :
    [
     {
@@ -8523,6 +8553,25 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++_headers/gen/android/hardware/automotive/evs/1.1/BpHwEvsCamera.h"
   },
   {
+   "function_name" : "android::hardware::automotive::evs::V1_1::BpHwEvsCamera::importExternalBuffers",
+   "linker_set_key" : "_ZN7android8hardware10automotive3evs4V1_113BpHwEvsCamera21importExternalBuffersERKNS0_8hidl_vecINS3_10BufferDescEEENSt3__18functionIFvNS2_4V1_09EvsResultEiEEE",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN7android8hardware10automotive3evs4V1_113BpHwEvsCameraE"
+    },
+    {
+     "referenced_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_10automotive3evs4V1_110BufferDescEEE"
+    },
+    {
+     "referenced_type" : "_ZTINSt3__18functionIFvN7android8hardware10automotive3evs4V1_09EvsResultEiEEE"
+    }
+   ],
+   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++_headers/gen/android/hardware/automotive/evs/1.1/BpHwEvsCamera.h"
+  },
+  {
    "function_name" : "android::hardware::automotive::evs::V1_1::BpHwEvsCamera::notifySyspropsChanged",
    "linker_set_key" : "_ZN7android8hardware10automotive3evs4V1_113BpHwEvsCamera21notifySyspropsChangedEv",
    "parameters" :
@@ -8711,6 +8760,27 @@
     },
     {
      "referenced_type" : "_ZTINSt3__18functionIFvRKN7android8hardware10automotive3evs4V1_110CameraDescEEEE"
+    }
+   ],
+   "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++_headers/gen/android/hardware/automotive/evs/1.1/BpHwEvsCamera.h"
+  },
+  {
+   "function_name" : "android::hardware::automotive::evs::V1_1::BpHwEvsCamera::_hidl_importExternalBuffers",
+   "linker_set_key" : "_ZN7android8hardware10automotive3evs4V1_113BpHwEvsCamera27_hidl_importExternalBuffersEPNS0_10IInterfaceEPNS0_7details16HidlInstrumentorERKNS0_8hidl_vecINS3_10BufferDescEEENSt3__18functionIFvNS2_4V1_09EvsResultEiEEE",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPN7android8hardware10IInterfaceE"
+    },
+    {
+     "referenced_type" : "_ZTIPN7android8hardware7details16HidlInstrumentorE"
+    },
+    {
+     "referenced_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_10automotive3evs4V1_110BufferDescEEE"
+    },
+    {
+     "referenced_type" : "_ZTINSt3__18functionIFvN7android8hardware10automotive3evs4V1_09EvsResultEiEEE"
     }
    ],
    "return_type" : "_ZTIN7android8hardware6ReturnIvEE",
@@ -9269,7 +9339,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsEnumeratorAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -9337,7 +9407,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsEnumeratorAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -9390,7 +9460,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsEnumeratorAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIi",
@@ -9444,7 +9514,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsEnumeratorAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -9589,7 +9659,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraStreamAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -9657,7 +9727,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraStreamAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -9710,7 +9780,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraStreamAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIi",
@@ -9764,7 +9834,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraStreamAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -11239,7 +11309,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -11307,7 +11377,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -11360,7 +11430,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIi",
@@ -11414,7 +11484,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -12359,7 +12429,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayStreamAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -12427,7 +12497,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayStreamAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -12480,7 +12550,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayStreamAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIi",
@@ -12534,7 +12604,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayStreamAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -13567,7 +13637,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsDisplayAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -13592,7 +13662,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsEnumeratorAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -13617,7 +13687,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraStreamAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -13642,7 +13712,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -13667,7 +13737,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayStreamAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -14297,55 +14367,6 @@
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
   {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraAll.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraAll.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraStreamAll.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraStreamAll.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsDisplayAll.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsDisplayAll.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsEnumeratorAll.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsEnumeratorAll.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayAll.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayAll.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayStreamAll.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayStreamAll.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/types.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/types.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS0_10automotive3evs4V1_110BufferDescEEE",
    "name" : "const android::hardware::hidl_vec<android::hardware::automotive::evs::V1_1::BufferDesc> &",
@@ -14464,127 +14485,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraAll.sdump",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraStreamAll.sdump",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraStreamAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsDisplayAll.sdump",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsDisplayAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsEnumeratorAll.sdump",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsEnumeratorAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayAll.sdump",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayStreamAll.sdump",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayStreamAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraAll.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraStreamAll.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraStreamAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsDisplayAll.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsDisplayAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsEnumeratorAll.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsEnumeratorAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayAll.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayStreamAll.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayStreamAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/types.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/types.sdump",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
@@ -19225,76 +19129,6 @@
    "self_type" : "_ZTIKPKN7android4hidl4base4V1_05IBaseE",
    "size" : 4,
    "source_file" : "/system/libhidl/transport/include/hidl/ConcurrentMap.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraAll.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraStreamAll.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsCameraStreamAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsDisplayAll.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsDisplayAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsEnumeratorAll.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsEnumeratorAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayAll.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayStreamAll.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/EvsUltrasonicsArrayStreamAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/types.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++/gen/android/hardware/automotive/evs/1.1/types.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
   {
    "alignment" : 4,
@@ -24981,6 +24815,10 @@
      "mangled_component_name" : "_ZN7android8hardware10automotive3evs4V1_110IEvsCamera19setExtendedInfo_1_1EjRKNS0_8hidl_vecIhEE"
     },
     {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN7android8hardware10automotive3evs4V1_110IEvsCamera21importExternalBuffersERKNS0_8hidl_vecINS3_10BufferDescEEENSt3__18functionIFvNS2_4V1_09EvsResultEiEEE"
+    },
+    {
      "kind" : "vcall_offset"
     },
     {
@@ -25195,6 +25033,9 @@
     },
     {
      "mangled_component_name" : "_ZN7android8hardware10automotive3evs4V1_111BsEvsCamera19setExtendedInfo_1_1EjRKNS0_8hidl_vecIhEE"
+    },
+    {
+     "mangled_component_name" : "_ZN7android8hardware10automotive3evs4V1_111BsEvsCamera21importExternalBuffersERKNS0_8hidl_vecINS3_10BufferDescEEENSt3__18functionIFvNS2_4V1_09EvsResultEiEEE"
     },
     {
      "component_value" : -4,
@@ -25929,6 +25770,9 @@
     },
     {
      "mangled_component_name" : "_ZN7android8hardware10automotive3evs4V1_113BpHwEvsCamera19setExtendedInfo_1_1EjRKNS0_8hidl_vecIhEE"
+    },
+    {
+     "mangled_component_name" : "_ZN7android8hardware10automotive3evs4V1_113BpHwEvsCamera21importExternalBuffersERKNS0_8hidl_vecINS3_10BufferDescEEENSt3__18functionIFvNS2_4V1_09EvsResultEiEEE"
     },
     {
      "mangled_component_name" : "_ZN7android8hardware11BpInterfaceINS0_10automotive3evs4V1_110IEvsCameraEE10onAsBinderEv"
@@ -30307,6 +30151,10 @@
     {
      "is_pure" : true,
      "mangled_component_name" : "_ZN7android8hardware10automotive3evs4V1_110IEvsCamera19setExtendedInfo_1_1EjRKNS0_8hidl_vecIhEE"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN7android8hardware10automotive3evs4V1_110IEvsCamera21importExternalBuffersERKNS0_8hidl_vecINS3_10BufferDescEEENSt3__18functionIFvNS2_4V1_09EvsResultEiEEE"
     },
     {
      "mangled_component_name" : "_ZN7android8hardware11BpInterfaceINS0_10automotive3evs4V1_110IEvsCameraEE10onAsBinderEv"
