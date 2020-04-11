@@ -79,7 +79,13 @@
    "name" : "_ZN4aidl7android8hardware5power13IPowerDefault15isModeSupportedENS2_4ModeEPb"
   },
   {
+   "name" : "_ZN4aidl7android8hardware5power13IPowerDefault16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+  },
+  {
    "name" : "_ZN4aidl7android8hardware5power13IPowerDefault16isBoostSupportedENS2_5BoostEPb"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware5power13IPowerDefault19getInterfaceVersionEPi"
   },
   {
    "name" : "_ZN4aidl7android8hardware5power13IPowerDefault7setModeENS2_4ModeEb"
@@ -124,6 +130,12 @@
    "name" : "_ZN4aidl7android8hardware5power7BnPower12createBinderEv"
   },
   {
+   "name" : "_ZN4aidl7android8hardware5power7BnPower16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware5power7BnPower19getInterfaceVersionEPi"
+  },
+  {
    "name" : "_ZN4aidl7android8hardware5power7BnPowerC2Ev"
   },
   {
@@ -139,7 +151,13 @@
    "name" : "_ZN4aidl7android8hardware5power7BpPower15isModeSupportedENS2_4ModeEPb"
   },
   {
+   "name" : "_ZN4aidl7android8hardware5power7BpPower16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+  },
+  {
    "name" : "_ZN4aidl7android8hardware5power7BpPower16isBoostSupportedENS2_5BoostEPb"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware5power7BpPower19getInterfaceVersionEPi"
   },
   {
    "name" : "_ZN4aidl7android8hardware5power7BpPower7setModeENS2_4ModeEb"
@@ -178,10 +196,18 @@
  "elf_objects" :
  [
   {
+   "binding" : "weak",
+   "name" : "_ZGVN4aidl7android8hardware5power6IPower4hashE"
+  },
+  {
    "name" : "_ZN4aidl7android8hardware5power6IPower10descriptorE"
   },
   {
    "name" : "_ZN4aidl7android8hardware5power6IPower12default_implE"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZN4aidl7android8hardware5power6IPower4hashE"
   },
   {
    "binding" : "weak",
@@ -618,6 +644,22 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/power/aidl/android.hardware.power-ndk_platform-source/gen/include/aidl/android/hardware/power/IPower.h"
   },
   {
+   "function_name" : "aidl::android::hardware::power::IPowerDefault::getInterfaceHash",
+   "linker_set_key" : "_ZN4aidl7android8hardware5power13IPowerDefault16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware5power13IPowerDefaultE"
+    },
+    {
+     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/power/aidl/android.hardware.power-ndk_platform-source/gen/include/aidl/android/hardware/power/IPower.h"
+  },
+  {
    "function_name" : "aidl::android::hardware::power::IPowerDefault::isBoostSupported",
    "linker_set_key" : "_ZN4aidl7android8hardware5power13IPowerDefault16isBoostSupportedENS2_5BoostEPb",
    "parameters" :
@@ -631,6 +673,22 @@
     },
     {
      "referenced_type" : "_ZTIPb"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/power/aidl/android.hardware.power-ndk_platform-source/gen/include/aidl/android/hardware/power/IPower.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::power::IPowerDefault::getInterfaceVersion",
+   "linker_set_key" : "_ZN4aidl7android8hardware5power13IPowerDefault19getInterfaceVersionEPi",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware5power13IPowerDefaultE"
+    },
+    {
+     "referenced_type" : "_ZTIPi"
     }
    ],
    "return_type" : "_ZTIN3ndk13ScopedAStatusE",
@@ -827,6 +885,38 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/power/aidl/android.hardware.power-ndk_platform-source/gen/include/aidl/android/hardware/power/BnPower.h"
   },
   {
+   "function_name" : "aidl::android::hardware::power::BnPower::getInterfaceHash",
+   "linker_set_key" : "_ZN4aidl7android8hardware5power7BnPower16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware5power7BnPowerE"
+    },
+    {
+     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/power/aidl/android.hardware.power-ndk_platform-source/gen/include/aidl/android/hardware/power/BnPower.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::power::BnPower::getInterfaceVersion",
+   "linker_set_key" : "_ZN4aidl7android8hardware5power7BnPower19getInterfaceVersionEPi",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware5power7BnPowerE"
+    },
+    {
+     "referenced_type" : "_ZTIPi"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/power/aidl/android.hardware.power-ndk_platform-source/gen/include/aidl/android/hardware/power/BnPower.h"
+  },
+  {
    "function_name" : "aidl::android::hardware::power::BnPower::BnPower",
    "linker_set_key" : "_ZN4aidl7android8hardware5power7BnPowerC2Ev",
    "parameters" :
@@ -898,6 +988,22 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/power/aidl/android.hardware.power-ndk_platform-source/gen/include/aidl/android/hardware/power/BpPower.h"
   },
   {
+   "function_name" : "aidl::android::hardware::power::BpPower::getInterfaceHash",
+   "linker_set_key" : "_ZN4aidl7android8hardware5power7BpPower16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware5power7BpPowerE"
+    },
+    {
+     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/power/aidl/android.hardware.power-ndk_platform-source/gen/include/aidl/android/hardware/power/BpPower.h"
+  },
+  {
    "function_name" : "aidl::android::hardware::power::BpPower::isBoostSupported",
    "linker_set_key" : "_ZN4aidl7android8hardware5power7BpPower16isBoostSupportedENS2_5BoostEPb",
    "parameters" :
@@ -911,6 +1017,22 @@
     },
     {
      "referenced_type" : "_ZTIPb"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/power/aidl/android.hardware.power-ndk_platform-source/gen/include/aidl/android/hardware/power/BpPower.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::power::BpPower::getInterfaceVersion",
+   "linker_set_key" : "_ZN4aidl7android8hardware5power7BpPower19getInterfaceVersionEPi",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware5power7BpPowerE"
+    },
+    {
+     "referenced_type" : "_ZTIPi"
     }
    ],
    "return_type" : "_ZTIN3ndk13ScopedAStatusE",
@@ -1039,6 +1161,12 @@
    "linker_set_key" : "_ZN4aidl7android8hardware5power6IPower12default_implE",
    "name" : "aidl::android::hardware::power::IPower::default_impl",
    "referenced_type" : "_ZTINSt3__110shared_ptrIN4aidl7android8hardware5power6IPowerEEE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/power/aidl/android.hardware.power-ndk_platform-source/gen/include/aidl/android/hardware/power/IPower.h"
+  },
+  {
+   "linker_set_key" : "_ZN4aidl7android8hardware5power6IPower4hashE",
+   "name" : "aidl::android::hardware::power::IPower::hash",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/power/aidl/android.hardware.power-ndk_platform-source/gen/include/aidl/android/hardware/power/IPower.h"
   }
  ],
@@ -1553,6 +1681,15 @@
   },
   {
    "alignment" : 8,
+   "linker_set_key" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char> > *",
+   "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "self_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "size" : 8,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/power/aidl/android.hardware.power-ndk_platform-source/gen/include/aidl/android/hardware/power/IPower.h"
+  },
+  {
+   "alignment" : 8,
    "linker_set_key" : "_ZTIPNSt3__16vectorIDsNS_9allocatorIDsEEEE",
    "name" : "std::vector<char16_t, std::allocator<char16_t> > *",
    "referenced_type" : "_ZTINSt3__16vectorIDsNS_9allocatorIDsEEEE",
@@ -1760,6 +1897,15 @@
   },
   {
    "alignment" : 8,
+   "linker_set_key" : "_ZTIPi",
+   "name" : "int *",
+   "referenced_type" : "_ZTIi",
+   "self_type" : "_ZTIPi",
+   "size" : 8,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/power/aidl/android.hardware.power-ndk_platform-source/gen/include/aidl/android/hardware/power/IPower.h"
+  },
+  {
+   "alignment" : 8,
    "linker_set_key" : "_ZTIPv",
    "name" : "void *",
    "referenced_type" : "_ZTIv",
@@ -1826,6 +1972,16 @@
    "referenced_type" : "_ZTINSt3__110shared_ptrIN4aidl7android8hardware5power6IPowerEEE",
    "self_type" : "_ZTIKNSt3__110shared_ptrIN4aidl7android8hardware5power6IPowerEEE",
    "size" : 16,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/power/aidl/android.hardware.power-ndk_platform-source/gen/include/aidl/android/hardware/power/IPower.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> >",
+   "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "self_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "size" : 24,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/power/aidl/android.hardware.power-ndk_platform-source/gen/include/aidl/android/hardware/power/IPower.h"
   },
   {
@@ -2231,6 +2387,14 @@
     },
     {
      "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware5power6IPower19getInterfaceVersionEPi"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware5power6IPower16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+    },
+    {
+     "is_pure" : true,
      "mangled_component_name" : "_ZN3ndk12BnCInterfaceIN4aidl7android8hardware5power6IPowerEE12createBinderEv"
     }
    ]
@@ -2304,6 +2468,14 @@
     {
      "is_pure" : true,
      "mangled_component_name" : "_ZN4aidl7android8hardware5power6IPower16isBoostSupportedENS2_5BoostEPb"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware5power6IPower19getInterfaceVersionEPi"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware5power6IPower16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
     }
    ]
   },
@@ -2580,6 +2752,12 @@
     },
     {
      "mangled_component_name" : "_ZN4aidl7android8hardware5power13IPowerDefault16isBoostSupportedENS2_5BoostEPb"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware5power13IPowerDefault19getInterfaceVersionEPi"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware5power13IPowerDefault16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
     }
    ]
   },
@@ -2644,6 +2822,14 @@
     {
      "is_pure" : true,
      "mangled_component_name" : "_ZN4aidl7android8hardware5power6IPower16isBoostSupportedENS2_5BoostEPb"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware5power6IPower19getInterfaceVersionEPi"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware5power6IPower16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
     }
    ]
   },
@@ -2708,6 +2894,12 @@
      "mangled_component_name" : "_ZN4aidl7android8hardware5power6IPower16isBoostSupportedENS2_5BoostEPb"
     },
     {
+     "mangled_component_name" : "_ZN4aidl7android8hardware5power7BnPower19getInterfaceVersionEPi"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware5power7BnPower16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+    },
+    {
      "mangled_component_name" : "_ZN4aidl7android8hardware5power7BnPower12createBinderEv"
     }
    ]
@@ -2720,12 +2912,30 @@
      "referenced_type" : "_ZTIN3ndk12BpCInterfaceIN4aidl7android8hardware5power6IPowerEEE"
     }
    ],
+   "fields" :
+   [
+    {
+     "field_name" : "_aidl_cached_version",
+     "field_offset" : 320,
+     "referenced_type" : "_ZTIi"
+    },
+    {
+     "field_name" : "_aidl_cached_hash",
+     "field_offset" : 384,
+     "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+    },
+    {
+     "field_name" : "_aidl_cached_hash_mutex",
+     "field_offset" : 576,
+     "referenced_type" : "_ZTINSt3__15mutexE"
+    }
+   ],
    "linker_set_key" : "_ZTIN4aidl7android8hardware5power7BpPowerE",
    "name" : "aidl::android::hardware::power::BpPower",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN4aidl7android8hardware5power7BpPowerE",
    "self_type" : "_ZTIN4aidl7android8hardware5power7BpPowerE",
-   "size" : 40,
+   "size" : 112,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/power/aidl/android.hardware.power-ndk_platform-source/gen/include/aidl/android/hardware/power/BpPower.h",
    "vtable_components" :
    [
@@ -2767,6 +2977,12 @@
     },
     {
      "mangled_component_name" : "_ZN4aidl7android8hardware5power7BpPower16isBoostSupportedENS2_5BoostEPb"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware5power7BpPower19getInterfaceVersionEPi"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware5power7BpPower16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
     }
    ]
   }

@@ -96,6 +96,12 @@
    "name" : "_ZN4aidl7android8hardware12rebootescrow14BnRebootEscrow12createBinderEv"
   },
   {
+   "name" : "_ZN4aidl7android8hardware12rebootescrow14BnRebootEscrow16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware12rebootescrow14BnRebootEscrow19getInterfaceVersionEPi"
+  },
+  {
    "name" : "_ZN4aidl7android8hardware12rebootescrow14BnRebootEscrowC2Ev"
   },
   {
@@ -109,6 +115,12 @@
   },
   {
    "name" : "_ZN4aidl7android8hardware12rebootescrow14BpRebootEscrow11retrieveKeyEPNSt3__16vectorIaNS4_9allocatorIaEEEE"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware12rebootescrow14BpRebootEscrow16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware12rebootescrow14BpRebootEscrow19getInterfaceVersionEPi"
   },
   {
    "name" : "_ZN4aidl7android8hardware12rebootescrow14BpRebootEscrow8storeKeyERKNSt3__16vectorIaNS4_9allocatorIaEEEE"
@@ -130,6 +142,12 @@
   },
   {
    "name" : "_ZN4aidl7android8hardware12rebootescrow20IRebootEscrowDefault11retrieveKeyEPNSt3__16vectorIaNS4_9allocatorIaEEEE"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware12rebootescrow20IRebootEscrowDefault16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware12rebootescrow20IRebootEscrowDefault19getInterfaceVersionEPi"
   },
   {
    "name" : "_ZN4aidl7android8hardware12rebootescrow20IRebootEscrowDefault8asBinderEv"
@@ -160,10 +178,18 @@
  "elf_objects" :
  [
   {
+   "binding" : "weak",
+   "name" : "_ZGVN4aidl7android8hardware12rebootescrow13IRebootEscrow4hashE"
+  },
+  {
    "name" : "_ZN4aidl7android8hardware12rebootescrow13IRebootEscrow10descriptorE"
   },
   {
    "name" : "_ZN4aidl7android8hardware12rebootescrow13IRebootEscrow12default_implE"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZN4aidl7android8hardware12rebootescrow13IRebootEscrow4hashE"
   },
   {
    "binding" : "weak",
@@ -597,6 +623,38 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/rebootescrow/aidl/android.hardware.rebootescrow-ndk_platform-source/gen/include/aidl/android/hardware/rebootescrow/BnRebootEscrow.h"
   },
   {
+   "function_name" : "aidl::android::hardware::rebootescrow::BnRebootEscrow::getInterfaceHash",
+   "linker_set_key" : "_ZN4aidl7android8hardware12rebootescrow14BnRebootEscrow16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware12rebootescrow14BnRebootEscrowE"
+    },
+    {
+     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/rebootescrow/aidl/android.hardware.rebootescrow-ndk_platform-source/gen/include/aidl/android/hardware/rebootescrow/BnRebootEscrow.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::rebootescrow::BnRebootEscrow::getInterfaceVersion",
+   "linker_set_key" : "_ZN4aidl7android8hardware12rebootescrow14BnRebootEscrow19getInterfaceVersionEPi",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware12rebootescrow14BnRebootEscrowE"
+    },
+    {
+     "referenced_type" : "_ZTIPi"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/rebootescrow/aidl/android.hardware.rebootescrow-ndk_platform-source/gen/include/aidl/android/hardware/rebootescrow/BnRebootEscrow.h"
+  },
+  {
    "function_name" : "aidl::android::hardware::rebootescrow::BnRebootEscrow::BnRebootEscrow",
    "linker_set_key" : "_ZN4aidl7android8hardware12rebootescrow14BnRebootEscrowC2Ev",
    "parameters" :
@@ -659,6 +717,38 @@
     },
     {
      "referenced_type" : "_ZTIPNSt3__16vectorIaNS_9allocatorIaEEEE"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/rebootescrow/aidl/android.hardware.rebootescrow-ndk_platform-source/gen/include/aidl/android/hardware/rebootescrow/BpRebootEscrow.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::rebootescrow::BpRebootEscrow::getInterfaceHash",
+   "linker_set_key" : "_ZN4aidl7android8hardware12rebootescrow14BpRebootEscrow16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware12rebootescrow14BpRebootEscrowE"
+    },
+    {
+     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/rebootescrow/aidl/android.hardware.rebootescrow-ndk_platform-source/gen/include/aidl/android/hardware/rebootescrow/BpRebootEscrow.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::rebootescrow::BpRebootEscrow::getInterfaceVersion",
+   "linker_set_key" : "_ZN4aidl7android8hardware12rebootescrow14BpRebootEscrow19getInterfaceVersionEPi",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware12rebootescrow14BpRebootEscrowE"
+    },
+    {
+     "referenced_type" : "_ZTIPi"
     }
    ],
    "return_type" : "_ZTIN3ndk13ScopedAStatusE",
@@ -768,6 +858,38 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/rebootescrow/aidl/android.hardware.rebootescrow-ndk_platform-source/gen/include/aidl/android/hardware/rebootescrow/IRebootEscrow.h"
   },
   {
+   "function_name" : "aidl::android::hardware::rebootescrow::IRebootEscrowDefault::getInterfaceHash",
+   "linker_set_key" : "_ZN4aidl7android8hardware12rebootescrow20IRebootEscrowDefault16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware12rebootescrow20IRebootEscrowDefaultE"
+    },
+    {
+     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/rebootescrow/aidl/android.hardware.rebootescrow-ndk_platform-source/gen/include/aidl/android/hardware/rebootescrow/IRebootEscrow.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::rebootescrow::IRebootEscrowDefault::getInterfaceVersion",
+   "linker_set_key" : "_ZN4aidl7android8hardware12rebootescrow20IRebootEscrowDefault19getInterfaceVersionEPi",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware12rebootescrow20IRebootEscrowDefaultE"
+    },
+    {
+     "referenced_type" : "_ZTIPi"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/rebootescrow/aidl/android.hardware.rebootescrow-ndk_platform-source/gen/include/aidl/android/hardware/rebootescrow/IRebootEscrow.h"
+  },
+  {
    "function_name" : "aidl::android::hardware::rebootescrow::IRebootEscrowDefault::asBinder",
    "linker_set_key" : "_ZN4aidl7android8hardware12rebootescrow20IRebootEscrowDefault8asBinderEv",
    "parameters" :
@@ -823,6 +945,12 @@
    "linker_set_key" : "_ZN4aidl7android8hardware12rebootescrow13IRebootEscrow12default_implE",
    "name" : "aidl::android::hardware::rebootescrow::IRebootEscrow::default_impl",
    "referenced_type" : "_ZTINSt3__110shared_ptrIN4aidl7android8hardware12rebootescrow13IRebootEscrowEEE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/rebootescrow/aidl/android.hardware.rebootescrow-ndk_platform-source/gen/include/aidl/android/hardware/rebootescrow/IRebootEscrow.h"
+  },
+  {
+   "linker_set_key" : "_ZN4aidl7android8hardware12rebootescrow13IRebootEscrow4hashE",
+   "name" : "aidl::android::hardware::rebootescrow::IRebootEscrow::hash",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/rebootescrow/aidl/android.hardware.rebootescrow-ndk_platform-source/gen/include/aidl/android/hardware/rebootescrow/IRebootEscrow.h"
   }
  ],
@@ -1337,6 +1465,15 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char> > *",
+   "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "self_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "size" : 4,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/rebootescrow/aidl/android.hardware.rebootescrow-ndk_platform-source/gen/include/aidl/android/hardware/rebootescrow/IRebootEscrow.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIPNSt3__16vectorIDsNS_9allocatorIDsEEEE",
    "name" : "std::vector<char16_t, std::allocator<char16_t> > *",
    "referenced_type" : "_ZTINSt3__16vectorIDsNS_9allocatorIDsEEEE",
@@ -1535,6 +1672,15 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIPi",
+   "name" : "int *",
+   "referenced_type" : "_ZTIi",
+   "self_type" : "_ZTIPi",
+   "size" : 4,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/rebootescrow/aidl/android.hardware.rebootescrow-ndk_platform-source/gen/include/aidl/android/hardware/rebootescrow/IRebootEscrow.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIPv",
    "name" : "void *",
    "referenced_type" : "_ZTIv",
@@ -1601,6 +1747,16 @@
    "referenced_type" : "_ZTINSt3__110shared_ptrIN4aidl7android8hardware12rebootescrow13IRebootEscrowEEE",
    "self_type" : "_ZTIKNSt3__110shared_ptrIN4aidl7android8hardware12rebootescrow13IRebootEscrowEEE",
    "size" : 8,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/rebootescrow/aidl/android.hardware.rebootescrow-ndk_platform-source/gen/include/aidl/android/hardware/rebootescrow/IRebootEscrow.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> >",
+   "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "self_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "size" : 12,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/rebootescrow/aidl/android.hardware.rebootescrow-ndk_platform-source/gen/include/aidl/android/hardware/rebootescrow/IRebootEscrow.h"
   },
   {
@@ -1978,6 +2134,14 @@
     },
     {
      "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware12rebootescrow13IRebootEscrow19getInterfaceVersionEPi"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware12rebootescrow13IRebootEscrow16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+    },
+    {
+     "is_pure" : true,
      "mangled_component_name" : "_ZN3ndk12BnCInterfaceIN4aidl7android8hardware12rebootescrow13IRebootEscrowEE12createBinderEv"
     }
    ]
@@ -2043,6 +2207,14 @@
     {
      "is_pure" : true,
      "mangled_component_name" : "_ZN4aidl7android8hardware12rebootescrow13IRebootEscrow11retrieveKeyEPNSt3__16vectorIaNS4_9allocatorIaEEEE"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware12rebootescrow13IRebootEscrow19getInterfaceVersionEPi"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware12rebootescrow13IRebootEscrow16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
     }
    ]
   },
@@ -2317,6 +2489,14 @@
     {
      "is_pure" : true,
      "mangled_component_name" : "_ZN4aidl7android8hardware12rebootescrow13IRebootEscrow11retrieveKeyEPNSt3__16vectorIaNS4_9allocatorIaEEEE"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware12rebootescrow13IRebootEscrow19getInterfaceVersionEPi"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware12rebootescrow13IRebootEscrow16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
     }
    ]
   },
@@ -2373,6 +2553,12 @@
      "mangled_component_name" : "_ZN4aidl7android8hardware12rebootescrow13IRebootEscrow11retrieveKeyEPNSt3__16vectorIaNS4_9allocatorIaEEEE"
     },
     {
+     "mangled_component_name" : "_ZN4aidl7android8hardware12rebootescrow14BnRebootEscrow19getInterfaceVersionEPi"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware12rebootescrow14BnRebootEscrow16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+    },
+    {
      "mangled_component_name" : "_ZN4aidl7android8hardware12rebootescrow14BnRebootEscrow12createBinderEv"
     }
    ]
@@ -2385,12 +2571,30 @@
      "referenced_type" : "_ZTIN3ndk12BpCInterfaceIN4aidl7android8hardware12rebootescrow13IRebootEscrowEEE"
     }
    ],
+   "fields" :
+   [
+    {
+     "field_name" : "_aidl_cached_version",
+     "field_offset" : 160,
+     "referenced_type" : "_ZTIi"
+    },
+    {
+     "field_name" : "_aidl_cached_hash",
+     "field_offset" : 192,
+     "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+    },
+    {
+     "field_name" : "_aidl_cached_hash_mutex",
+     "field_offset" : 288,
+     "referenced_type" : "_ZTINSt3__15mutexE"
+    }
+   ],
    "linker_set_key" : "_ZTIN4aidl7android8hardware12rebootescrow14BpRebootEscrowE",
    "name" : "aidl::android::hardware::rebootescrow::BpRebootEscrow",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN4aidl7android8hardware12rebootescrow14BpRebootEscrowE",
    "self_type" : "_ZTIN4aidl7android8hardware12rebootescrow14BpRebootEscrowE",
-   "size" : 20,
+   "size" : 40,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/rebootescrow/aidl/android.hardware.rebootescrow-ndk_platform-source/gen/include/aidl/android/hardware/rebootescrow/BpRebootEscrow.h",
    "vtable_components" :
    [
@@ -2426,6 +2630,12 @@
     },
     {
      "mangled_component_name" : "_ZN4aidl7android8hardware12rebootescrow14BpRebootEscrow11retrieveKeyEPNSt3__16vectorIaNS4_9allocatorIaEEEE"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware12rebootescrow14BpRebootEscrow19getInterfaceVersionEPi"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware12rebootescrow14BpRebootEscrow16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
     }
    ]
   },
@@ -2478,6 +2688,12 @@
     },
     {
      "mangled_component_name" : "_ZN4aidl7android8hardware12rebootescrow20IRebootEscrowDefault11retrieveKeyEPNSt3__16vectorIaNS4_9allocatorIaEEEE"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware12rebootescrow20IRebootEscrowDefault19getInterfaceVersionEPi"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware12rebootescrow20IRebootEscrowDefault16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
     }
    ]
   }

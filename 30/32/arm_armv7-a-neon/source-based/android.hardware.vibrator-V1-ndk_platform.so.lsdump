@@ -103,6 +103,12 @@
    "name" : "_ZN4aidl7android8hardware8vibrator10BnVibrator12createBinderEv"
   },
   {
+   "name" : "_ZN4aidl7android8hardware8vibrator10BnVibrator16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware8vibrator10BnVibrator19getInterfaceVersionEPi"
+  },
+  {
    "name" : "_ZN4aidl7android8hardware8vibrator10BnVibratorC2Ev"
   },
   {
@@ -127,7 +133,13 @@
    "name" : "_ZN4aidl7android8hardware8vibrator10BpVibrator15getCapabilitiesEPi"
   },
   {
+   "name" : "_ZN4aidl7android8hardware8vibrator10BpVibrator16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+  },
+  {
    "name" : "_ZN4aidl7android8hardware8vibrator10BpVibrator18setExternalControlEb"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware8vibrator10BpVibrator19getInterfaceVersionEPi"
   },
   {
    "name" : "_ZN4aidl7android8hardware8vibrator10BpVibrator19getSupportedEffectsEPNSt3__16vectorINS2_6EffectENS4_9allocatorIS6_EEEE"
@@ -190,7 +202,13 @@
    "name" : "_ZN4aidl7android8hardware8vibrator16IVibratorDefault15getCapabilitiesEPi"
   },
   {
+   "name" : "_ZN4aidl7android8hardware8vibrator16IVibratorDefault16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+  },
+  {
    "name" : "_ZN4aidl7android8hardware8vibrator16IVibratorDefault18setExternalControlEb"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware8vibrator16IVibratorDefault19getInterfaceVersionEPi"
   },
   {
    "name" : "_ZN4aidl7android8hardware8vibrator16IVibratorDefault19getSupportedEffectsEPNSt3__16vectorINS2_6EffectENS4_9allocatorIS6_EEEE"
@@ -259,6 +277,12 @@
    "name" : "_ZN4aidl7android8hardware8vibrator18BnVibratorCallback12createBinderEv"
   },
   {
+   "name" : "_ZN4aidl7android8hardware8vibrator18BnVibratorCallback16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware8vibrator18BnVibratorCallback19getInterfaceVersionEPi"
+  },
+  {
    "name" : "_ZN4aidl7android8hardware8vibrator18BnVibratorCallbackC2Ev"
   },
   {
@@ -272,6 +296,12 @@
   },
   {
    "name" : "_ZN4aidl7android8hardware8vibrator18BpVibratorCallback10onCompleteEv"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware8vibrator18BpVibratorCallback16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware8vibrator18BpVibratorCallback19getInterfaceVersionEPi"
   },
   {
    "name" : "_ZN4aidl7android8hardware8vibrator18BpVibratorCallbackC1ERKN3ndk10SpAIBinderE"
@@ -290,6 +320,12 @@
   },
   {
    "name" : "_ZN4aidl7android8hardware8vibrator24IVibratorCallbackDefault10onCompleteEv"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware8vibrator24IVibratorCallbackDefault16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware8vibrator24IVibratorCallbackDefault19getInterfaceVersionEPi"
   },
   {
    "name" : "_ZN4aidl7android8hardware8vibrator24IVibratorCallbackDefault8asBinderEv"
@@ -355,6 +391,14 @@
  "elf_objects" :
  [
   {
+   "binding" : "weak",
+   "name" : "_ZGVN4aidl7android8hardware8vibrator17IVibratorCallback4hashE"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZGVN4aidl7android8hardware8vibrator9IVibrator4hashE"
+  },
+  {
    "name" : "_ZN4aidl7android8hardware8vibrator15CompositeEffect10descriptorE"
   },
   {
@@ -364,10 +408,18 @@
    "name" : "_ZN4aidl7android8hardware8vibrator17IVibratorCallback12default_implE"
   },
   {
+   "binding" : "weak",
+   "name" : "_ZN4aidl7android8hardware8vibrator17IVibratorCallback4hashE"
+  },
+  {
    "name" : "_ZN4aidl7android8hardware8vibrator9IVibrator10descriptorE"
   },
   {
    "name" : "_ZN4aidl7android8hardware8vibrator9IVibrator12default_implE"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZN4aidl7android8hardware8vibrator9IVibrator4hashE"
   },
   {
    "binding" : "weak",
@@ -938,7 +990,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIPK7AParcel#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump"
+     "referenced_type" : "_ZTIPK7AParcel"
     },
     {
      "referenced_type" : "_ZTIPv"
@@ -957,7 +1009,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7AParcel#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump"
+     "referenced_type" : "_ZTIP7AParcel"
     },
     {
      "referenced_type" : "_ZTIPKv"
@@ -982,6 +1034,38 @@
     }
    ],
    "return_type" : "_ZTIN3ndk10SpAIBinderE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/BnVibrator.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::vibrator::BnVibrator::getInterfaceHash",
+   "linker_set_key" : "_ZN4aidl7android8hardware8vibrator10BnVibrator16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8vibrator10BnVibratorE"
+    },
+    {
+     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/BnVibrator.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::vibrator::BnVibrator::getInterfaceVersion",
+   "linker_set_key" : "_ZN4aidl7android8hardware8vibrator10BnVibrator19getInterfaceVersionEPi",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8vibrator10BnVibratorE"
+    },
+    {
+     "referenced_type" : "_ZTIPi"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/BnVibrator.h"
   },
   {
@@ -1107,6 +1191,22 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/BpVibrator.h"
   },
   {
+   "function_name" : "aidl::android::hardware::vibrator::BpVibrator::getInterfaceHash",
+   "linker_set_key" : "_ZN4aidl7android8hardware8vibrator10BpVibrator16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8vibrator10BpVibratorE"
+    },
+    {
+     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/BpVibrator.h"
+  },
+  {
    "function_name" : "aidl::android::hardware::vibrator::BpVibrator::setExternalControl",
    "linker_set_key" : "_ZN4aidl7android8hardware8vibrator10BpVibrator18setExternalControlEb",
    "parameters" :
@@ -1117,6 +1217,22 @@
     },
     {
      "referenced_type" : "_ZTIb"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/BpVibrator.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::vibrator::BpVibrator::getInterfaceVersion",
+   "linker_set_key" : "_ZN4aidl7android8hardware8vibrator10BpVibrator19getInterfaceVersionEPi",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8vibrator10BpVibratorE"
+    },
+    {
+     "referenced_type" : "_ZTIPi"
     }
    ],
    "return_type" : "_ZTIN3ndk13ScopedAStatusE",
@@ -1455,6 +1571,22 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/IVibrator.h"
   },
   {
+   "function_name" : "aidl::android::hardware::vibrator::IVibratorDefault::getInterfaceHash",
+   "linker_set_key" : "_ZN4aidl7android8hardware8vibrator16IVibratorDefault16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8vibrator16IVibratorDefaultE"
+    },
+    {
+     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/IVibrator.h"
+  },
+  {
    "function_name" : "aidl::android::hardware::vibrator::IVibratorDefault::setExternalControl",
    "linker_set_key" : "_ZN4aidl7android8hardware8vibrator16IVibratorDefault18setExternalControlEb",
    "parameters" :
@@ -1465,6 +1597,22 @@
     },
     {
      "referenced_type" : "_ZTIb"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/IVibrator.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::vibrator::IVibratorDefault::getInterfaceVersion",
+   "linker_set_key" : "_ZN4aidl7android8hardware8vibrator16IVibratorDefault19getInterfaceVersionEPi",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8vibrator16IVibratorDefaultE"
+    },
+    {
+     "referenced_type" : "_ZTIPi"
     }
    ],
    "return_type" : "_ZTIN3ndk13ScopedAStatusE",
@@ -1689,10 +1837,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7AParcel#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump"
+     "referenced_type" : "_ZTIP7AParcel"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__110shared_ptrIN4aidl7android8hardware8vibrator17IVibratorCallbackEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump"
+     "referenced_type" : "_ZTIRKNSt3__110shared_ptrIN4aidl7android8hardware8vibrator17IVibratorCallbackEEE"
     }
    ],
    "return_type" : "_ZTIi",
@@ -1701,7 +1849,7 @@
   {
    "function_name" : "aidl::android::hardware::vibrator::IVibratorCallback::getDefaultImpl",
    "linker_set_key" : "_ZN4aidl7android8hardware8vibrator17IVibratorCallback14getDefaultImplEv",
-   "return_type" : "_ZTIRKNSt3__110shared_ptrIN4aidl7android8hardware8vibrator17IVibratorCallbackEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
+   "return_type" : "_ZTIRKNSt3__110shared_ptrIN4aidl7android8hardware8vibrator17IVibratorCallbackEEE",
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/IVibratorCallback.h"
   },
   {
@@ -1710,7 +1858,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIPK7AParcel#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump"
+     "referenced_type" : "_ZTIPK7AParcel"
     },
     {
      "referenced_type" : "_ZTIPNSt3__110shared_ptrIN4aidl7android8hardware8vibrator17IVibratorCallbackEEE"
@@ -1798,6 +1946,38 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/BnVibratorCallback.h"
   },
   {
+   "function_name" : "aidl::android::hardware::vibrator::BnVibratorCallback::getInterfaceHash",
+   "linker_set_key" : "_ZN4aidl7android8hardware8vibrator18BnVibratorCallback16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8vibrator18BnVibratorCallbackE"
+    },
+    {
+     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/BnVibratorCallback.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::vibrator::BnVibratorCallback::getInterfaceVersion",
+   "linker_set_key" : "_ZN4aidl7android8hardware8vibrator18BnVibratorCallback19getInterfaceVersionEPi",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8vibrator18BnVibratorCallbackE"
+    },
+    {
+     "referenced_type" : "_ZTIPi"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/BnVibratorCallback.h"
+  },
+  {
    "function_name" : "aidl::android::hardware::vibrator::BnVibratorCallback::BnVibratorCallback",
    "linker_set_key" : "_ZN4aidl7android8hardware8vibrator18BnVibratorCallbackC2Ev",
    "parameters" :
@@ -1857,6 +2037,38 @@
     {
      "is_this_ptr" : true,
      "referenced_type" : "_ZTIPN4aidl7android8hardware8vibrator18BpVibratorCallbackE"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/BpVibratorCallback.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::vibrator::BpVibratorCallback::getInterfaceHash",
+   "linker_set_key" : "_ZN4aidl7android8hardware8vibrator18BpVibratorCallback16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8vibrator18BpVibratorCallbackE"
+    },
+    {
+     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/BpVibratorCallback.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::vibrator::BpVibratorCallback::getInterfaceVersion",
+   "linker_set_key" : "_ZN4aidl7android8hardware8vibrator18BpVibratorCallback19getInterfaceVersionEPi",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8vibrator18BpVibratorCallbackE"
+    },
+    {
+     "referenced_type" : "_ZTIPi"
     }
    ],
    "return_type" : "_ZTIN3ndk13ScopedAStatusE",
@@ -1947,6 +2159,38 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/IVibratorCallback.h"
   },
   {
+   "function_name" : "aidl::android::hardware::vibrator::IVibratorCallbackDefault::getInterfaceHash",
+   "linker_set_key" : "_ZN4aidl7android8hardware8vibrator24IVibratorCallbackDefault16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8vibrator24IVibratorCallbackDefaultE"
+    },
+    {
+     "referenced_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/IVibratorCallback.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::vibrator::IVibratorCallbackDefault::getInterfaceVersion",
+   "linker_set_key" : "_ZN4aidl7android8hardware8vibrator24IVibratorCallbackDefault19getInterfaceVersionEPi",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8vibrator24IVibratorCallbackDefaultE"
+    },
+    {
+     "referenced_type" : "_ZTIPi"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/IVibratorCallback.h"
+  },
+  {
    "function_name" : "aidl::android::hardware::vibrator::IVibratorCallbackDefault::asBinder",
    "linker_set_key" : "_ZN4aidl7android8hardware8vibrator24IVibratorCallbackDefault8asBinderEv",
    "parameters" :
@@ -1990,7 +2234,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7AParcel#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump"
+     "referenced_type" : "_ZTIP7AParcel"
     },
     {
      "referenced_type" : "_ZTIRKNSt3__110shared_ptrIN4aidl7android8hardware8vibrator9IVibratorEEE"
@@ -2011,7 +2255,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIPK7AParcel#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump"
+     "referenced_type" : "_ZTIPK7AParcel"
     },
     {
      "referenced_type" : "_ZTIPNSt3__110shared_ptrIN4aidl7android8hardware8vibrator9IVibratorEEE"
@@ -2123,6 +2367,12 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/IVibratorCallback.h"
   },
   {
+   "linker_set_key" : "_ZN4aidl7android8hardware8vibrator17IVibratorCallback4hashE",
+   "name" : "aidl::android::hardware::vibrator::IVibratorCallback::hash",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/IVibratorCallback.h"
+  },
+  {
    "linker_set_key" : "_ZN4aidl7android8hardware8vibrator9IVibrator10descriptorE",
    "name" : "aidl::android::hardware::vibrator::IVibrator::descriptor",
    "referenced_type" : "_ZTIPKc",
@@ -2133,6 +2383,12 @@
    "linker_set_key" : "_ZN4aidl7android8hardware8vibrator9IVibrator12default_implE",
    "name" : "aidl::android::hardware::vibrator::IVibrator::default_impl",
    "referenced_type" : "_ZTINSt3__110shared_ptrIN4aidl7android8hardware8vibrator9IVibratorEEE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/IVibrator.h"
+  },
+  {
+   "linker_set_key" : "_ZN4aidl7android8hardware8vibrator9IVibrator4hashE",
+   "name" : "aidl::android::hardware::vibrator::IVibrator::hash",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/IVibrator.h"
   }
  ],
@@ -2158,15 +2414,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__110shared_ptrIN4aidl7android8hardware8vibrator17IVibratorCallbackEEE",
-   "name" : "const std::shared_ptr<aidl::android::hardware::vibrator::IVibratorCallback> &",
-   "referenced_type" : "_ZTIKNSt3__110shared_ptrIN4aidl7android8hardware8vibrator17IVibratorCallbackEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIRKNSt3__110shared_ptrIN4aidl7android8hardware8vibrator17IVibratorCallbackEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/IVibratorCallback.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__110shared_ptrIN4aidl7android8hardware8vibrator9IVibratorEEE",
    "name" : "const std::shared_ptr<aidl::android::hardware::vibrator::IVibrator> &",
    "referenced_type" : "_ZTIKNSt3__110shared_ptrIN4aidl7android8hardware8vibrator9IVibratorEEE",
@@ -2180,24 +2427,6 @@
    "name" : "const std::vector<char16_t, std::allocator<char16_t> > &",
    "referenced_type" : "_ZTIKNSt3__16vectorIDsNS_9allocatorIDsEEEE",
    "self_type" : "_ZTIRKNSt3__16vectorIDsNS_9allocatorIDsEEEE",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIDsNS_9allocatorIDsEEEE",
-   "name" : "const std::vector<char16_t, std::allocator<char16_t> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIDsNS_9allocatorIDsEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIDsNS_9allocatorIDsEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIDsNS_9allocatorIDsEEEE",
-   "name" : "const std::vector<char16_t, std::allocator<char16_t> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIDsNS_9allocatorIDsEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIDsNS_9allocatorIDsEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
   },
@@ -2221,46 +2450,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIaNS_9allocatorIaEEEE",
-   "name" : "const std::vector<signed char, std::allocator<signed char> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIaNS_9allocatorIaEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIaNS_9allocatorIaEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIaNS_9allocatorIaEEEE",
-   "name" : "const std::vector<signed char, std::allocator<signed char> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIaNS_9allocatorIaEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIaNS_9allocatorIaEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorIbNS_9allocatorIbEEEE",
    "name" : "const std::vector<bool, std::allocator<bool> > &",
    "referenced_type" : "_ZTIKNSt3__16vectorIbNS_9allocatorIbEEEE",
    "self_type" : "_ZTIRKNSt3__16vectorIbNS_9allocatorIbEEEE",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIbNS_9allocatorIbEEEE",
-   "name" : "const std::vector<bool, std::allocator<bool> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIbNS_9allocatorIbEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIbNS_9allocatorIbEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIbNS_9allocatorIbEEEE",
-   "name" : "const std::vector<bool, std::allocator<bool> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIbNS_9allocatorIbEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIbNS_9allocatorIbEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
   },
@@ -2275,46 +2468,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIdNS_9allocatorIdEEEE",
-   "name" : "const std::vector<double, std::allocator<double> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIdNS_9allocatorIdEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIdNS_9allocatorIdEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIdNS_9allocatorIdEEEE",
-   "name" : "const std::vector<double, std::allocator<double> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIdNS_9allocatorIdEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIdNS_9allocatorIdEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorIfNS_9allocatorIfEEEE",
    "name" : "const std::vector<float, std::allocator<float> > &",
    "referenced_type" : "_ZTIKNSt3__16vectorIfNS_9allocatorIfEEEE",
    "self_type" : "_ZTIRKNSt3__16vectorIfNS_9allocatorIfEEEE",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIfNS_9allocatorIfEEEE",
-   "name" : "const std::vector<float, std::allocator<float> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIfNS_9allocatorIfEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIfNS_9allocatorIfEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIfNS_9allocatorIfEEEE",
-   "name" : "const std::vector<float, std::allocator<float> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIfNS_9allocatorIfEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIfNS_9allocatorIfEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
   },
@@ -2329,46 +2486,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIiNS_9allocatorIiEEEE",
-   "name" : "const std::vector<int, std::allocator<int> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIiNS_9allocatorIiEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIiNS_9allocatorIiEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIiNS_9allocatorIiEEEE",
-   "name" : "const std::vector<int, std::allocator<int> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIiNS_9allocatorIiEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIiNS_9allocatorIiEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorIjNS_9allocatorIjEEEE",
    "name" : "const std::vector<unsigned int, std::allocator<unsigned int> > &",
    "referenced_type" : "_ZTIKNSt3__16vectorIjNS_9allocatorIjEEEE",
    "self_type" : "_ZTIRKNSt3__16vectorIjNS_9allocatorIjEEEE",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIjNS_9allocatorIjEEEE",
-   "name" : "const std::vector<unsigned int, std::allocator<unsigned int> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIjNS_9allocatorIjEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIjNS_9allocatorIjEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIjNS_9allocatorIjEEEE",
-   "name" : "const std::vector<unsigned int, std::allocator<unsigned int> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIjNS_9allocatorIjEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIjNS_9allocatorIjEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
   },
@@ -2383,46 +2504,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIxNS_9allocatorIxEEEE",
-   "name" : "const std::vector<long long, std::allocator<long long> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIxNS_9allocatorIxEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIxNS_9allocatorIxEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIxNS_9allocatorIxEEEE",
-   "name" : "const std::vector<long long, std::allocator<long long> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIxNS_9allocatorIxEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIxNS_9allocatorIxEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorIyNS_9allocatorIyEEEE",
    "name" : "const std::vector<unsigned long long, std::allocator<unsigned long long> > &",
    "referenced_type" : "_ZTIKNSt3__16vectorIyNS_9allocatorIyEEEE",
    "self_type" : "_ZTIRKNSt3__16vectorIyNS_9allocatorIyEEEE",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIyNS_9allocatorIyEEEE",
-   "name" : "const std::vector<unsigned long long, std::allocator<unsigned long long> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIyNS_9allocatorIyEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIyNS_9allocatorIyEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIyNS_9allocatorIyEEEE",
-   "name" : "const std::vector<unsigned long long, std::allocator<unsigned long long> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIyNS_9allocatorIyEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIyNS_9allocatorIyEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
   },
@@ -2437,46 +2522,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIDsNS_9allocatorIDsEEEEEE",
-   "name" : "const std::optional<std::vector<char16_t, std::allocator<char16_t> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIDsNS_9allocatorIDsEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIDsNS_9allocatorIDsEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIDsNS_9allocatorIDsEEEEEE",
-   "name" : "const std::optional<std::vector<char16_t, std::allocator<char16_t> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIDsNS_9allocatorIDsEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIDsNS_9allocatorIDsEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIaNS_9allocatorIaEEEEEE",
    "name" : "const std::optional<std::vector<signed char, std::allocator<signed char> > > &",
    "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIaNS_9allocatorIaEEEEEE",
    "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIaNS_9allocatorIaEEEEEE",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIaNS_9allocatorIaEEEEEE",
-   "name" : "const std::optional<std::vector<signed char, std::allocator<signed char> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIaNS_9allocatorIaEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIaNS_9allocatorIaEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIaNS_9allocatorIaEEEEEE",
-   "name" : "const std::optional<std::vector<signed char, std::allocator<signed char> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIaNS_9allocatorIaEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIaNS_9allocatorIaEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
   },
@@ -2491,46 +2540,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIbNS_9allocatorIbEEEEEE",
-   "name" : "const std::optional<std::vector<bool, std::allocator<bool> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIbNS_9allocatorIbEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIbNS_9allocatorIbEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIbNS_9allocatorIbEEEEEE",
-   "name" : "const std::optional<std::vector<bool, std::allocator<bool> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIbNS_9allocatorIbEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIbNS_9allocatorIbEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIdNS_9allocatorIdEEEEEE",
    "name" : "const std::optional<std::vector<double, std::allocator<double> > > &",
    "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIdNS_9allocatorIdEEEEEE",
    "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIdNS_9allocatorIdEEEEEE",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIdNS_9allocatorIdEEEEEE",
-   "name" : "const std::optional<std::vector<double, std::allocator<double> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIdNS_9allocatorIdEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIdNS_9allocatorIdEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIdNS_9allocatorIdEEEEEE",
-   "name" : "const std::optional<std::vector<double, std::allocator<double> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIdNS_9allocatorIdEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIdNS_9allocatorIdEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
   },
@@ -2545,46 +2558,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIfNS_9allocatorIfEEEEEE",
-   "name" : "const std::optional<std::vector<float, std::allocator<float> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIfNS_9allocatorIfEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIfNS_9allocatorIfEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIfNS_9allocatorIfEEEEEE",
-   "name" : "const std::optional<std::vector<float, std::allocator<float> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIfNS_9allocatorIfEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIfNS_9allocatorIfEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIiNS_9allocatorIiEEEEEE",
    "name" : "const std::optional<std::vector<int, std::allocator<int> > > &",
    "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIiNS_9allocatorIiEEEEEE",
    "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIiNS_9allocatorIiEEEEEE",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIiNS_9allocatorIiEEEEEE",
-   "name" : "const std::optional<std::vector<int, std::allocator<int> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIiNS_9allocatorIiEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIiNS_9allocatorIiEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIiNS_9allocatorIiEEEEEE",
-   "name" : "const std::optional<std::vector<int, std::allocator<int> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIiNS_9allocatorIiEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIiNS_9allocatorIiEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
   },
@@ -2599,24 +2576,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIjNS_9allocatorIjEEEEEE",
-   "name" : "const std::optional<std::vector<unsigned int, std::allocator<unsigned int> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIjNS_9allocatorIjEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIjNS_9allocatorIjEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIjNS_9allocatorIjEEEEEE",
-   "name" : "const std::optional<std::vector<unsigned int, std::allocator<unsigned int> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIjNS_9allocatorIjEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIjNS_9allocatorIjEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIxNS_9allocatorIxEEEEEE",
    "name" : "const std::optional<std::vector<long long, std::allocator<long long> > > &",
    "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIxNS_9allocatorIxEEEEEE",
@@ -2626,46 +2585,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIxNS_9allocatorIxEEEEEE",
-   "name" : "const std::optional<std::vector<long long, std::allocator<long long> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIxNS_9allocatorIxEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIxNS_9allocatorIxEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIxNS_9allocatorIxEEEEEE",
-   "name" : "const std::optional<std::vector<long long, std::allocator<long long> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIxNS_9allocatorIxEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIxNS_9allocatorIxEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIyNS_9allocatorIyEEEEEE",
    "name" : "const std::optional<std::vector<unsigned long long, std::allocator<unsigned long long> > > &",
    "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIyNS_9allocatorIyEEEEEE",
    "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIyNS_9allocatorIyEEEEEE",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIyNS_9allocatorIyEEEEEE",
-   "name" : "const std::optional<std::vector<unsigned long long, std::allocator<unsigned long long> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIyNS_9allocatorIyEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIyNS_9allocatorIyEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIyNS_9allocatorIyEEEEEE",
-   "name" : "const std::optional<std::vector<unsigned long long, std::allocator<unsigned long long> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIyNS_9allocatorIyEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIyNS_9allocatorIyEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
   },
@@ -2761,24 +2684,6 @@
    "self_type" : "_ZTIPK7AParcel",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_interface_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7AParcel",
-   "name" : "const AParcel *",
-   "referenced_type" : "_ZTIK7AParcel#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIPK7AParcel#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7AParcel",
-   "name" : "const AParcel *",
-   "referenced_type" : "_ZTIK7AParcel#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIPK7AParcel#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
   },
   {
    "alignment" : 4,
@@ -3097,6 +3002,15 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char> > *",
+   "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "self_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "size" : 4,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/IVibrator.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIPNSt3__16vectorIDsNS_9allocatorIDsEEEE",
    "name" : "std::vector<char16_t, std::allocator<char16_t> > *",
    "referenced_type" : "_ZTINSt3__16vectorIDsNS_9allocatorIDsEEEE",
@@ -3279,17 +3193,8 @@
    "alignment" : 4,
    "linker_set_key" : "_ZTIPP7AParcel",
    "name" : "AParcel **",
-   "referenced_type" : "_ZTIP7AParcel#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
+   "referenced_type" : "_ZTIP7AParcel",
    "self_type" : "_ZTIPP7AParcel",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_auto_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP7AParcel",
-   "name" : "AParcel **",
-   "referenced_type" : "_ZTIP7AParcel#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIPP7AParcel#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_auto_utils.h"
   },
@@ -3297,7 +3202,7 @@
    "alignment" : 4,
    "linker_set_key" : "_ZTIPP7AStatus",
    "name" : "AStatus **",
-   "referenced_type" : "_ZTIP7AStatus#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
+   "referenced_type" : "_ZTIP7AStatus",
    "self_type" : "_ZTIPP7AStatus",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_auto_utils.h"
@@ -3308,24 +3213,6 @@
    "name" : "AIBinder **",
    "referenced_type" : "_ZTIP8AIBinder",
    "self_type" : "_ZTIPP8AIBinder",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_auto_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP8AIBinder",
-   "name" : "AIBinder **",
-   "referenced_type" : "_ZTIP8AIBinder#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIPP8AIBinder#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_auto_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP8AIBinder",
-   "name" : "AIBinder **",
-   "referenced_type" : "_ZTIP8AIBinder#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIPP8AIBinder#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_auto_utils.h"
   },
@@ -3436,6 +3323,16 @@
    "self_type" : "_ZTIKNSt3__110shared_ptrIN4aidl7android8hardware8vibrator9IVibratorEEE",
    "size" : 8,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/IVibrator.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> >",
+   "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "self_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "size" : 12,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/IVibratorCallback.h"
   },
   {
    "alignment" : 1,
@@ -3662,26 +3559,6 @@
    "is_const" : true,
    "linker_set_key" : "_ZTIKP7AStatus",
    "name" : "AStatus *const",
-   "referenced_type" : "_ZTIP7AStatus#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "self_type" : "_ZTIKP7AStatus#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibrator.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_auto_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKP7AStatus",
-   "name" : "AStatus *const",
-   "referenced_type" : "_ZTIP7AStatus#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "self_type" : "_ZTIKP7AStatus#ODR:out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/android/hardware/vibrator/IVibratorCallback.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_auto_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKP7AStatus",
-   "name" : "AStatus *const",
    "referenced_type" : "_ZTIP7AStatus",
    "self_type" : "_ZTIKP7AStatus",
    "size" : 4,
@@ -3868,6 +3745,14 @@
     },
     {
      "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator17IVibratorCallback19getInterfaceVersionEPi"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator17IVibratorCallback16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+    },
+    {
+     "is_pure" : true,
      "mangled_component_name" : "_ZN3ndk12BnCInterfaceIN4aidl7android8hardware8vibrator17IVibratorCallbackEE12createBinderEv"
     }
    ]
@@ -3994,6 +3879,14 @@
     },
     {
      "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator9IVibrator19getInterfaceVersionEPi"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator9IVibrator16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+    },
+    {
+     "is_pure" : true,
      "mangled_component_name" : "_ZN3ndk12BnCInterfaceIN4aidl7android8hardware8vibrator9IVibratorEE12createBinderEv"
     }
    ]
@@ -4055,6 +3948,14 @@
     {
      "is_pure" : true,
      "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator17IVibratorCallback10onCompleteEv"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator17IVibratorCallback19getInterfaceVersionEPi"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator17IVibratorCallback16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
     }
    ]
   },
@@ -4171,6 +4072,14 @@
     {
      "is_pure" : true,
      "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator9IVibrator15alwaysOnDisableEi"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator9IVibrator19getInterfaceVersionEPi"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator9IVibrator16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
     }
    ]
   },
@@ -4497,6 +4406,12 @@
      "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator9IVibrator15alwaysOnDisableEi"
     },
     {
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator10BnVibrator19getInterfaceVersionEPi"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator10BnVibrator16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+    },
+    {
      "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator10BnVibrator12createBinderEv"
     }
    ]
@@ -4509,12 +4424,30 @@
      "referenced_type" : "_ZTIN3ndk12BpCInterfaceIN4aidl7android8hardware8vibrator9IVibratorEEE"
     }
    ],
+   "fields" :
+   [
+    {
+     "field_name" : "_aidl_cached_version",
+     "field_offset" : 160,
+     "referenced_type" : "_ZTIi"
+    },
+    {
+     "field_name" : "_aidl_cached_hash",
+     "field_offset" : 192,
+     "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+    },
+    {
+     "field_name" : "_aidl_cached_hash_mutex",
+     "field_offset" : 288,
+     "referenced_type" : "_ZTINSt3__15mutexE"
+    }
+   ],
    "linker_set_key" : "_ZTIN4aidl7android8hardware8vibrator10BpVibratorE",
    "name" : "aidl::android::hardware::vibrator::BpVibrator",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN4aidl7android8hardware8vibrator10BpVibratorE",
    "self_type" : "_ZTIN4aidl7android8hardware8vibrator10BpVibratorE",
-   "size" : 20,
+   "size" : 40,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/BpVibrator.h",
    "vtable_components" :
    [
@@ -4589,6 +4522,12 @@
     },
     {
      "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator10BpVibrator15alwaysOnDisableEi"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator10BpVibrator19getInterfaceVersionEPi"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator10BpVibrator16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
     }
    ]
   },
@@ -4707,6 +4646,12 @@
     },
     {
      "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator16IVibratorDefault15alwaysOnDisableEi"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator16IVibratorDefault19getInterfaceVersionEPi"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator16IVibratorDefault16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
     }
    ]
   },
@@ -4759,6 +4704,14 @@
     {
      "is_pure" : true,
      "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator17IVibratorCallback10onCompleteEv"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator17IVibratorCallback19getInterfaceVersionEPi"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator17IVibratorCallback16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
     }
    ]
   },
@@ -4811,6 +4764,12 @@
      "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator17IVibratorCallback10onCompleteEv"
     },
     {
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator18BnVibratorCallback19getInterfaceVersionEPi"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator18BnVibratorCallback16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
+    },
+    {
      "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator18BnVibratorCallback12createBinderEv"
     }
    ]
@@ -4823,12 +4782,30 @@
      "referenced_type" : "_ZTIN3ndk12BpCInterfaceIN4aidl7android8hardware8vibrator17IVibratorCallbackEEE"
     }
    ],
+   "fields" :
+   [
+    {
+     "field_name" : "_aidl_cached_version",
+     "field_offset" : 160,
+     "referenced_type" : "_ZTIi"
+    },
+    {
+     "field_name" : "_aidl_cached_hash",
+     "field_offset" : 192,
+     "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+    },
+    {
+     "field_name" : "_aidl_cached_hash_mutex",
+     "field_offset" : 288,
+     "referenced_type" : "_ZTINSt3__15mutexE"
+    }
+   ],
    "linker_set_key" : "_ZTIN4aidl7android8hardware8vibrator18BpVibratorCallbackE",
    "name" : "aidl::android::hardware::vibrator::BpVibratorCallback",
    "record_kind" : "class",
    "referenced_type" : "_ZTIN4aidl7android8hardware8vibrator18BpVibratorCallbackE",
    "self_type" : "_ZTIN4aidl7android8hardware8vibrator18BpVibratorCallbackE",
-   "size" : 20,
+   "size" : 40,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/vibrator/aidl/android.hardware.vibrator-ndk_platform-source/gen/include/aidl/android/hardware/vibrator/BpVibratorCallback.h",
    "vtable_components" :
    [
@@ -4861,6 +4838,12 @@
     },
     {
      "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator18BpVibratorCallback10onCompleteEv"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator18BpVibratorCallback19getInterfaceVersionEPi"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator18BpVibratorCallback16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
     }
    ]
   },
@@ -4910,6 +4893,12 @@
     },
     {
      "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator24IVibratorCallbackDefault10onCompleteEv"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator24IVibratorCallbackDefault19getInterfaceVersionEPi"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator24IVibratorCallbackDefault16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
     }
    ]
   },
@@ -5018,6 +5007,14 @@
     {
      "is_pure" : true,
      "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator9IVibrator15alwaysOnDisableEi"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator9IVibrator19getInterfaceVersionEPi"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8vibrator9IVibrator16getInterfaceHashEPNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEE"
     }
    ]
   }
