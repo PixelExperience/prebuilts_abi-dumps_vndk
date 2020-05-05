@@ -2,14 +2,6 @@
  "array_types" :
  [
   {
-   "alignment" : 1,
-   "linker_set_key" : "_ZTIA0_c",
-   "name" : "char [0]",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIA0_c",
-   "source_file" : "/system/core/liblog/include/log/log_read.h"
-  },
-  {
    "alignment" : 4,
    "linker_set_key" : "_ZTIA0_i",
    "name" : "int [0]",
@@ -115,6 +107,15 @@
    "self_type" : "_ZTIA5121_h",
    "size" : 5121,
    "source_file" : "/system/core/liblog/include/log/log_read.h"
+  },
+  {
+   "alignment" : 1,
+   "linker_set_key" : "_ZTIA64_c",
+   "name" : "char [64]",
+   "referenced_type" : "_ZTIc",
+   "self_type" : "_ZTIA64_c",
+   "size" : 64,
+   "source_file" : "/frameworks/native/libs/ui/include/ui/FatVector.h"
   },
   {
    "alignment" : 8,
@@ -1688,30 +1689,6 @@
    "name" : "_ZNK7android6Region9translateEii"
   },
   {
-   "binding" : "weak",
-   "name" : "_ZNK7android6VectorINS_4RectEE10do_destroyEPvm"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNK7android6VectorINS_4RectEE12do_constructEPvm"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNK7android6VectorINS_4RectEE15do_move_forwardEPvPKvm"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNK7android6VectorINS_4RectEE16do_move_backwardEPvPKvm"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNK7android6VectorINS_4RectEE7do_copyEPvPKvm"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNK7android6VectorINS_4RectEE8do_splatEPvPKvm"
-  },
-  {
    "name" : "_ZNK7android9FenceTime11getSnapshotEv"
   },
   {
@@ -2259,6 +2236,30 @@
   },
   {
    "binding" : "weak",
+   "name" : "_ZNSt3__16vectorIN7android4RectENS1_18InlineStdAllocatorIS2_Lm4EEEE21__push_back_slow_pathIRKS2_EEvOT_"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZNSt3__16vectorIN7android4RectENS1_18InlineStdAllocatorIS2_Lm4EEEE21__push_back_slow_pathIS2_EEvOT_"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZNSt3__16vectorIN7android4RectENS1_18InlineStdAllocatorIS2_Lm4EEEE6insertENS_11__wrap_iterIPKS2_EERS7_"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZNSt3__16vectorIN7android4RectENS1_18InlineStdAllocatorIS2_Lm4EEEE6insertINS_11__wrap_iterIPKS2_EEEENS_9enable_ifIXaasr21__is_forward_iteratorIT_EE5valuesr16is_constructibleIS2_NS_15iterator_traitsISC_E9referenceEEE5valueENS7_IPS2_EEE4typeESA_SC_SC_"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZNSt3__16vectorIN7android4RectENS1_18InlineStdAllocatorIS2_Lm4EEEE6insertINS_11__wrap_iterIPS2_EEEENS_9enable_ifIXaasr21__is_forward_iteratorIT_EE5valuesr16is_constructibleIS2_NS_15iterator_traitsISB_E9referenceEEE5valueES9_E4typeENS7_IPKS2_EESB_SB_"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZNSt3__16vectorIN7android4RectENS1_18InlineStdAllocatorIS2_Lm4EEEE7reserveEm"
+  },
+  {
+   "binding" : "weak",
    "name" : "_ZNSt3__16vectorIN7android8hardware8graphics6common4V1_23HdrENS_9allocatorIS6_EEE8__appendEm"
   },
   {
@@ -2362,10 +2363,6 @@
   },
   {
    "name" : "_ZTVN7android6Region10rasterizerE"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZTVN7android6VectorINS_4RectEEE"
   },
   {
    "binding" : "weak",
@@ -4728,7 +4725,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android13GraphicBuffer13$USAGE_CURSORE",
-   "name" : "android::GraphicBuffer::(anonymous enum at frameworks/native/libs/ui/include/ui/GraphicBuffer.h:60:5)",
+   "name" : "android::GraphicBuffer::(anonymous enum at frameworks/native/libs/ui/include/ui/GraphicBuffer.h:56:5)",
    "referenced_type" : "_ZTIN7android13GraphicBuffer13$USAGE_CURSORE",
    "self_type" : "_ZTIN7android13GraphicBuffer13$USAGE_CURSORE",
    "size" : 4,
@@ -4783,7 +4780,7 @@
     }
    ],
    "linker_set_key" : "_ZTIN7android13GraphicBuffer8$ownDataE",
-   "name" : "android::GraphicBuffer::(anonymous enum at frameworks/native/libs/ui/include/ui/GraphicBuffer.h:236:5)",
+   "name" : "android::GraphicBuffer::(anonymous enum at frameworks/native/libs/ui/include/ui/GraphicBuffer.h:221:5)",
    "referenced_type" : "_ZTIN7android13GraphicBuffer8$ownDataE",
    "self_type" : "_ZTIN7android13GraphicBuffer8$ownDataE",
    "size" : 4,
@@ -4820,23 +4817,6 @@
    "name" : "android::trait_pointer<alloc_rec_t>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:39:51)",
    "referenced_type" : "_ZTIN7android13trait_pointerINS_22GraphicBufferAllocator11alloc_rec_tEE6$valueE",
    "self_type" : "_ZTIN7android13trait_pointerINS_22GraphicBufferAllocator11alloc_rec_tEE6$valueE",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h",
-   "underlying_type" : "_ZTIj"
-  },
-  {
-   "alignment" : 4,
-   "enum_fields" :
-   [
-    {
-     "enum_field_value" : 0,
-     "name" : "android::trait_pointer<android::Rect>::value"
-    }
-   ],
-   "linker_set_key" : "_ZTIN7android13trait_pointerINS_4RectEE6$valueE",
-   "name" : "android::trait_pointer<Rect>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:39:51)",
-   "referenced_type" : "_ZTIN7android13trait_pointerINS_4RectEE6$valueE",
-   "self_type" : "_ZTIN7android13trait_pointerINS_4RectEE6$valueE",
    "size" : 4,
    "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h",
    "underlying_type" : "_ZTIj"
@@ -6850,39 +6830,6 @@
    "name" : "android::traits<alloc_rec_t>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:44:5)",
    "referenced_type" : "_ZTIN7android6traitsINS_22GraphicBufferAllocator11alloc_rec_tEE17$has_trivial_copyE",
    "self_type" : "_ZTIN7android6traitsINS_22GraphicBufferAllocator11alloc_rec_tEE17$has_trivial_copyE",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h",
-   "underlying_type" : "_ZTIj"
-  },
-  {
-   "alignment" : 4,
-   "enum_fields" :
-   [
-    {
-     "enum_field_value" : 0,
-     "name" : "android::traits<android::Rect>::is_pointer"
-    },
-    {
-     "enum_field_value" : 1,
-     "name" : "android::traits<android::Rect>::has_trivial_ctor"
-    },
-    {
-     "enum_field_value" : 1,
-     "name" : "android::traits<android::Rect>::has_trivial_dtor"
-    },
-    {
-     "enum_field_value" : 1,
-     "name" : "android::traits<android::Rect>::has_trivial_copy"
-    },
-    {
-     "enum_field_value" : 1,
-     "name" : "android::traits<android::Rect>::has_trivial_move"
-    }
-   ],
-   "linker_set_key" : "_ZTIN7android6traitsINS_4RectEE17$has_trivial_copyE",
-   "name" : "android::traits<Rect>::(anonymous enum at system/core/libutils/include/utils/TypeHelpers.h:44:5)",
-   "referenced_type" : "_ZTIN7android6traitsINS_4RectEE17$has_trivial_copyE",
-   "self_type" : "_ZTIN7android6traitsINS_4RectEE17$has_trivial_copyE",
    "size" : 4,
    "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h",
    "underlying_type" : "_ZTIj"
@@ -18051,138 +17998,6 @@
    "source_file" : "/frameworks/native/libs/ui/include/ui/Region.h"
   },
   {
-   "access" : "protected",
-   "function_name" : "android::Vector<android::Rect>::do_destroy",
-   "linker_set_key" : "_ZNK7android6VectorINS_4RectEE10do_destroyEPvm",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPKN7android6VectorINS_4RectEEE"
-    },
-    {
-     "referenced_type" : "_ZTIPv"
-    },
-    {
-     "referenced_type" : "_ZTIm"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "access" : "protected",
-   "function_name" : "android::Vector<android::Rect>::do_construct",
-   "linker_set_key" : "_ZNK7android6VectorINS_4RectEE12do_constructEPvm",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPKN7android6VectorINS_4RectEEE"
-    },
-    {
-     "referenced_type" : "_ZTIPv"
-    },
-    {
-     "referenced_type" : "_ZTIm"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "access" : "protected",
-   "function_name" : "android::Vector<android::Rect>::do_move_forward",
-   "linker_set_key" : "_ZNK7android6VectorINS_4RectEE15do_move_forwardEPvPKvm",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPKN7android6VectorINS_4RectEEE"
-    },
-    {
-     "referenced_type" : "_ZTIPv"
-    },
-    {
-     "referenced_type" : "_ZTIPKv"
-    },
-    {
-     "referenced_type" : "_ZTIm"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "access" : "protected",
-   "function_name" : "android::Vector<android::Rect>::do_move_backward",
-   "linker_set_key" : "_ZNK7android6VectorINS_4RectEE16do_move_backwardEPvPKvm",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPKN7android6VectorINS_4RectEEE"
-    },
-    {
-     "referenced_type" : "_ZTIPv"
-    },
-    {
-     "referenced_type" : "_ZTIPKv"
-    },
-    {
-     "referenced_type" : "_ZTIm"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "access" : "protected",
-   "function_name" : "android::Vector<android::Rect>::do_copy",
-   "linker_set_key" : "_ZNK7android6VectorINS_4RectEE7do_copyEPvPKvm",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPKN7android6VectorINS_4RectEEE"
-    },
-    {
-     "referenced_type" : "_ZTIPv"
-    },
-    {
-     "referenced_type" : "_ZTIPKv"
-    },
-    {
-     "referenced_type" : "_ZTIm"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "access" : "protected",
-   "function_name" : "android::Vector<android::Rect>::do_splat",
-   "linker_set_key" : "_ZNK7android6VectorINS_4RectEE8do_splatEPvPKvm",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPKN7android6VectorINS_4RectEEE"
-    },
-    {
-     "referenced_type" : "_ZTIPv"
-    },
-    {
-     "referenced_type" : "_ZTIPKv"
-    },
-    {
-     "referenced_type" : "_ZTIm"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
    "function_name" : "android::FenceTime::getSnapshot",
    "linker_set_key" : "_ZNK7android9FenceTime11getSnapshotEv",
    "parameters" :
@@ -18526,6 +18341,15 @@
   },
   {
    "alignment" : 8,
+   "linker_set_key" : "_ZTIRKN7android18InlineStdAllocatorINS_4RectELm4EEE",
+   "name" : "const android::InlineStdAllocator<android::Rect, 4> &",
+   "referenced_type" : "_ZTIKN7android18InlineStdAllocatorINS_4RectELm4EEE",
+   "self_type" : "_ZTIRKN7android18InlineStdAllocatorINS_4RectELm4EEE",
+   "size" : 8,
+   "source_file" : "/frameworks/native/libs/ui/include/ui/FatVector.h"
+  },
+  {
+   "alignment" : 8,
    "linker_set_key" : "_ZTIRKN7android19GraphicBufferMapperE",
    "name" : "const android::GraphicBufferMapper &",
    "referenced_type" : "_ZTIKN7android19GraphicBufferMapperE",
@@ -18622,15 +18446,6 @@
    "self_type" : "_ZTIRKN7android6RegionE",
    "size" : 8,
    "source_file" : "/frameworks/native/libs/ui/include/ui/Region.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRKN7android6VectorINS_4RectEEE",
-   "name" : "const android::Vector<android::Rect> &",
-   "referenced_type" : "_ZTIKN7android6VectorINS_4RectEEE",
-   "self_type" : "_ZTIRKN7android6VectorINS_4RectEEE",
-   "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
   },
   {
    "alignment" : 8,
@@ -19202,6 +19017,15 @@
   },
   {
    "alignment" : 8,
+   "linker_set_key" : "_ZTIRN7android18InlineStdAllocatorINS_4RectELm4EE10AllocationE",
+   "name" : "android::InlineStdAllocator<Rect, 4>::Allocation &",
+   "referenced_type" : "_ZTIN7android18InlineStdAllocatorINS_4RectELm4EE10AllocationE",
+   "self_type" : "_ZTIRN7android18InlineStdAllocatorINS_4RectELm4EE10AllocationE",
+   "size" : 8,
+   "source_file" : "/frameworks/native/libs/ui/include/ui/FatVector.h"
+  },
+  {
+   "alignment" : 8,
    "linker_set_key" : "_ZTIRN7android19GraphicBufferMapperE",
    "name" : "android::GraphicBufferMapper &",
    "referenced_type" : "_ZTIN7android19GraphicBufferMapperE",
@@ -19343,15 +19167,6 @@
    "self_type" : "_ZTIRN7android6RegionE",
    "size" : 8,
    "source_file" : "/frameworks/native/libs/ui/include/ui/Region.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRN7android6VectorINS_4RectEEE",
-   "name" : "android::Vector<android::Rect> &",
-   "referenced_type" : "_ZTIN7android6VectorINS_4RectEEE",
-   "self_type" : "_ZTIRN7android6VectorINS_4RectEEE",
-   "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
   },
   {
    "alignment" : 8,
@@ -20762,15 +20577,6 @@
   },
   {
    "alignment" : 8,
-   "linker_set_key" : "_ZTIPKN7android6VectorINS_4RectEEE",
-   "name" : "const android::Vector<android::Rect> *",
-   "referenced_type" : "_ZTIKN7android6VectorINS_4RectEEE",
-   "self_type" : "_ZTIPKN7android6VectorINS_4RectEEE",
-   "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "alignment" : 8,
    "linker_set_key" : "_ZTIPKN7android6VectorIlEE",
    "name" : "const android::Vector<long> *",
    "referenced_type" : "_ZTIKN7android6VectorIlEE",
@@ -21626,6 +21432,24 @@
   },
   {
    "alignment" : 8,
+   "linker_set_key" : "_ZTIPN7android18InlineStdAllocatorINS_4RectELm4EE10AllocationE",
+   "name" : "android::InlineStdAllocator<Rect, 4>::Allocation *",
+   "referenced_type" : "_ZTIN7android18InlineStdAllocatorINS_4RectELm4EE10AllocationE",
+   "self_type" : "_ZTIPN7android18InlineStdAllocatorINS_4RectELm4EE10AllocationE",
+   "size" : 8,
+   "source_file" : "/frameworks/native/libs/ui/include/ui/FatVector.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIPN7android18InlineStdAllocatorINS_4RectELm4EEE",
+   "name" : "android::InlineStdAllocator<android::Rect, 4> *",
+   "referenced_type" : "_ZTIN7android18InlineStdAllocatorINS_4RectELm4EEE",
+   "self_type" : "_ZTIPN7android18InlineStdAllocatorINS_4RectELm4EEE",
+   "size" : 8,
+   "source_file" : "/frameworks/native/libs/ui/include/ui/FatVector.h"
+  },
+  {
+   "alignment" : 8,
    "linker_set_key" : "_ZTIPN7android19ColorSpaceConnectorE",
    "name" : "android::ColorSpaceConnector *",
    "referenced_type" : "_ZTIN7android19ColorSpaceConnectorE",
@@ -21947,15 +21771,6 @@
    "self_type" : "_ZTIPN7android6ThreadE",
    "size" : 8,
    "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIPN7android6VectorINS_4RectEEE",
-   "name" : "android::Vector<android::Rect> *",
-   "referenced_type" : "_ZTIN7android6VectorINS_4RectEEE",
-   "self_type" : "_ZTIPN7android6VectorINS_4RectEEE",
-   "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
   },
   {
    "alignment" : 8,
@@ -22586,6 +22401,15 @@
    "self_type" : "_ZTIPN7android9ConditionE",
    "size" : 8,
    "source_file" : "/system/core/libutils/include/utils/Condition.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIPN7android9FatVectorINS_4RectELm4EEE",
+   "name" : "android::FatVector<android::Rect, 4> *",
+   "referenced_type" : "_ZTIN7android9FatVectorINS_4RectELm4EEE",
+   "self_type" : "_ZTIPN7android9FatVectorINS_4RectELm4EEE",
+   "size" : 8,
+   "source_file" : "/frameworks/native/libs/ui/include/ui/FatVector.h"
   },
   {
    "alignment" : 8,
@@ -23223,6 +23047,16 @@
    "source_file" : "/frameworks/native/libs/ui/include/ui/Gralloc4.h"
   },
   {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKN7android18InlineStdAllocatorINS_4RectELm4EEE",
+   "name" : "const android::InlineStdAllocator<android::Rect, 4>",
+   "referenced_type" : "_ZTIN7android18InlineStdAllocatorINS_4RectELm4EEE",
+   "self_type" : "_ZTIKN7android18InlineStdAllocatorINS_4RectELm4EEE",
+   "size" : 8,
+   "source_file" : "/frameworks/native/libs/ui/include/ui/FatVector.h"
+  },
+  {
    "alignment" : 16,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android19ColorSpaceConnectorE",
@@ -23559,18 +23393,8 @@
    "name" : "const android::Region",
    "referenced_type" : "_ZTIN7android6RegionE",
    "self_type" : "_ZTIKN7android6RegionE",
-   "size" : 40,
+   "size" : 104,
    "source_file" : "/frameworks/native/libs/ui/include/ui/Region.h"
-  },
-  {
-   "alignment" : 8,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKN7android6VectorINS_4RectEEE",
-   "name" : "const android::Vector<android::Rect>",
-   "referenced_type" : "_ZTIN7android6VectorINS_4RectEEE",
-   "self_type" : "_ZTIKN7android6VectorINS_4RectEEE",
-   "size" : 40,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
   },
   {
    "alignment" : 8,
@@ -25049,11 +24873,6 @@
      "field_name" : "uid",
      "field_offset" : 192,
      "referenced_type" : "_ZTIj"
-    },
-    {
-     "field_name" : "msg",
-     "field_offset" : 224,
-     "referenced_type" : "_ZTIA0_c"
     }
    ],
    "linker_set_key" : "_ZTI12logger_entry",
@@ -27215,14 +27034,8 @@
     },
     {
      "access" : "private",
-     "field_name" : "mBufferId",
-     "field_offset" : 1792,
-     "referenced_type" : "_ZTIi"
-    },
-    {
-     "access" : "private",
      "field_name" : "mGenerationNumber",
-     "field_offset" : 1824,
+     "field_offset" : 1792,
      "referenced_type" : "_ZTIj"
     },
     {
@@ -27292,16 +27105,6 @@
    "size" : 1,
    "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h",
    "template_args" : [ "_ZTIN7android22GraphicBufferAllocator11alloc_rec_tE" ]
-  },
-  {
-   "alignment" : 1,
-   "linker_set_key" : "_ZTIN7android13trait_pointerINS_4RectEEE",
-   "name" : "android::trait_pointer<android::Rect>",
-   "referenced_type" : "_ZTIN7android13trait_pointerINS_4RectEEE",
-   "self_type" : "_ZTIN7android13trait_pointerINS_4RectEEE",
-   "size" : 1,
-   "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h",
-   "template_args" : [ "_ZTIN7android4RectE" ]
   },
   {
    "alignment" : 1,
@@ -28373,22 +28176,6 @@
      "referenced_type" : "_ZTINSt3__117integral_constantIbLb1EEE"
     }
    ],
-   "linker_set_key" : "_ZTIN7android16use_trivial_moveINS_4RectEEE",
-   "name" : "android::use_trivial_move<android::Rect>",
-   "referenced_type" : "_ZTIN7android16use_trivial_moveINS_4RectEEE",
-   "self_type" : "_ZTIN7android16use_trivial_moveINS_4RectEEE",
-   "size" : 1,
-   "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h",
-   "template_args" : [ "_ZTIN7android4RectE" ]
-  },
-  {
-   "alignment" : 1,
-   "base_specifiers" :
-   [
-    {
-     "referenced_type" : "_ZTINSt3__117integral_constantIbLb1EEE"
-    }
-   ],
    "linker_set_key" : "_ZTIN7android16use_trivial_moveIlEE",
    "name" : "android::use_trivial_move<long>",
    "referenced_type" : "_ZTIN7android16use_trivial_moveIlEE",
@@ -28725,6 +28512,45 @@
      "mangled_component_name" : "_ZNK7android17Gralloc4Allocator8allocateENSt3__112basic_stringIcNS1_11char_traitsIcEENS1_9allocatorIcEEEEjjijmjPjPPK13native_handleb"
     }
    ]
+  },
+  {
+   "alignment" : 1,
+   "fields" :
+   [
+    {
+     "field_name" : "array",
+     "referenced_type" : "_ZTIA64_c"
+    },
+    {
+     "field_name" : "inUse",
+     "field_offset" : 512,
+     "referenced_type" : "_ZTIb"
+    }
+   ],
+   "linker_set_key" : "_ZTIN7android18InlineStdAllocatorINS_4RectELm4EE10AllocationE",
+   "name" : "android::InlineStdAllocator<Rect, 4>::Allocation",
+   "referenced_type" : "_ZTIN7android18InlineStdAllocatorINS_4RectELm4EE10AllocationE",
+   "self_type" : "_ZTIN7android18InlineStdAllocatorINS_4RectELm4EE10AllocationE",
+   "size" : 65,
+   "source_file" : "/frameworks/native/libs/ui/include/ui/FatVector.h"
+  },
+  {
+   "alignment" : 8,
+   "fields" :
+   [
+    {
+     "field_name" : "mAllocation",
+     "referenced_type" : "_ZTIRN7android18InlineStdAllocatorINS_4RectELm4EE10AllocationE"
+    }
+   ],
+   "linker_set_key" : "_ZTIN7android18InlineStdAllocatorINS_4RectELm4EEE",
+   "name" : "android::InlineStdAllocator<android::Rect, 4>",
+   "record_kind" : "class",
+   "referenced_type" : "_ZTIN7android18InlineStdAllocatorINS_4RectELm4EEE",
+   "self_type" : "_ZTIN7android18InlineStdAllocatorINS_4RectELm4EEE",
+   "size" : 8,
+   "source_file" : "/frameworks/native/libs/ui/include/ui/FatVector.h",
+   "template_args" : [ "_ZTIN7android4RectE" ]
   },
   {
    "alignment" : 1,
@@ -30654,7 +30480,7 @@
     {
      "access" : "private",
      "field_name" : "mStorage",
-     "referenced_type" : "_ZTIN7android6VectorINS_4RectEEE"
+     "referenced_type" : "_ZTIN7android9FatVectorINS_4RectELm4EEE"
     }
    ],
    "linker_set_key" : "_ZTIN7android6RegionE",
@@ -30662,7 +30488,7 @@
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android6RegionE",
    "self_type" : "_ZTIN7android6RegionE",
-   "size" : 40,
+   "size" : 104,
    "source_file" : "/frameworks/native/libs/ui/include/ui/Region.h"
   },
   {
@@ -30815,60 +30641,6 @@
     },
     {
      "mangled_component_name" : "_ZN7android7RefBase13onLastWeakRefEPKv"
-    }
-   ]
-  },
-  {
-   "alignment" : 8,
-   "base_specifiers" :
-   [
-    {
-     "access" : "private",
-     "referenced_type" : "_ZTIN7android10VectorImplE"
-    }
-   ],
-   "linker_set_key" : "_ZTIN7android6VectorINS_4RectEEE",
-   "name" : "android::Vector<android::Rect>",
-   "record_kind" : "class",
-   "referenced_type" : "_ZTIN7android6VectorINS_4RectEEE",
-   "self_type" : "_ZTIN7android6VectorINS_4RectEEE",
-   "size" : 40,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h",
-   "template_args" : [ "_ZTIN7android4RectE" ],
-   "vtable_components" :
-   [
-    {
-     "kind" : "offset_to_top"
-    },
-    {
-     "kind" : "rtti",
-     "mangled_component_name" : "_ZTIN7android6VectorINS_4RectEEE"
-    },
-    {
-     "kind" : "complete_dtor_pointer",
-     "mangled_component_name" : "_ZN7android6VectorINS_4RectEED1Ev"
-    },
-    {
-     "kind" : "deleting_dtor_pointer",
-     "mangled_component_name" : "_ZN7android6VectorINS_4RectEED0Ev"
-    },
-    {
-     "mangled_component_name" : "_ZNK7android6VectorINS_4RectEE12do_constructEPvm"
-    },
-    {
-     "mangled_component_name" : "_ZNK7android6VectorINS_4RectEE10do_destroyEPvm"
-    },
-    {
-     "mangled_component_name" : "_ZNK7android6VectorINS_4RectEE7do_copyEPvPKvm"
-    },
-    {
-     "mangled_component_name" : "_ZNK7android6VectorINS_4RectEE8do_splatEPvPKvm"
-    },
-    {
-     "mangled_component_name" : "_ZNK7android6VectorINS_4RectEE15do_move_forwardEPvPKvm"
-    },
-    {
-     "mangled_component_name" : "_ZNK7android6VectorINS_4RectEE16do_move_backwardEPvPKvm"
     }
    ]
   },
@@ -31164,16 +30936,6 @@
    "size" : 1,
    "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h",
    "template_args" : [ "_ZTIN7android22GraphicBufferAllocator11alloc_rec_tE" ]
-  },
-  {
-   "alignment" : 1,
-   "linker_set_key" : "_ZTIN7android6traitsINS_4RectEEE",
-   "name" : "android::traits<android::Rect>",
-   "referenced_type" : "_ZTIN7android6traitsINS_4RectEEE",
-   "self_type" : "_ZTIN7android6traitsINS_4RectEEE",
-   "size" : 1,
-   "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h",
-   "template_args" : [ "_ZTIN7android4RectE" ]
   },
   {
    "alignment" : 1,
@@ -36192,6 +35954,32 @@
    "base_specifiers" :
    [
     {
+     "referenced_type" : "_ZTINSt3__16vectorIN7android4RectENS1_18InlineStdAllocatorIS2_Lm4EEEEE"
+    }
+   ],
+   "fields" :
+   [
+    {
+     "access" : "private",
+     "field_name" : "mAllocation",
+     "field_offset" : 256,
+     "referenced_type" : "_ZTIN7android18InlineStdAllocatorINS_4RectELm4EE10AllocationE"
+    }
+   ],
+   "linker_set_key" : "_ZTIN7android9FatVectorINS_4RectELm4EEE",
+   "name" : "android::FatVector<android::Rect, 4>",
+   "record_kind" : "class",
+   "referenced_type" : "_ZTIN7android9FatVectorINS_4RectELm4EEE",
+   "self_type" : "_ZTIN7android9FatVectorINS_4RectELm4EEE",
+   "size" : 104,
+   "source_file" : "/frameworks/native/libs/ui/include/ui/FatVector.h",
+   "template_args" : [ "_ZTIN7android4RectE" ]
+  },
+  {
+   "alignment" : 8,
+   "base_specifiers" :
+   [
+    {
      "referenced_type" : "_ZTIN7android11FlattenableINS_9FenceTime8SnapshotEEE"
     }
    ],
@@ -36324,7 +36112,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7log_msgUt_E",
-   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:81:3)",
+   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:77:3)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7log_msgUt_E",
    "self_type" : "_ZTIN7log_msgUt_E",

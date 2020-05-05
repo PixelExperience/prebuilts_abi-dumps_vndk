@@ -999,7 +999,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10ZipArchive#ODR:out/soong/.intermediates/system/core/libziparchive/libziparchive/android_vendor.R_x86_static/obj/system/core/libziparchive/zip_archive_stream_entry.sdump"
+     "referenced_type" : "_ZTIP10ZipArchive"
     },
     {
      "referenced_type" : "_ZTIRK8ZipEntry"
@@ -1014,7 +1014,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10ZipArchive#ODR:out/soong/.intermediates/system/core/libziparchive/libziparchive/android_vendor.R_x86_static/obj/system/core/libziparchive/zip_archive_stream_entry.sdump"
+     "referenced_type" : "_ZTIP10ZipArchive"
     },
     {
      "referenced_type" : "_ZTIRK8ZipEntry"
@@ -1317,7 +1317,7 @@
      "referenced_type" : "_ZTIP9ZipWriter"
     },
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/system/core/libziparchive/libziparchive/android_vendor.R_x86_static/obj/system/core/libziparchive/zip_writer.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     }
    ],
    "return_type" : "_ZTIv",
@@ -1349,7 +1349,7 @@
      "referenced_type" : "_ZTIP9ZipWriter"
     },
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/system/core/libziparchive/libziparchive/android_vendor.R_x86_static/obj/system/core/libziparchive/zip_writer.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     }
    ],
    "return_type" : "_ZTIv",
@@ -1573,24 +1573,6 @@
    "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > *",
    "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIPKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "size" : 4,
-   "source_file" : "/system/core/base/include/android-base/logging.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > *",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libziparchive/libziparchive/android_vendor.R_x86_static/obj/system/core/libziparchive/zip_archive_stream_entry.sdump",
-   "self_type" : "_ZTIPKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libziparchive/libziparchive/android_vendor.R_x86_static/obj/system/core/libziparchive/zip_archive_stream_entry.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/base/include/android-base/logging.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > *",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libziparchive/libziparchive/android_vendor.R_x86_static/obj/system/core/libziparchive/zip_writer.sdump",
-   "self_type" : "_ZTIPKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libziparchive/libziparchive/android_vendor.R_x86_static/obj/system/core/libziparchive/zip_writer.sdump",
    "size" : 4,
    "source_file" : "/system/core/base/include/android-base/logging.h"
   },
@@ -2181,7 +2163,7 @@
      "access" : "protected",
      "field_name" : "handle_",
      "field_offset" : 32,
-     "referenced_type" : "_ZTIP10ZipArchive#ODR:out/soong/.intermediates/system/core/libziparchive/libziparchive/android_vendor.R_x86_static/obj/system/core/libziparchive/zip_archive_stream_entry.sdump"
+     "referenced_type" : "_ZTIP10ZipArchive"
     },
     {
      "access" : "protected",
@@ -2244,7 +2226,7 @@
     {
      "field_name" : "mod_time",
      "field_offset" : 32,
-     "referenced_type" : "_ZTIj"
+     "referenced_type" : "_ZTIi"
     },
     {
      "field_name" : "unix_mode",
@@ -2311,7 +2293,7 @@
     {
      "access" : "private",
      "field_name" : "file_",
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/system/core/libziparchive/libziparchive/android_vendor.R_x86_static/obj/system/core/libziparchive/zip_writer.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "access" : "private",
