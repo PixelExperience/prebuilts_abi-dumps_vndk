@@ -8409,7 +8409,7 @@
      "referenced_type" : "_ZTIP7nl_sock"
     },
     {
-     "referenced_type" : "_ZTIP8genl_ops#ODR:"
+     "referenced_type" : "_ZTIP8genl_ops#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.30_x86_static/obj/external/libnl/lib/genl/ctrl.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -8433,7 +8433,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8genl_ops#ODR:"
+     "referenced_type" : "_ZTIP8genl_ops#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.30_x86_static/obj/external/libnl/lib/genl/ctrl.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -8445,7 +8445,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8genl_ops#ODR:"
+     "referenced_type" : "_ZTIP8genl_ops#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.30_x86_static/obj/external/libnl/lib/genl/ctrl.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -8493,7 +8493,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8genl_ops#ODR:"
+     "referenced_type" : "_ZTIP8genl_ops#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.30_x86_static/obj/external/libnl/lib/genl/ctrl.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -10680,7 +10680,7 @@
      "referenced_type" : "_ZTIP6nl_msg"
     },
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/msg.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     }
    ],
    "return_type" : "_ZTIv",
@@ -11211,7 +11211,7 @@
      "referenced_type" : "_ZTIPPh"
     },
     {
-     "referenced_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/nl.sdump"
+     "referenced_type" : "_ZTIPP5ucred"
     }
    ],
    "return_type" : "_ZTIi",
@@ -12840,7 +12840,7 @@
      "referenced_type" : "_ZTIP6nl_msg"
     }
    ],
-   "return_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/msg.sdump",
+   "return_type" : "_ZTIP5ucred",
    "source_file" : "/external/libnl/include/netlink/msg.h"
   },
   {
@@ -13035,7 +13035,7 @@
      "referenced_type" : "_ZTIP6nl_msg"
     },
     {
-     "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/msg.sdump"
+     "referenced_type" : "_ZTIP5ucred"
     }
    ],
    "return_type" : "_ZTIv",
@@ -13394,7 +13394,7 @@
    "referenced_type" : "_ZTI10nla_policy",
    "self_type" : "_ZTIP10nla_policy",
    "size" : 4,
-   "source_file" : "/external/libnl/include/netlink/msg.h"
+   "source_file" : "/external/libnl/include/netlink/genl/mngt.h"
   },
   {
    "alignment" : 4,
@@ -14141,7 +14141,7 @@
    "referenced_type" : "_ZTIKv",
    "self_type" : "_ZTIPKv",
    "size" : 4,
-   "source_file" : "/external/libnl/include/netlink/attr.h"
+   "source_file" : "/external/libnl/include/netlink/hash.h"
   },
   {
    "alignment" : 4,
@@ -14172,222 +14172,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:",
-   "self_type" : "_ZTIPP5ucred#ODR:",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/addr.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/addr.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/attr.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/attr.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/cache.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/cache.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/cache_mngr.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/cache_mngr.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/cache_mngt.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/cache_mngt.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/data.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/data.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/error.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/error.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/fib_lookup/lookup.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/fib_lookup/lookup.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/fib_lookup/request.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/fib_lookup/request.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/genl/ctrl.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/genl/ctrl.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/genl/family.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/genl/family.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/genl/genl.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/genl/genl.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/genl/mngt.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/genl/mngt.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/handlers.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/handlers.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink/handlers.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/hashtable.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/hashtable.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/msg.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/msg.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/netfilter/nfnl.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/netfilter/nfnl.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/nl.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/nl.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink/netlink.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/object.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/object.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/route/route_utils.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/route/route_utils.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/route/rtnl.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/route/rtnl.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/socket.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/socket.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP5ucred",
-   "name" : "ucred **",
-   "referenced_type" : "_ZTIP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/utils.sdump",
-   "self_type" : "_ZTIPP5ucred#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/utils.sdump",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink-private/types.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPP6nl_msg",
    "name" : "nl_msg **",
    "referenced_type" : "_ZTIP6nl_msg",
@@ -14402,7 +14186,7 @@
    "referenced_type" : "_ZTIP6nlattr",
    "self_type" : "_ZTIPP6nlattr",
    "size" : 4,
-   "source_file" : "/external/libnl/include/netlink/msg.h"
+   "source_file" : "/external/libnl/include/netlink/genl/mngt.h"
   },
   {
    "alignment" : 4,
@@ -14419,24 +14203,6 @@
    "name" : "addrinfo **",
    "referenced_type" : "_ZTIP8addrinfo",
    "self_type" : "_ZTIPP8addrinfo",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink/addr.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP8addrinfo",
-   "name" : "addrinfo **",
-   "referenced_type" : "_ZTIP8addrinfo#ODR:",
-   "self_type" : "_ZTIPP8addrinfo#ODR:",
-   "size" : 4,
-   "source_file" : "/external/libnl/include/netlink/addr.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP8addrinfo",
-   "name" : "addrinfo **",
-   "referenced_type" : "_ZTIP8addrinfo#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/addr.sdump",
-   "self_type" : "_ZTIPP8addrinfo#ODR:out/soong/.intermediates/external/libnl/libnl/android_vendor.R_x86_static/obj/external/libnl/lib/addr.sdump",
    "size" : 4,
    "source_file" : "/external/libnl/include/netlink/addr.h"
   },
@@ -14638,7 +14404,7 @@
    "name" : "const void",
    "referenced_type" : "_ZTIv",
    "self_type" : "_ZTIKv",
-   "source_file" : "/external/libnl/include/netlink/attr.h"
+   "source_file" : "/external/libnl/include/netlink/hash.h"
   }
  ],
  "record_types" :

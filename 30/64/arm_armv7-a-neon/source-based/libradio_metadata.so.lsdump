@@ -505,7 +505,7 @@
      "referenced_type" : "_ZTIPN7android20RadioMetadataWrapperE"
     },
     {
-     "referenced_type" : "_ZTIPP14radio_metadata#ODR:out/soong/.intermediates/system/media/radio/libradio_metadata/android_vendor.R_arm_armv7-a-neon_shared/obj/system/media/radio/src/RadioMetadataWrapper.sdump"
+     "referenced_type" : "_ZTIPP14radio_metadata"
     }
    ],
    "return_type" : "_ZTIv",
@@ -521,7 +521,7 @@
      "referenced_type" : "_ZTIPN7android20RadioMetadataWrapperE"
     },
     {
-     "referenced_type" : "_ZTIPP14radio_metadata#ODR:out/soong/.intermediates/system/media/radio/libradio_metadata/android_vendor.R_arm_armv7-a-neon_shared/obj/system/media/radio/src/RadioMetadataWrapper.sdump"
+     "referenced_type" : "_ZTIPP14radio_metadata"
     }
    ],
    "return_type" : "_ZTIv",
@@ -870,15 +870,6 @@
    "self_type" : "_ZTIPP14radio_metadata",
    "size" : 4,
    "source_file" : "/system/media/radio/include/system/radio_metadata.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP14radio_metadata",
-   "name" : "radio_metadata **",
-   "referenced_type" : "_ZTIP14radio_metadata#ODR:out/soong/.intermediates/system/media/radio/libradio_metadata/android_vendor.R_arm_armv7-a-neon_shared/obj/system/media/radio/src/RadioMetadataWrapper.sdump",
-   "self_type" : "_ZTIPP14radio_metadata#ODR:out/soong/.intermediates/system/media/radio/libradio_metadata/android_vendor.R_arm_armv7-a-neon_shared/obj/system/media/radio/src/RadioMetadataWrapper.sdump",
-   "size" : 4,
-   "source_file" : "/system/media/radio/include/system/RadioMetadataWrapper.h"
   },
   {
    "alignment" : 4,
@@ -1437,7 +1428,7 @@
      "access" : "private",
      "field_name" : "mMetadata",
      "field_offset" : 32,
-     "referenced_type" : "_ZTIPP14radio_metadata#ODR:out/soong/.intermediates/system/media/radio/libradio_metadata/android_vendor.R_arm_armv7-a-neon_shared/obj/system/media/radio/src/RadioMetadataWrapper.sdump"
+     "referenced_type" : "_ZTIPP14radio_metadata"
     }
    ],
    "linker_set_key" : "_ZTIN7android20RadioMetadataWrapperE",

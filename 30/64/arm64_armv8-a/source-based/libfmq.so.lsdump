@@ -3,14 +3,6 @@
  [
   {
    "alignment" : 1,
-   "linker_set_key" : "_ZTIA0_c",
-   "name" : "char [0]",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIA0_c",
-   "source_file" : "/system/core/liblog/include/log/log_read.h"
-  },
-  {
-   "alignment" : 1,
    "linker_set_key" : "_ZTIA5121_h",
    "name" : "unsigned char [5121]",
    "referenced_type" : "_ZTIh",
@@ -792,11 +784,6 @@
      "field_name" : "uid",
      "field_offset" : 192,
      "referenced_type" : "_ZTIj"
-    },
-    {
-     "field_name" : "msg",
-     "field_offset" : 224,
-     "referenced_type" : "_ZTIA0_c"
     }
    ],
    "linker_set_key" : "_ZTI12logger_entry",
@@ -926,7 +913,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7log_msgUt_E",
-   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:81:3)",
+   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:77:3)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7log_msgUt_E",
    "self_type" : "_ZTIN7log_msgUt_E",

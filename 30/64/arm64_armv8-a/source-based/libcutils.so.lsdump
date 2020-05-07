@@ -2318,21 +2318,12 @@
   },
   {
    "alignment" : 8,
-   "linker_set_key" : "_ZTIPK5iovec",
-   "name" : "const iovec *",
-   "referenced_type" : "_ZTIK5iovec#ODR:",
-   "self_type" : "_ZTIPK5iovec#ODR:",
-   "size" : 8,
-   "source_file" : "/system/core/libcutils/include/cutils/klog.h"
-  },
-  {
-   "alignment" : 8,
    "linker_set_key" : "_ZTIPKc",
    "name" : "const char *",
    "referenced_type" : "_ZTIKc",
    "self_type" : "_ZTIPKc",
    "size" : 8,
-   "source_file" : "/system/core/libcutils/include/cutils/config_utils.h"
+   "source_file" : "/system/core/libcutils/include/cutils/fs.h"
   },
   {
    "alignment" : 8,
@@ -2359,7 +2350,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIPc",
    "size" : 8,
-   "source_file" : "/system/core/libcutils/include/cutils/config_utils.h"
+   "source_file" : "/system/core/libcutils/include/cutils/str_parms.h"
   },
   {
    "alignment" : 8,
@@ -2377,7 +2368,7 @@
    "referenced_type" : "_ZTIi",
    "self_type" : "_ZTIPi",
    "size" : 8,
-   "source_file" : "/system/core/libcutils/include/cutils/iosched_policy.h"
+   "source_file" : "/system/core/libcutils/include/cutils/fs.h"
   },
   {
    "alignment" : 8,
@@ -2386,7 +2377,7 @@
    "referenced_type" : "_ZTIj",
    "self_type" : "_ZTIPj",
    "size" : 8,
-   "source_file" : "/system/core/libcutils/include/private/canned_fs_config.h"
+   "source_file" : "/system/core/libcutils/include/private/fs_config.h"
   },
   {
    "alignment" : 8,
@@ -2395,7 +2386,7 @@
    "referenced_type" : "_ZTIm",
    "self_type" : "_ZTIPm",
    "size" : 8,
-   "source_file" : "/system/core/libcutils/include/private/canned_fs_config.h"
+   "source_file" : "/system/core/libcutils/include/private/fs_config.h"
   },
   {
    "alignment" : 8,
@@ -2404,7 +2395,7 @@
    "referenced_type" : "_ZTIv",
    "self_type" : "_ZTIPv",
    "size" : 8,
-   "source_file" : "/system/core/libcutils/include/cutils/misc.h"
+   "source_file" : "/system/core/libcutils/include/cutils/threads.h"
   }
  ],
  "qualified_types" :
@@ -2447,7 +2438,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIKc",
    "size" : 1,
-   "source_file" : "/system/core/libcutils/include/cutils/config_utils.h"
+   "source_file" : "/system/core/libcutils/include/cutils/fs.h"
   },
   {
    "is_const" : true,

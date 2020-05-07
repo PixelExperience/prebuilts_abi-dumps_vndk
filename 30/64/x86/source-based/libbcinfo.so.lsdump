@@ -908,24 +908,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN4llvm11NamedMDNodeE",
-   "name" : "const llvm::NamedMDNode *",
-   "referenced_type" : "_ZTIKN4llvm11NamedMDNodeE#ODR:",
-   "self_type" : "_ZTIPKN4llvm11NamedMDNodeE#ODR:",
-   "size" : 4,
-   "source_file" : "/frameworks/compile/libbcc/bcinfo/include/bcinfo/MetadataExtractor.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN4llvm11NamedMDNodeE",
-   "name" : "const llvm::NamedMDNode *",
-   "referenced_type" : "_ZTIKN4llvm11NamedMDNodeE#ODR:out/soong/.intermediates/frameworks/compile/libbcc/bcinfo/libbcinfo/android_vendor.R_x86_shared/obj/frameworks/compile/libbcc/bcinfo/MetadataExtractor.sdump",
-   "self_type" : "_ZTIPKN4llvm11NamedMDNodeE#ODR:out/soong/.intermediates/frameworks/compile/libbcc/bcinfo/libbcinfo/android_vendor.R_x86_shared/obj/frameworks/compile/libbcc/bcinfo/MetadataExtractor.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/compile/libbcc/bcinfo/include/bcinfo/MetadataExtractor.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPKN4llvm6ModuleE",
    "name" : "const llvm::Module *",
    "referenced_type" : "_ZTIKN4llvm6ModuleE",
@@ -935,46 +917,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN4llvm6ModuleE",
-   "name" : "const llvm::Module *",
-   "referenced_type" : "_ZTIKN4llvm6ModuleE#ODR:",
-   "self_type" : "_ZTIPKN4llvm6ModuleE#ODR:",
-   "size" : 4,
-   "source_file" : "/frameworks/compile/libbcc/bcinfo/include/bcinfo/MetadataExtractor.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN4llvm6ModuleE",
-   "name" : "const llvm::Module *",
-   "referenced_type" : "_ZTIKN4llvm6ModuleE#ODR:out/soong/.intermediates/frameworks/compile/libbcc/bcinfo/libbcinfo/android_vendor.R_x86_shared/obj/frameworks/compile/libbcc/bcinfo/MetadataExtractor.sdump",
-   "self_type" : "_ZTIPKN4llvm6ModuleE#ODR:out/soong/.intermediates/frameworks/compile/libbcc/bcinfo/libbcinfo/android_vendor.R_x86_shared/obj/frameworks/compile/libbcc/bcinfo/MetadataExtractor.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/compile/libbcc/bcinfo/include/bcinfo/MetadataExtractor.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPKN4llvm8FunctionE",
    "name" : "const llvm::Function *",
    "referenced_type" : "_ZTIKN4llvm8FunctionE",
    "self_type" : "_ZTIPKN4llvm8FunctionE",
-   "size" : 4,
-   "source_file" : "/frameworks/compile/libbcc/bcinfo/include/bcinfo/MetadataExtractor.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN4llvm8FunctionE",
-   "name" : "const llvm::Function *",
-   "referenced_type" : "_ZTIKN4llvm8FunctionE#ODR:",
-   "self_type" : "_ZTIPKN4llvm8FunctionE#ODR:",
-   "size" : 4,
-   "source_file" : "/frameworks/compile/libbcc/bcinfo/include/bcinfo/MetadataExtractor.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN4llvm8FunctionE",
-   "name" : "const llvm::Function *",
-   "referenced_type" : "_ZTIKN4llvm8FunctionE#ODR:out/soong/.intermediates/frameworks/compile/libbcc/bcinfo/libbcinfo/android_vendor.R_x86_shared/obj/frameworks/compile/libbcc/bcinfo/MetadataExtractor.sdump",
-   "self_type" : "_ZTIPKN4llvm8FunctionE#ODR:out/soong/.intermediates/frameworks/compile/libbcc/bcinfo/libbcinfo/android_vendor.R_x86_shared/obj/frameworks/compile/libbcc/bcinfo/MetadataExtractor.sdump",
    "size" : 4,
    "source_file" : "/frameworks/compile/libbcc/bcinfo/include/bcinfo/MetadataExtractor.h"
   },

@@ -194,7 +194,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_flag.sdump"
+     "referenced_type" : "_ZTIP11_cap_struct"
     }
    ],
    "return_type" : "_ZTIi",
@@ -206,7 +206,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_flag.sdump"
+     "referenced_type" : "_ZTIP11_cap_struct"
     },
     {
      "referenced_type" : "_ZTI10cap_flag_t"
@@ -221,10 +221,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_flag.sdump"
+     "referenced_type" : "_ZTIP11_cap_struct"
     },
     {
-     "referenced_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_flag.sdump"
+     "referenced_type" : "_ZTIP11_cap_struct"
     }
    ],
    "return_type" : "_ZTIi",
@@ -239,7 +239,7 @@
      "referenced_type" : "_ZTIPv"
     },
     {
-     "referenced_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_extint.sdump"
+     "referenced_type" : "_ZTIP11_cap_struct"
     },
     {
      "referenced_type" : "_ZTIl"
@@ -257,7 +257,7 @@
      "referenced_type" : "_ZTIPKv"
     }
    ],
-   "return_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_extint.sdump",
+   "return_type" : "_ZTIP11_cap_struct",
    "source_file" : "/external/libcap/libcap/include/sys/capability.h"
   },
   {
@@ -320,7 +320,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "return_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_text.sdump",
+   "return_type" : "_ZTIP11_cap_struct",
    "source_file" : "/external/libcap/libcap/include/sys/capability.h"
   },
   {
@@ -344,7 +344,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "return_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_file.sdump",
+   "return_type" : "_ZTIP11_cap_struct",
    "source_file" : "/external/libcap/libcap/include/sys/capability.h"
   },
   {
@@ -356,7 +356,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "return_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_file.sdump",
+   "return_type" : "_ZTIP11_cap_struct",
    "source_file" : "/external/libcap/libcap/include/sys/capability.h"
   },
   {
@@ -365,7 +365,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_flag.sdump"
+     "referenced_type" : "_ZTIP11_cap_struct"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -389,13 +389,13 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "return_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_proc.sdump",
+   "return_type" : "_ZTIP11_cap_struct",
    "source_file" : "/external/libcap/libcap/include/sys/capability.h"
   },
   {
    "function_name" : "cap_get_proc",
    "linker_set_key" : "cap_get_proc",
-   "return_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_proc.sdump",
+   "return_type" : "_ZTIP11_cap_struct",
    "source_file" : "/external/libcap/libcap/include/sys/capability.h"
   },
   {
@@ -413,7 +413,7 @@
      "referenced_type" : "_ZTIi"
     },
     {
-     "referenced_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_file.sdump"
+     "referenced_type" : "_ZTIP11_cap_struct"
     }
    ],
    "return_type" : "_ZTIi",
@@ -428,7 +428,7 @@
      "referenced_type" : "_ZTIPKc"
     },
     {
-     "referenced_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_file.sdump"
+     "referenced_type" : "_ZTIP11_cap_struct"
     }
    ],
    "return_type" : "_ZTIi",
@@ -440,7 +440,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_flag.sdump"
+     "referenced_type" : "_ZTIP11_cap_struct"
     },
     {
      "referenced_type" : "_ZTI10cap_flag_t"
@@ -464,7 +464,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_proc.sdump"
+     "referenced_type" : "_ZTIP11_cap_struct"
     }
    ],
    "return_type" : "_ZTIi",
@@ -476,7 +476,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_extint.sdump"
+     "referenced_type" : "_ZTIP11_cap_struct"
     }
    ],
    "return_type" : "_ZTIl",
@@ -500,7 +500,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_text.sdump"
+     "referenced_type" : "_ZTIP11_cap_struct"
     },
     {
      "referenced_type" : "_ZTIPl"
@@ -518,7 +518,7 @@
      "referenced_type" : "_ZTIi"
     },
     {
-     "referenced_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_proc.sdump"
+     "referenced_type" : "_ZTIP11_cap_struct"
     }
    ],
    "return_type" : "_ZTIi",
@@ -533,7 +533,7 @@
      "referenced_type" : "_ZTIi"
     },
     {
-     "referenced_type" : "_ZTIP11_cap_struct#ODR:out/soong/.intermediates/external/libcap/libcap/android_vendor.R_x86_64_static/obj/external/libcap/libcap/cap_proc.sdump"
+     "referenced_type" : "_ZTIP11_cap_struct"
     }
    ],
    "return_type" : "_ZTIi",

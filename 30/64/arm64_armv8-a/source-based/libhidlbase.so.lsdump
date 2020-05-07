@@ -9184,11 +9184,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump"
+     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump"
     }
    ],
    "referenced_type" : "_ZTIFRN7android8hardware10TextOutputES2_E",
-   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump",
+   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump",
    "self_type" : "_ZTIFRN7android8hardware10TextOutputES2_E",
    "source_file" : "/system/libhwbinder/include/hwbinder/TextOutput.h"
   },
@@ -9262,7 +9262,7 @@
    "referenced_type" : "_ZTIFvPKvPvS1_E",
    "return_type" : "_ZTIv",
    "self_type" : "_ZTIFvPKvPvS1_E",
-   "source_file" : "/system/libhwbinder/include/hwbinder/Binder.h"
+   "source_file" : "/system/libhwbinder/include/hwbinder/BpHwBinder.h"
   },
   {
    "alignment" : 4,
@@ -20617,13 +20617,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump"
+     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE"
     },
     {
      "referenced_type" : "_ZTIRKN7android8hardware7HexDumpE"
     }
    ],
-   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump",
+   "return_type" : "_ZTIRN7android8hardware10TextOutputE",
    "source_file" : "/system/libhwbinder/include/hwbinder/TextOutput.h"
   },
   {
@@ -20632,13 +20632,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump"
+     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE"
     },
     {
      "referenced_type" : "_ZTIRKN7android8hardware8TypeCodeE"
     }
    ],
-   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump",
+   "return_type" : "_ZTIRN7android8hardware10TextOutputE",
    "source_file" : "/system/libhwbinder/include/hwbinder/TextOutput.h"
   },
   {
@@ -20677,13 +20677,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump"
+     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump"
     },
     {
      "referenced_type" : "_ZTIRA15_Kc"
     }
    ],
-   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump",
+   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump",
    "source_file" : "/system/libhwbinder/include/hwbinder/TextOutput.h",
    "template_args" : [ "_ZTIA15_c" ]
   },
@@ -20693,13 +20693,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump"
+     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump"
     },
     {
      "referenced_type" : "_ZTIRA2_Kc"
     }
    ],
-   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump",
+   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump",
    "source_file" : "/system/libhwbinder/include/hwbinder/TextOutput.h",
    "template_args" : [ "_ZTIA2_c" ]
   },
@@ -20709,13 +20709,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump"
+     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump"
     },
     {
      "referenced_type" : "_ZTIRA3_Kc"
     }
    ],
-   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump",
+   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump",
    "source_file" : "/system/libhwbinder/include/hwbinder/TextOutput.h",
    "template_args" : [ "_ZTIA3_c" ]
   },
@@ -20725,13 +20725,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump"
+     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump"
     },
     {
      "referenced_type" : "_ZTIRA4_Kc"
     }
    ],
-   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump",
+   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump",
    "source_file" : "/system/libhwbinder/include/hwbinder/TextOutput.h",
    "template_args" : [ "_ZTIA4_c" ]
   },
@@ -20741,13 +20741,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump"
+     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump"
     },
     {
      "referenced_type" : "_ZTIRA5_Kc"
     }
    ],
-   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump",
+   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump",
    "source_file" : "/system/libhwbinder/include/hwbinder/TextOutput.h",
    "template_args" : [ "_ZTIA5_c" ]
   },
@@ -20757,13 +20757,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump"
+     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump"
     },
     {
      "referenced_type" : "_ZTIRA8_Kc"
     }
    ],
-   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump",
+   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump",
    "source_file" : "/system/libhwbinder/include/hwbinder/TextOutput.h",
    "template_args" : [ "_ZTIA8_c" ]
   },
@@ -20773,13 +20773,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump"
+     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump"
     },
     {
      "referenced_type" : "_ZTIRA9_Kc"
     }
    ],
-   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump",
+   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump",
    "source_file" : "/system/libhwbinder/include/hwbinder/TextOutput.h",
    "template_args" : [ "_ZTIA9_c" ]
   },
@@ -20789,13 +20789,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump"
+     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump"
     },
     {
      "referenced_type" : "_ZTIRKPc"
     }
    ],
-   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump",
+   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump",
    "source_file" : "/system/libhwbinder/include/hwbinder/TextOutput.h",
    "template_args" : [ "_ZTIPc" ]
   },
@@ -20805,13 +20805,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump"
+     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump"
     },
     {
      "referenced_type" : "_ZTIRKPv"
     }
    ],
-   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump",
+   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump",
    "source_file" : "/system/libhwbinder/include/hwbinder/TextOutput.h",
    "template_args" : [ "_ZTIPv" ]
   },
@@ -20821,13 +20821,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump"
+     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump"
     },
     {
      "referenced_type" : "_ZTIRKm"
     }
    ],
-   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump",
+   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump",
    "source_file" : "/system/libhwbinder/include/hwbinder/TextOutput.h",
    "template_args" : [ "_ZTIm" ]
   },
@@ -20837,13 +20837,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump"
+     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump"
     },
     {
      "referenced_type" : "_ZTIRKy"
     }
    ],
-   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump",
+   "return_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump",
    "source_file" : "/system/libhwbinder/include/hwbinder/TextOutput.h",
    "template_args" : [ "_ZTIy" ]
   },
@@ -23182,7 +23182,7 @@
      "referenced_type" : "_ZTIPKN7android8hardware6ParcelE"
     },
     {
-     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump"
+     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump"
     },
     {
      "default_arg" : true,
@@ -23957,7 +23957,7 @@
   {
    "linker_set_key" : "_ZN7android8hardware4alogE",
    "name" : "android::hardware::alog",
-   "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump",
+   "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump",
    "source_file" : "/system/libhwbinder/include/hwbinder/TextOutput.h"
   },
   {
@@ -24438,8 +24438,8 @@
    "alignment" : 8,
    "linker_set_key" : "_ZTIRKN7android2wpINS_8hardware7IBinderEEE",
    "name" : "const android::wp<android::hardware::IBinder> &",
-   "referenced_type" : "_ZTIKN7android2wpINS_8hardware7IBinderEEE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BpHwBinder.sdump",
-   "self_type" : "_ZTIRKN7android2wpINS_8hardware7IBinderEEE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BpHwBinder.sdump",
+   "referenced_type" : "_ZTIKN7android2wpINS_8hardware7IBinderEEE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/Parcel.sdump",
+   "self_type" : "_ZTIRKN7android2wpINS_8hardware7IBinderEEE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/Parcel.sdump",
    "size" : 8,
    "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
@@ -25594,7 +25594,7 @@
    "referenced_type" : "_ZTIFvPKvPvS1_E",
    "self_type" : "_ZTIPFvPKvPvS1_E",
    "size" : 8,
-   "source_file" : "/system/libhwbinder/include/hwbinder/Binder.h"
+   "source_file" : "/system/libhwbinder/include/hwbinder/BpHwBinder.h"
   },
   {
    "alignment" : 8,
@@ -25952,7 +25952,7 @@
    "linker_set_key" : "_ZTIPKN7android2wpINS_8hardware7IBinderEEE",
    "name" : "const android::wp<android::hardware::IBinder> *",
    "referenced_type" : "_ZTIKN7android2wpINS_8hardware7IBinderEEE",
-   "self_type" : "_ZTIPKN7android2wpINS_8hardware7IBinderEEE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/Parcel.sdump",
+   "self_type" : "_ZTIPKN7android2wpINS_8hardware7IBinderEEE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BpHwBinder.sdump",
    "size" : 8,
    "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
@@ -25960,7 +25960,7 @@
    "alignment" : 8,
    "linker_set_key" : "_ZTIPKN7android2wpINS_8hardware7IBinderEEE",
    "name" : "const android::wp<android::hardware::IBinder> *",
-   "referenced_type" : "_ZTIKN7android2wpINS_8hardware7IBinderEEE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BpHwBinder.sdump",
+   "referenced_type" : "_ZTIKN7android2wpINS_8hardware7IBinderEEE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/Parcel.sdump",
    "self_type" : "_ZTIPKN7android2wpINS_8hardware7IBinderEEE",
    "size" : 8,
    "source_file" : "/system/core/libutils/include/utils/RefBase.h"
@@ -26503,7 +26503,7 @@
    "referenced_type" : "_ZTIKN7android8hardware7IBinderE",
    "self_type" : "_ZTIPKN7android8hardware7IBinderE",
    "size" : 8,
-   "source_file" : "/system/libhwbinder/include/hwbinder/IBinder.h"
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
   {
    "alignment" : 8,
@@ -27583,7 +27583,7 @@
    "referenced_type" : "_ZTIN7android8hardware10BpHwBinderE",
    "self_type" : "_ZTIPN7android8hardware10BpHwBinderE",
    "size" : 8,
-   "source_file" : "/system/libhwbinder/include/hwbinder/IBinder.h"
+   "source_file" : "/system/libhwbinder/include/hwbinder/IPCThreadState.h"
   },
   {
    "alignment" : 8,
@@ -29753,7 +29753,7 @@
    "referenced_type" : "_ZTIN7android8hardware7IBinderE",
    "self_type" : "_ZTIKN7android8hardware7IBinderE",
    "size" : 24,
-   "source_file" : "/system/libhwbinder/include/hwbinder/IBinder.h"
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
   {
    "alignment" : 8,
@@ -39000,7 +39000,7 @@
     {
      "access" : "private",
      "field_name" : "mTO",
-     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/TextOutput.sdump"
+     "referenced_type" : "_ZTIRN7android8hardware10TextOutputE#ODR:out/soong/.intermediates/system/libhwbinder/libhwbinder-impl-internal/android_vendor.30_arm64_armv8-a_static/obj/system/libhwbinder/BufferedTextOutput.sdump"
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware10TextOutput6BundleE",

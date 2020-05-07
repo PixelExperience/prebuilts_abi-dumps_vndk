@@ -4946,7 +4946,7 @@
      "referenced_type" : "_ZTIP9png_image"
     },
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libpng/libpng/android_vendor.R_arm64_armv8-a_static/obj/external/libpng/pngread.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     }
    ],
    "return_type" : "_ZTIi",
@@ -5069,7 +5069,7 @@
      "referenced_type" : "_ZTIP9png_image"
     },
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libpng/libpng/android_vendor.R_arm64_armv8-a_static/obj/external/libpng/pngwrite.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -9043,7 +9043,7 @@
    "referenced_type" : "_ZTIK15png_sPLT_struct",
    "self_type" : "_ZTIPK15png_sPLT_struct",
    "size" : 8,
-   "source_file" : "/external/libpng/png.h"
+   "source_file" : "/external/libpng/pngpriv.h"
   },
   {
    "alignment" : 8,
@@ -9079,7 +9079,7 @@
    "referenced_type" : "_ZTIK18png_color_8_struct",
    "self_type" : "_ZTIPK18png_color_8_struct",
    "size" : 8,
-   "source_file" : "/external/libpng/png.h"
+   "source_file" : "/external/libpng/pngpriv.h"
   },
   {
    "alignment" : 8,
@@ -9088,7 +9088,7 @@
    "referenced_type" : "_ZTIK19png_color_16_struct",
    "self_type" : "_ZTIPK19png_color_16_struct",
    "size" : 8,
-   "source_file" : "/external/libpng/png.h"
+   "source_file" : "/external/libpng/pngpriv.h"
   },
   {
    "alignment" : 8,
@@ -9105,15 +9105,6 @@
    "name" : "const tm *",
    "referenced_type" : "_ZTIK2tm",
    "self_type" : "_ZTIPK2tm",
-   "size" : 8,
-   "source_file" : "/external/libpng/png.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIPK2tm",
-   "name" : "const tm *",
-   "referenced_type" : "_ZTIK2tm#ODR:",
-   "self_type" : "_ZTIPK2tm#ODR:",
    "size" : 8,
    "source_file" : "/external/libpng/png.h"
   },
@@ -9178,7 +9169,7 @@
    "referenced_type" : "_ZTIKt",
    "self_type" : "_ZTIPKt",
    "size" : 8,
-   "source_file" : "/external/libpng/png.h"
+   "source_file" : "/external/libpng/pngpriv.h"
   },
   {
    "alignment" : 8,
@@ -9457,7 +9448,7 @@
    "referenced_type" : "_ZTI15png_sPLT_struct",
    "self_type" : "_ZTIK15png_sPLT_struct",
    "size" : 32,
-   "source_file" : "/external/libpng/png.h"
+   "source_file" : "/external/libpng/pngpriv.h"
   },
   {
    "alignment" : 8,
@@ -9497,7 +9488,7 @@
    "referenced_type" : "_ZTI18png_color_8_struct",
    "self_type" : "_ZTIK18png_color_8_struct",
    "size" : 5,
-   "source_file" : "/external/libpng/png.h"
+   "source_file" : "/external/libpng/pngpriv.h"
   },
   {
    "alignment" : 2,
@@ -9507,7 +9498,7 @@
    "referenced_type" : "_ZTI19png_color_16_struct",
    "self_type" : "_ZTIK19png_color_16_struct",
    "size" : 10,
-   "source_file" : "/external/libpng/png.h"
+   "source_file" : "/external/libpng/pngpriv.h"
   },
   {
    "alignment" : 8,
@@ -9607,7 +9598,7 @@
    "referenced_type" : "_ZTIt",
    "self_type" : "_ZTIKt",
    "size" : 2,
-   "source_file" : "/external/libpng/png.h"
+   "source_file" : "/external/libpng/pngpriv.h"
   },
   {
    "is_const" : true,

@@ -2,14 +2,6 @@
  "array_types" :
  [
   {
-   "alignment" : 1,
-   "linker_set_key" : "_ZTIA0_c",
-   "name" : "char [0]",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIA0_c",
-   "source_file" : "/system/core/liblog/include/log/log_read.h"
-  },
-  {
    "alignment" : 4,
    "linker_set_key" : "_ZTIA0_i",
    "name" : "int [0]",
@@ -14461,7 +14453,7 @@
      "referenced_type" : "_ZTIPN7android2spINS_5FenceEEE"
     },
     {
-     "referenced_type" : "_ZTIPN7android5FenceE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferItem.sdump"
+     "referenced_type" : "_ZTIPN7android5FenceE"
     }
    ],
    "return_type" : "_ZTIRN7android2spINS_5FenceEEE",
@@ -15448,33 +15440,6 @@
    "referenced_type" : "_ZTIKN7android10BufferItemE",
    "self_type" : "_ZTIRKN7android10BufferItemE",
    "size" : 4,
-   "source_file" : "/frameworks/av/media/libstagefright/bqhelper/include/media/stagefright/bqhelper/GraphicBufferSource.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKN7android10BufferItemE",
-   "name" : "const android::BufferItem &",
-   "referenced_type" : "_ZTIKN7android10BufferItemE#ODR:",
-   "self_type" : "_ZTIRKN7android10BufferItemE#ODR:",
-   "size" : 4,
-   "source_file" : "/frameworks/av/media/libstagefright/bqhelper/include/media/stagefright/bqhelper/GraphicBufferSource.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKN7android10BufferItemE",
-   "name" : "const android::BufferItem &",
-   "referenced_type" : "_ZTIKN7android10BufferItemE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueConsumer.sdump",
-   "self_type" : "_ZTIRKN7android10BufferItemE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueConsumer.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKN7android10BufferItemE",
-   "name" : "const android::BufferItem &",
-   "referenced_type" : "_ZTIKN7android10BufferItemE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueProducer.sdump",
-   "self_type" : "_ZTIRKN7android10BufferItemE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueProducer.sdump",
-   "size" : 4,
    "source_file" : "/system/core/libutils/include/utils/Vector.h"
   },
   {
@@ -15483,15 +15448,6 @@
    "name" : "const android::CompositorTiming &",
    "referenced_type" : "_ZTIKN7android16CompositorTimingE",
    "self_type" : "_ZTIRKN7android16CompositorTimingE",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Flattenable.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKN7android16CompositorTimingE",
-   "name" : "const android::CompositorTiming &",
-   "referenced_type" : "_ZTIKN7android16CompositorTimingE#ODR:",
-   "self_type" : "_ZTIRKN7android16CompositorTimingE#ODR:",
    "size" : 4,
    "source_file" : "/system/core/libutils/include/utils/Flattenable.h"
   },
@@ -15546,15 +15502,6 @@
    "name" : "const android::sp<ANativeWindowBuffer> &",
    "referenced_type" : "_ZTIKN7android2spI19ANativeWindowBufferEE",
    "self_type" : "_ZTIRKN7android2spI19ANativeWindowBufferEE",
-   "size" : 4,
-   "source_file" : "/frameworks/native/headers/media_plugin/media/hardware/HardwareAPI.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKN7android2spI19ANativeWindowBufferEE",
-   "name" : "const android::sp<ANativeWindowBuffer> &",
-   "referenced_type" : "_ZTIKN7android2spI19ANativeWindowBufferEE#ODR:",
-   "self_type" : "_ZTIRKN7android2spI19ANativeWindowBufferEE#ODR:",
    "size" : 4,
    "source_file" : "/frameworks/native/headers/media_plugin/media/hardware/HardwareAPI.h"
   },
@@ -15799,61 +15746,7 @@
    "referenced_type" : "_ZTIKN7android4RectE",
    "self_type" : "_ZTIRKN7android4RectE",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKN7android4RectE",
-   "name" : "const android::Rect &",
-   "referenced_type" : "_ZTIKN7android4RectE#ODR:",
-   "self_type" : "_ZTIRKN7android4RectE#ODR:",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKN7android4RectE",
-   "name" : "const android::Rect &",
-   "referenced_type" : "_ZTIKN7android4RectE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferItem.sdump",
-   "self_type" : "_ZTIRKN7android4RectE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferItem.sdump",
-   "size" : 4,
    "source_file" : "/system/core/libutils/include/utils/Flattenable.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKN7android4RectE",
-   "name" : "const android::Rect &",
-   "referenced_type" : "_ZTIKN7android4RectE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueProducer.sdump",
-   "self_type" : "_ZTIRKN7android4RectE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueProducer.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKN7android4RectE",
-   "name" : "const android::Rect &",
-   "referenced_type" : "_ZTIKN7android4RectE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/QueueBufferInputOutput.sdump",
-   "self_type" : "_ZTIRKN7android4RectE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/QueueBufferInputOutput.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKN7android4RectE",
-   "name" : "const android::Rect &",
-   "referenced_type" : "_ZTIKN7android4RectE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/Conversion.sdump",
-   "self_type" : "_ZTIRKN7android4RectE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/Conversion.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Flattenable.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKN7android4RectE",
-   "name" : "const android::Rect &",
-   "referenced_type" : "_ZTIKN7android4RectE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/B2HGraphicBufferProducer.sdump",
-   "self_type" : "_ZTIRKN7android4RectE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/B2HGraphicBufferProducer.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
   },
   {
    "alignment" : 4,
@@ -16025,111 +15918,6 @@
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
   {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferItem.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferItem.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueue.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueue.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueConsumer.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueConsumer.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueCore.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueCore.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueProducer.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueProducer.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferSlot.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferSlot.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/GLConsumerUtils.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/GLConsumerUtils.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/QueueBufferInputOutput.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/QueueBufferInputOutput.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/Conversion.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/Conversion.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/H2BProducerListener.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/H2BProducerListener.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/WProducerListener.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/WProducerListener.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/B2HGraphicBufferProducer.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/B2HGraphicBufferProducer.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/H2BProducerListener.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/H2BProducerListener.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/types.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/types.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS0_10hidl_arrayIiLj4EJEEEEE",
    "name" : "const android::hardware::hidl_vec<android::hardware::hidl_array<int, 4> > &",
@@ -16176,15 +15964,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__110shared_ptrIN7android19GraphicBufferSource12CachedBufferEEE",
-   "name" : "const std::shared_ptr<android::GraphicBufferSource::CachedBuffer> &",
-   "referenced_type" : "_ZTIKNSt3__110shared_ptrIN7android19GraphicBufferSource12CachedBufferEEE#ODR:",
-   "self_type" : "_ZTIRKNSt3__110shared_ptrIN7android19GraphicBufferSource12CachedBufferEEE#ODR:",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__110shared_ptrIN7android19GraphicBufferSource14AcquiredBufferEEE",
    "name" : "const std::shared_ptr<android::GraphicBufferSource::AcquiredBuffer> &",
    "referenced_type" : "_ZTIKNSt3__110shared_ptrIN7android19GraphicBufferSource14AcquiredBufferEEE",
@@ -16194,154 +15973,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__110shared_ptrIN7android19GraphicBufferSource14AcquiredBufferEEE",
-   "name" : "const std::shared_ptr<android::GraphicBufferSource::AcquiredBuffer> &",
-   "referenced_type" : "_ZTIKNSt3__110shared_ptrIN7android19GraphicBufferSource14AcquiredBufferEEE#ODR:",
-   "self_type" : "_ZTIRKNSt3__110shared_ptrIN7android19GraphicBufferSource14AcquiredBufferEEE#ODR:",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferItem.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferItem.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueue.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueue.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueConsumer.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueConsumer.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueCore.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueCore.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueProducer.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueProducer.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferSlot.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferSlot.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/GLConsumerUtils.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/GLConsumerUtils.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/QueueBufferInputOutput.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/QueueBufferInputOutput.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/Conversion.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/Conversion.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/H2BProducerListener.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/H2BProducerListener.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/WProducerListener.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/WProducerListener.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/B2HGraphicBufferProducer.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/B2HGraphicBufferProducer.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/H2BProducerListener.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/H2BProducerListener.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/types.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/types.sdump",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
@@ -16991,7 +16626,7 @@
    "referenced_type" : "_ZTIh",
    "self_type" : "_ZTIRh",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Flattenable.h"
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
   {
    "alignment" : 4,
@@ -17000,7 +16635,7 @@
    "referenced_type" : "_ZTIi",
    "self_type" : "_ZTIRi",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/List.h"
+   "source_file" : "/system/core/libutils/include/utils/Flattenable.h"
   },
   {
    "alignment" : 4,
@@ -17036,7 +16671,7 @@
    "referenced_type" : "_ZTIy",
    "self_type" : "_ZTIRy",
    "size" : 4,
-   "source_file" : "/out/soong/.intermediates/hardware/interfaces/graphics/common/1.0/android.hardware.graphics.common@1.0_genc++_headers/gen/android/hardware/graphics/common/1.0/types.h"
+   "source_file" : "/system/core/libutils/include/utils/Flattenable.h"
   }
  ],
  "pointer_types" :
@@ -17358,15 +16993,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPK9prop_info",
-   "name" : "const prop_info *",
-   "referenced_type" : "_ZTIK9prop_info#ODR:",
-   "self_type" : "_ZTIPK9prop_info#ODR:",
-   "size" : 4,
-   "source_file" : "/system/core/base/include/android-base/properties.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPKDs",
    "name" : "const char16_t *",
    "referenced_type" : "_ZTIKDs",
@@ -17378,26 +17004,8 @@
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android10BufferItemE",
    "name" : "const android::BufferItem *",
-   "referenced_type" : "_ZTIKN7android10BufferItemE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueConsumer.sdump",
+   "referenced_type" : "_ZTIKN7android10BufferItemE",
    "self_type" : "_ZTIPKN7android10BufferItemE",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android10BufferItemE",
-   "name" : "const android::BufferItem *",
-   "referenced_type" : "_ZTIKN7android10BufferItemE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueCore.sdump",
-   "self_type" : "_ZTIPKN7android10BufferItemE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueCore.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android10BufferItemE",
-   "name" : "const android::BufferItem *",
-   "referenced_type" : "_ZTIKN7android10BufferItemE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueProducer.sdump",
-   "self_type" : "_ZTIPKN7android10BufferItemE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueProducer.sdump",
    "size" : 4,
    "source_file" : "/system/core/libutils/include/utils/Vector.h"
   },
@@ -17916,60 +17524,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android4RectE",
-   "name" : "const android::Rect *",
-   "referenced_type" : "_ZTIKN7android4RectE",
-   "self_type" : "_ZTIPKN7android4RectE",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android4RectE",
-   "name" : "const android::Rect *",
-   "referenced_type" : "_ZTIKN7android4RectE#ODR:",
-   "self_type" : "_ZTIPKN7android4RectE#ODR:",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android4RectE",
-   "name" : "const android::Rect *",
-   "referenced_type" : "_ZTIKN7android4RectE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueProducer.sdump",
-   "self_type" : "_ZTIPKN7android4RectE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueProducer.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android4RectE",
-   "name" : "const android::Rect *",
-   "referenced_type" : "_ZTIKN7android4RectE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/QueueBufferInputOutput.sdump",
-   "self_type" : "_ZTIPKN7android4RectE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/QueueBufferInputOutput.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android4RectE",
-   "name" : "const android::Rect *",
-   "referenced_type" : "_ZTIKN7android4RectE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/Conversion.sdump",
-   "self_type" : "_ZTIPKN7android4RectE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/Conversion.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android4RectE",
-   "name" : "const android::Rect *",
-   "referenced_type" : "_ZTIKN7android4RectE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/B2HGraphicBufferProducer.sdump",
-   "self_type" : "_ZTIPKN7android4RectE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/B2HGraphicBufferProducer.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android4base11borrowed_fdE",
    "name" : "const android::base::borrowed_fd *",
    "referenced_type" : "_ZTIKN7android4base11borrowed_fdE",
@@ -18028,15 +17582,6 @@
    "name" : "const android::Vector<android::sp<android::GraphicBuffer> > *",
    "referenced_type" : "_ZTIKN7android6VectorINS_2spINS_13GraphicBufferEEEEE",
    "self_type" : "_ZTIPKN7android6VectorINS_2spINS_13GraphicBufferEEEEE",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android6VectorINS_4RectEEE",
-   "name" : "const android::Vector<android::Rect> *",
-   "referenced_type" : "_ZTIKN7android6VectorINS_4RectEEE",
-   "self_type" : "_ZTIPKN7android6VectorINS_4RectEEE",
    "size" : 4,
    "source_file" : "/system/core/libutils/include/utils/Vector.h"
   },
@@ -18312,24 +17857,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > *",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/B2HGraphicBufferProducer.sdump",
-   "self_type" : "_ZTIPKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/B2HGraphicBufferProducer.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/base/include/android-base/logging.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > *",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/H2BProducerListener.sdump",
-   "self_type" : "_ZTIPKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/H2BProducerListener.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/base/include/android-base/logging.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPKa",
    "name" : "const signed char *",
    "referenced_type" : "_ZTIKa",
@@ -18344,7 +17871,7 @@
    "referenced_type" : "_ZTIKc",
    "self_type" : "_ZTIPKc",
    "size" : 4,
-   "source_file" : "/system/core/liblog/include/android/log.h"
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
   {
    "alignment" : 4,
@@ -18362,7 +17889,7 @@
    "referenced_type" : "_ZTIKh",
    "self_type" : "_ZTIPKh",
    "size" : 4,
-   "source_file" : "/system/libhwbinder/include/hwbinder/Parcel.h"
+   "source_file" : "/system/core/base/include/android-base/logging.h"
   },
   {
    "alignment" : 4,
@@ -18371,7 +17898,7 @@
    "referenced_type" : "_ZTIKi",
    "self_type" : "_ZTIPKi",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h"
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
   {
    "alignment" : 4,
@@ -18416,7 +17943,7 @@
    "referenced_type" : "_ZTIN7android10BufferItemE",
    "self_type" : "_ZTIPN7android10BufferItemE",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
+   "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h"
   },
   {
    "alignment" : 4,
@@ -19901,7 +19428,7 @@
    "referenced_type" : "_ZTIN7android8hardware8graphics11bufferqueue4V2_05utils24B2HGraphicBufferProducerE",
    "self_type" : "_ZTIPN7android8hardware8graphics11bufferqueue4V2_05utils24B2HGraphicBufferProducerE",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
   {
    "alignment" : 4,
@@ -20009,7 +19536,7 @@
    "referenced_type" : "_ZTIh",
    "self_type" : "_ZTIPh",
    "size" : 4,
-   "source_file" : "/system/core/libsystem/include/system/graphics.h"
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
   {
    "alignment" : 4,
@@ -20018,7 +19545,7 @@
    "referenced_type" : "_ZTIi",
    "self_type" : "_ZTIPi",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h"
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
   {
    "alignment" : 4,
@@ -20134,8 +19661,8 @@
    "name" : "const android::BufferItem",
    "referenced_type" : "_ZTIN7android10BufferItemE",
    "self_type" : "_ZTIKN7android10BufferItemE",
-   "size" : 164,
-   "source_file" : "/frameworks/av/media/libstagefright/bqhelper/include/media/stagefright/bqhelper/GraphicBufferSource.h"
+   "size" : 228,
+   "source_file" : "/system/core/libutils/include/utils/Vector.h"
   },
   {
    "alignment" : 4,
@@ -20793,7 +20320,7 @@
    "referenced_type" : "_ZTIN7android4RectE",
    "self_type" : "_ZTIKN7android4RectE",
    "size" : 16,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
+   "source_file" : "/system/core/libutils/include/utils/Flattenable.h"
   },
   {
    "alignment" : 4,
@@ -20872,16 +20399,6 @@
    "name" : "const android::Vector<android::sp<android::GraphicBuffer> >",
    "referenced_type" : "_ZTIN7android6VectorINS_2spINS_13GraphicBufferEEEEE",
    "self_type" : "_ZTIKN7android6VectorINS_2spINS_13GraphicBufferEEEEE",
-   "size" : 20,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKN7android6VectorINS_4RectEEE",
-   "name" : "const android::Vector<android::Rect>",
-   "referenced_type" : "_ZTIN7android6VectorINS_4RectEEE",
-   "self_type" : "_ZTIKN7android6VectorINS_4RectEEE",
    "size" : 20,
    "source_file" : "/system/core/libutils/include/utils/Vector.h"
   },
@@ -21778,186 +21295,6 @@
    "is_const" : true,
    "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
    "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/libstagefright/bqhelper/libstagefright_bufferqueue_helper/android_vendor.R_x86_shared/obj/frameworks/av/media/libstagefright/bqhelper/GraphicBufferSource.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/libstagefright/bqhelper/libstagefright_bufferqueue_helper/android_vendor.R_x86_shared/obj/frameworks/av/media/libstagefright/bqhelper/GraphicBufferSource.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferItem.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferItem.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueue.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueue.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueConsumer.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueConsumer.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueCore.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueCore.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueProducer.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueProducer.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueThreadState.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueueThreadState.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferSlot.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferSlot.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/FrameTimestamps.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/FrameTimestamps.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/GLConsumerUtils.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/GLConsumerUtils.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/QueueBufferInputOutput.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/QueueBufferInputOutput.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/Conversion.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/Conversion.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/H2BProducerListener.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/H2BProducerListener.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/WProducerListener.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/1.0/WProducerListener.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/B2HGraphicBufferProducer.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/B2HGraphicBufferProducer.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/H2BProducerListener.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/H2BProducerListener.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/types.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/types.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
    "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE",
    "self_type" : "_ZTIKPN7android7RefBase12weakref_implE",
    "size" : 4,
@@ -22001,7 +21338,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIKc",
    "size" : 1,
-   "source_file" : "/system/core/liblog/include/android/log.h"
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
   {
    "alignment" : 4,
@@ -22187,11 +21524,6 @@
      "field_name" : "uid",
      "field_offset" : 192,
      "referenced_type" : "_ZTIj"
-    },
-    {
-     "field_name" : "msg",
-     "field_offset" : 224,
-     "referenced_type" : "_ZTIA0_c"
     }
    ],
    "linker_set_key" : "_ZTI12logger_entry",
@@ -32900,7 +32232,7 @@
     {
      "access" : "private",
      "field_name" : "m_ptr",
-     "referenced_type" : "_ZTIPN7android16ConsumerListenerE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/BufferQueue.sdump"
+     "referenced_type" : "_ZTIPN7android16ConsumerListenerE"
     }
    ],
    "linker_set_key" : "_ZTIN7android2spINS_16ConsumerListenerEEE",
@@ -33406,7 +32738,7 @@
     {
      "access" : "private",
      "field_name" : "m_ptr",
-     "referenced_type" : "_ZTIPN7android8hardware8graphics11bufferqueue4V2_05utils24B2HGraphicBufferProducerE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/B2HGraphicBufferProducer.sdump"
+     "referenced_type" : "_ZTIPN7android8hardware8graphics11bufferqueue4V2_05utils24B2HGraphicBufferProducerE"
     }
    ],
    "linker_set_key" : "_ZTIN7android2spINS_8hardware8graphics11bufferqueue4V2_05utils24B2HGraphicBufferProducerEEE",
@@ -33622,7 +32954,7 @@
     {
      "access" : "private",
      "field_name" : "m_ptr",
-     "referenced_type" : "_ZTIPN7android8hardware8graphics11bufferqueue4V2_05utils24B2HGraphicBufferProducerE#ODR:out/soong/.intermediates/frameworks/native/libs/gui/libgui_bufferqueue_static/android_vendor.R_x86_static/obj/frameworks/native/libs/gui/bufferqueue/2.0/B2HGraphicBufferProducer.sdump"
+     "referenced_type" : "_ZTIPN7android8hardware8graphics11bufferqueue4V2_05utils24B2HGraphicBufferProducerE"
     },
     {
      "access" : "private",
@@ -35312,60 +34644,6 @@
     },
     {
      "mangled_component_name" : "_ZNK7android6VectorINS_2spINS_13GraphicBufferEEEE16do_move_backwardEPvPKvj"
-    }
-   ]
-  },
-  {
-   "alignment" : 4,
-   "base_specifiers" :
-   [
-    {
-     "access" : "private",
-     "referenced_type" : "_ZTIN7android10VectorImplE"
-    }
-   ],
-   "linker_set_key" : "_ZTIN7android6VectorINS_4RectEEE",
-   "name" : "android::Vector<android::Rect>",
-   "record_kind" : "class",
-   "referenced_type" : "_ZTIN7android6VectorINS_4RectEEE",
-   "self_type" : "_ZTIN7android6VectorINS_4RectEEE",
-   "size" : 20,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h",
-   "template_args" : [ "_ZTIN7android4RectE" ],
-   "vtable_components" :
-   [
-    {
-     "kind" : "offset_to_top"
-    },
-    {
-     "kind" : "rtti",
-     "mangled_component_name" : "_ZTIN7android6VectorINS_4RectEEE"
-    },
-    {
-     "kind" : "complete_dtor_pointer",
-     "mangled_component_name" : "_ZN7android6VectorINS_4RectEED1Ev"
-    },
-    {
-     "kind" : "deleting_dtor_pointer",
-     "mangled_component_name" : "_ZN7android6VectorINS_4RectEED0Ev"
-    },
-    {
-     "mangled_component_name" : "_ZNK7android6VectorINS_4RectEE12do_constructEPvj"
-    },
-    {
-     "mangled_component_name" : "_ZNK7android6VectorINS_4RectEE10do_destroyEPvj"
-    },
-    {
-     "mangled_component_name" : "_ZNK7android6VectorINS_4RectEE7do_copyEPvPKvj"
-    },
-    {
-     "mangled_component_name" : "_ZNK7android6VectorINS_4RectEE8do_splatEPvPKvj"
-    },
-    {
-     "mangled_component_name" : "_ZNK7android6VectorINS_4RectEE15do_move_forwardEPvPKvj"
-    },
-    {
-     "mangled_component_name" : "_ZNK7android6VectorINS_4RectEE16do_move_backwardEPvPKvj"
     }
    ]
   },
@@ -37934,7 +37212,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerI13native_handleEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerI13native_handleEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerI13native_handleEUt_E",
@@ -37974,7 +37252,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIK13native_handleEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<const native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<const native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIK13native_handleEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIK13native_handleEUt_E",
@@ -38014,7 +37292,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIKcEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<const char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<const char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIKcEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIKcEUt_E",
@@ -38054,7 +37332,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIiLj4EJEEEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<hidl_array<int, 4> >::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<hidl_array<int, 4> >::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIiLj4EJEEEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIiLj4EJEEEEUt_E",
@@ -38094,7 +37372,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_17GrantorDescriptorEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<GrantorDescriptor>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<GrantorDescriptor>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_17GrantorDescriptorEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_17GrantorDescriptorEEUt_E",
@@ -38134,7 +37412,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5media4V1_04RectEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<Rect>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<Rect>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5media4V1_04RectEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5media4V1_04RectEEUt_E",
@@ -38177,7 +37455,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_8graphics11bufferqueue4V1_022IGraphicBufferProducer16FrameEventsDeltaEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<FrameEventsDelta>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<FrameEventsDelta>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_8graphics11bufferqueue4V1_022IGraphicBufferProducer16FrameEventsDeltaEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_8graphics11bufferqueue4V1_022IGraphicBufferProducer16FrameEventsDeltaEEUt_E",
@@ -38217,7 +37495,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIhEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<unsigned char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<unsigned char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIhEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIhEUt_E",
@@ -40910,7 +40188,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7log_msgUt_E",
-   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:81:3)",
+   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:77:3)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7log_msgUt_E",
    "self_type" : "_ZTIN7log_msgUt_E",

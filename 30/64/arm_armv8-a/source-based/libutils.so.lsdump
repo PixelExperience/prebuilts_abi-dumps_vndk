@@ -2,14 +2,6 @@
  "array_types" :
  [
   {
-   "alignment" : 1,
-   "linker_set_key" : "_ZTIA0_c",
-   "name" : "char [0]",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIA0_c",
-   "source_file" : "/system/core/liblog/include/log/log_read.h"
-  },
-  {
    "alignment" : 4,
    "linker_set_key" : "_ZTIA0_i",
    "name" : "int [0]",
@@ -11395,15 +11387,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKN7android28sysprop_change_callback_infoE",
-   "name" : "const android::sysprop_change_callback_info &",
-   "referenced_type" : "_ZTIKN7android28sysprop_change_callback_infoE#ODR:",
-   "self_type" : "_ZTIRKN7android28sysprop_change_callback_infoE#ODR:",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKN7android2spINS_14LooperCallbackEEE",
    "name" : "const android::sp<android::LooperCallback> &",
    "referenced_type" : "_ZTIKN7android2spINS_14LooperCallbackEEE",
@@ -12037,15 +12020,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android28sysprop_change_callback_infoE",
-   "name" : "const android::sysprop_change_callback_info *",
-   "referenced_type" : "_ZTIKN7android28sysprop_change_callback_infoE#ODR:",
-   "self_type" : "_ZTIPKN7android28sysprop_change_callback_infoE#ODR:",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android2spINS_14LooperCallbackEEE",
    "name" : "const android::sp<android::LooperCallback> *",
    "referenced_type" : "_ZTIKN7android2spINS_14LooperCallbackEEE",
@@ -12258,7 +12232,7 @@
    "referenced_type" : "_ZTIKc",
    "self_type" : "_ZTIPKc",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/FileMap.h"
+   "source_file" : "/system/core/liblog/include/android/log.h"
   },
   {
    "alignment" : 4,
@@ -12267,7 +12241,7 @@
    "referenced_type" : "_ZTIKh",
    "self_type" : "_ZTIPKh",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/JenkinsHash.h"
+   "source_file" : "/system/core/libutils/include/utils/Unicode.h"
   },
   {
    "alignment" : 4,
@@ -12285,7 +12259,7 @@
    "referenced_type" : "_ZTIKv",
    "self_type" : "_ZTIPKv",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/LightRefBase.h"
+   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
   },
   {
    "alignment" : 4,
@@ -12690,7 +12664,7 @@
    "referenced_type" : "_ZTIN7android7FileMapE",
    "self_type" : "_ZTIPN7android7FileMapE",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/FileMap.h"
+   "source_file" : "/system/core/libutils/include/utils/Tokenizer.h"
   },
   {
    "alignment" : 4,
@@ -12744,7 +12718,7 @@
    "referenced_type" : "_ZTIN7android7String8E",
    "self_type" : "_ZTIPN7android7String8E",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Printer.h"
+   "source_file" : "/system/core/libutils/include/utils/String8.h"
   },
   {
    "alignment" : 4,
@@ -12852,7 +12826,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIPc",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/FileMap.h"
+   "source_file" : "/system/core/liblog/include/log/log_read.h"
   },
   {
    "alignment" : 4,
@@ -12888,7 +12862,7 @@
    "referenced_type" : "_ZTIv",
    "self_type" : "_ZTIPv",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/FileMap.h"
+   "source_file" : "/system/core/libutils/include/utils/String16.h"
   }
  ],
  "qualified_types" :
@@ -13338,56 +13312,6 @@
    "is_const" : true,
    "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
    "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/system/core/libutils/libutils/android_vendor.R_arm_armv8-a_static/obj/system/core/libutils/Looper.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/system/core/libutils/libutils/android_vendor.R_arm_armv8-a_static/obj/system/core/libutils/Looper.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/system/core/libutils/libutils/android_vendor.R_arm_armv8-a_static/obj/system/core/libutils/NativeHandle.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/system/core/libutils/libutils/android_vendor.R_arm_armv8-a_static/obj/system/core/libutils/NativeHandle.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/system/core/libutils/libutils/android_vendor.R_arm_armv8-a_static/obj/system/core/libutils/RefBase.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/system/core/libutils/libutils/android_vendor.R_arm_armv8-a_static/obj/system/core/libutils/RefBase.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/system/core/libutils/libutils/android_vendor.R_arm_armv8-a_static/obj/system/core/libutils/Threads.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/system/core/libutils/libutils/android_vendor.R_arm_armv8-a_static/obj/system/core/libutils/Threads.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
    "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE",
    "self_type" : "_ZTIKPN7android7RefBase12weakref_implE",
    "size" : 4,
@@ -13421,7 +13345,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIKc",
    "size" : 1,
-   "source_file" : "/system/core/libutils/include/utils/FileMap.h"
+   "source_file" : "/system/core/liblog/include/android/log.h"
   },
   {
    "alignment" : 8,
@@ -13499,7 +13423,7 @@
    "name" : "const void",
    "referenced_type" : "_ZTIv",
    "self_type" : "_ZTIKv",
-   "source_file" : "/system/core/libutils/include/utils/LightRefBase.h"
+   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
   },
   {
    "alignment" : 8,
@@ -13576,11 +13500,6 @@
      "field_name" : "uid",
      "field_offset" : 192,
      "referenced_type" : "_ZTIj"
-    },
-    {
-     "field_name" : "msg",
-     "field_offset" : 224,
-     "referenced_type" : "_ZTIA0_c"
     }
    ],
    "linker_set_key" : "_ZTI12logger_entry",
@@ -17426,7 +17345,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7log_msgUt_E",
-   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:81:3)",
+   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:77:3)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7log_msgUt_E",
    "self_type" : "_ZTIN7log_msgUt_E",

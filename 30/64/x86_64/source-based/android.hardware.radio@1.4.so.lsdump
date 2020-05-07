@@ -2,14 +2,6 @@
  "array_types" :
  [
   {
-   "alignment" : 1,
-   "linker_set_key" : "_ZTIA0_c",
-   "name" : "char [0]",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIA0_c",
-   "source_file" : "/system/core/liblog/include/log/log_read.h"
-  },
-  {
    "alignment" : 4,
    "linker_set_key" : "_ZTIA0_i",
    "name" : "int [0]",
@@ -12250,7 +12242,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioResponseAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -12318,7 +12310,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioResponseAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -12371,7 +12363,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioResponseAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIi",
@@ -12425,7 +12417,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioResponseAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -12618,7 +12610,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioIndicationAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -12686,7 +12678,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioIndicationAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -12739,7 +12731,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioIndicationAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIi",
@@ -12793,7 +12785,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioIndicationAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -24480,7 +24472,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioResponseAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -24505,7 +24497,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioIndicationAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -26178,27 +26170,6 @@
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
   {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioIndicationAll.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioIndicationAll.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioResponseAll.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioResponseAll.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/types.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/types.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS0_11hidl_stringEEE",
    "name" : "const android::hardware::hidl_vec<android::hardware::hidl_string> &",
@@ -26785,55 +26756,10 @@
   },
   {
    "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioIndicationAll.sdump",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioIndicationAll.sdump",
-   "size" : 8,
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioResponseAll.sdump",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioResponseAll.sdump",
-   "size" : 8,
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
-  },
-  {
-   "alignment" : 8,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioIndicationAll.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioIndicationAll.sdump",
-   "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioResponseAll.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioResponseAll.sdump",
-   "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/types.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/types.sdump",
    "size" : 8,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
@@ -39375,36 +39301,6 @@
    "is_const" : true,
    "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
    "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioIndicationAll.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioIndicationAll.sdump",
-   "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 8,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioResponseAll.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/RadioResponseAll.sdump",
-   "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 8,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/types.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4/android_vendor.R_x86_64_static/obj/.intermediates/hardware/interfaces/radio/1.4/android.hardware.radio@1.4_genc++/gen/android/hardware/radio/1.4/types.sdump",
-   "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 8,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
    "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE",
    "self_type" : "_ZTIKPN7android7RefBase12weakref_implE",
    "size" : 8,
@@ -39643,11 +39539,6 @@
      "field_name" : "uid",
      "field_offset" : 192,
      "referenced_type" : "_ZTIj"
-    },
-    {
-     "field_name" : "msg",
-     "field_offset" : 224,
-     "referenced_type" : "_ZTIA0_c"
     }
    ],
    "linker_set_key" : "_ZTI12logger_entry",
@@ -78145,7 +78036,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerI13native_handleEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerI13native_handleEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerI13native_handleEUt_E",
@@ -78185,7 +78076,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIK13native_handleEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<const native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<const native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIK13native_handleEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIK13native_handleEUt_E",
@@ -78225,7 +78116,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIKcEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<const char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<const char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIKcEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIKcEUt_E",
@@ -78265,7 +78156,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLm32EJEEEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 32> >::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 32> >::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLm32EJEEEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLm32EJEEEEUt_E",
@@ -78305,7 +78196,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_11hidl_stringEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<hidl_string>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<hidl_string>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_11hidl_stringEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_11hidl_stringEEUt_E",
@@ -78345,7 +78236,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_17GrantorDescriptorEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<GrantorDescriptor>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<GrantorDescriptor>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_17GrantorDescriptorEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_17GrantorDescriptorEEUt_E",
@@ -78385,7 +78276,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_010SsInfoDataEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<SsInfoData>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<SsInfoData>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_010SsInfoDataEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_010SsInfoDataEEUt_E",
@@ -78425,7 +78316,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_011CellInfoGsmEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellInfoGsm>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellInfoGsm>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_011CellInfoGsmEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_011CellInfoGsmEEUt_E",
@@ -78465,7 +78356,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_011CellInfoLteEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellInfoLte>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellInfoLte>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_011CellInfoLteEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_011CellInfoLteEEUt_E",
@@ -78505,7 +78396,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_012CellInfoCdmaEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellInfoCdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellInfoCdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_012CellInfoCdmaEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_012CellInfoCdmaEEUt_E",
@@ -78545,7 +78436,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_012OperatorInfoEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<OperatorInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<OperatorInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_012OperatorInfoEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_012OperatorInfoEEUt_E",
@@ -78585,7 +78476,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_013CellInfoWcdmaEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellInfoWcdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellInfoWcdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_013CellInfoWcdmaEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_013CellInfoWcdmaEEUt_E",
@@ -78625,7 +78516,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_013GsmSmsMessageEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<GsmSmsMessage>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<GsmSmsMessage>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_013GsmSmsMessageEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_013GsmSmsMessageEEUt_E",
@@ -78665,7 +78556,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_013RadioBandModeEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<RadioBandMode>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<RadioBandMode>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_013RadioBandModeEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_013RadioBandModeEEUt_E",
@@ -78705,7 +78596,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_014CdmaSmsMessageEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CdmaSmsMessage>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CdmaSmsMessage>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_014CdmaSmsMessageEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_014CdmaSmsMessageEEUt_E",
@@ -78745,7 +78636,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_014HardwareConfigEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<HardwareConfig>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<HardwareConfig>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_014HardwareConfigEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_014HardwareConfigEEUt_E",
@@ -78785,7 +78676,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_015CallForwardInfoEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CallForwardInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CallForwardInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_015CallForwardInfoEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_015CallForwardInfoEEUt_E",
@@ -78825,7 +78716,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_015CellIdentityGsmEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellIdentityGsm>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellIdentityGsm>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_015CellIdentityGsmEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_015CellIdentityGsmEEUt_E",
@@ -78865,7 +78756,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_015CellIdentityLteEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellIdentityLte>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellIdentityLte>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_015CellIdentityLteEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_015CellIdentityLteEEUt_E",
@@ -78905,7 +78796,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_015CellInfoTdscdmaEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellInfoTdscdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellInfoTdscdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_015CellInfoTdscdmaEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_015CellInfoTdscdmaEEUt_E",
@@ -78945,7 +78836,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_015DataProfileInfoEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<DataProfileInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<DataProfileInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_015DataProfileInfoEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_015DataProfileInfoEEUt_E",
@@ -78985,7 +78876,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_015NeighboringCellEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<NeighboringCell>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<NeighboringCell>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_015NeighboringCellEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_015NeighboringCellEEUt_E",
@@ -79025,7 +78916,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_016CellIdentityCdmaEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellIdentityCdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellIdentityCdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_016CellIdentityCdmaEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_016CellIdentityCdmaEEUt_E",
@@ -79065,7 +78956,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_017CellIdentityWcdmaEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellIdentityWcdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellIdentityWcdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_017CellIdentityWcdmaEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_017CellIdentityWcdmaEEUt_E",
@@ -79105,7 +78996,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_017HardwareConfigSimEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<HardwareConfigSim>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<HardwareConfigSim>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_017HardwareConfigSimEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_017HardwareConfigSimEEUt_E",
@@ -79145,7 +79036,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_019CellIdentityTdscdmaEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellIdentityTdscdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellIdentityTdscdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_019CellIdentityTdscdmaEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_019CellIdentityTdscdmaEEUt_E",
@@ -79185,7 +79076,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_019HardwareConfigModemEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<HardwareConfigModem>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<HardwareConfigModem>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_019HardwareConfigModemEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_019HardwareConfigModemEEUt_E",
@@ -79225,7 +79116,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_019SetupDataCallResultEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<SetupDataCallResult>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<SetupDataCallResult>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_019SetupDataCallResultEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_019SetupDataCallResultEEUt_E",
@@ -79265,7 +79156,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_020CdmaNumberInfoRecordEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CdmaNumberInfoRecord>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CdmaNumberInfoRecord>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_020CdmaNumberInfoRecordEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_020CdmaNumberInfoRecordEEUt_E",
@@ -79305,7 +79196,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_020CdmaSignalInfoRecordEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CdmaSignalInfoRecord>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CdmaSignalInfoRecord>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_020CdmaSignalInfoRecordEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_020CdmaSignalInfoRecordEEUt_E",
@@ -79345,7 +79236,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_021CdmaDisplayInfoRecordEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CdmaDisplayInfoRecord>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CdmaDisplayInfoRecord>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_021CdmaDisplayInfoRecordEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_021CdmaDisplayInfoRecordEEUt_E",
@@ -79385,7 +79276,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_021CdmaInformationRecordEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CdmaInformationRecord>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CdmaInformationRecord>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_021CdmaInformationRecordEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_021CdmaInformationRecordEEUt_E",
@@ -79425,7 +79316,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_021CdmaT53ClirInfoRecordEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CdmaT53ClirInfoRecord>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CdmaT53ClirInfoRecord>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_021CdmaT53ClirInfoRecordEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_021CdmaT53ClirInfoRecordEEUt_E",
@@ -79465,7 +79356,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_025CdmaLineControlInfoRecordEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CdmaLineControlInfoRecord>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CdmaLineControlInfoRecord>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_025CdmaLineControlInfoRecordEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_025CdmaLineControlInfoRecordEEUt_E",
@@ -79505,7 +79396,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_025GsmBroadcastSmsConfigInfoEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<GsmBroadcastSmsConfigInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<GsmBroadcastSmsConfigInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_025GsmBroadcastSmsConfigInfoEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_025GsmBroadcastSmsConfigInfoEEUt_E",
@@ -79545,7 +79436,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_026CdmaBroadcastSmsConfigInfoEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CdmaBroadcastSmsConfigInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CdmaBroadcastSmsConfigInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_026CdmaBroadcastSmsConfigInfoEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_026CdmaBroadcastSmsConfigInfoEEUt_E",
@@ -79585,7 +79476,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_029CdmaT53AudioControlInfoRecordEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CdmaT53AudioControlInfoRecord>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CdmaT53AudioControlInfoRecord>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_029CdmaT53AudioControlInfoRecordEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_029CdmaT53AudioControlInfoRecordEEUt_E",
@@ -79625,7 +79516,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_031CdmaRedirectingNumberInfoRecordEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CdmaRedirectingNumberInfoRecord>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CdmaRedirectingNumberInfoRecord>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_031CdmaRedirectingNumberInfoRecordEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_031CdmaRedirectingNumberInfoRecordEEUt_E",
@@ -79665,7 +79556,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_04CallEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<Call>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<Call>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_04CallEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_04CallEEUt_E",
@@ -79705,7 +79596,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_06CfDataEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CfData>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CfData>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_06CfDataEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_06CfDataEEUt_E",
@@ -79745,7 +79636,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_07CarrierEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<Carrier>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<Carrier>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_07CarrierEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_07CarrierEEUt_E",
@@ -79785,7 +79676,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_07UusInfoEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<UusInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<UusInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_07UusInfoEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_07UusInfoEEUt_E",
@@ -79825,7 +79716,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_08CellInfoEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_08CellInfoEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_08CellInfoEEUt_E",
@@ -79865,7 +79756,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_09AppStatusEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<AppStatus>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<AppStatus>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_09AppStatusEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_09AppStatusEEUt_E",
@@ -79905,7 +79796,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_110GeranBandsEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<GeranBands>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<GeranBands>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_110GeranBandsEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_110GeranBandsEEUt_E",
@@ -79945,7 +79836,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_110UtranBandsEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<UtranBands>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<UtranBands>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_110UtranBandsEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_110UtranBandsEEUt_E",
@@ -79985,7 +79876,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_111EutranBandsEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<EutranBands>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<EutranBands>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_111EutranBandsEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_111EutranBandsEEUt_E",
@@ -80025,7 +79916,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_120RadioAccessSpecifierEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<RadioAccessSpecifier>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<RadioAccessSpecifier>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_120RadioAccessSpecifierEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_120RadioAccessSpecifierEEUt_E",
@@ -80065,7 +79956,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_211CellInfoGsmEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellInfoGsm>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellInfoGsm>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_211CellInfoGsmEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_211CellInfoGsmEEUt_E",
@@ -80105,7 +79996,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_211CellInfoLteEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellInfoLte>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellInfoLte>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_211CellInfoLteEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_211CellInfoLteEEUt_E",
@@ -80145,7 +80036,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_212CellInfoCdmaEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellInfoCdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellInfoCdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_212CellInfoCdmaEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_212CellInfoCdmaEEUt_E",
@@ -80185,7 +80076,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_213CellInfoWcdmaEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellInfoWcdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellInfoWcdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_213CellInfoWcdmaEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_213CellInfoWcdmaEEUt_E",
@@ -80225,7 +80116,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_215CellIdentityGsmEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellIdentityGsm>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellIdentityGsm>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_215CellIdentityGsmEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_215CellIdentityGsmEEUt_E",
@@ -80265,7 +80156,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_215CellIdentityLteEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellIdentityLte>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellIdentityLte>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_215CellIdentityLteEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_215CellIdentityLteEEUt_E",
@@ -80305,7 +80196,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_215CellInfoTdscdmaEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellInfoTdscdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellInfoTdscdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_215CellInfoTdscdmaEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_215CellInfoTdscdmaEEUt_E",
@@ -80345,7 +80236,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_216CellIdentityCdmaEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellIdentityCdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellIdentityCdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_216CellIdentityCdmaEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_216CellIdentityCdmaEEUt_E",
@@ -80385,7 +80276,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_217CellIdentityWcdmaEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellIdentityWcdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellIdentityWcdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_217CellIdentityWcdmaEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_217CellIdentityWcdmaEEUt_E",
@@ -80425,7 +80316,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_219CellIdentityTdscdmaEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellIdentityTdscdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellIdentityTdscdma>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_219CellIdentityTdscdmaEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_219CellIdentityTdscdmaEEUt_E",
@@ -80465,7 +80356,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_221PhysicalChannelConfigEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<PhysicalChannelConfig>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<PhysicalChannelConfig>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_221PhysicalChannelConfigEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_221PhysicalChannelConfigEEUt_E",
@@ -80505,7 +80396,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_24CallEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<Call>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<Call>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_24CallEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_24CallEEUt_E",
@@ -80545,7 +80436,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_28CellInfoEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_28CellInfoEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_28CellInfoEEUt_E",
@@ -80585,7 +80476,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_415DataProfileInfoEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<DataProfileInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<DataProfileInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_415DataProfileInfoEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_415DataProfileInfoEEUt_E",
@@ -80625,7 +80516,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_415EmergencyNumberEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<EmergencyNumber>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<EmergencyNumber>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_415EmergencyNumberEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_415EmergencyNumberEEUt_E",
@@ -80665,7 +80556,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_419SetupDataCallResultEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<SetupDataCallResult>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<SetupDataCallResult>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_419SetupDataCallResultEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_419SetupDataCallResultEEUt_E",
@@ -80705,7 +80596,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_421PhysicalChannelConfigEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<PhysicalChannelConfig>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<PhysicalChannelConfig>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_421PhysicalChannelConfigEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_421PhysicalChannelConfigEEUt_E",
@@ -80745,7 +80636,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_48CellInfoEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<CellInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<CellInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_48CellInfoEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_5radio4V1_48CellInfoEEUt_E",
@@ -80785,7 +80676,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIaEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<signed char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<signed char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIaEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIaEUt_E",
@@ -80825,7 +80716,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIcEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIcEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIcEUt_E",
@@ -80865,7 +80756,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIhEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<unsigned char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<unsigned char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIhEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIhEUt_E",
@@ -80905,7 +80796,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIiEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<int>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<int>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIiEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIiEUt_E",
@@ -83691,7 +83582,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7log_msgUt_E",
-   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:81:3)",
+   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:77:3)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7log_msgUt_E",
    "self_type" : "_ZTIN7log_msgUt_E",

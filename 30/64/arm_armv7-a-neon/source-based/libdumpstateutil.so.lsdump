@@ -297,10 +297,10 @@
      "referenced_type" : "_ZTIi"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/frameworks/native/cmds/dumpstate/libdumpstateutil/android_vendor.R_arm_armv7-a-neon_shared/obj/frameworks/native/cmds/dumpstate/DumpstateUtil.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/frameworks/native/cmds/dumpstate/libdumpstateutil/android_vendor.R_arm_armv7-a-neon_shared/obj/frameworks/native/cmds/dumpstate/DumpstateUtil.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIi",
@@ -400,7 +400,7 @@
      "referenced_type" : "_ZTIPN7android2os9dumpstate14CommandOptions21CommandOptionsBuilderE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/frameworks/native/cmds/dumpstate/libdumpstateutil/android_vendor.R_arm_armv7-a-neon_shared/obj/frameworks/native/cmds/dumpstate/DumpstateUtil.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIRN7android2os9dumpstate14CommandOptions21CommandOptionsBuilderE",
@@ -535,7 +535,7 @@
      "referenced_type" : "_ZTIi"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/frameworks/native/cmds/dumpstate/libdumpstateutil/android_vendor.R_arm_armv7-a-neon_shared/obj/frameworks/native/cmds/dumpstate/DumpstateUtil.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIRKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE"
@@ -709,15 +709,6 @@
    "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,
    "source_file" : "/frameworks/native/cmds/dumpstate/DumpstateInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/frameworks/native/cmds/dumpstate/libdumpstateutil/android_vendor.R_arm_armv7-a-neon_shared/obj/frameworks/native/cmds/dumpstate/DumpstateUtil.sdump",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/frameworks/native/cmds/dumpstate/libdumpstateutil/android_vendor.R_arm_armv7-a-neon_shared/obj/frameworks/native/cmds/dumpstate/DumpstateUtil.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/cmds/dumpstate/DumpstateUtil.h"
   },
   {
    "alignment" : 4,

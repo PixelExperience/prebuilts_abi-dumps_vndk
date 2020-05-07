@@ -3,14 +3,6 @@
  [
   {
    "alignment" : 1,
-   "linker_set_key" : "_ZTIA0_c",
-   "name" : "char [0]",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIA0_c",
-   "source_file" : "/system/core/liblog/include/log/log_read.h"
-  },
-  {
-   "alignment" : 1,
    "linker_set_key" : "_ZTIA128_c",
    "name" : "char [128]",
    "referenced_type" : "_ZTIc",
@@ -4222,7 +4214,7 @@
      "referenced_type" : "_ZTIj"
     },
     {
-     "referenced_type" : "_ZTIPK8timespec#ODR:out/soong/.intermediates/system/media/audio_utils/libaudioutils/android_vendor.R_arm64_armv8-a_static/obj/system/media/audio_utils/fifo_index.sdump"
+     "referenced_type" : "_ZTIPK8timespec"
     }
    ],
    "return_type" : "_ZTIi",
@@ -4768,7 +4760,7 @@
      "referenced_type" : "_ZTIi"
     },
     {
-     "referenced_type" : "_ZTIPK8timespec#ODR:out/soong/.intermediates/system/media/audio_utils/libaudioutils/android_vendor.R_arm64_armv8-a_static/obj/system/media/audio_utils/fifo_index.sdump"
+     "referenced_type" : "_ZTIPK8timespec"
     }
    ],
    "return_type" : "_ZTIi",
@@ -7550,28 +7542,10 @@
   },
   {
    "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:",
-   "size" : 8,
-   "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
-  },
-  {
-   "alignment" : 8,
    "linker_set_key" : "_ZTIRKNSt3__112basic_stringIhNS_11char_traitsIhEENS_9allocatorIhEEEE",
    "name" : "const std::basic_string<unsigned char, std::char_traits<unsigned char>, std::allocator<unsigned char> > &",
    "referenced_type" : "_ZTIKNSt3__112basic_stringIhNS_11char_traitsIhEENS_9allocatorIhEEEE",
    "self_type" : "_ZTIRKNSt3__112basic_stringIhNS_11char_traitsIhEENS_9allocatorIhEEEE",
-   "size" : 8,
-   "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIhNS_11char_traitsIhEENS_9allocatorIhEEEE",
-   "name" : "const std::basic_string<unsigned char, std::char_traits<unsigned char>, std::allocator<unsigned char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIhNS_11char_traitsIhEENS_9allocatorIhEEEE#ODR:",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIhNS_11char_traitsIhEENS_9allocatorIhEEEE#ODR:",
    "size" : 8,
    "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
   },
@@ -7586,15 +7560,6 @@
   },
   {
    "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__13mapINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android11audio_utils8metadata5DatumENS_4lessIS6_EENS4_INS_4pairIKS6_SA_EEEEEE",
-   "name" : "const std::map<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, android::audio_utils::metadata::Datum, std::less<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >, std::allocator<std::pair<const std::basic_string<char, std::char_traits<char>, std::allocator<char> >, android::audio_utils::metadata::Datum> > > &",
-   "referenced_type" : "_ZTIKNSt3__13mapINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android11audio_utils8metadata5DatumENS_4lessIS6_EENS4_INS_4pairIKS6_SA_EEEEEE#ODR:",
-   "self_type" : "_ZTIRKNSt3__13mapINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android11audio_utils8metadata5DatumENS_4lessIS6_EENS4_INS_4pairIKS6_SA_EEEEEE#ODR:",
-   "size" : 8,
-   "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
-  },
-  {
-   "alignment" : 8,
    "linker_set_key" : "_ZTIRKNSt3__13mapIdiNS_4lessIdEENS_9allocatorINS_4pairIKdiEEEEEE",
    "name" : "const std::map<double, int, std::less<double>, std::allocator<std::pair<const double, int> > > &",
    "referenced_type" : "_ZTIKNSt3__13mapIdiNS_4lessIdEENS_9allocatorINS_4pairIKdiEEEEEE",
@@ -7604,28 +7569,10 @@
   },
   {
    "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__13mapIdiNS_4lessIdEENS_9allocatorINS_4pairIKdiEEEEEE",
-   "name" : "const std::map<double, int, std::less<double>, std::allocator<std::pair<const double, int> > > &",
-   "referenced_type" : "_ZTIKNSt3__13mapIdiNS_4lessIdEENS_9allocatorINS_4pairIKdiEEEEEE#ODR:",
-   "self_type" : "_ZTIRKNSt3__13mapIdiNS_4lessIdEENS_9allocatorINS_4pairIKdiEEEEEE#ODR:",
-   "size" : 8,
-   "source_file" : "/system/media/audio_utils/include/audio_utils/LogPlot.h"
-  },
-  {
-   "alignment" : 8,
    "linker_set_key" : "_ZTIRKNSt3__14pairIKNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android11audio_utils8metadata5DatumEEE",
    "name" : "const std::pair<const std::basic_string<char, std::char_traits<char>, std::allocator<char> >, android::audio_utils::metadata::Datum> &",
    "referenced_type" : "_ZTIKNSt3__14pairIKNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android11audio_utils8metadata5DatumEEE",
    "self_type" : "_ZTIRKNSt3__14pairIKNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android11audio_utils8metadata5DatumEEE",
-   "size" : 8,
-   "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__14pairIKNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android11audio_utils8metadata5DatumEEE",
-   "name" : "const std::pair<const std::basic_string<char, std::char_traits<char>, std::allocator<char> >, android::audio_utils::metadata::Datum> &",
-   "referenced_type" : "_ZTIKNSt3__14pairIKNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android11audio_utils8metadata5DatumEEE#ODR:",
-   "self_type" : "_ZTIRKNSt3__14pairIKNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android11audio_utils8metadata5DatumEEE#ODR:",
    "size" : 8,
    "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
   },
@@ -7654,7 +7601,7 @@
    "referenced_type" : "_ZTIKi",
    "self_type" : "_ZTIRKi",
    "size" : 8,
-   "source_file" : "/system/media/audio_utils/include/audio_utils/ErrorLog.h"
+   "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
   },
   {
    "alignment" : 8,
@@ -8066,33 +8013,6 @@
   },
   {
    "alignment" : 8,
-   "linker_set_key" : "_ZTIPK8timespec",
-   "name" : "const timespec *",
-   "referenced_type" : "_ZTIK8timespec#ODR:",
-   "self_type" : "_ZTIPK8timespec#ODR:",
-   "size" : 8,
-   "source_file" : "/system/media/audio_utils/include/audio_utils/fifo.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIPK8timespec",
-   "name" : "const timespec *",
-   "referenced_type" : "_ZTIK8timespec#ODR:out/soong/.intermediates/system/media/audio_utils/libaudioutils/android_vendor.R_arm64_armv8-a_static/obj/system/media/audio_utils/fifo.sdump",
-   "self_type" : "_ZTIPK8timespec#ODR:out/soong/.intermediates/system/media/audio_utils/libaudioutils/android_vendor.R_arm64_armv8-a_static/obj/system/media/audio_utils/fifo.sdump",
-   "size" : 8,
-   "source_file" : "/system/media/audio_utils/include/audio_utils/fifo.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIPK8timespec",
-   "name" : "const timespec *",
-   "referenced_type" : "_ZTIK8timespec#ODR:out/soong/.intermediates/system/media/audio_utils/libaudioutils/android_vendor.R_arm64_armv8-a_static/obj/system/media/audio_utils/fifo_index.sdump",
-   "self_type" : "_ZTIPK8timespec#ODR:out/soong/.intermediates/system/media/audio_utils/libaudioutils/android_vendor.R_arm64_armv8-a_static/obj/system/media/audio_utils/fifo_index.sdump",
-   "size" : 8,
-   "source_file" : "/system/media/audio_utils/include/audio_utils/fifo_index.h"
-  },
-  {
-   "alignment" : 8,
    "linker_set_key" : "_ZTIPKN7android11audio_utils7BalanceE",
    "name" : "const android::audio_utils::Balance *",
    "referenced_type" : "_ZTIKN7android11audio_utils7BalanceE",
@@ -8188,7 +8108,7 @@
    "referenced_type" : "_ZTIKc",
    "self_type" : "_ZTIPKc",
    "size" : 8,
-   "source_file" : "/system/core/liblog/include/android/log.h"
+   "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
   },
   {
    "alignment" : 8,
@@ -8233,7 +8153,7 @@
    "referenced_type" : "_ZTIKv",
    "self_type" : "_ZTIPKv",
    "size" : 8,
-   "source_file" : "/system/media/audio_utils/include/audio_utils/channels.h"
+   "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
   },
   {
    "alignment" : 8,
@@ -8336,15 +8256,6 @@
   },
   {
    "alignment" : 8,
-   "linker_set_key" : "_ZTIPP16audio_metadata_t",
-   "name" : "audio_metadata_t **",
-   "referenced_type" : "_ZTIP16audio_metadata_t#ODR:",
-   "self_type" : "_ZTIPP16audio_metadata_t#ODR:",
-   "size" : 8,
-   "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
-  },
-  {
-   "alignment" : 8,
    "linker_set_key" : "_ZTIPP19echo_reference_itfe",
    "name" : "echo_reference_itfe **",
    "referenced_type" : "_ZTIP19echo_reference_itfe",
@@ -8377,7 +8288,7 @@
    "referenced_type" : "_ZTIa",
    "self_type" : "_ZTIPa",
    "size" : 8,
-   "source_file" : "/system/media/audio_utils/include/audio_utils/format.h"
+   "source_file" : "/system/media/audio_utils/include/audio_utils/primitives.h"
   },
   {
    "alignment" : 8,
@@ -8386,7 +8297,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIPc",
    "size" : 8,
-   "source_file" : "/system/core/liblog/include/log/log_read.h"
+   "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
   },
   {
    "alignment" : 8,
@@ -8404,7 +8315,7 @@
    "referenced_type" : "_ZTIf",
    "self_type" : "_ZTIPf",
    "size" : 8,
-   "source_file" : "/system/media/audio_utils/include/audio_utils/Balance.h"
+   "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
   },
   {
    "alignment" : 8,
@@ -8422,7 +8333,7 @@
    "referenced_type" : "_ZTIi",
    "self_type" : "_ZTIPi",
    "size" : 8,
-   "source_file" : "/system/media/audio_utils/include/audio_utils/fifo.h"
+   "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
   },
   {
    "alignment" : 8,
@@ -8431,7 +8342,7 @@
    "referenced_type" : "_ZTIj",
    "self_type" : "_ZTIPj",
    "size" : 8,
-   "source_file" : "/system/media/audio_utils/include/audio_utils/fifo.h"
+   "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
   },
   {
    "alignment" : 8,
@@ -8449,7 +8360,7 @@
    "referenced_type" : "_ZTIm",
    "self_type" : "_ZTIPm",
    "size" : 8,
-   "source_file" : "/system/media/audio_utils/include/audio_utils/fifo.h"
+   "source_file" : "/system/media/audio_utils/include/audio_utils/resampler.h"
   },
   {
    "alignment" : 8,
@@ -8467,7 +8378,7 @@
    "referenced_type" : "_ZTIv",
    "self_type" : "_ZTIPv",
    "size" : 8,
-   "source_file" : "/system/media/audio/include/system/audio.h"
+   "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
   }
  ],
  "qualified_types" :
@@ -8880,7 +8791,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIKc",
    "size" : 1,
-   "source_file" : "/system/core/liblog/include/android/log.h"
+   "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
   },
   {
    "alignment" : 8,
@@ -8900,7 +8811,7 @@
    "referenced_type" : "_ZTIf",
    "self_type" : "_ZTIKf",
    "size" : 4,
-   "source_file" : "/system/media/audio_utils/include/audio_utils/primitives.h"
+   "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
   },
   {
    "alignment" : 1,
@@ -8920,7 +8831,7 @@
    "referenced_type" : "_ZTIi",
    "self_type" : "_ZTIKi",
    "size" : 4,
-   "source_file" : "/system/media/audio_utils/include/audio_utils/ErrorLog.h"
+   "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
   },
   {
    "alignment" : 4,
@@ -8930,7 +8841,7 @@
    "referenced_type" : "_ZTIj",
    "self_type" : "_ZTIKj",
    "size" : 4,
-   "source_file" : "/system/media/audio/include/system/audio-base-utils.h"
+   "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
   },
   {
    "alignment" : 8,
@@ -8940,7 +8851,7 @@
    "referenced_type" : "_ZTIl",
    "self_type" : "_ZTIKl",
    "size" : 8,
-   "source_file" : "/system/media/audio_utils/include/audio_utils/ErrorLog.h"
+   "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
   },
   {
    "alignment" : 8,
@@ -8968,7 +8879,7 @@
    "name" : "const void",
    "referenced_type" : "_ZTIv",
    "self_type" : "_ZTIKv",
-   "source_file" : "/system/media/audio_utils/include/audio_utils/channels.h"
+   "source_file" : "/system/media/audio_utils/include/audio_utils/Metadata.h"
   }
  ],
  "record_types" :
@@ -9255,11 +9166,6 @@
      "field_name" : "uid",
      "field_offset" : 192,
      "referenced_type" : "_ZTIj"
-    },
-    {
-     "field_name" : "msg",
-     "field_offset" : 224,
-     "referenced_type" : "_ZTIA0_c"
     }
    ],
    "linker_set_key" : "_ZTI12logger_entry",
@@ -11156,7 +11062,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7log_msgUt_E",
-   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:81:3)",
+   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:77:3)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7log_msgUt_E",
    "self_type" : "_ZTIN7log_msgUt_E",

@@ -2058,28 +2058,10 @@
   },
   {
    "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libprocessgroup/libprocessgroup/android_vendor.R_arm64_armv8-a_static/obj/system/core/libprocessgroup/processgroup.sdump",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/system/core/libprocessgroup/libprocessgroup/android_vendor.R_arm64_armv8-a_static/obj/system/core/libprocessgroup/processgroup.sdump",
-   "size" : 8,
-   "source_file" : "/system/core/libprocessgroup/include/processgroup/processgroup.h"
-  },
-  {
-   "alignment" : 8,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
    "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
-   "size" : 8,
-   "source_file" : "/system/core/libprocessgroup/include/processgroup/processgroup.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE",
-   "name" : "const std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE#ODR:out/soong/.intermediates/system/core/libprocessgroup/libprocessgroup/android_vendor.R_arm64_armv8-a_static/obj/system/core/libprocessgroup/processgroup.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS4_IS6_EEEE#ODR:out/soong/.intermediates/system/core/libprocessgroup/libprocessgroup/android_vendor.R_arm64_armv8-a_static/obj/system/core/libprocessgroup/processgroup.sdump",
    "size" : 8,
    "source_file" : "/system/core/libprocessgroup/include/processgroup/processgroup.h"
   }

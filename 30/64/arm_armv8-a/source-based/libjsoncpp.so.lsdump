@@ -1383,7 +1383,7 @@
      "referenced_type" : "_ZTIPN4Json12PathArgumentE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_value.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIv",
@@ -1444,7 +1444,7 @@
      "referenced_type" : "_ZTIPN4Json12PathArgumentE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_value.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIv",
@@ -1517,7 +1517,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_writer.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
@@ -1568,7 +1568,7 @@
      "referenced_type" : "_ZTIPN4Json12StyledWriterE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_writer.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIv",
@@ -1680,7 +1680,7 @@
      "referenced_type" : "_ZTIPN4Json12StyledWriterE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_writer.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIv",
@@ -2065,7 +2065,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_writer.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
@@ -2116,7 +2116,7 @@
      "referenced_type" : "_ZTIPN4Json18StyledStreamWriterE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_writer.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIv",
@@ -2231,7 +2231,7 @@
      "referenced_type" : "_ZTIPN4Json18StyledStreamWriterE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_writer.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIv",
@@ -2370,7 +2370,7 @@
      "referenced_type" : "_ZTIPN4Json4PathE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_value.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -2390,7 +2390,7 @@
      "referenced_type" : "_ZTIPN4Json4PathE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_value.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIRKNSt3__16vectorIPKN4Json12PathArgumentENS_9allocatorIS4_EEEE"
@@ -2416,7 +2416,7 @@
      "referenced_type" : "_ZTIPN4Json4PathE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_value.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIRKNSt3__16vectorIPKN4Json12PathArgumentENS_9allocatorIS4_EEEE"
@@ -2435,7 +2435,7 @@
      "referenced_type" : "_ZTIPN4Json4PathE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_value.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -2471,7 +2471,7 @@
      "referenced_type" : "_ZTIPN4Json4PathE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_value.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -2526,7 +2526,7 @@
      "referenced_type" : "_ZTIPN4Json5ValueE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_value.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIN4Json16CommentPlacementE"
@@ -2629,7 +2629,7 @@
      "referenced_type" : "_ZTIPN4Json5ValueE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_value.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIN4Json5ValueE",
@@ -3034,7 +3034,7 @@
      "referenced_type" : "_ZTIPN4Json5ValueE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_value.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIv",
@@ -3230,7 +3230,7 @@
      "referenced_type" : "_ZTIPN4Json5ValueE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_value.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIv",
@@ -3432,7 +3432,7 @@
      "referenced_type" : "_ZTIPN4Json5ValueE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_value.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIRN4Json5ValueE",
@@ -4570,7 +4570,7 @@
      "referenced_type" : "_ZTIPKN4Json5ValueE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_value.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIRKN4Json5ValueE"
@@ -4958,7 +4958,7 @@
      "referenced_type" : "_ZTIPKN4Json5ValueE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_value.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIb",
@@ -5103,7 +5103,7 @@
      "referenced_type" : "_ZTIPKN4Json5ValueE"
     },
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_value.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIRKN4Json5ValueE",
@@ -5440,24 +5440,6 @@
    "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,
    "source_file" : "/external/jsoncpp/include/json/reader.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_value.sdump",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_value.sdump",
-   "size" : 4,
-   "source_file" : "/external/jsoncpp/include/json/value.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_writer.sdump",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/external/jsoncpp/libjsoncpp/android_vendor.R_arm_armv8-a_static/obj/external/jsoncpp/src/lib_json/json_writer.sdump",
-   "size" : 4,
-   "source_file" : "/external/jsoncpp/include/json/writer.h"
   },
   {
    "alignment" : 4,

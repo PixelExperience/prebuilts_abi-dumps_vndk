@@ -2328,15 +2328,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPK5iovec",
-   "name" : "const iovec *",
-   "referenced_type" : "_ZTIK5iovec#ODR:",
-   "self_type" : "_ZTIPK5iovec#ODR:",
-   "size" : 4,
-   "source_file" : "/system/core/libcutils/include/cutils/klog.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPKc",
    "name" : "const char *",
    "referenced_type" : "_ZTIKc",

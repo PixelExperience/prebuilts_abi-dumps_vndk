@@ -20335,7 +20335,7 @@
    "referenced_type" : "_ZTIKh",
    "self_type" : "_ZTIPKh",
    "size" : 8,
-   "source_file" : "/external/libyuv/files/include/libyuv/compare.h"
+   "source_file" : "/external/libyuv/files/include/libyuv/scale_row.h"
   },
   {
    "alignment" : 8,
@@ -20344,7 +20344,7 @@
    "referenced_type" : "_ZTIKi",
    "self_type" : "_ZTIPKi",
    "size" : 8,
-   "source_file" : "/external/libyuv/files/include/libyuv/row.h"
+   "source_file" : "/external/libyuv/files/include/libyuv/mjpeg_decoder.h"
   },
   {
    "alignment" : 8,
@@ -20416,7 +20416,7 @@
    "referenced_type" : "_ZTIh",
    "self_type" : "_ZTIPh",
    "size" : 8,
-   "source_file" : "/external/libyuv/files/include/libyuv/convert.h"
+   "source_file" : "/external/libyuv/files/include/libyuv/scale_row.h"
   },
   {
    "alignment" : 8,
@@ -20425,7 +20425,7 @@
    "referenced_type" : "_ZTIi",
    "self_type" : "_ZTIPi",
    "size" : 8,
-   "source_file" : "/external/libyuv/files/include/libyuv/mjpeg_decoder.h"
+   "source_file" : "/external/libyuv/files/include/libyuv/convert.h"
   },
   {
    "alignment" : 8,
@@ -20443,7 +20443,7 @@
    "referenced_type" : "_ZTIt",
    "self_type" : "_ZTIPt",
    "size" : 8,
-   "source_file" : "/external/libyuv/files/include/libyuv/convert.h"
+   "source_file" : "/external/libyuv/files/include/libyuv/scale_row.h"
   },
   {
    "alignment" : 8,
@@ -20525,7 +20525,7 @@
    "referenced_type" : "_ZTIh",
    "self_type" : "_ZTIKh",
    "size" : 1,
-   "source_file" : "/external/libyuv/files/include/libyuv/compare.h"
+   "source_file" : "/external/libyuv/files/include/libyuv/scale_row.h"
   },
   {
    "alignment" : 4,
@@ -20535,7 +20535,7 @@
    "referenced_type" : "_ZTIi",
    "self_type" : "_ZTIKi",
    "size" : 4,
-   "source_file" : "/external/libyuv/files/include/libyuv/compare.h"
+   "source_file" : "/external/libyuv/files/include/libyuv/cpu_id.h"
   },
   {
    "alignment" : 4,

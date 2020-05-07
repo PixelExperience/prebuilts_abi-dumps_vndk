@@ -2880,7 +2880,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifLog#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-log.sdump"
+     "referenced_type" : "_ZTIP8_ExifLog"
     },
     {
      "referenced_type" : "_ZTI11ExifLogCode"
@@ -3263,7 +3263,7 @@
      "referenced_type" : "_ZTIP9_ExifData"
     },
     {
-     "referenced_type" : "_ZTIP8_ExifLog#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-data.sdump"
+     "referenced_type" : "_ZTIP8_ExifLog"
     }
    ],
    "return_type" : "_ZTIv",
@@ -3308,7 +3308,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifMem#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-data.sdump"
+     "referenced_type" : "_ZTIP8_ExifMem"
     }
    ],
    "return_type" : "_ZTIP9_ExifData",
@@ -3524,7 +3524,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifMem#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-entry.sdump"
+     "referenced_type" : "_ZTIP8_ExifMem"
     }
    ],
    "return_type" : "_ZTIP10_ExifEntry",
@@ -3719,7 +3719,7 @@
      "referenced_type" : "_ZTIP11_ExifLoader"
     },
     {
-     "referenced_type" : "_ZTIP8_ExifLog#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-loader.sdump"
+     "referenced_type" : "_ZTIP8_ExifLog"
     }
    ],
    "return_type" : "_ZTIv",
@@ -3737,7 +3737,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifMem#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-loader.sdump"
+     "referenced_type" : "_ZTIP8_ExifMem"
     }
    ],
    "return_type" : "_ZTIP11_ExifLoader",
@@ -3818,7 +3818,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifLog#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-log.sdump"
+     "referenced_type" : "_ZTIP8_ExifLog"
     },
     {
      "referenced_type" : "_ZTI11ExifLogCode"
@@ -3863,7 +3863,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifLog#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-log.sdump"
+     "referenced_type" : "_ZTIP8_ExifLog"
     }
    ],
    "return_type" : "_ZTIv",
@@ -3872,7 +3872,7 @@
   {
    "function_name" : "exif_log_new",
    "linker_set_key" : "exif_log_new",
-   "return_type" : "_ZTIP8_ExifLog#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-log.sdump",
+   "return_type" : "_ZTIP8_ExifLog",
    "source_file" : "/external/libexif/libexif/exif-log.h"
   },
   {
@@ -3881,10 +3881,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifMem#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-log.sdump"
+     "referenced_type" : "_ZTIP8_ExifMem"
     }
    ],
-   "return_type" : "_ZTIP8_ExifLog#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-log.sdump",
+   "return_type" : "_ZTIP8_ExifLog",
    "source_file" : "/external/libexif/libexif/exif-log.h"
   },
   {
@@ -3893,7 +3893,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifLog#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-log.sdump"
+     "referenced_type" : "_ZTIP8_ExifLog"
     }
    ],
    "return_type" : "_ZTIv",
@@ -3905,7 +3905,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifLog#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-log.sdump"
+     "referenced_type" : "_ZTIP8_ExifLog"
     },
     {
      "referenced_type" : "_ZTIPFvP8_ExifLog11ExifLogCodePKcS3_PcPvE"
@@ -3923,7 +3923,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifLog#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-log.sdump"
+     "referenced_type" : "_ZTIP8_ExifLog"
     }
    ],
    "return_type" : "_ZTIv",
@@ -3935,7 +3935,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifLog#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-log.sdump"
+     "referenced_type" : "_ZTIP8_ExifLog"
     },
     {
      "referenced_type" : "_ZTI11ExifLogCode"
@@ -3959,7 +3959,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifMem#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-mem.sdump"
+     "referenced_type" : "_ZTIP8_ExifMem"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -3974,7 +3974,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifMem#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-mem.sdump"
+     "referenced_type" : "_ZTIP8_ExifMem"
     },
     {
      "referenced_type" : "_ZTIPv"
@@ -3998,13 +3998,13 @@
      "referenced_type" : "_ZTIPFvPvE"
     }
    ],
-   "return_type" : "_ZTIP8_ExifMem#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-mem.sdump",
+   "return_type" : "_ZTIP8_ExifMem",
    "source_file" : "/external/libexif/libexif/exif-mem.h"
   },
   {
    "function_name" : "exif_mem_new_default",
    "linker_set_key" : "exif_mem_new_default",
-   "return_type" : "_ZTIP8_ExifMem#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-mem.sdump",
+   "return_type" : "_ZTIP8_ExifMem",
    "source_file" : "/external/libexif/libexif/exif-mem.h"
   },
   {
@@ -4013,7 +4013,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifMem#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-mem.sdump"
+     "referenced_type" : "_ZTIP8_ExifMem"
     },
     {
      "referenced_type" : "_ZTIPv"
@@ -4031,7 +4031,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifMem#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-mem.sdump"
+     "referenced_type" : "_ZTIP8_ExifMem"
     }
    ],
    "return_type" : "_ZTIv",
@@ -4043,7 +4043,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifMem#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-mem.sdump"
+     "referenced_type" : "_ZTIP8_ExifMem"
     }
    ],
    "return_type" : "_ZTIv",
@@ -4070,7 +4070,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifMem#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/canon/exif-mnote-data-canon.sdump"
+     "referenced_type" : "_ZTIP8_ExifMem"
     },
     {
      "referenced_type" : "_ZTI14ExifDataOption"
@@ -4088,7 +4088,7 @@
      "referenced_type" : "_ZTIP14_ExifMnoteData"
     },
     {
-     "referenced_type" : "_ZTIP8_ExifMem#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-mnote-data.sdump"
+     "referenced_type" : "_ZTIP8_ExifMem"
     }
    ],
    "return_type" : "_ZTIv",
@@ -4127,7 +4127,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifMem#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/fuji/exif-mnote-data-fuji.sdump"
+     "referenced_type" : "_ZTIP8_ExifMem"
     }
    ],
    "return_type" : "_ZTIP14_ExifMnoteData",
@@ -4241,7 +4241,7 @@
      "referenced_type" : "_ZTIP14_ExifMnoteData"
     },
     {
-     "referenced_type" : "_ZTIP8_ExifLog#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-mnote-data.sdump"
+     "referenced_type" : "_ZTIP8_ExifLog"
     }
    ],
    "return_type" : "_ZTIv",
@@ -4268,7 +4268,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifMem#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/olympus/exif-mnote-data-olympus.sdump"
+     "referenced_type" : "_ZTIP8_ExifMem"
     }
    ],
    "return_type" : "_ZTIP14_ExifMnoteData",
@@ -4295,7 +4295,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_ExifMem#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/pentax/exif-mnote-data-pentax.sdump"
+     "referenced_type" : "_ZTIP8_ExifMem"
     }
    ],
    "return_type" : "_ZTIP14_ExifMnoteData",
@@ -5171,7 +5171,7 @@
    "referenced_type" : "_ZTIK10_ExifEntry",
    "self_type" : "_ZTIPK10_ExifEntry",
    "size" : 4,
-   "source_file" : "/external/libexif/libexif/canon/exif-mnote-data-canon.h"
+   "source_file" : "/external/libexif/libexif/pentax/exif-mnote-data-pentax.h"
   },
   {
    "alignment" : 4,
@@ -5189,7 +5189,7 @@
    "referenced_type" : "_ZTIK9_ExifData",
    "self_type" : "_ZTIPK9_ExifData",
    "size" : 4,
-   "source_file" : "/external/libexif/libexif/canon/exif-mnote-data-canon.h"
+   "source_file" : "/external/libexif/libexif/pentax/exif-mnote-data-pentax.h"
   },
   {
    "alignment" : 4,
@@ -5292,7 +5292,7 @@
    "referenced_type" : "_ZTI10_ExifEntry",
    "self_type" : "_ZTIK10_ExifEntry",
    "size" : 28,
-   "source_file" : "/external/libexif/libexif/canon/exif-mnote-data-canon.h"
+   "source_file" : "/external/libexif/libexif/pentax/exif-mnote-data-pentax.h"
   },
   {
    "alignment" : 4,
@@ -5312,7 +5312,7 @@
    "referenced_type" : "_ZTI9_ExifData",
    "self_type" : "_ZTIK9_ExifData",
    "size" : 32,
-   "source_file" : "/external/libexif/libexif/canon/exif-mnote-data-canon.h"
+   "source_file" : "/external/libexif/libexif/pentax/exif-mnote-data-pentax.h"
   },
   {
    "alignment" : 1,
@@ -5482,12 +5482,12 @@
     {
      "field_name" : "log",
      "field_offset" : 384,
-     "referenced_type" : "_ZTIP8_ExifLog#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-data.sdump"
+     "referenced_type" : "_ZTIP8_ExifLog"
     },
     {
      "field_name" : "mem",
      "field_offset" : 416,
-     "referenced_type" : "_ZTIP8_ExifMem#ODR:out/soong/.intermediates/external/libexif/libexif/android_vendor.R_x86_x86_64_shared/obj/external/libexif/libexif/exif-data.sdump"
+     "referenced_type" : "_ZTIP8_ExifMem"
     }
    ],
    "linker_set_key" : "_ZTI14_ExifMnoteData",

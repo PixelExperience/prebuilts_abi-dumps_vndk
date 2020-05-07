@@ -2327,21 +2327,12 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPK5iovec",
-   "name" : "const iovec *",
-   "referenced_type" : "_ZTIK5iovec#ODR:out/soong/.intermediates/system/core/libcutils/libcutils/android_vendor.R_x86_x86_64_static/obj/system/core/libcutils/klog.sdump",
-   "self_type" : "_ZTIPK5iovec#ODR:out/soong/.intermediates/system/core/libcutils/libcutils/android_vendor.R_x86_x86_64_static/obj/system/core/libcutils/klog.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libcutils/include/cutils/klog.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPKc",
    "name" : "const char *",
    "referenced_type" : "_ZTIKc",
    "self_type" : "_ZTIPKc",
    "size" : 4,
-   "source_file" : "/system/core/libcutils/include/cutils/config_utils.h"
+   "source_file" : "/system/core/libcutils/include/cutils/android_get_control_file.h"
   },
   {
    "alignment" : 4,
@@ -2368,7 +2359,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIPc",
    "size" : 4,
-   "source_file" : "/system/core/libcutils/include/cutils/config_utils.h"
+   "source_file" : "/system/core/libcutils/include/cutils/str_parms.h"
   },
   {
    "alignment" : 4,
@@ -2386,7 +2377,7 @@
    "referenced_type" : "_ZTIi",
    "self_type" : "_ZTIPi",
    "size" : 4,
-   "source_file" : "/system/core/libcutils/include/cutils/iosched_policy.h"
+   "source_file" : "/system/core/libcutils/include/cutils/sockets.h"
   },
   {
    "alignment" : 4,
@@ -2395,7 +2386,7 @@
    "referenced_type" : "_ZTIj",
    "self_type" : "_ZTIPj",
    "size" : 4,
-   "source_file" : "/system/core/libcutils/include/private/canned_fs_config.h"
+   "source_file" : "/system/core/libcutils/include/private/fs_config.h"
   },
   {
    "alignment" : 4,
@@ -2404,7 +2395,7 @@
    "referenced_type" : "_ZTIv",
    "self_type" : "_ZTIPv",
    "size" : 4,
-   "source_file" : "/system/core/libcutils/include/cutils/misc.h"
+   "source_file" : "/system/core/libcutils/include/cutils/threads.h"
   },
   {
    "alignment" : 4,
@@ -2413,7 +2404,7 @@
    "referenced_type" : "_ZTIy",
    "self_type" : "_ZTIPy",
    "size" : 4,
-   "source_file" : "/system/core/libcutils/include/private/canned_fs_config.h"
+   "source_file" : "/system/core/libcutils/include/private/fs_config.h"
   }
  ],
  "qualified_types" :
@@ -2456,7 +2447,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIKc",
    "size" : 1,
-   "source_file" : "/system/core/libcutils/include/cutils/config_utils.h"
+   "source_file" : "/system/core/libcutils/include/cutils/android_get_control_file.h"
   },
   {
    "is_const" : true,

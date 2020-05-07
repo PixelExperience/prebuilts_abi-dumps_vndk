@@ -2,14 +2,6 @@
  "array_types" :
  [
   {
-   "alignment" : 1,
-   "linker_set_key" : "_ZTIA0_c",
-   "name" : "char [0]",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIA0_c",
-   "source_file" : "/system/core/liblog/include/log/log_read.h"
-  },
-  {
    "alignment" : 4,
    "linker_set_key" : "_ZTIA0_i",
    "name" : "int [0]",
@@ -4744,7 +4736,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/CloseHandleAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -4812,7 +4804,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/CloseHandleAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -4865,7 +4857,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/CloseHandleAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIi",
@@ -4919,7 +4911,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/CloseHandleAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -5048,7 +5040,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerSessionAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -5116,7 +5108,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerSessionAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -5169,7 +5161,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerSessionAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIi",
@@ -5223,7 +5215,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerSessionAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -5352,7 +5344,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerCallbackAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -5420,7 +5412,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerCallbackAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -5473,7 +5465,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerCallbackAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIi",
@@ -5527,7 +5519,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerCallbackAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -6042,7 +6034,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/BroadcastRadioAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -6110,7 +6102,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/BroadcastRadioAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -6163,7 +6155,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/BroadcastRadioAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIi",
@@ -6217,7 +6209,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/BroadcastRadioAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -9914,7 +9906,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/CloseHandleAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -9939,7 +9931,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerSessionAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -9964,7 +9956,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerCallbackAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -9989,7 +9981,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/BroadcastRadioAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -10543,41 +10535,6 @@
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
   {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/BroadcastRadioAll.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/BroadcastRadioAll.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/CloseHandleAll.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/CloseHandleAll.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerCallbackAll.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerCallbackAll.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerSessionAll.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerSessionAll.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/types.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/types.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS0_11hidl_stringEEE",
    "name" : "const android::hardware::hidl_vec<android::hardware::hidl_string> &",
@@ -10696,91 +10653,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/BroadcastRadioAll.sdump",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/BroadcastRadioAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/CloseHandleAll.sdump",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/CloseHandleAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerCallbackAll.sdump",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerCallbackAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerSessionAll.sdump",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerSessionAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/BroadcastRadioAll.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/BroadcastRadioAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/CloseHandleAll.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/CloseHandleAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerCallbackAll.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerCallbackAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerSessionAll.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerSessionAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/types.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/types.sdump",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
@@ -14357,56 +14233,6 @@
    "is_const" : true,
    "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
    "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/BroadcastRadioAll.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/BroadcastRadioAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/CloseHandleAll.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/CloseHandleAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerCallbackAll.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerCallbackAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerSessionAll.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/TunerSessionAll.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/types.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0/android_vendor.R_arm_armv7-a-neon_static/obj/.intermediates/hardware/interfaces/broadcastradio/2.0/android.hardware.broadcastradio@2.0_genc++/gen/android/hardware/broadcastradio/2.0/types.sdump",
-   "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
    "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE",
    "self_type" : "_ZTIKPN7android7RefBase12weakref_implE",
    "size" : 4,
@@ -14635,11 +14461,6 @@
      "field_name" : "uid",
      "field_offset" : 192,
      "referenced_type" : "_ZTIj"
-    },
-    {
-     "field_name" : "msg",
-     "field_offset" : 224,
-     "referenced_type" : "_ZTIA0_c"
     }
    ],
    "linker_set_key" : "_ZTI12logger_entry",
@@ -23963,7 +23784,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerI13native_handleEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerI13native_handleEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerI13native_handleEUt_E",
@@ -24003,7 +23824,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIK13native_handleEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<const native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<const native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIK13native_handleEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIK13native_handleEUt_E",
@@ -24043,7 +23864,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIKcEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<const char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<const char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIKcEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIKcEUt_E",
@@ -24083,7 +23904,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 32> >::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 32> >::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLj32EJEEEEUt_E",
@@ -24123,7 +23944,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_11hidl_stringEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<hidl_string>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<hidl_string>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_11hidl_stringEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_11hidl_stringEEUt_E",
@@ -24163,7 +23984,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_011ProgramInfoEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<ProgramInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<ProgramInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_011ProgramInfoEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_011ProgramInfoEEUt_E",
@@ -24203,7 +24024,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_012AnnouncementEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<Announcement>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<Announcement>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_012AnnouncementEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_012AnnouncementEEUt_E",
@@ -24243,7 +24064,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_013AmFmBandRangeEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<AmFmBandRange>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<AmFmBandRange>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_013AmFmBandRangeEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_013AmFmBandRangeEEUt_E",
@@ -24283,7 +24104,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_013DabTableEntryEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<DabTableEntry>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<DabTableEntry>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_013DabTableEntryEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_013DabTableEntryEEUt_E",
@@ -24323,7 +24144,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_014VendorKeyValueEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<VendorKeyValue>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<VendorKeyValue>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_014VendorKeyValueEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_014VendorKeyValueEEUt_E",
@@ -24363,7 +24184,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_016AnnouncementTypeEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<AnnouncementType>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<AnnouncementType>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_016AnnouncementTypeEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_016AnnouncementTypeEEUt_E",
@@ -24403,7 +24224,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_017ProgramIdentifierEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<ProgramIdentifier>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<ProgramIdentifier>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_017ProgramIdentifierEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_017ProgramIdentifierEEUt_E",
@@ -24443,7 +24264,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_08MetadataEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<Metadata>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<Metadata>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_08MetadataEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_14broadcastradio4V2_08MetadataEEUt_E",
@@ -24483,7 +24304,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_17GrantorDescriptorEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<GrantorDescriptor>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<GrantorDescriptor>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_17GrantorDescriptorEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_17GrantorDescriptorEEUt_E",
@@ -24523,7 +24344,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIcEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIcEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIcEUt_E",
@@ -24563,7 +24384,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIhEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<unsigned char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<unsigned char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIhEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIhEUt_E",
@@ -24603,7 +24424,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIiEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<int>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<int>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIiEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIiEUt_E",
@@ -24643,7 +24464,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIjEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<unsigned int>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<unsigned int>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIjEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIjEUt_E",
@@ -25529,7 +25350,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7log_msgUt_E",
-   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:81:3)",
+   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:77:3)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7log_msgUt_E",
    "self_type" : "_ZTIN7log_msgUt_E",

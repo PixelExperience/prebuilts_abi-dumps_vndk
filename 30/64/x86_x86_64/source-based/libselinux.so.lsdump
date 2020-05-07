@@ -1155,7 +1155,7 @@
    "referenced_type" : "_ZTI11av_decision",
    "self_type" : "_ZTIP11av_decision",
    "size" : 4,
-   "source_file" : "/external/selinux/libselinux/include/selinux/avc.h"
+   "source_file" : "/external/selinux/libselinux/include/selinux/selinux.h"
   },
   {
    "alignment" : 4,
@@ -1416,7 +1416,7 @@
    "referenced_type" : "_ZTIKc",
    "self_type" : "_ZTIPKc",
    "size" : 4,
-   "source_file" : "/external/selinux/libselinux/include/selinux/selinux.h"
+   "source_file" : "/external/selinux/libselinux/include/selinux/context.h"
   },
   {
    "alignment" : 4,
@@ -1470,7 +1470,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIPc",
    "size" : 4,
-   "source_file" : "/external/selinux/libselinux/include/selinux/selinux.h"
+   "source_file" : "/external/selinux/libselinux/include/selinux/context.h"
   },
   {
    "alignment" : 4,
@@ -1506,7 +1506,7 @@
    "referenced_type" : "_ZTIv",
    "self_type" : "_ZTIPv",
    "size" : 4,
-   "source_file" : "/external/selinux/libselinux/include/selinux/selinux.h"
+   "source_file" : "/external/selinux/libselinux/include/selinux/context.h"
   }
  ],
  "qualified_types" :
@@ -1579,7 +1579,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIKc",
    "size" : 1,
-   "source_file" : "/external/selinux/libselinux/include/selinux/selinux.h"
+   "source_file" : "/external/selinux/libselinux/include/selinux/context.h"
   }
  ],
  "record_types" :

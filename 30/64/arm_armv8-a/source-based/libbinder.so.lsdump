@@ -9299,7 +9299,7 @@
    "referenced_type" : "_ZTIFvPKvPvS1_E",
    "return_type" : "_ZTIv",
    "self_type" : "_ZTIFvPKvPvS1_E",
-   "source_file" : "/frameworks/native/libs/binder/include/binder/BpBinder.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/Binder.h"
   },
   {
    "alignment" : 4,
@@ -21630,7 +21630,7 @@
    "referenced_type" : "_ZTIKN7android2spINS_7IBinderEEE",
    "self_type" : "_ZTIRKN7android2spINS_7IBinderEEE",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/IInterface.h"
   },
   {
    "alignment" : 4,
@@ -21819,7 +21819,7 @@
    "referenced_type" : "_ZTIKN7android8String16E",
    "self_type" : "_ZTIRKN7android8String16E",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/String16.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/TextOutput.h"
   },
   {
    "alignment" : 4,
@@ -22017,7 +22017,7 @@
    "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/include/binder/Parcel.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/LazyServiceRegistrar.h"
   },
   {
    "alignment" : 4,
@@ -22350,7 +22350,7 @@
    "referenced_type" : "_ZTIN7android10TextOutputE",
    "self_type" : "_ZTIRN7android10TextOutputE",
    "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/include/binder/Parcel.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/TextOutput.h"
   },
   {
    "alignment" : 4,
@@ -22785,7 +22785,7 @@
    "referenced_type" : "_ZTIFvPKvPvS1_E",
    "self_type" : "_ZTIPFvPKvPvS1_E",
    "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/include/binder/BpBinder.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/Binder.h"
   },
   {
    "alignment" : 4,
@@ -23640,7 +23640,7 @@
    "referenced_type" : "_ZTIKi",
    "self_type" : "_ZTIPKi",
    "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/include/binder/Parcel.h"
+   "source_file" : "/system/core/libutils/include/utils/Vector.h"
   },
   {
    "alignment" : 4,
@@ -23658,7 +23658,7 @@
    "referenced_type" : "_ZTIKv",
    "self_type" : "_ZTIPKv",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/TextOutput.h"
   },
   {
    "alignment" : 4,
@@ -23991,7 +23991,7 @@
    "referenced_type" : "_ZTIN7android14IPCThreadStateE",
    "self_type" : "_ZTIPN7android14IPCThreadStateE",
    "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/include/binder/Parcel.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/IPCThreadState.h"
   },
   {
    "alignment" : 4,
@@ -24549,7 +24549,7 @@
    "referenced_type" : "_ZTIN7android6ParcelE",
    "self_type" : "_ZTIPN7android6ParcelE",
    "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/include/binder/BpBinder.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/Parcel.h"
   },
   {
    "alignment" : 4,
@@ -24774,7 +24774,7 @@
    "referenced_type" : "_ZTIN7android7RefBase12weakref_typeE",
    "self_type" : "_ZTIPN7android7RefBase12weakref_typeE",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/Binder.h"
   },
   {
    "alignment" : 4,
@@ -25377,7 +25377,7 @@
    "referenced_type" : "_ZTIh",
    "self_type" : "_ZTIPh",
    "size" : 4,
-   "source_file" : "/system/core/libsystem/include/system/graphics.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/Parcel.h"
   },
   {
    "alignment" : 4,
@@ -25386,7 +25386,7 @@
    "referenced_type" : "_ZTIi",
    "self_type" : "_ZTIPi",
    "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/include/binder/Parcel.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/MemoryBase.h"
   },
   {
    "alignment" : 4,
@@ -25395,7 +25395,7 @@
    "referenced_type" : "_ZTIj",
    "self_type" : "_ZTIPj",
    "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/include/binder/Parcel.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/MemoryBase.h"
   },
   {
    "alignment" : 4,
@@ -25404,7 +25404,7 @@
    "referenced_type" : "_ZTIv",
    "self_type" : "_ZTIPv",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/VectorImpl.h"
+   "source_file" : "/system/core/base/include/android-base/unique_fd.h"
   },
   {
    "alignment" : 4,
@@ -26793,7 +26793,7 @@
    "referenced_type" : "_ZTIN7android8String16E",
    "self_type" : "_ZTIKN7android8String16E",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/String16.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/TextOutput.h"
   },
   {
    "alignment" : 4,
@@ -27043,7 +27043,7 @@
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 12,
-   "source_file" : "/frameworks/native/libs/binder/include/binder/Parcel.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/LazyServiceRegistrar.h"
   },
   {
    "alignment" : 4,
@@ -27203,7 +27203,7 @@
    "referenced_type" : "_ZTIPKc",
    "self_type" : "_ZTIKPKc",
    "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/include/binder/IInterface.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/TextOutput.h"
   },
   {
    "alignment" : 4,
@@ -27373,7 +27373,7 @@
    "referenced_type" : "_ZTIi",
    "self_type" : "_ZTIKi",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
+   "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h"
   },
   {
    "alignment" : 4,
@@ -27383,7 +27383,7 @@
    "referenced_type" : "_ZTIj",
    "self_type" : "_ZTIKj",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
+   "source_file" : "/system/core/libutils/include/utils/TypeHelpers.h"
   },
   {
    "alignment" : 2,
@@ -27411,7 +27411,7 @@
    "name" : "const void",
    "referenced_type" : "_ZTIv",
    "self_type" : "_ZTIKv",
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/TextOutput.h"
   },
   {
    "alignment" : 8,
@@ -27451,7 +27451,7 @@
    "referenced_type" : "_ZTIi",
    "self_type" : "_ZTIVi",
    "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/include/binder/BpBinder.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/ProcessState.h"
   }
  ],
  "record_types" :

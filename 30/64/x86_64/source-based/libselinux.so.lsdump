@@ -18,7 +18,7 @@
    "is_integral" : true,
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIb",
-   "name" : "bool",
+   "name" : "_Bool",
    "referenced_type" : "_ZTIb",
    "self_type" : "_ZTIb",
    "size" : 1
@@ -1155,7 +1155,7 @@
    "referenced_type" : "_ZTI11av_decision",
    "self_type" : "_ZTIP11av_decision",
    "size" : 8,
-   "source_file" : "/external/selinux/libselinux/include/selinux/avc.h"
+   "source_file" : "/external/selinux/libselinux/include/selinux/selinux.h"
   },
   {
    "alignment" : 8,
@@ -1200,7 +1200,7 @@
    "referenced_type" : "_ZTI14selabel_handle",
    "self_type" : "_ZTIP14selabel_handle",
    "size" : 8,
-   "source_file" : "/external/selinux/libselinux/include/selinux/android.h"
+   "source_file" : "/external/selinux/libselinux/include/selinux/label.h"
   },
   {
    "alignment" : 8,
@@ -1416,7 +1416,7 @@
    "referenced_type" : "_ZTIKc",
    "self_type" : "_ZTIPKc",
    "size" : 8,
-   "source_file" : "/external/selinux/libselinux/include/selinux/selinux.h"
+   "source_file" : "/external/selinux/libselinux/include/selinux/context.h"
   },
   {
    "alignment" : 8,
@@ -1470,7 +1470,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIPc",
    "size" : 8,
-   "source_file" : "/external/selinux/libselinux/include/selinux/selinux.h"
+   "source_file" : "/external/selinux/libselinux/include/selinux/context.h"
   },
   {
    "alignment" : 8,
@@ -1515,7 +1515,7 @@
    "referenced_type" : "_ZTIv",
    "self_type" : "_ZTIPv",
    "size" : 8,
-   "source_file" : "/external/selinux/libselinux/include/selinux/selinux.h"
+   "source_file" : "/external/selinux/libselinux/include/selinux/context.h"
   }
  ],
  "qualified_types" :
@@ -1588,7 +1588,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIKc",
    "size" : 1,
-   "source_file" : "/external/selinux/libselinux/include/selinux/selinux.h"
+   "source_file" : "/external/selinux/libselinux/include/selinux/context.h"
   }
  ],
  "record_types" :

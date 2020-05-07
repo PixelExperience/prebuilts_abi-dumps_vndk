@@ -9257,7 +9257,7 @@
    "referenced_type" : "_ZTIFvPKvPvS1_E",
    "return_type" : "_ZTIv",
    "self_type" : "_ZTIFvPKvPvS1_E",
-   "source_file" : "/system/libhwbinder/include/hwbinder/BpHwBinder.h"
+   "source_file" : "/system/libhwbinder/include/hwbinder/Binder.h"
   },
   {
    "alignment" : 4,
@@ -24382,7 +24382,7 @@
    "referenced_type" : "_ZTIKN7android2spINS_8hardware7IBinderEEE",
    "self_type" : "_ZTIRKN7android2spINS_8hardware7IBinderEEE",
    "size" : 8,
-   "source_file" : "/system/libhwbinder/include/hwbinder/ProcessState.h"
+   "source_file" : "/system/libhwbinder/include/hwbinder/Binder.h"
   },
   {
    "alignment" : 8,
@@ -24544,7 +24544,7 @@
    "referenced_type" : "_ZTIKN7android8hardware6ParcelE",
    "self_type" : "_ZTIRKN7android8hardware6ParcelE",
    "size" : 8,
-   "source_file" : "/system/libhwbinder/include/hwbinder/Parcel.h"
+   "source_file" : "/system/libhwbinder/include/hwbinder/Binder.h"
   },
   {
    "alignment" : 8,
@@ -24686,7 +24686,7 @@
    "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+   "source_file" : "/system/libhidl/transport/include/hidl/LegacySupport.h"
   },
   {
    "alignment" : 8,
@@ -25190,7 +25190,7 @@
    "referenced_type" : "_ZTIN7android8hardware11hidl_stringE",
    "self_type" : "_ZTIRN7android8hardware11hidl_stringE",
    "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
   {
    "alignment" : 8,
@@ -25499,7 +25499,7 @@
    "referenced_type" : "_ZTI13native_handle",
    "self_type" : "_ZTIP13native_handle",
    "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
   {
    "alignment" : 8,
@@ -25580,7 +25580,7 @@
    "referenced_type" : "_ZTIFvPKvPvS1_E",
    "self_type" : "_ZTIPFvPKvPvS1_E",
    "size" : 8,
-   "source_file" : "/system/libhwbinder/include/hwbinder/BpHwBinder.h"
+   "source_file" : "/system/libhwbinder/include/hwbinder/Binder.h"
   },
   {
    "alignment" : 8,
@@ -25985,7 +25985,7 @@
    "referenced_type" : "_ZTIKN7android4hidl4base4V1_05IBaseE",
    "self_type" : "_ZTIPKN7android4hidl4base4V1_05IBaseE",
    "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+   "source_file" : "/out/soong/.intermediates/system/libhidl/transport/base/1.0/android.hidl.base@1.0_genc++_headers/gen/android/hidl/base/1.0/IBase.h"
   },
   {
    "alignment" : 8,
@@ -26489,7 +26489,7 @@
    "referenced_type" : "_ZTIKN7android8hardware7IBinderE",
    "self_type" : "_ZTIPKN7android8hardware7IBinderE",
    "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+   "source_file" : "/system/libhwbinder/include/hwbinder/IBinder.h"
   },
   {
    "alignment" : 8,
@@ -27515,7 +27515,7 @@
    "referenced_type" : "_ZTIN7android7RefBase12weakref_typeE",
    "self_type" : "_ZTIPN7android7RefBase12weakref_typeE",
    "size" : 8,
-   "source_file" : "/system/libhwbinder/include/hwbinder/ProcessState.h"
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
   {
    "alignment" : 8,
@@ -27569,7 +27569,7 @@
    "referenced_type" : "_ZTIN7android8hardware10BpHwBinderE",
    "self_type" : "_ZTIPN7android8hardware10BpHwBinderE",
    "size" : 8,
-   "source_file" : "/system/libhwbinder/include/hwbinder/IPCThreadState.h"
+   "source_file" : "/system/libhwbinder/include/hwbinder/IBinder.h"
   },
   {
    "alignment" : 8,
@@ -27713,7 +27713,7 @@
    "referenced_type" : "_ZTIN7android8hardware11hidl_stringE",
    "self_type" : "_ZTIPN7android8hardware11hidl_stringE",
    "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
   {
    "alignment" : 8,
@@ -27848,7 +27848,7 @@
    "referenced_type" : "_ZTIN7android8hardware20hidl_death_recipientE",
    "self_type" : "_ZTIPN7android8hardware20hidl_death_recipientE",
    "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
   {
    "alignment" : 8,
@@ -27866,7 +27866,7 @@
    "referenced_type" : "_ZTIN7android8hardware27hidl_binder_death_recipientE",
    "self_type" : "_ZTIPN7android8hardware27hidl_binder_death_recipientE",
    "size" : 8,
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlBinderSupport.h"
+   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
   },
   {
    "alignment" : 8,
@@ -27875,7 +27875,7 @@
    "referenced_type" : "_ZTIN7android8hardware6ParcelE",
    "self_type" : "_ZTIPN7android8hardware6ParcelE",
    "size" : 8,
-   "source_file" : "/system/libhwbinder/include/hwbinder/Parcel.h"
+   "source_file" : "/system/libhwbinder/include/hwbinder/Binder.h"
   },
   {
    "alignment" : 8,
@@ -27992,7 +27992,7 @@
    "referenced_type" : "_ZTIN7android8hardware7IBinderE",
    "self_type" : "_ZTIPN7android8hardware7IBinderE",
    "size" : 8,
-   "source_file" : "/system/libhwbinder/include/hwbinder/ProcessState.h"
+   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
   },
   {
    "alignment" : 8,
@@ -28208,7 +28208,7 @@
    "referenced_type" : "_ZTIN7android8hardware9BHwBinderE",
    "self_type" : "_ZTIPN7android8hardware9BHwBinderE",
    "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
+   "source_file" : "/system/libhwbinder/include/hwbinder/IBinder.h"
   },
   {
    "alignment" : 8,
@@ -28433,7 +28433,7 @@
    "referenced_type" : "_ZTIv",
    "self_type" : "_ZTIPv",
    "size" : 8,
-   "source_file" : "/system/core/libsystem/include/system/graphics.h"
+   "source_file" : "/system/libhwbinder/include/hwbinder/Binder.h"
   },
   {
    "alignment" : 8,
@@ -29014,12 +29014,14 @@
    "source_file" : "/system/libhwbinder/include/hwbinder/Binder.h"
   },
   {
+   "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN7android2spINS_8hardware7IBinderEEE",
    "name" : "const android::sp<android::hardware::IBinder>",
    "referenced_type" : "_ZTIN7android2spINS_8hardware7IBinderEEE",
    "self_type" : "_ZTIKN7android2spINS_8hardware7IBinderEEE",
-   "source_file" : "/system/libhwbinder/include/hwbinder/ProcessState.h"
+   "size" : 8,
+   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
   },
   {
    "alignment" : 8,
@@ -29129,7 +29131,7 @@
    "referenced_type" : "_ZTIN7android4hidl4base4V1_05IBaseE",
    "self_type" : "_ZTIKN7android4hidl4base4V1_05IBaseE",
    "size" : 24,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+   "source_file" : "/out/soong/.intermediates/system/libhidl/transport/base/1.0/android.hidl.base@1.0_genc++_headers/gen/android/hidl/base/1.0/IBase.h"
   },
   {
    "alignment" : 8,
@@ -29609,7 +29611,7 @@
    "referenced_type" : "_ZTIN7android8hardware6ParcelE",
    "self_type" : "_ZTIKN7android8hardware6ParcelE",
    "size" : 136,
-   "source_file" : "/system/libhwbinder/include/hwbinder/Parcel.h"
+   "source_file" : "/system/libhwbinder/include/hwbinder/Binder.h"
   },
   {
    "alignment" : 8,
@@ -29739,7 +29741,7 @@
    "referenced_type" : "_ZTIN7android8hardware7IBinderE",
    "self_type" : "_ZTIKN7android8hardware7IBinderE",
    "size" : 24,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
+   "source_file" : "/system/libhwbinder/include/hwbinder/IBinder.h"
   },
   {
    "alignment" : 8,
@@ -29937,7 +29939,7 @@
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 24,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+   "source_file" : "/system/core/base/include/android-base/logging.h"
   },
   {
    "alignment" : 4,
@@ -30315,7 +30317,7 @@
    "referenced_type" : "_ZTIi",
    "self_type" : "_ZTIVi",
    "size" : 4,
-   "source_file" : "/system/libhwbinder/include/hwbinder/ProcessState.h"
+   "source_file" : "/system/libhwbinder/include/hwbinder/BpHwBinder.h"
   }
  ],
  "record_types" :

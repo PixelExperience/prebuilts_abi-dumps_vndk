@@ -53,7 +53,7 @@
    "referenced_type" : "_ZTIh",
    "self_type" : "_ZTIA20_h",
    "size" : 20,
-   "source_file" : "/external/lzma/C/LzmaDec.h"
+   "source_file" : "/external/lzma/C/Xz.h"
   },
   {
    "alignment" : 1,
@@ -251,7 +251,7 @@
    "referenced_type" : "_ZTIh",
    "self_type" : "_ZTIA6_h",
    "size" : 6,
-   "source_file" : "/external/lzma/C/7z.h"
+   "source_file" : "/external/lzma/C/Xz.h"
   },
   {
    "alignment" : 1,
@@ -1863,7 +1863,7 @@
    "referenced_type" : "_ZTIFvPvE",
    "return_type" : "_ZTIv",
    "self_type" : "_ZTIFvPvE",
-   "source_file" : "/external/lzma/C/LzFind.h"
+   "source_file" : "/external/lzma/C/Xz.h"
   },
   {
    "alignment" : 4,
@@ -5182,7 +5182,7 @@
    "referenced_type" : "_ZTI11ELzmaStatus",
    "self_type" : "_ZTIP11ELzmaStatus",
    "size" : 8,
-   "source_file" : "/external/lzma/C/Lzma2Dec.h"
+   "source_file" : "/external/lzma/C/LzmaDec.h"
   },
   {
    "alignment" : 8,
@@ -5218,7 +5218,7 @@
    "referenced_type" : "_ZTI12ISeqInStream",
    "self_type" : "_ZTIP12ISeqInStream",
    "size" : 8,
-   "source_file" : "/external/lzma/C/LzFind.h"
+   "source_file" : "/external/lzma/C/XzEnc.h"
   },
   {
    "alignment" : 8,
@@ -5263,7 +5263,7 @@
    "referenced_type" : "_ZTI13ILookInStream",
    "self_type" : "_ZTIP13ILookInStream",
    "size" : 8,
-   "source_file" : "/external/lzma/C/7z.h"
+   "source_file" : "/external/lzma/C/Xz.h"
   },
   {
    "alignment" : 8,
@@ -5272,7 +5272,7 @@
    "referenced_type" : "_ZTI13ISeqOutStream",
    "self_type" : "_ZTIP13ISeqOutStream",
    "size" : 8,
-   "source_file" : "/external/lzma/C/Lzma2Enc.h"
+   "source_file" : "/external/lzma/C/XzEnc.h"
   },
   {
    "alignment" : 8,
@@ -5380,7 +5380,7 @@
    "referenced_type" : "_ZTI17ICompressProgress",
    "self_type" : "_ZTIP17ICompressProgress",
    "size" : 8,
-   "source_file" : "/external/lzma/C/Lzma2Enc.h"
+   "source_file" : "/external/lzma/C/XzEnc.h"
   },
   {
    "alignment" : 8,
@@ -5767,7 +5767,7 @@
    "referenced_type" : "_ZTIFvPvE",
    "self_type" : "_ZTIPFvPvE",
    "size" : 8,
-   "source_file" : "/external/lzma/C/LzFind.h"
+   "source_file" : "/external/lzma/C/Xz.h"
   },
   {
    "alignment" : 8,
@@ -5965,7 +5965,7 @@
    "referenced_type" : "_ZTIKh",
    "self_type" : "_ZTIPKh",
    "size" : 8,
-   "source_file" : "/external/lzma/C/7z.h"
+   "source_file" : "/external/lzma/C/Xz.h"
   },
   {
    "alignment" : 8,
@@ -6028,7 +6028,7 @@
    "referenced_type" : "_ZTIj",
    "self_type" : "_ZTIPj",
    "size" : 8,
-   "source_file" : "/external/lzma/C/7z.h"
+   "source_file" : "/external/lzma/C/Xz.h"
   },
   {
    "alignment" : 8,
@@ -6046,7 +6046,7 @@
    "referenced_type" : "_ZTIt",
    "self_type" : "_ZTIPt",
    "size" : 8,
-   "source_file" : "/external/lzma/C/7z.h"
+   "source_file" : "/external/lzma/C/Xz.h"
   },
   {
    "alignment" : 8,
@@ -6073,7 +6073,7 @@
    "referenced_type" : "_ZTIy",
    "self_type" : "_ZTIPy",
    "size" : 8,
-   "source_file" : "/external/lzma/C/7z.h"
+   "source_file" : "/external/lzma/C/7zFile.h"
   }
  ],
  "qualified_types" :
@@ -6096,7 +6096,7 @@
    "referenced_type" : "_ZTIA6_h",
    "self_type" : "_ZTIA6_Kh",
    "size" : 6,
-   "source_file" : "/external/lzma/C/7z.h"
+   "source_file" : "/external/lzma/C/Xz.h"
   },
   {
    "alignment" : 8,
@@ -6296,7 +6296,7 @@
    "referenced_type" : "_ZTIh",
    "self_type" : "_ZTIKh",
    "size" : 1,
-   "source_file" : "/external/lzma/C/7z.h"
+   "source_file" : "/external/lzma/C/Xz.h"
   },
   {
    "is_const" : true,

@@ -2,14 +2,6 @@
  "array_types" :
  [
   {
-   "alignment" : 1,
-   "linker_set_key" : "_ZTIA0_c",
-   "name" : "char [0]",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIA0_c",
-   "source_file" : "/system/core/liblog/include/log/log_read.h"
-  },
-  {
    "alignment" : 4,
    "linker_set_key" : "_ZTIA0_i",
    "name" : "int [0]",
@@ -4909,7 +4901,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0/android_vendor.R_arm64_armv8-a_static/obj/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0_genc++/gen/android/hardware/contexthub/1.0/ContexthubCallbackAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -4977,7 +4969,7 @@
    [
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0/android_vendor.R_arm64_armv8-a_static/obj/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0_genc++/gen/android/hardware/contexthub/1.0/ContexthubCallbackAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "default_arg" : true,
@@ -5030,7 +5022,7 @@
     },
     {
      "default_arg" : true,
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0/android_vendor.R_arm64_armv8-a_static/obj/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0_genc++/gen/android/hardware/contexthub/1.0/ContexthubCallbackAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
    "return_type" : "_ZTIi",
@@ -5084,7 +5076,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0/android_vendor.R_arm64_armv8-a_static/obj/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0_genc++/gen/android/hardware/contexthub/1.0/ContexthubCallbackAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_4hidl7manager4V1_020IServiceNotificationEEE"
@@ -6154,7 +6146,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0/android_vendor.R_arm64_armv8-a_static/obj/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0_genc++/gen/android/hardware/contexthub/1.0/ContexthubCallbackAll.sdump"
+     "referenced_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     },
     {
      "referenced_type" : "_ZTIb"
@@ -6488,20 +6480,6 @@
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
   {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0/android_vendor.R_arm64_armv8-a_static/obj/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0_genc++/gen/android/hardware/contexthub/1.0/ContexthubCallbackAll.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0/android_vendor.R_arm64_armv8-a_static/obj/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0_genc++/gen/android/hardware/contexthub/1.0/ContexthubCallbackAll.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0/android_vendor.R_arm64_armv8-a_static/obj/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0_genc++/gen/android/hardware/contexthub/1.0/types.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0/android_vendor.R_arm64_armv8-a_static/obj/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0_genc++/gen/android/hardware/contexthub/1.0/types.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS0_10contexthub4V1_010ContextHubEEE",
    "name" : "const android::hardware::hidl_vec<android::hardware::contexthub::V1_0::ContextHub> &",
@@ -6575,37 +6553,10 @@
   },
   {
    "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char> > &",
-   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0/android_vendor.R_arm64_armv8-a_static/obj/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0_genc++/gen/android/hardware/contexthub/1.0/ContexthubCallbackAll.sdump",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE#ODR:out/soong/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0/android_vendor.R_arm64_armv8-a_static/obj/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0_genc++/gen/android/hardware/contexthub/1.0/ContexthubCallbackAll.sdump",
-   "size" : 8,
-   "source_file" : "/system/libhidl/transport/include/hidl/HidlTransportSupport.h"
-  },
-  {
-   "alignment" : 8,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0/android_vendor.R_arm64_armv8-a_static/obj/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0_genc++/gen/android/hardware/contexthub/1.0/ContexthubCallbackAll.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0/android_vendor.R_arm64_armv8-a_static/obj/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0_genc++/gen/android/hardware/contexthub/1.0/ContexthubCallbackAll.sdump",
-   "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0/android_vendor.R_arm64_armv8-a_static/obj/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0_genc++/gen/android/hardware/contexthub/1.0/types.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0/android_vendor.R_arm64_armv8-a_static/obj/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0_genc++/gen/android/hardware/contexthub/1.0/types.sdump",
    "size" : 8,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
@@ -9126,26 +9077,6 @@
    "is_const" : true,
    "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
    "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0/android_vendor.R_arm64_armv8-a_static/obj/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0_genc++/gen/android/hardware/contexthub/1.0/ContexthubCallbackAll.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0/android_vendor.R_arm64_armv8-a_static/obj/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0_genc++/gen/android/hardware/contexthub/1.0/ContexthubCallbackAll.sdump",
-   "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 8,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0/android_vendor.R_arm64_armv8-a_static/obj/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0_genc++/gen/android/hardware/contexthub/1.0/types.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0/android_vendor.R_arm64_armv8-a_static/obj/.intermediates/hardware/interfaces/contexthub/1.0/android.hardware.contexthub@1.0_genc++/gen/android/hardware/contexthub/1.0/types.sdump",
-   "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 8,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
    "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE",
    "self_type" : "_ZTIKPN7android7RefBase12weakref_implE",
    "size" : 8,
@@ -9384,11 +9315,6 @@
      "field_name" : "uid",
      "field_offset" : 192,
      "referenced_type" : "_ZTIj"
-    },
-    {
-     "field_name" : "msg",
-     "field_offset" : 224,
-     "referenced_type" : "_ZTIA0_c"
     }
    ],
    "linker_set_key" : "_ZTI12logger_entry",
@@ -15992,7 +15918,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerI13native_handleEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerI13native_handleEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerI13native_handleEUt_E",
@@ -16032,7 +15958,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIK13native_handleEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<const native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<const native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIK13native_handleEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIK13native_handleEUt_E",
@@ -16072,7 +15998,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIKcEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<const char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<const char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIKcEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIKcEUt_E",
@@ -16112,7 +16038,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10contexthub4V1_010ContextHubEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<ContextHub>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<ContextHub>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10contexthub4V1_010ContextHubEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10contexthub4V1_010ContextHubEEUt_E",
@@ -16152,7 +16078,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10contexthub4V1_010HubAppInfoEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<HubAppInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<HubAppInfo>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10contexthub4V1_010HubAppInfoEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10contexthub4V1_010HubAppInfoEEUt_E",
@@ -16192,7 +16118,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10contexthub4V1_014PhysicalSensorEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<PhysicalSensor>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<PhysicalSensor>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10contexthub4V1_014PhysicalSensorEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10contexthub4V1_014PhysicalSensorEEUt_E",
@@ -16232,7 +16158,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10contexthub4V1_08MemRangeEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<MemRange>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<MemRange>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10contexthub4V1_08MemRangeEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10contexthub4V1_08MemRangeEEUt_E",
@@ -16272,7 +16198,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLm32EJEEEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 32> >::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<hidl_array<unsigned char, 32> >::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLm32EJEEEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10hidl_arrayIhLm32EJEEEEUt_E",
@@ -16312,7 +16238,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_11hidl_stringEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<hidl_string>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<hidl_string>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_11hidl_stringEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_11hidl_stringEEUt_E",
@@ -16352,7 +16278,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_17GrantorDescriptorEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<GrantorDescriptor>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<GrantorDescriptor>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_17GrantorDescriptorEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_17GrantorDescriptorEEUt_E",
@@ -16392,7 +16318,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIcEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIcEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIcEUt_E",
@@ -16432,7 +16358,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIhEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<unsigned char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<unsigned char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIhEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIhEUt_E",
@@ -16472,7 +16398,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIiEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<int>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<int>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIiEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIiEUt_E",
@@ -17178,7 +17104,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7log_msgUt_E",
-   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:81:3)",
+   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:77:3)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7log_msgUt_E",
    "self_type" : "_ZTIN7log_msgUt_E",

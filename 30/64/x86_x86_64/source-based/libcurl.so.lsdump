@@ -4944,7 +4944,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP9Curl_easy#ODR:out/soong/.intermediates/external/curl/libcurl/android_vendor.R_x86_x86_64_static/obj/external/curl/lib/easy.sdump"
+     "referenced_type" : "_ZTIP9Curl_easy"
     }
    ],
    "return_type" : "_ZTIv",
@@ -4956,10 +4956,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP9Curl_easy#ODR:out/soong/.intermediates/external/curl/libcurl/android_vendor.R_x86_x86_64_static/obj/external/curl/lib/easy.sdump"
+     "referenced_type" : "_ZTIP9Curl_easy"
     }
    ],
-   "return_type" : "_ZTIP9Curl_easy#ODR:out/soong/.intermediates/external/curl/libcurl/android_vendor.R_x86_x86_64_static/obj/external/curl/lib/easy.sdump",
+   "return_type" : "_ZTIP9Curl_easy",
    "source_file" : "/external/curl/include/curl/easy.h"
   },
   {
@@ -4968,7 +4968,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP9Curl_easy#ODR:out/soong/.intermediates/external/curl/libcurl/android_vendor.R_x86_x86_64_static/obj/external/curl/lib/escape.sdump"
+     "referenced_type" : "_ZTIP9Curl_easy"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -4986,7 +4986,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP9Curl_easy#ODR:out/soong/.intermediates/external/curl/libcurl/android_vendor.R_x86_x86_64_static/obj/external/curl/lib/easy.sdump"
+     "referenced_type" : "_ZTIP9Curl_easy"
     },
     {
      "referenced_type" : "_ZTI8CURLINFO"
@@ -4998,7 +4998,7 @@
   {
    "function_name" : "curl_easy_init",
    "linker_set_key" : "curl_easy_init",
-   "return_type" : "_ZTIP9Curl_easy#ODR:out/soong/.intermediates/external/curl/libcurl/android_vendor.R_x86_x86_64_static/obj/external/curl/lib/easy.sdump",
+   "return_type" : "_ZTIP9Curl_easy",
    "source_file" : "/external/curl/include/curl/easy.h"
   },
   {
@@ -5007,7 +5007,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP9Curl_easy#ODR:out/soong/.intermediates/external/curl/libcurl/android_vendor.R_x86_x86_64_static/obj/external/curl/lib/easy.sdump"
+     "referenced_type" : "_ZTIP9Curl_easy"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -5022,7 +5022,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP9Curl_easy#ODR:out/soong/.intermediates/external/curl/libcurl/android_vendor.R_x86_x86_64_static/obj/external/curl/lib/easy.sdump"
+     "referenced_type" : "_ZTIP9Curl_easy"
     }
    ],
    "return_type" : "_ZTI8CURLcode",
@@ -5034,7 +5034,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP9Curl_easy#ODR:out/soong/.intermediates/external/curl/libcurl/android_vendor.R_x86_x86_64_static/obj/external/curl/lib/easy.sdump"
+     "referenced_type" : "_ZTIP9Curl_easy"
     },
     {
      "referenced_type" : "_ZTIPv"
@@ -5055,7 +5055,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP9Curl_easy#ODR:out/soong/.intermediates/external/curl/libcurl/android_vendor.R_x86_x86_64_static/obj/external/curl/lib/easy.sdump"
+     "referenced_type" : "_ZTIP9Curl_easy"
     }
    ],
    "return_type" : "_ZTIv",
@@ -5067,7 +5067,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP9Curl_easy#ODR:out/soong/.intermediates/external/curl/libcurl/android_vendor.R_x86_x86_64_static/obj/external/curl/lib/easy.sdump"
+     "referenced_type" : "_ZTIP9Curl_easy"
     },
     {
      "referenced_type" : "_ZTIPKv"
@@ -5088,7 +5088,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP9Curl_easy#ODR:out/soong/.intermediates/external/curl/libcurl/android_vendor.R_x86_x86_64_static/obj/external/curl/lib/setopt.sdump"
+     "referenced_type" : "_ZTIP9Curl_easy"
     },
     {
      "referenced_type" : "_ZTI10CURLoption"
@@ -5115,7 +5115,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP9Curl_easy#ODR:out/soong/.intermediates/external/curl/libcurl/android_vendor.R_x86_x86_64_static/obj/external/curl/lib/escape.sdump"
+     "referenced_type" : "_ZTIP9Curl_easy"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -5136,7 +5136,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP9Curl_easy#ODR:out/soong/.intermediates/external/curl/libcurl/android_vendor.R_x86_x86_64_static/obj/external/curl/lib/easy.sdump"
+     "referenced_type" : "_ZTIP9Curl_easy"
     }
    ],
    "return_type" : "_ZTI8CURLcode",
@@ -5469,7 +5469,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP9Curl_easy#ODR:out/soong/.intermediates/external/curl/libcurl/android_vendor.R_x86_x86_64_static/obj/external/curl/lib/mime.sdump"
+     "referenced_type" : "_ZTIP9Curl_easy"
     }
    ],
    "return_type" : "_ZTIP11curl_mime_s",
@@ -5574,7 +5574,7 @@
      "referenced_type" : "_ZTIP10Curl_multi"
     },
     {
-     "referenced_type" : "_ZTIP9Curl_easy#ODR:out/soong/.intermediates/external/curl/libcurl/android_vendor.R_x86_x86_64_static/obj/external/curl/lib/multi.sdump"
+     "referenced_type" : "_ZTIP9Curl_easy"
     }
    ],
    "return_type" : "_ZTI9CURLMcode",
@@ -5703,7 +5703,7 @@
      "referenced_type" : "_ZTIP10Curl_multi"
     },
     {
-     "referenced_type" : "_ZTIP9Curl_easy#ODR:out/soong/.intermediates/external/curl/libcurl/android_vendor.R_x86_x86_64_static/obj/external/curl/lib/multi.sdump"
+     "referenced_type" : "_ZTIP9Curl_easy"
     }
    ],
    "return_type" : "_ZTI9CURLMcode",
@@ -6465,7 +6465,7 @@
    "referenced_type" : "_ZTIi",
    "self_type" : "_ZTIPi",
    "size" : 4,
-   "source_file" : "/external/curl/include/curl/curl.h"
+   "source_file" : "/external/curl/include/curl/multi.h"
   },
   {
    "alignment" : 4,

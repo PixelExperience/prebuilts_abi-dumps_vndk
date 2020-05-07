@@ -1493,7 +1493,7 @@
    "referenced_type" : "_ZTIFvP14png_struct_defP19png_row_info_structPhE",
    "return_type" : "_ZTIv",
    "self_type" : "_ZTIFvP14png_struct_defP19png_row_info_structPhE",
-   "source_file" : "/external/libpng/pngstruct.h"
+   "source_file" : "/external/libpng/png.h"
   },
   {
    "alignment" : 4,
@@ -4885,7 +4885,7 @@
      "referenced_type" : "_ZTIP9png_image"
     },
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libpng/libpng/android_vendor.R_x86_x86_64_static/obj/external/libpng/pngread.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     }
    ],
    "return_type" : "_ZTIi",
@@ -5008,7 +5008,7 @@
      "referenced_type" : "_ZTIP9png_image"
     },
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libpng/libpng/android_vendor.R_x86_x86_64_static/obj/external/libpng/pngwrite.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -8673,7 +8673,7 @@
    "referenced_type" : "_ZTI12png_info_def",
    "self_type" : "_ZTIP12png_info_def",
    "size" : 4,
-   "source_file" : "/external/libpng/png.h"
+   "source_file" : "/external/libpng/pngstruct.h"
   },
   {
    "alignment" : 4,
@@ -8754,7 +8754,7 @@
    "referenced_type" : "_ZTI19png_row_info_struct",
    "self_type" : "_ZTIP19png_row_info_struct",
    "size" : 4,
-   "source_file" : "/external/libpng/pngstruct.h"
+   "source_file" : "/external/libpng/png.h"
   },
   {
    "alignment" : 4,
@@ -8862,7 +8862,7 @@
    "referenced_type" : "_ZTIFvP14png_struct_defP19png_row_info_structPhE",
    "self_type" : "_ZTIPFvP14png_struct_defP19png_row_info_structPhE",
    "size" : 4,
-   "source_file" : "/external/libpng/pngstruct.h"
+   "source_file" : "/external/libpng/png.h"
   },
   {
    "alignment" : 4,
@@ -9019,15 +9019,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPK2tm",
-   "name" : "const tm *",
-   "referenced_type" : "_ZTIK2tm#ODR:",
-   "self_type" : "_ZTIPK2tm#ODR:",
-   "size" : 4,
-   "source_file" : "/external/libpng/png.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPK6png_xy",
    "name" : "const png_xy *",
    "referenced_type" : "_ZTIK6png_xy",
@@ -9051,7 +9042,7 @@
    "referenced_type" : "_ZTIKc",
    "self_type" : "_ZTIPKc",
    "size" : 4,
-   "source_file" : "/external/libpng/png.h"
+   "source_file" : "/external/libpng/pngstruct.h"
   },
   {
    "alignment" : 4,
@@ -9069,7 +9060,7 @@
    "referenced_type" : "_ZTIKh",
    "self_type" : "_ZTIPKh",
    "size" : 4,
-   "source_file" : "/external/libpng/png.h"
+   "source_file" : "/external/libpng/pngstruct.h"
   },
   {
    "alignment" : 4,
@@ -9096,7 +9087,7 @@
    "referenced_type" : "_ZTIKv",
    "self_type" : "_ZTIPKv",
    "size" : 4,
-   "source_file" : "/external/libpng/pngpriv.h"
+   "source_file" : "/external/libpng/png.h"
   },
   {
    "alignment" : 4,
@@ -9267,7 +9258,7 @@
    "referenced_type" : "_ZTIj",
    "self_type" : "_ZTIPj",
    "size" : 4,
-   "source_file" : "/external/libpng/pngpriv.h"
+   "source_file" : "/external/libpng/png.h"
   },
   {
    "alignment" : 4,
@@ -9294,7 +9285,7 @@
    "referenced_type" : "_ZTIv",
    "self_type" : "_ZTIPv",
    "size" : 4,
-   "source_file" : "/external/libpng/png.h"
+   "source_file" : "/external/libpng/pngstruct.h"
   }
  ],
  "qualified_types" :
@@ -9457,7 +9448,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIKc",
    "size" : 1,
-   "source_file" : "/external/libpng/png.h"
+   "source_file" : "/external/libpng/pngstruct.h"
   },
   {
    "alignment" : 4,
@@ -9477,7 +9468,7 @@
    "referenced_type" : "_ZTIh",
    "self_type" : "_ZTIKh",
    "size" : 1,
-   "source_file" : "/external/libpng/png.h"
+   "source_file" : "/external/libpng/pngstruct.h"
   },
   {
    "alignment" : 4,
@@ -9505,7 +9496,7 @@
    "name" : "const void",
    "referenced_type" : "_ZTIv",
    "self_type" : "_ZTIKv",
-   "source_file" : "/external/libpng/pngpriv.h"
+   "source_file" : "/external/libpng/png.h"
   },
   {
    "alignment" : 4,
@@ -9515,7 +9506,7 @@
    "referenced_type" : "_ZTIP12png_info_def",
    "self_type" : "_ZTIrP12png_info_def",
    "size" : 4,
-   "source_file" : "/external/libpng/png.h"
+   "source_file" : "/external/libpng/pngpriv.h"
   },
   {
    "alignment" : 4,

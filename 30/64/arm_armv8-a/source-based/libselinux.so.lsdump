@@ -18,7 +18,7 @@
    "is_integral" : true,
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIb",
-   "name" : "_Bool",
+   "name" : "bool",
    "referenced_type" : "_ZTIb",
    "self_type" : "_ZTIb",
    "size" : 1
@@ -464,7 +464,7 @@
    "referenced_type" : "_ZTIFvPKczE",
    "return_type" : "_ZTIv",
    "self_type" : "_ZTIFvPKczE",
-   "source_file" : "/external/selinux/libselinux/include/selinux/selinux.h"
+   "source_file" : "/external/selinux/libselinux/include/selinux/avc.h"
   },
   {
    "alignment" : 4,
@@ -1201,7 +1201,7 @@
    "referenced_type" : "_ZTI14selabel_handle",
    "self_type" : "_ZTIP14selabel_handle",
    "size" : 4,
-   "source_file" : "/external/selinux/libselinux/include/selinux/label.h"
+   "source_file" : "/external/selinux/libselinux/include/selinux/android.h"
   },
   {
    "alignment" : 4,
@@ -1327,7 +1327,7 @@
    "referenced_type" : "_ZTIFvPKczE",
    "self_type" : "_ZTIPFvPKczE",
    "size" : 4,
-   "source_file" : "/external/selinux/libselinux/include/selinux/selinux.h"
+   "source_file" : "/external/selinux/libselinux/include/selinux/avc.h"
   },
   {
    "alignment" : 4,

@@ -12197,7 +12197,7 @@
      "referenced_type" : "_ZTIP11_xmlCatalog"
     },
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/catalog.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     }
    ],
    "return_type" : "_ZTIv",
@@ -12602,10 +12602,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12_xmlAutomata#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP12_xmlAutomata"
     }
    ],
-   "return_type" : "_ZTIP10_xmlRegexp#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP10_xmlRegexp",
    "source_file" : "/external/libxml2/include/libxml/xmlautomata.h"
   },
   {
@@ -12614,10 +12614,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12_xmlAutomata#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP12_xmlAutomata"
     }
    ],
-   "return_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP17_xmlAutomataState",
    "source_file" : "/external/libxml2/include/libxml/xmlautomata.h"
   },
   {
@@ -12626,7 +12626,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12_xmlAutomata#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP12_xmlAutomata"
     }
    ],
    "return_type" : "_ZTIi",
@@ -12638,19 +12638,19 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12_xmlAutomata#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP12_xmlAutomata"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
      "referenced_type" : "_ZTIi"
     }
    ],
-   "return_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP17_xmlAutomataState",
    "source_file" : "/external/libxml2/include/libxml/xmlautomata.h"
   },
   {
@@ -12659,13 +12659,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12_xmlAutomata#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP12_xmlAutomata"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -12680,7 +12680,7 @@
      "referenced_type" : "_ZTIPv"
     }
    ],
-   "return_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP17_xmlAutomataState",
    "source_file" : "/external/libxml2/include/libxml/xmlautomata.h"
   },
   {
@@ -12689,13 +12689,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12_xmlAutomata#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP12_xmlAutomata"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -12713,7 +12713,7 @@
      "referenced_type" : "_ZTIPv"
     }
    ],
-   "return_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP17_xmlAutomataState",
    "source_file" : "/external/libxml2/include/libxml/xmlautomata.h"
   },
   {
@@ -12722,19 +12722,19 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12_xmlAutomata#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP12_xmlAutomata"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
      "referenced_type" : "_ZTIi"
     }
    ],
-   "return_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP17_xmlAutomataState",
    "source_file" : "/external/libxml2/include/libxml/xmlautomata.h"
   },
   {
@@ -12743,7 +12743,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12_xmlAutomata#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP12_xmlAutomata"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -12761,19 +12761,19 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12_xmlAutomata#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP12_xmlAutomata"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
      "referenced_type" : "_ZTIi"
     }
    ],
-   "return_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP17_xmlAutomataState",
    "source_file" : "/external/libxml2/include/libxml/xmlautomata.h"
   },
   {
@@ -12782,16 +12782,16 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12_xmlAutomata#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP12_xmlAutomata"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     }
    ],
-   "return_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP17_xmlAutomataState",
    "source_file" : "/external/libxml2/include/libxml/xmlautomata.h"
   },
   {
@@ -12800,13 +12800,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12_xmlAutomata#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP12_xmlAutomata"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -12818,7 +12818,7 @@
      "referenced_type" : "_ZTIPv"
     }
    ],
-   "return_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP17_xmlAutomataState",
    "source_file" : "/external/libxml2/include/libxml/xmlautomata.h"
   },
   {
@@ -12827,13 +12827,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12_xmlAutomata#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP12_xmlAutomata"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -12848,7 +12848,7 @@
      "referenced_type" : "_ZTIPv"
     }
    ],
-   "return_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP17_xmlAutomataState",
    "source_file" : "/external/libxml2/include/libxml/xmlautomata.h"
   },
   {
@@ -12857,13 +12857,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12_xmlAutomata#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP12_xmlAutomata"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -12881,7 +12881,7 @@
      "referenced_type" : "_ZTIPv"
     }
    ],
-   "return_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP17_xmlAutomataState",
    "source_file" : "/external/libxml2/include/libxml/xmlautomata.h"
   },
   {
@@ -12890,10 +12890,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12_xmlAutomata#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP12_xmlAutomata"
     }
    ],
-   "return_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP17_xmlAutomataState",
    "source_file" : "/external/libxml2/include/libxml/xmlautomata.h"
   },
   {
@@ -12902,13 +12902,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12_xmlAutomata#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP12_xmlAutomata"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -12917,7 +12917,7 @@
      "referenced_type" : "_ZTIPv"
     }
    ],
-   "return_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP17_xmlAutomataState",
    "source_file" : "/external/libxml2/include/libxml/xmlautomata.h"
   },
   {
@@ -12926,13 +12926,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12_xmlAutomata#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP12_xmlAutomata"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -12944,7 +12944,7 @@
      "referenced_type" : "_ZTIPv"
     }
    ],
-   "return_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP17_xmlAutomataState",
    "source_file" : "/external/libxml2/include/libxml/xmlautomata.h"
   },
   {
@@ -12953,10 +12953,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12_xmlAutomata#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP12_xmlAutomata"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlAutomataState#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP17_xmlAutomataState"
     }
    ],
    "return_type" : "_ZTIi",
@@ -12992,7 +12992,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7_xmlBuf#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/buf.sdump"
+     "referenced_type" : "_ZTIP7_xmlBuf"
     }
    ],
    "return_type" : "_ZTIPh",
@@ -13004,7 +13004,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7_xmlBuf#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/tree.sdump"
+     "referenced_type" : "_ZTIP7_xmlBuf"
     },
     {
      "referenced_type" : "_ZTIPK8_xmlNode"
@@ -13019,7 +13019,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7_xmlBuf#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlsave.sdump"
+     "referenced_type" : "_ZTIP7_xmlBuf"
     },
     {
      "referenced_type" : "_ZTIP7_xmlDoc"
@@ -13043,7 +13043,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7_xmlBuf#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/buf.sdump"
+     "referenced_type" : "_ZTIP7_xmlBuf"
     },
     {
      "referenced_type" : "_ZTIm"
@@ -13193,7 +13193,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/tree.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIP10_xmlBuffer"
@@ -13583,7 +13583,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/catalog.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     }
    ],
    "return_type" : "_ZTIv",
@@ -14048,10 +14048,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/valid.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     }
    ],
-   "return_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/valid.sdump",
+   "return_type" : "_ZTIP13_xmlHashTable",
    "source_file" : "/external/libxml2/include/libxml/valid.h"
   },
   {
@@ -14147,10 +14147,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/valid.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     }
    ],
-   "return_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/valid.sdump",
+   "return_type" : "_ZTIP13_xmlHashTable",
    "source_file" : "/external/libxml2/include/libxml/valid.h"
   },
   {
@@ -14159,10 +14159,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/entities.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     }
    ],
-   "return_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/entities.sdump",
+   "return_type" : "_ZTIP13_xmlHashTable",
    "source_file" : "/external/libxml2/include/libxml/entities.h"
   },
   {
@@ -14249,10 +14249,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/valid.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     }
    ],
-   "return_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/valid.sdump",
+   "return_type" : "_ZTIP13_xmlHashTable",
    "source_file" : "/external/libxml2/include/libxml/valid.h"
   },
   {
@@ -14300,7 +14300,7 @@
   {
    "function_name" : "xmlCreateEntitiesTable",
    "linker_set_key" : "xmlCreateEntitiesTable",
-   "return_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/entities.sdump",
+   "return_type" : "_ZTIP13_xmlHashTable",
    "source_file" : "/external/libxml2/include/libxml/entities.h"
   },
   {
@@ -14792,7 +14792,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/debugXML.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIP7_xmlDoc"
@@ -14807,7 +14807,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/debugXML.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIP8_xmlAttr"
@@ -14825,7 +14825,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/debugXML.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIP8_xmlAttr"
@@ -14843,7 +14843,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/debugXML.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIP7_xmlDtd"
@@ -14858,7 +14858,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/debugXML.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIP7_xmlDoc"
@@ -14873,7 +14873,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/debugXML.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIP7_xmlDoc"
@@ -14888,7 +14888,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/debugXML.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIP7_xmlDoc"
@@ -14903,7 +14903,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/debugXML.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIP8_xmlNode"
@@ -14921,7 +14921,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/debugXML.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIP8_xmlNode"
@@ -14939,7 +14939,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/debugXML.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIP8_xmlNode"
@@ -14957,7 +14957,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/debugXML.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -15020,7 +15020,7 @@
   {
    "function_name" : "xmlDictCreate",
    "linker_set_key" : "xmlDictCreate",
-   "return_type" : "_ZTIP8_xmlDict#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/dict.sdump",
+   "return_type" : "_ZTIP8_xmlDict",
    "source_file" : "/external/libxml2/include/libxml/dict.h"
   },
   {
@@ -15029,10 +15029,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_xmlDict#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/dict.sdump"
+     "referenced_type" : "_ZTIP8_xmlDict"
     }
    ],
-   "return_type" : "_ZTIP8_xmlDict#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/dict.sdump",
+   "return_type" : "_ZTIP8_xmlDict",
    "source_file" : "/external/libxml2/include/libxml/dict.h"
   },
   {
@@ -15041,7 +15041,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_xmlDict#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/dict.sdump"
+     "referenced_type" : "_ZTIP8_xmlDict"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -15059,7 +15059,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_xmlDict#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/dict.sdump"
+     "referenced_type" : "_ZTIP8_xmlDict"
     }
    ],
    "return_type" : "_ZTIv",
@@ -15071,7 +15071,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_xmlDict#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/dict.sdump"
+     "referenced_type" : "_ZTIP8_xmlDict"
     }
    ],
    "return_type" : "_ZTIm",
@@ -15083,7 +15083,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_xmlDict#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/dict.sdump"
+     "referenced_type" : "_ZTIP8_xmlDict"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -15101,7 +15101,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_xmlDict#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/dict.sdump"
+     "referenced_type" : "_ZTIP8_xmlDict"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -15116,7 +15116,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_xmlDict#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/dict.sdump"
+     "referenced_type" : "_ZTIP8_xmlDict"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -15134,7 +15134,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_xmlDict#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/dict.sdump"
+     "referenced_type" : "_ZTIP8_xmlDict"
     }
    ],
    "return_type" : "_ZTIi",
@@ -15146,7 +15146,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_xmlDict#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/dict.sdump"
+     "referenced_type" : "_ZTIP8_xmlDict"
     },
     {
      "referenced_type" : "_ZTIm"
@@ -15161,7 +15161,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8_xmlDict#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/dict.sdump"
+     "referenced_type" : "_ZTIP8_xmlDict"
     }
    ],
    "return_type" : "_ZTIi",
@@ -15206,7 +15206,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlsave.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIP7_xmlDoc"
@@ -15305,7 +15305,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlsave.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIP7_xmlDoc"
@@ -15368,7 +15368,7 @@
      "referenced_type" : "_ZTIP10_xmlBuffer"
     },
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/valid.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     }
    ],
    "return_type" : "_ZTIv",
@@ -15398,7 +15398,7 @@
      "referenced_type" : "_ZTIP10_xmlBuffer"
     },
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/valid.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     }
    ],
    "return_type" : "_ZTIv",
@@ -15413,7 +15413,7 @@
      "referenced_type" : "_ZTIP10_xmlBuffer"
     },
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/entities.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     }
    ],
    "return_type" : "_ZTIv",
@@ -15458,7 +15458,7 @@
      "referenced_type" : "_ZTIP10_xmlBuffer"
     },
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/valid.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     }
    ],
    "return_type" : "_ZTIv",
@@ -15470,7 +15470,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlsave.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIP7_xmlDoc"
@@ -15560,7 +15560,7 @@
      "referenced_type" : "_ZTIP10_xmlBuffer"
     },
     {
-     "referenced_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP11_xmlExpNode"
     }
    ],
    "return_type" : "_ZTIv",
@@ -15575,13 +15575,13 @@
      "referenced_type" : "_ZTIP11_xmlExpCtxt"
     },
     {
-     "referenced_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP11_xmlExpNode"
     },
     {
-     "referenced_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP11_xmlExpNode"
     }
    ],
-   "return_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP11_xmlExpNode",
    "source_file" : "/external/libxml2/include/libxml/xmlregexp.h"
   },
   {
@@ -15593,7 +15593,7 @@
      "referenced_type" : "_ZTIP11_xmlExpCtxt"
     },
     {
-     "referenced_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP11_xmlExpNode"
     }
    ],
    "return_type" : "_ZTIv",
@@ -15620,7 +15620,7 @@
      "referenced_type" : "_ZTIP11_xmlExpCtxt"
     },
     {
-     "referenced_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP11_xmlExpNode"
     },
     {
      "referenced_type" : "_ZTIPPKh"
@@ -15641,7 +15641,7 @@
      "referenced_type" : "_ZTIP11_xmlExpCtxt"
     },
     {
-     "referenced_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP11_xmlExpNode"
     },
     {
      "referenced_type" : "_ZTIPPKh"
@@ -15659,7 +15659,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP11_xmlExpNode"
     }
    ],
    "return_type" : "_ZTIi",
@@ -15671,7 +15671,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP11_xmlExpNode"
     }
    ],
    "return_type" : "_ZTIi",
@@ -15692,7 +15692,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "return_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP11_xmlExpNode",
    "source_file" : "/external/libxml2/include/libxml/xmlregexp.h"
   },
   {
@@ -15704,7 +15704,7 @@
      "referenced_type" : "_ZTIi"
     },
     {
-     "referenced_type" : "_ZTIP8_xmlDict#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP8_xmlDict"
     }
    ],
    "return_type" : "_ZTIP11_xmlExpCtxt",
@@ -15719,13 +15719,13 @@
      "referenced_type" : "_ZTIP11_xmlExpCtxt"
     },
     {
-     "referenced_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP11_xmlExpNode"
     },
     {
-     "referenced_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP11_xmlExpNode"
     }
    ],
-   "return_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP11_xmlExpNode",
    "source_file" : "/external/libxml2/include/libxml/xmlregexp.h"
   },
   {
@@ -15737,7 +15737,7 @@
      "referenced_type" : "_ZTIP11_xmlExpCtxt"
     },
     {
-     "referenced_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP11_xmlExpNode"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -15746,7 +15746,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "return_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP11_xmlExpNode",
    "source_file" : "/external/libxml2/include/libxml/xmlregexp.h"
   },
   {
@@ -15758,13 +15758,13 @@
      "referenced_type" : "_ZTIP11_xmlExpCtxt"
     },
     {
-     "referenced_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP11_xmlExpNode"
     },
     {
-     "referenced_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP11_xmlExpNode"
     }
    ],
-   "return_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP11_xmlExpNode",
    "source_file" : "/external/libxml2/include/libxml/xmlregexp.h"
   },
   {
@@ -15779,7 +15779,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "return_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP11_xmlExpNode",
    "source_file" : "/external/libxml2/include/libxml/xmlregexp.h"
   },
   {
@@ -15788,7 +15788,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP11_xmlExpNode"
     }
    ],
    "return_type" : "_ZTIv",
@@ -15803,7 +15803,7 @@
      "referenced_type" : "_ZTIP11_xmlExpCtxt"
     },
     {
-     "referenced_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP11_xmlExpNode"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -15812,7 +15812,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "return_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP11_xmlExpNode",
    "source_file" : "/external/libxml2/include/libxml/xmlregexp.h"
   },
   {
@@ -15824,10 +15824,10 @@
      "referenced_type" : "_ZTIP11_xmlExpCtxt"
     },
     {
-     "referenced_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP11_xmlExpNode"
     },
     {
-     "referenced_type" : "_ZTIP11_xmlExpNode#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP11_xmlExpNode"
     }
    ],
    "return_type" : "_ZTIi",
@@ -15917,7 +15917,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/valid.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     }
    ],
    "return_type" : "_ZTIv",
@@ -15929,7 +15929,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP12_xmlAutomata#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP12_xmlAutomata"
     }
    ],
    "return_type" : "_ZTIv",
@@ -16004,7 +16004,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/valid.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     }
    ],
    "return_type" : "_ZTIv",
@@ -16016,7 +16016,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/entities.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     }
    ],
    "return_type" : "_ZTIv",
@@ -16040,7 +16040,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/valid.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     }
    ],
    "return_type" : "_ZTIv",
@@ -16100,7 +16100,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/valid.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     }
    ],
    "return_type" : "_ZTIv",
@@ -16220,7 +16220,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/valid.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     }
    ],
    "return_type" : "_ZTIv",
@@ -16694,7 +16694,7 @@
      "referenced_type" : "_ZTIPKh"
     }
    ],
-   "return_type" : "_ZTIP8_xmlList#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/valid.sdump",
+   "return_type" : "_ZTIP8_xmlList",
    "source_file" : "/external/libxml2/include/libxml/valid.h"
   },
   {
@@ -16769,7 +16769,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -16787,7 +16787,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -16808,7 +16808,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -16832,13 +16832,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPFPvS_PKhE"
     }
    ],
-   "return_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump",
+   "return_type" : "_ZTIP13_xmlHashTable",
    "source_file" : "/external/libxml2/include/libxml/hash.h"
   },
   {
@@ -16850,7 +16850,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "return_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump",
+   "return_type" : "_ZTIP13_xmlHashTable",
    "source_file" : "/external/libxml2/include/libxml/hash.h"
   },
   {
@@ -16862,10 +16862,10 @@
      "referenced_type" : "_ZTIi"
     },
     {
-     "referenced_type" : "_ZTIP8_xmlDict#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP8_xmlDict"
     }
    ],
-   "return_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump",
+   "return_type" : "_ZTIP13_xmlHashTable",
    "source_file" : "/external/libxml2/include/libxml/hash.h"
   },
   {
@@ -16889,7 +16889,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPFvPvPKhE"
@@ -16904,7 +16904,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -16919,7 +16919,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -16937,7 +16937,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -16958,7 +16958,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -16976,7 +16976,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -17000,7 +17000,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -17030,7 +17030,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -17048,7 +17048,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -17069,7 +17069,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -17093,7 +17093,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPFvPvS_PKhE"
@@ -17111,7 +17111,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -17138,7 +17138,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPFvPvS_PKhS1_S1_E"
@@ -17156,7 +17156,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -17183,7 +17183,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     }
    ],
    "return_type" : "_ZTIi",
@@ -17195,7 +17195,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -17216,7 +17216,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -17240,7 +17240,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/hash.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -18035,7 +18035,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/debugXML.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIP8_xmlNode"
@@ -18092,7 +18092,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlmemory.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     }
    ],
    "return_type" : "_ZTIv",
@@ -18104,7 +18104,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlmemory.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIl"
@@ -18200,7 +18200,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlmemory.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -18335,7 +18335,7 @@
   {
    "function_name" : "xmlNewAutomata",
    "linker_set_key" : "xmlNewAutomata",
-   "return_type" : "_ZTIP12_xmlAutomata#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP12_xmlAutomata",
    "source_file" : "/external/libxml2/include/libxml/xmlautomata.h"
   },
   {
@@ -19493,7 +19493,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlIO.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIP23_xmlCharEncodingHandler"
@@ -20624,7 +20624,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlIO.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTI15xmlCharEncoding"
@@ -20972,7 +20972,7 @@
      "referenced_type" : "_ZTIPKh"
     },
     {
-     "referenced_type" : "_ZTIP8_xmlDict#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/pattern.sdump"
+     "referenced_type" : "_ZTIP8_xmlDict"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -21032,7 +21032,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/uri.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIP7_xmlURI"
@@ -21638,7 +21638,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10_xmlRegexp#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP10_xmlRegexp"
     }
    ],
    "return_type" : "_ZTIv",
@@ -21650,7 +21650,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10_xmlRegexp#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP10_xmlRegexp"
     },
     {
      "referenced_type" : "_ZTIPFvP15_xmlRegExecCtxtPKhPvS3_E"
@@ -21671,7 +21671,7 @@
      "referenced_type" : "_ZTIPKh"
     }
    ],
-   "return_type" : "_ZTIP10_xmlRegexp#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump",
+   "return_type" : "_ZTIP10_xmlRegexp",
    "source_file" : "/external/libxml2/include/libxml/xmlregexp.h"
   },
   {
@@ -21680,7 +21680,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10_xmlRegexp#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP10_xmlRegexp"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -21695,7 +21695,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10_xmlRegexp#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP10_xmlRegexp"
     }
    ],
    "return_type" : "_ZTIi",
@@ -21707,10 +21707,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
-     "referenced_type" : "_ZTIP10_xmlRegexp#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlregexp.sdump"
+     "referenced_type" : "_ZTIP10_xmlRegexp"
     }
    ],
    "return_type" : "_ZTIv",
@@ -21806,10 +21806,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/relaxng.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
-     "referenced_type" : "_ZTIP11_xmlRelaxNG#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/relaxng.sdump"
+     "referenced_type" : "_ZTIP11_xmlRelaxNG"
     }
    ],
    "return_type" : "_ZTIv",
@@ -21821,10 +21821,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/relaxng.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
-     "referenced_type" : "_ZTIP11_xmlRelaxNG#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/relaxng.sdump"
+     "referenced_type" : "_ZTIP11_xmlRelaxNG"
     }
    ],
    "return_type" : "_ZTIv",
@@ -21836,7 +21836,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP11_xmlRelaxNG#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/relaxng.sdump"
+     "referenced_type" : "_ZTIP11_xmlRelaxNG"
     }
    ],
    "return_type" : "_ZTIv",
@@ -21860,7 +21860,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP20_xmlRelaxNGValidCtxt#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/relaxng.sdump"
+     "referenced_type" : "_ZTIP20_xmlRelaxNGValidCtxt"
     }
    ],
    "return_type" : "_ZTIv",
@@ -21893,7 +21893,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP20_xmlRelaxNGValidCtxt#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/relaxng.sdump"
+     "referenced_type" : "_ZTIP20_xmlRelaxNGValidCtxt"
     },
     {
      "referenced_type" : "_ZTIPPFvPvPKczE"
@@ -21959,10 +21959,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP11_xmlRelaxNG#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/relaxng.sdump"
+     "referenced_type" : "_ZTIP11_xmlRelaxNG"
     }
    ],
-   "return_type" : "_ZTIP20_xmlRelaxNGValidCtxt#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/relaxng.sdump",
+   "return_type" : "_ZTIP20_xmlRelaxNGValidCtxt",
    "source_file" : "/external/libxml2/include/libxml/relaxng.h"
   },
   {
@@ -21974,7 +21974,7 @@
      "referenced_type" : "_ZTIP21_xmlRelaxNGParserCtxt"
     }
    ],
-   "return_type" : "_ZTIP11_xmlRelaxNG#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/relaxng.sdump",
+   "return_type" : "_ZTIP11_xmlRelaxNG",
    "source_file" : "/external/libxml2/include/libxml/relaxng.h"
   },
   {
@@ -22022,7 +22022,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP20_xmlRelaxNGValidCtxt#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/relaxng.sdump"
+     "referenced_type" : "_ZTIP20_xmlRelaxNGValidCtxt"
     },
     {
      "referenced_type" : "_ZTIPFvPvPKczE"
@@ -22043,7 +22043,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP20_xmlRelaxNGValidCtxt#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/relaxng.sdump"
+     "referenced_type" : "_ZTIP20_xmlRelaxNGValidCtxt"
     },
     {
      "referenced_type" : "_ZTIPFvPvP9_xmlErrorE"
@@ -22061,7 +22061,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP20_xmlRelaxNGValidCtxt#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/relaxng.sdump"
+     "referenced_type" : "_ZTIP20_xmlRelaxNGValidCtxt"
     },
     {
      "referenced_type" : "_ZTIP7_xmlDoc"
@@ -22076,7 +22076,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP20_xmlRelaxNGValidCtxt#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/relaxng.sdump"
+     "referenced_type" : "_ZTIP20_xmlRelaxNGValidCtxt"
     },
     {
      "referenced_type" : "_ZTIP7_xmlDoc"
@@ -22094,7 +22094,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP20_xmlRelaxNGValidCtxt#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/relaxng.sdump"
+     "referenced_type" : "_ZTIP20_xmlRelaxNGValidCtxt"
     },
     {
      "referenced_type" : "_ZTIP7_xmlDoc"
@@ -22112,7 +22112,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP20_xmlRelaxNGValidCtxt#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/relaxng.sdump"
+     "referenced_type" : "_ZTIP20_xmlRelaxNGValidCtxt"
     },
     {
      "referenced_type" : "_ZTIPKh"
@@ -22130,7 +22130,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP20_xmlRelaxNGValidCtxt#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/relaxng.sdump"
+     "referenced_type" : "_ZTIP20_xmlRelaxNGValidCtxt"
     },
     {
      "referenced_type" : "_ZTIP7_xmlDoc"
@@ -23318,10 +23318,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump"
+     "referenced_type" : "_ZTIP13_xmlSchemaVal"
     },
     {
-     "referenced_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump"
+     "referenced_type" : "_ZTIP13_xmlSchemaVal"
     }
    ],
    "return_type" : "_ZTIi",
@@ -23333,13 +23333,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump"
+     "referenced_type" : "_ZTIP13_xmlSchemaVal"
     },
     {
      "referenced_type" : "_ZTI28xmlSchemaWhitespaceValueType"
     },
     {
-     "referenced_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump"
+     "referenced_type" : "_ZTIP13_xmlSchemaVal"
     },
     {
      "referenced_type" : "_ZTI28xmlSchemaWhitespaceValueType"
@@ -23354,10 +23354,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump"
+     "referenced_type" : "_ZTIP13_xmlSchemaVal"
     }
    ],
-   "return_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump",
+   "return_type" : "_ZTIP13_xmlSchemaVal",
    "source_file" : "/external/libxml2/include/libxml/xmlschemastypes.h"
   },
   {
@@ -23366,7 +23366,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemas.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIP10_xmlSchema"
@@ -23441,7 +23441,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump"
+     "referenced_type" : "_ZTIP13_xmlSchemaVal"
     }
    ],
    "return_type" : "_ZTIv",
@@ -23489,7 +23489,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump"
+     "referenced_type" : "_ZTIP13_xmlSchemaVal"
     },
     {
      "referenced_type" : "_ZTIPPKh"
@@ -23504,7 +23504,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump"
+     "referenced_type" : "_ZTIP13_xmlSchemaVal"
     },
     {
      "referenced_type" : "_ZTIPPKh"
@@ -23570,7 +23570,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump"
+     "referenced_type" : "_ZTIP13_xmlSchemaVal"
     }
    ],
    "return_type" : "_ZTI16xmlSchemaValType",
@@ -23675,7 +23675,7 @@
      "referenced_type" : "_ZTIPKh"
     }
    ],
-   "return_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump",
+   "return_type" : "_ZTIP13_xmlSchemaVal",
    "source_file" : "/external/libxml2/include/libxml/xmlschemastypes.h"
   },
   {
@@ -23702,7 +23702,7 @@
      "referenced_type" : "_ZTIPKh"
     }
    ],
-   "return_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump",
+   "return_type" : "_ZTIP13_xmlSchemaVal",
    "source_file" : "/external/libxml2/include/libxml/xmlschemastypes.h"
   },
   {
@@ -23717,7 +23717,7 @@
      "referenced_type" : "_ZTIPKh"
     }
    ],
-   "return_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump",
+   "return_type" : "_ZTIP13_xmlSchemaVal",
    "source_file" : "/external/libxml2/include/libxml/xmlschemastypes.h"
   },
   {
@@ -23963,7 +23963,7 @@
      "referenced_type" : "_ZTIPKh"
     },
     {
-     "referenced_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump"
+     "referenced_type" : "_ZTIP13_xmlSchemaVal"
     }
    ],
    "return_type" : "_ZTIi",
@@ -23987,7 +23987,7 @@
      "referenced_type" : "_ZTIPKh"
     },
     {
-     "referenced_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump"
+     "referenced_type" : "_ZTIP13_xmlSchemaVal"
     },
     {
      "referenced_type" : "_ZTI28xmlSchemaWhitespaceValueType"
@@ -24029,7 +24029,7 @@
      "referenced_type" : "_ZTIPKh"
     },
     {
-     "referenced_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump"
+     "referenced_type" : "_ZTIP13_xmlSchemaVal"
     },
     {
      "referenced_type" : "_ZTIPm"
@@ -24053,7 +24053,7 @@
      "referenced_type" : "_ZTIPKh"
     },
     {
-     "referenced_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump"
+     "referenced_type" : "_ZTIP13_xmlSchemaVal"
     },
     {
      "referenced_type" : "_ZTIPm"
@@ -24182,10 +24182,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump"
+     "referenced_type" : "_ZTIP13_xmlSchemaVal"
     },
     {
-     "referenced_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump"
+     "referenced_type" : "_ZTIP13_xmlSchemaVal"
     }
    ],
    "return_type" : "_ZTIi",
@@ -24197,7 +24197,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump"
+     "referenced_type" : "_ZTIP13_xmlSchemaVal"
     }
    ],
    "return_type" : "_ZTIi",
@@ -24209,7 +24209,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump"
+     "referenced_type" : "_ZTIP13_xmlSchemaVal"
     }
    ],
    "return_type" : "_ZTIPKh",
@@ -24221,10 +24221,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump"
+     "referenced_type" : "_ZTIP13_xmlSchemaVal"
     }
    ],
-   "return_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump",
+   "return_type" : "_ZTIP13_xmlSchemaVal",
    "source_file" : "/external/libxml2/include/libxml/xmlschemastypes.h"
   },
   {
@@ -24608,7 +24608,7 @@
      "referenced_type" : "_ZTIPFPcS_E"
     },
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/debugXML.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     }
    ],
    "return_type" : "_ZTIv",
@@ -26360,7 +26360,7 @@
      "referenced_type" : "_ZTIP14_xmlTextReader"
     },
     {
-     "referenced_type" : "_ZTIP19_xmlSchemaValidCtxt#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlreader.sdump"
+     "referenced_type" : "_ZTIP19_xmlSchemaValidCtxt"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -26414,7 +26414,7 @@
      "referenced_type" : "_ZTIP14_xmlTextReader"
     },
     {
-     "referenced_type" : "_ZTIP10_xmlSchema#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlreader.sdump"
+     "referenced_type" : "_ZTIP10_xmlSchema"
     }
    ],
    "return_type" : "_ZTIi",
@@ -31178,7 +31178,7 @@
      "referenced_type" : "_ZTIPKh"
     }
    ],
-   "return_type" : "_ZTIP17_xmlXPathCompExpr#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xpath.sdump",
+   "return_type" : "_ZTIP17_xmlXPathCompExpr",
    "source_file" : "/external/libxml2/include/libxml/xpath.h"
   },
   {
@@ -31187,7 +31187,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17_xmlXPathCompExpr#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xpath.sdump"
+     "referenced_type" : "_ZTIP17_xmlXPathCompExpr"
     },
     {
      "referenced_type" : "_ZTIP16_xmlXPathContext"
@@ -31202,7 +31202,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17_xmlXPathCompExpr#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xpath.sdump"
+     "referenced_type" : "_ZTIP17_xmlXPathCompExpr"
     },
     {
      "referenced_type" : "_ZTIP16_xmlXPathContext"
@@ -31325,7 +31325,7 @@
      "referenced_type" : "_ZTIPKh"
     }
    ],
-   "return_type" : "_ZTIP17_xmlXPathCompExpr#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xpath.sdump",
+   "return_type" : "_ZTIP17_xmlXPathCompExpr",
    "source_file" : "/external/libxml2/include/libxml/xpath.h"
   },
   {
@@ -31334,10 +31334,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xpath.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
-     "referenced_type" : "_ZTIP17_xmlXPathCompExpr#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xpath.sdump"
+     "referenced_type" : "_ZTIP17_xmlXPathCompExpr"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -31352,7 +31352,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP7__sFILE#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xpath.sdump"
+     "referenced_type" : "_ZTIP7__sFILE"
     },
     {
      "referenced_type" : "_ZTIP15_xmlXPathObject"
@@ -31550,7 +31550,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17_xmlXPathCompExpr#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xpath.sdump"
+     "referenced_type" : "_ZTIP17_xmlXPathCompExpr"
     }
    ],
    "return_type" : "_ZTIv",
@@ -33541,7 +33541,7 @@
    "referenced_type" : "_ZTI10_xmlBuffer",
    "self_type" : "_ZTIP10_xmlBuffer",
    "size" : 8,
-   "source_file" : "/external/libxml2/include/libxml/entities.h"
+   "source_file" : "/external/libxml2/include/libxml/xmlregexp.h"
   },
   {
    "alignment" : 8,
@@ -33766,7 +33766,7 @@
    "referenced_type" : "_ZTI14_xmlParserCtxt",
    "self_type" : "_ZTIP14_xmlParserCtxt",
    "size" : 8,
-   "source_file" : "/external/libxml2/include/libxml/parser.h"
+   "source_file" : "/external/libxml2/include/libxml/xmlschemas.h"
   },
   {
    "alignment" : 8,
@@ -33865,7 +33865,7 @@
    "referenced_type" : "_ZTI15_xmlGlobalState",
    "self_type" : "_ZTIP15_xmlGlobalState",
    "size" : 8,
-   "source_file" : "/external/libxml2/include/libxml/globals.h"
+   "source_file" : "/external/libxml2/include/libxml/threads.h"
   },
   {
    "alignment" : 8,
@@ -33928,7 +33928,7 @@
    "referenced_type" : "_ZTI16_xmlOutputBuffer",
    "self_type" : "_ZTIP16_xmlOutputBuffer",
    "size" : 8,
-   "source_file" : "/external/libxml2/include/libxml/xmlIO.h"
+   "source_file" : "/external/libxml2/include/libxml/c14n.h"
   },
   {
    "alignment" : 8,
@@ -34198,7 +34198,7 @@
    "referenced_type" : "_ZTI7__sFILE",
    "self_type" : "_ZTIP7__sFILE",
    "size" : 8,
-   "source_file" : "/external/libxml2/include/libxml/debugXML.h"
+   "source_file" : "/external/libxml2/include/libxml/xmlregexp.h"
   },
   {
    "alignment" : 8,
@@ -34841,15 +34841,6 @@
   },
   {
    "alignment" : 8,
-   "linker_set_key" : "_ZTIPK7_xmlBuf",
-   "name" : "const _xmlBuf *",
-   "referenced_type" : "_ZTIK7_xmlBuf#ODR:",
-   "self_type" : "_ZTIPK7_xmlBuf#ODR:",
-   "size" : 8,
-   "source_file" : "/external/libxml2/include/libxml/tree.h"
-  },
-  {
-   "alignment" : 8,
    "linker_set_key" : "_ZTIPK7_xmlDoc",
    "name" : "const _xmlDoc *",
    "referenced_type" : "_ZTIK7_xmlDoc",
@@ -34906,7 +34897,7 @@
    "alignment" : 8,
    "linker_set_key" : "_ZTIPP13_xmlSchemaVal",
    "name" : "_xmlSchemaVal **",
-   "referenced_type" : "_ZTIP13_xmlSchemaVal#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/xmlschemastypes.sdump",
+   "referenced_type" : "_ZTIP13_xmlSchemaVal",
    "self_type" : "_ZTIPP13_xmlSchemaVal",
    "size" : 8,
    "source_file" : "/external/libxml2/include/libxml/xmlschemastypes.h"
@@ -35080,7 +35071,7 @@
    "referenced_type" : "_ZTIPFvPvPKczE",
    "self_type" : "_ZTIPPFvPvPKczE",
    "size" : 8,
-   "source_file" : "/external/libxml2/include/libxml/xmlerror.h"
+   "source_file" : "/external/libxml2/include/libxml/xmlschemas.h"
   },
   {
    "alignment" : 8,
@@ -35089,7 +35080,7 @@
    "referenced_type" : "_ZTIPKc",
    "self_type" : "_ZTIPPKc",
    "size" : 8,
-   "source_file" : "/external/libxml2/include/libxml/globals.h"
+   "source_file" : "/external/libxml2/include/libxml/xmlschemas.h"
   },
   {
    "alignment" : 8,
@@ -35107,7 +35098,7 @@
    "referenced_type" : "_ZTIPh",
    "self_type" : "_ZTIPPh",
    "size" : 8,
-   "source_file" : "/external/libxml2/include/libxml/parserInternals.h"
+   "source_file" : "/external/libxml2/include/libxml/c14n.h"
   },
   {
    "alignment" : 8,
@@ -35299,20 +35290,10 @@
    "is_const" : true,
    "linker_set_key" : "_ZTIKP7_xmlBuf",
    "name" : "_xmlBuf *const",
-   "referenced_type" : "_ZTIP7_xmlBuf#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/buf.sdump",
+   "referenced_type" : "_ZTIP7_xmlBuf",
    "self_type" : "_ZTIKP7_xmlBuf",
    "size" : 8,
    "source_file" : "/external/libxml2/include/libxml/tree.h"
-  },
-  {
-   "alignment" : 8,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKP8_xmlList",
-   "name" : "_xmlList *const",
-   "referenced_type" : "_ZTIP8_xmlList#ODR:",
-   "self_type" : "_ZTIKP8_xmlList#ODR:",
-   "size" : 8,
-   "source_file" : "/external/libxml2/include/libxml/list.h"
   },
   {
    "alignment" : 8,
@@ -35558,32 +35539,32 @@
     {
      "field_name" : "typeDecl",
      "field_offset" : 448,
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/parser.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "field_name" : "attrDecl",
      "field_offset" : 512,
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/parser.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "field_name" : "attrgrpDecl",
      "field_offset" : 576,
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/parser.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "field_name" : "elemDecl",
      "field_offset" : 640,
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/parser.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "field_name" : "notaDecl",
      "field_offset" : 704,
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/parser.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "field_name" : "schemasImports",
      "field_offset" : 768,
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/parser.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "field_name" : "_private",
@@ -35593,12 +35574,12 @@
     {
      "field_name" : "groupDecl",
      "field_offset" : 896,
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/parser.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "field_name" : "dict",
      "field_offset" : 960,
-     "referenced_type" : "_ZTIP8_xmlDict#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/parser.sdump"
+     "referenced_type" : "_ZTIP8_xmlDict"
     },
     {
      "field_name" : "includes",
@@ -35618,7 +35599,7 @@
     {
      "field_name" : "idcDef",
      "field_offset" : 1152,
-     "referenced_type" : "_ZTIP13_xmlHashTable#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/parser.sdump"
+     "referenced_type" : "_ZTIP13_xmlHashTable"
     },
     {
      "field_name" : "volatiles",
@@ -36903,7 +36884,7 @@
     {
      "field_name" : "contModel",
      "field_offset" : 1600,
-     "referenced_type" : "_ZTIP10_xmlRegexp#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/parser.sdump"
+     "referenced_type" : "_ZTIP10_xmlRegexp"
     },
     {
      "field_name" : "targetNamespace",
@@ -37356,7 +37337,7 @@
     {
      "field_name" : "regexp",
      "field_offset" : 512,
-     "referenced_type" : "_ZTIP10_xmlRegexp#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/parser.sdump"
+     "referenced_type" : "_ZTIP10_xmlRegexp"
     }
    ],
    "linker_set_key" : "_ZTI15_xmlSchemaFacet",
@@ -37972,7 +37953,7 @@
     {
      "field_name" : "contModel",
      "field_offset" : 1280,
-     "referenced_type" : "_ZTIP10_xmlRegexp#ODR:out/soong/.intermediates/external/libxml2/libxml2/android_vendor.R_arm64_armv8-a_shared/obj/external/libxml2/parser.sdump"
+     "referenced_type" : "_ZTIP10_xmlRegexp"
     },
     {
      "field_name" : "contentType",

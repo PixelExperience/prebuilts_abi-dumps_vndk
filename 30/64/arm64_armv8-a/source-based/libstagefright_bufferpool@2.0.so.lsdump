@@ -2,14 +2,6 @@
  "array_types" :
  [
   {
-   "alignment" : 1,
-   "linker_set_key" : "_ZTIA0_c",
-   "name" : "char [0]",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIA0_c",
-   "source_file" : "/system/core/liblog/include/log/log_read.h"
-  },
-  {
    "alignment" : 4,
    "linker_set_key" : "_ZTIA0_i",
    "name" : "int [0]",
@@ -616,6 +608,9 @@
    "name" : "_ZN7android8hardware5media10bufferpool4V2_014implementation6insertIlmEEbPNSt3__13mapIT_NS6_3setIT0_NS6_4lessISA_EENS6_9allocatorISA_EEEENSB_IS8_EENSD_INS6_4pairIKS8_SF_EEEEEES8_SA_"
   },
   {
+   "name" : "_ZN7android8hardware5media10bufferpool4V2_014implementation8Accessor13createEvictorEv"
+  },
+  {
    "name" : "_ZN7android8hardware5media10bufferpool4V2_014implementation8Accessor17createInvalidatorEv"
   },
   {
@@ -688,6 +683,21 @@
    "name" : "_ZN7android8hardware5media10bufferpool4V2_014implementation8Accessor4Impl10BufferPoolD2Ev"
   },
   {
+   "name" : "_ZN7android8hardware5media10bufferpool4V2_014implementation8Accessor4Impl13createEvictorEv"
+  },
+  {
+   "name" : "_ZN7android8hardware5media10bufferpool4V2_014implementation8Accessor4Impl13evictorThreadERNSt3__13mapIKNS7_8weak_ptrIS6_EElNS7_10owner_lessIvEENS7_9allocatorINS7_4pairISB_lEEEEEERNS7_5mutexERNS7_18condition_variableE"
+  },
+  {
+   "name" : "_ZN7android8hardware5media10bufferpool4V2_014implementation8Accessor4Impl15AccessorEvictor11addAccessorERKNSt3__18weak_ptrIS6_EEl"
+  },
+  {
+   "name" : "_ZN7android8hardware5media10bufferpool4V2_014implementation8Accessor4Impl15AccessorEvictorC1Ev"
+  },
+  {
+   "name" : "_ZN7android8hardware5media10bufferpool4V2_014implementation8Accessor4Impl15AccessorEvictorC2Ev"
+  },
+  {
    "name" : "_ZN7android8hardware5media10bufferpool4V2_014implementation8Accessor4Impl17createInvalidatorEv"
   },
   {
@@ -707,6 +717,9 @@
   },
   {
    "name" : "_ZN7android8hardware5media10bufferpool4V2_014implementation8Accessor4Impl19handleInvalidateAckEv"
+  },
+  {
+   "name" : "_ZN7android8hardware5media10bufferpool4V2_014implementation8Accessor4Impl21scheduleEvictIfNeededEv"
   },
   {
    "name" : "_ZN7android8hardware5media10bufferpool4V2_014implementation8Accessor4Impl5closeEl"
@@ -822,6 +835,10 @@
   },
   {
    "binding" : "weak",
+   "name" : "_ZNSt3__114__thread_proxyINS_5tupleIJNS_10unique_ptrINS_15__thread_structENS_14default_deleteIS3_EEEEPFvRNS_3mapIKNS_8weak_ptrIN7android8hardware5media10bufferpool4V2_014implementation8Accessor4ImplEEElNS_10owner_lessIvEENS_9allocatorINS_4pairISI_lEEEEEERNS_5mutexERNS_18condition_variableEENS_17reference_wrapperISP_EENSX_ISR_EENSX_IST_EEEEEEEPvS12_"
+  },
+  {
+   "binding" : "weak",
    "name" : "_ZNSt3__114__thread_proxyINS_5tupleIJNS_10unique_ptrINS_15__thread_structENS_14default_deleteIS3_EEEEPFvRNS_3mapIjKNS_8weak_ptrIN7android8hardware5media10bufferpool4V2_014implementation8Accessor4ImplEEENS_4lessIjEENS_9allocatorINS_4pairIKjSI_EEEEEERNS_5mutexERNS_18condition_variableERbENS_17reference_wrapperISQ_EENSZ_ISS_EENSZ_ISU_EENSZ_IbEEEEEEEPvS15_"
   },
   {
@@ -859,6 +876,14 @@
   {
    "binding" : "weak",
    "name" : "_ZNSt3__127__tree_balance_after_insertIPNS_16__tree_node_baseIPvEEEEvT_S5_"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZNSt3__16__treeINS_12__value_typeIKNS_8weak_ptrIN7android8hardware5media10bufferpool4V2_014implementation8Accessor4ImplEEElEENS_19__map_value_compareISC_SD_NS_10owner_lessIvEELb1EEENS_9allocatorISD_EEE21__emplace_unique_implIJRSC_RlEEENS_4pairINS_15__tree_iteratorISD_PNS_11__tree_nodeISD_PvEElEEbEEDpOT_"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZNSt3__16__treeINS_12__value_typeIKNS_8weak_ptrIN7android8hardware5media10bufferpool4V2_014implementation8Accessor4ImplEEElEENS_19__map_value_compareISC_SD_NS_10owner_lessIvEELb1EEENS_9allocatorISD_EEE7destroyEPNS_11__tree_nodeISD_PvEE"
   },
   {
    "binding" : "weak",
@@ -1055,6 +1080,9 @@
    "name" : "_ZN7android8hardware5media10bufferpool4V2_014implementation8Accessor4Impl6sSeqIdE"
   },
   {
+   "name" : "_ZN7android8hardware5media10bufferpool4V2_014implementation8Accessor4Impl8sEvictorE"
+  },
+  {
    "name" : "_ZTCN7android8hardware5media10bufferpool4V2_014implementation10ConnectionE0_NS3_11IConnectionE"
   },
   {
@@ -1177,6 +1205,39 @@
    "self_type" : "_ZTI19android_LogPriority",
    "size" : 4,
    "source_file" : "/system/core/liblog/include/android/log.h",
+   "underlying_type" : "_ZTIj"
+  },
+  {
+   "alignment" : 4,
+   "enum_fields" :
+   [
+    {
+     "enum_field_value" : 0,
+     "name" : "SYSTEM_TIME_REALTIME"
+    },
+    {
+     "enum_field_value" : 1,
+     "name" : "SYSTEM_TIME_MONOTONIC"
+    },
+    {
+     "enum_field_value" : 2,
+     "name" : "SYSTEM_TIME_PROCESS"
+    },
+    {
+     "enum_field_value" : 3,
+     "name" : "SYSTEM_TIME_THREAD"
+    },
+    {
+     "enum_field_value" : 4,
+     "name" : "SYSTEM_TIME_BOOTTIME"
+    }
+   ],
+   "linker_set_key" : "_ZTI21$SYSTEM_TIME_BOOTTIME",
+   "name" : "(anonymous enum at system/core/libutils/include/utils/Timers.h:79:1)",
+   "referenced_type" : "_ZTI21$SYSTEM_TIME_BOOTTIME",
+   "self_type" : "_ZTI21$SYSTEM_TIME_BOOTTIME",
+   "size" : 4,
+   "source_file" : "/system/core/libutils/include/utils/Timers.h",
    "underlying_type" : "_ZTIj"
   },
   {
@@ -3789,55 +3850,6 @@
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
   {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Accessor.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Accessor.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/AccessorImpl.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/AccessorImpl.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/BufferPoolClient.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/BufferPoolClient.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/BufferStatus.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/BufferStatus.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/ClientManager.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/ClientManager.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Connection.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Connection.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE",
-   "name" : "const iter<is_const> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Observer.sdump",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vec4iterIXTL0__EEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Observer.sdump",
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
-  },
-  {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS0_17GrantorDescriptorEEE",
    "name" : "const android::hardware::hidl_vec<android::hardware::GrantorDescriptor> &",
@@ -3857,28 +3869,10 @@
   },
   {
    "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__110shared_ptrIN7android8hardware5media10bufferpool14BufferPoolDataEEE",
-   "name" : "const std::shared_ptr<android::hardware::media::bufferpool::BufferPoolData> &",
-   "referenced_type" : "_ZTIKNSt3__110shared_ptrIN7android8hardware5media10bufferpool14BufferPoolDataEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/ClientManager.sdump",
-   "self_type" : "_ZTIRKNSt3__110shared_ptrIN7android8hardware5media10bufferpool14BufferPoolDataEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/ClientManager.sdump",
-   "size" : 8,
-   "source_file" : "/frameworks/av/media/bufferpool/2.0/include/bufferpool/ClientManager.h"
-  },
-  {
-   "alignment" : 8,
    "linker_set_key" : "_ZTIRKNSt3__110shared_ptrIN7android8hardware5media10bufferpool4V2_014implementation19BufferPoolAllocatorEEE",
    "name" : "const std::shared_ptr<android::hardware::media::bufferpool::V2_0::implementation::BufferPoolAllocator> &",
    "referenced_type" : "_ZTIKNSt3__110shared_ptrIN7android8hardware5media10bufferpool4V2_014implementation19BufferPoolAllocatorEEE",
    "self_type" : "_ZTIRKNSt3__110shared_ptrIN7android8hardware5media10bufferpool4V2_014implementation19BufferPoolAllocatorEEE",
-   "size" : 8,
-   "source_file" : "/frameworks/av/media/bufferpool/2.0/include/bufferpool/ClientManager.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__110shared_ptrIN7android8hardware5media10bufferpool4V2_014implementation19BufferPoolAllocatorEEE",
-   "name" : "const std::shared_ptr<android::hardware::media::bufferpool::V2_0::implementation::BufferPoolAllocator> &",
-   "referenced_type" : "_ZTIKNSt3__110shared_ptrIN7android8hardware5media10bufferpool4V2_014implementation19BufferPoolAllocatorEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/ClientManager.sdump",
-   "self_type" : "_ZTIRKNSt3__110shared_ptrIN7android8hardware5media10bufferpool4V2_014implementation19BufferPoolAllocatorEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/ClientManager.sdump",
    "size" : 8,
    "source_file" : "/frameworks/av/media/bufferpool/2.0/include/bufferpool/ClientManager.h"
   },
@@ -3893,24 +3887,6 @@
   },
   {
    "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIN7android8hardware17GrantorDescriptorENS_9allocatorIS3_EEEE",
-   "name" : "const std::vector<android::hardware::GrantorDescriptor, std::allocator<android::hardware::GrantorDescriptor> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIN7android8hardware17GrantorDescriptorENS_9allocatorIS3_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Accessor.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIN7android8hardware17GrantorDescriptorENS_9allocatorIS3_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Accessor.sdump",
-   "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/MQDescriptor.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIN7android8hardware17GrantorDescriptorENS_9allocatorIS3_EEEE",
-   "name" : "const std::vector<android::hardware::GrantorDescriptor, std::allocator<android::hardware::GrantorDescriptor> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIN7android8hardware17GrantorDescriptorENS_9allocatorIS3_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/BufferStatus.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIN7android8hardware17GrantorDescriptorENS_9allocatorIS3_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/BufferStatus.sdump",
-   "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/MQDescriptor.h"
-  },
-  {
-   "alignment" : 8,
    "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
    "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
    "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
@@ -3920,82 +3896,10 @@
   },
   {
    "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Accessor.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Accessor.sdump",
-   "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/AccessorImpl.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/AccessorImpl.sdump",
-   "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/BufferPoolClient.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/BufferPoolClient.sdump",
-   "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/BufferStatus.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/BufferStatus.sdump",
-   "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/ClientManager.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/ClientManager.sdump",
-   "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Connection.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Connection.sdump",
-   "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE",
-   "name" : "const std::vector<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)>, std::allocator<std::function<void (InstrumentationEvent, const char *, const char *, const char *, const char *, vector<void *, allocator<void *> > *)> > > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Observer.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorINS_8functionIFvN7android8hardware7details16HidlInstrumentor20InstrumentationEventEPKcS8_S8_S8_PNS0_IPvNS_9allocatorIS9_EEEEEEENSA_ISF_EEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Observer.sdump",
-   "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 8,
    "linker_set_key" : "_ZTIRKNSt3__16vectorIhNS_9allocatorIhEEEE",
    "name" : "const std::vector<unsigned char, std::allocator<unsigned char> > &",
    "referenced_type" : "_ZTIKNSt3__16vectorIhNS_9allocatorIhEEEE",
    "self_type" : "_ZTIRKNSt3__16vectorIhNS_9allocatorIhEEEE",
-   "size" : 8,
-   "source_file" : "/frameworks/av/media/bufferpool/2.0/include/bufferpool/ClientManager.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIhNS_9allocatorIhEEEE",
-   "name" : "const std::vector<unsigned char, std::allocator<unsigned char> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIhNS_9allocatorIhEEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/ClientManager.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIhNS_9allocatorIhEEEE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/ClientManager.sdump",
    "size" : 8,
    "source_file" : "/frameworks/av/media/bufferpool/2.0/include/bufferpool/ClientManager.h"
   },
@@ -6076,76 +5980,6 @@
    "is_const" : true,
    "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
    "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Accessor.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Accessor.sdump",
-   "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 8,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/AccessorImpl.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/AccessorImpl.sdump",
-   "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 8,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/BufferPoolClient.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/BufferPoolClient.sdump",
-   "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 8,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/BufferStatus.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/BufferStatus.sdump",
-   "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 8,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/ClientManager.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/ClientManager.sdump",
-   "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 8,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Connection.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Connection.sdump",
-   "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 8,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
-   "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Observer.sdump",
-   "self_type" : "_ZTIKPN7android7RefBase12weakref_implE#ODR:out/soong/.intermediates/frameworks/av/media/bufferpool/2.0/libstagefright_bufferpool@2.0/android_vendor.R_arm64_armv8-a_static/obj/frameworks/av/media/bufferpool/2.0/Observer.sdump",
-   "size" : 8,
-   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
-  },
-  {
-   "alignment" : 8,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKPN7android7RefBase12weakref_implE",
-   "name" : "android::RefBase::weakref_impl *const",
    "referenced_type" : "_ZTIPN7android7RefBase12weakref_implE",
    "self_type" : "_ZTIKPN7android7RefBase12weakref_implE",
    "size" : 8,
@@ -6344,11 +6178,6 @@
      "field_name" : "uid",
      "field_offset" : 192,
      "referenced_type" : "_ZTIj"
-    },
-    {
-     "field_name" : "msg",
-     "field_offset" : 224,
-     "referenced_type" : "_ZTIA0_c"
     }
    ],
    "linker_set_key" : "_ZTI12logger_entry",
@@ -10178,7 +10007,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerI13native_handleEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerI13native_handleEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerI13native_handleEUt_E",
@@ -10218,7 +10047,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIK13native_handleEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<const native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<const native_handle>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIK13native_handleEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIK13native_handleEUt_E",
@@ -10258,7 +10087,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerIKcEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<const char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<const char>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerIKcEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerIKcEUt_E",
@@ -10298,7 +10127,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_17GrantorDescriptorEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<GrantorDescriptor>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:111:5)",
+   "name" : "android::hardware::details::hidl_pointer<GrantorDescriptor>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_17GrantorDescriptorEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_17GrantorDescriptorEEUt_E",
@@ -10653,7 +10482,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7log_msgUt_E",
-   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:81:3)",
+   "name" : "log_msg::(anonymous union at system/core/liblog/include_vndk/log/log_read.h:77:3)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7log_msgUt_E",
    "self_type" : "_ZTIN7log_msgUt_E",

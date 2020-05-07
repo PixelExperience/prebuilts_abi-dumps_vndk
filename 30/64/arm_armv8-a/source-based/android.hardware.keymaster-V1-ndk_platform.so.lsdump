@@ -398,7 +398,7 @@
      "referenced_type" : "_ZTIPN4aidl7android8hardware9keymaster9TimestampE"
     },
     {
-     "referenced_type" : "_ZTIPK7AParcel#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump"
+     "referenced_type" : "_ZTIPK7AParcel"
     }
    ],
    "return_type" : "_ZTIi",
@@ -430,7 +430,7 @@
      "referenced_type" : "_ZTIPKN4aidl7android8hardware9keymaster9TimestampE"
     },
     {
-     "referenced_type" : "_ZTIP7AParcel#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump"
+     "referenced_type" : "_ZTIP7AParcel"
     }
    ],
    "return_type" : "_ZTIi",
@@ -474,28 +474,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIDsNS_9allocatorIDsEEEE",
-   "name" : "const std::vector<char16_t, std::allocator<char16_t> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIDsNS_9allocatorIDsEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIDsNS_9allocatorIDsEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorIaNS_9allocatorIaEEEE",
    "name" : "const std::vector<signed char, std::allocator<signed char> > &",
    "referenced_type" : "_ZTIKNSt3__16vectorIaNS_9allocatorIaEEEE",
    "self_type" : "_ZTIRKNSt3__16vectorIaNS_9allocatorIaEEEE",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIaNS_9allocatorIaEEEE",
-   "name" : "const std::vector<signed char, std::allocator<signed char> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIaNS_9allocatorIaEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIaNS_9allocatorIaEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
   },
@@ -510,28 +492,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIbNS_9allocatorIbEEEE",
-   "name" : "const std::vector<bool, std::allocator<bool> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIbNS_9allocatorIbEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIbNS_9allocatorIbEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorIdNS_9allocatorIdEEEE",
    "name" : "const std::vector<double, std::allocator<double> > &",
    "referenced_type" : "_ZTIKNSt3__16vectorIdNS_9allocatorIdEEEE",
    "self_type" : "_ZTIRKNSt3__16vectorIdNS_9allocatorIdEEEE",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIdNS_9allocatorIdEEEE",
-   "name" : "const std::vector<double, std::allocator<double> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIdNS_9allocatorIdEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIdNS_9allocatorIdEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
   },
@@ -546,28 +510,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIfNS_9allocatorIfEEEE",
-   "name" : "const std::vector<float, std::allocator<float> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIfNS_9allocatorIfEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIfNS_9allocatorIfEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorIiNS_9allocatorIiEEEE",
    "name" : "const std::vector<int, std::allocator<int> > &",
    "referenced_type" : "_ZTIKNSt3__16vectorIiNS_9allocatorIiEEEE",
    "self_type" : "_ZTIRKNSt3__16vectorIiNS_9allocatorIiEEEE",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIiNS_9allocatorIiEEEE",
-   "name" : "const std::vector<int, std::allocator<int> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIiNS_9allocatorIiEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIiNS_9allocatorIiEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
   },
@@ -582,28 +528,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIjNS_9allocatorIjEEEE",
-   "name" : "const std::vector<unsigned int, std::allocator<unsigned int> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIjNS_9allocatorIjEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIjNS_9allocatorIjEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__16vectorIxNS_9allocatorIxEEEE",
    "name" : "const std::vector<long long, std::allocator<long long> > &",
    "referenced_type" : "_ZTIKNSt3__16vectorIxNS_9allocatorIxEEEE",
    "self_type" : "_ZTIRKNSt3__16vectorIxNS_9allocatorIxEEEE",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIxNS_9allocatorIxEEEE",
-   "name" : "const std::vector<long long, std::allocator<long long> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIxNS_9allocatorIxEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIxNS_9allocatorIxEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
   },
@@ -618,28 +546,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__16vectorIyNS_9allocatorIyEEEE",
-   "name" : "const std::vector<unsigned long long, std::allocator<unsigned long long> > &",
-   "referenced_type" : "_ZTIKNSt3__16vectorIyNS_9allocatorIyEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIRKNSt3__16vectorIyNS_9allocatorIyEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIDsNS_9allocatorIDsEEEEEE",
    "name" : "const std::optional<std::vector<char16_t, std::allocator<char16_t> > > &",
    "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIDsNS_9allocatorIDsEEEEEE",
    "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIDsNS_9allocatorIDsEEEEEE",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIDsNS_9allocatorIDsEEEEEE",
-   "name" : "const std::optional<std::vector<char16_t, std::allocator<char16_t> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIDsNS_9allocatorIDsEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIDsNS_9allocatorIDsEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
   },
@@ -654,28 +564,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIaNS_9allocatorIaEEEEEE",
-   "name" : "const std::optional<std::vector<signed char, std::allocator<signed char> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIaNS_9allocatorIaEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIaNS_9allocatorIaEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIbNS_9allocatorIbEEEEEE",
    "name" : "const std::optional<std::vector<bool, std::allocator<bool> > > &",
    "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIbNS_9allocatorIbEEEEEE",
    "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIbNS_9allocatorIbEEEEEE",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIbNS_9allocatorIbEEEEEE",
-   "name" : "const std::optional<std::vector<bool, std::allocator<bool> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIbNS_9allocatorIbEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIbNS_9allocatorIbEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
   },
@@ -690,28 +582,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIdNS_9allocatorIdEEEEEE",
-   "name" : "const std::optional<std::vector<double, std::allocator<double> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIdNS_9allocatorIdEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIdNS_9allocatorIdEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIfNS_9allocatorIfEEEEEE",
    "name" : "const std::optional<std::vector<float, std::allocator<float> > > &",
    "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIfNS_9allocatorIfEEEEEE",
    "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIfNS_9allocatorIfEEEEEE",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIfNS_9allocatorIfEEEEEE",
-   "name" : "const std::optional<std::vector<float, std::allocator<float> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIfNS_9allocatorIfEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIfNS_9allocatorIfEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
   },
@@ -726,28 +600,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIiNS_9allocatorIiEEEEEE",
-   "name" : "const std::optional<std::vector<int, std::allocator<int> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIiNS_9allocatorIiEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIiNS_9allocatorIiEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIjNS_9allocatorIjEEEEEE",
    "name" : "const std::optional<std::vector<unsigned int, std::allocator<unsigned int> > > &",
    "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIjNS_9allocatorIjEEEEEE",
    "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIjNS_9allocatorIjEEEEEE",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIjNS_9allocatorIjEEEEEE",
-   "name" : "const std::optional<std::vector<unsigned int, std::allocator<unsigned int> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIjNS_9allocatorIjEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIjNS_9allocatorIjEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
   },
@@ -762,28 +618,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIxNS_9allocatorIxEEEEEE",
-   "name" : "const std::optional<std::vector<long long, std::allocator<long long> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIxNS_9allocatorIxEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIxNS_9allocatorIxEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIyNS_9allocatorIyEEEEEE",
    "name" : "const std::optional<std::vector<unsigned long long, std::allocator<unsigned long long> > > &",
    "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIyNS_9allocatorIyEEEEEE",
    "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIyNS_9allocatorIyEEEEEE",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIRKNSt3__18optionalINS_6vectorIyNS_9allocatorIyEEEEEE",
-   "name" : "const std::optional<std::vector<unsigned long long, std::allocator<unsigned long long> > > &",
-   "referenced_type" : "_ZTIKNSt3__18optionalINS_6vectorIyNS_9allocatorIyEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIRKNSt3__18optionalINS_6vectorIyNS_9allocatorIyEEEEEE#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
   },
@@ -877,15 +715,6 @@
    "name" : "const AParcel *",
    "referenced_type" : "_ZTIK7AParcel",
    "self_type" : "_ZTIPK7AParcel",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_interface_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7AParcel",
-   "name" : "const AParcel *",
-   "referenced_type" : "_ZTIK7AParcel#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIPK7AParcel#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_interface_utils.h"
   },
@@ -1269,15 +1098,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPP8AIBinder",
-   "name" : "AIBinder **",
-   "referenced_type" : "_ZTIP8AIBinder#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIPP8AIBinder#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_auto_utils.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPPKc",
    "name" : "const char **",
    "referenced_type" : "_ZTIPKc",
@@ -1554,16 +1374,6 @@
    "self_type" : "_ZTIKNSt3__18optionalINS_6vectorIyNS_9allocatorIyEEEEEE",
    "size" : 16,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "_ZTIKP7AStatus",
-   "name" : "AStatus *const",
-   "referenced_type" : "_ZTIP7AStatus#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "self_type" : "_ZTIKP7AStatus#ODR:out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform/android_vendor.R_arm_armv8-a_static/obj/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/android/hardware/keymaster/Timestamp.sdump",
-   "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_auto_utils.h"
   },
   {
    "alignment" : 4,

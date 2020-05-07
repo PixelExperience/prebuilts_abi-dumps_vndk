@@ -1461,7 +1461,7 @@
      "referenced_type" : "_ZTIP16FrameworkCommand"
     },
     {
-     "referenced_type" : "_ZTIP12SocketClient#ODR:out/soong/.intermediates/system/core/libsysutils/libsysutils/android_vendor.R_arm_armv8-a_static/obj/system/core/libsysutils/src/FrameworkCommand.sdump"
+     "referenced_type" : "_ZTIP12SocketClient"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -1793,15 +1793,6 @@
    "name" : "const nlmsghdr *",
    "referenced_type" : "_ZTIK8nlmsghdr",
    "self_type" : "_ZTIPK8nlmsghdr",
-   "size" : 4,
-   "source_file" : "/system/core/libsysutils/include/sysutils/NetlinkEvent.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK8nlmsghdr",
-   "name" : "const nlmsghdr *",
-   "referenced_type" : "_ZTIK8nlmsghdr#ODR:out/soong/.intermediates/system/core/libsysutils/libsysutils/android_vendor.R_arm_armv8-a_static/obj/system/core/libsysutils/src/NetlinkEvent.sdump",
-   "self_type" : "_ZTIPK8nlmsghdr#ODR:out/soong/.intermediates/system/core/libsysutils/libsysutils/android_vendor.R_arm_armv8-a_static/obj/system/core/libsysutils/src/NetlinkEvent.sdump",
    "size" : 4,
    "source_file" : "/system/core/libsysutils/include/sysutils/NetlinkEvent.h"
   },

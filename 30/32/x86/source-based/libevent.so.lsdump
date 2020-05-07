@@ -2423,10 +2423,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_filter.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_filter.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -2450,7 +2450,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIPv"
@@ -2576,7 +2576,7 @@
      "referenced_type" : "_ZTIP14evhttp_request"
     },
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evrpc.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIPv"
@@ -2597,7 +2597,7 @@
      "referenced_type" : "_ZTIPv"
     },
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evrpc.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     }
    ],
    "referenced_type" : "_ZTIFiPvP8evbufferE",
@@ -2792,7 +2792,7 @@
      "referenced_type" : "_ZTIi"
     },
     {
-     "referenced_type" : "_ZTIP8sockaddr#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/listener.sdump"
+     "referenced_type" : "_ZTIP8sockaddr"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -2849,7 +2849,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     },
     {
      "referenced_type" : "_ZTIPv"
@@ -2960,7 +2960,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evrpc.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIPv"
@@ -3113,7 +3113,7 @@
      "referenced_type" : "_ZTIi"
     },
     {
-     "referenced_type" : "_ZTIP8addrinfo#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP8addrinfo"
     },
     {
      "referenced_type" : "_ZTIPv"
@@ -3217,7 +3217,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_sock.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIP11bufferevent"
@@ -3364,7 +3364,7 @@
      "referenced_type" : "_ZTIP11bufferevent"
     }
    ],
-   "return_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent.sdump",
+   "return_type" : "_ZTIP10event_base",
    "source_file" : "/external/libevent/include/event2/bufferevent.h"
   },
   {
@@ -3388,7 +3388,7 @@
      "referenced_type" : "_ZTIP11bufferevent"
     }
    ],
-   "return_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent.sdump",
+   "return_type" : "_ZTIP8evbuffer",
    "source_file" : "/external/libevent/include/event2/bufferevent.h"
   },
   {
@@ -3448,7 +3448,7 @@
      "referenced_type" : "_ZTIP11bufferevent"
     }
    ],
-   "return_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent.sdump",
+   "return_type" : "_ZTIP8evbuffer",
    "source_file" : "/external/libevent/include/event2/bufferevent.h"
   },
   {
@@ -3634,7 +3634,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_pair.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -3751,7 +3751,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_ratelim.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIPK19ev_token_bucket_cfg"
@@ -3829,7 +3829,7 @@
      "referenced_type" : "_ZTIP11bufferevent"
     },
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     }
    ],
    "return_type" : "_ZTIi",
@@ -3901,10 +3901,10 @@
      "referenced_type" : "_ZTIP11bufferevent"
     },
     {
-     "referenced_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent.sdump"
+     "referenced_type" : "_ZTIPK7timeval"
     },
     {
-     "referenced_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent.sdump"
+     "referenced_type" : "_ZTIPK7timeval"
     }
    ],
    "return_type" : "_ZTIi",
@@ -4048,7 +4048,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_sock.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -4135,7 +4135,7 @@
      "referenced_type" : "_ZTIP11bufferevent"
     },
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     }
    ],
    "return_type" : "_ZTIi",
@@ -4171,7 +4171,7 @@
      "referenced_type" : "_ZTIj"
     },
     {
-     "referenced_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_ratelim.sdump"
+     "referenced_type" : "_ZTIPK7timeval"
     }
    ],
    "return_type" : "_ZTIP19ev_token_bucket_cfg",
@@ -5101,7 +5101,7 @@
      "referenced_type" : "_ZTIP14evconnlistener"
     }
    ],
-   "return_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/listener.sdump",
+   "return_type" : "_ZTIP10event_base",
    "source_file" : "/external/libevent/include/event2/listener.h"
   },
   {
@@ -5122,7 +5122,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/listener.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIPFvP14evconnlisteneriP8sockaddriPvE"
@@ -5149,7 +5149,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/listener.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIPFvP14evconnlisteneriP8sockaddriPvE"
@@ -5164,7 +5164,7 @@
      "referenced_type" : "_ZTIi"
     },
     {
-     "referenced_type" : "_ZTIPK8sockaddr#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/listener.sdump"
+     "referenced_type" : "_ZTIPK8sockaddr"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -5233,7 +5233,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -5257,7 +5257,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     }
    ],
    "return_type" : "_ZTIv",
@@ -5269,7 +5269,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     }
    ],
    "return_type" : "_ZTIi",
@@ -5281,7 +5281,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     }
    ],
    "return_type" : "_ZTIi",
@@ -5293,7 +5293,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -5308,13 +5308,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     },
     {
      "referenced_type" : "_ZTIi"
     },
     {
-     "referenced_type" : "_ZTIP8sockaddr#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP8sockaddr"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -5329,7 +5329,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -5344,7 +5344,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     },
     {
      "referenced_type" : "_ZTIm"
@@ -5359,7 +5359,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -5374,10 +5374,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     },
     {
-     "referenced_type" : "_ZTIPK8sockaddr#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIPK8sockaddr"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -5395,13 +5395,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIi"
     }
    ],
-   "return_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump",
+   "return_type" : "_ZTIP10evdns_base",
    "source_file" : "/external/libevent/include/event2/dns.h"
   },
   {
@@ -5410,7 +5410,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -5428,7 +5428,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -5452,7 +5452,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -5476,7 +5476,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     },
     {
      "referenced_type" : "_ZTIPK7in_addr"
@@ -5500,7 +5500,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     },
     {
      "referenced_type" : "_ZTIPK8in6_addr"
@@ -5524,7 +5524,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     }
    ],
    "return_type" : "_ZTIi",
@@ -5536,7 +5536,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -5551,7 +5551,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     }
    ],
    "return_type" : "_ZTIv",
@@ -5563,7 +5563,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     },
     {
      "referenced_type" : "_ZTIKi"
@@ -5578,7 +5578,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -5596,7 +5596,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     },
     {
      "referenced_type" : "_ZTIP13evdns_request"
@@ -5644,7 +5644,7 @@
   {
    "function_name" : "evdns_get_global_base",
    "linker_set_key" : "evdns_get_global_base",
-   "return_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump",
+   "return_type" : "_ZTIP10evdns_base",
    "source_file" : "/external/libevent/include/event2/dns_compat.h"
   },
   {
@@ -5653,7 +5653,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -5662,7 +5662,7 @@
      "referenced_type" : "_ZTIPKc"
     },
     {
-     "referenced_type" : "_ZTIPK8addrinfo#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIPK8addrinfo"
     },
     {
      "referenced_type" : "_ZTIPFviP8addrinfoPvE"
@@ -6001,7 +6001,7 @@
      "referenced_type" : "_ZTIP20evdns_server_request"
     },
     {
-     "referenced_type" : "_ZTIP8sockaddr#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump"
+     "referenced_type" : "_ZTIP8sockaddr"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -6133,7 +6133,7 @@
      "referenced_type" : "_ZTIP5event"
     },
     {
-     "referenced_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIPK7timeval"
     }
    ],
    "return_type" : "_ZTIi",
@@ -6148,7 +6148,7 @@
      "referenced_type" : "_ZTIP5event"
     },
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -6172,7 +6172,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -6190,7 +6190,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -6205,7 +6205,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     }
    ],
    "return_type" : "_ZTIi",
@@ -6217,7 +6217,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIP7__sFILE"
@@ -6232,7 +6232,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIPFiPK10event_basePK5eventPvE"
@@ -6250,7 +6250,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     }
    ],
    "return_type" : "_ZTIv",
@@ -6262,7 +6262,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     }
    ],
    "return_type" : "_ZTIv",
@@ -6286,7 +6286,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -6316,7 +6316,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     }
    ],
    "return_type" : "_ZTIi",
@@ -6328,7 +6328,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -6343,7 +6343,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     }
    ],
    "return_type" : "_ZTIP5event",
@@ -6355,7 +6355,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIP7timeval"
@@ -6370,7 +6370,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     }
    ],
    "return_type" : "_ZTIi",
@@ -6382,7 +6382,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     }
    ],
    "return_type" : "_ZTIi",
@@ -6394,13 +6394,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
-     "referenced_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIPK7timeval"
     }
    ],
-   "return_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump",
+   "return_type" : "_ZTIPK7timeval",
    "source_file" : "/external/libevent/include/event2/event.h"
   },
   {
@@ -6409,7 +6409,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -6424,7 +6424,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     }
    ],
    "return_type" : "_ZTIi",
@@ -6436,7 +6436,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     }
    ],
    "return_type" : "_ZTIi",
@@ -6448,10 +6448,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
-     "referenced_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIPK7timeval"
     }
    ],
    "return_type" : "_ZTIi",
@@ -6460,7 +6460,7 @@
   {
    "function_name" : "event_base_new",
    "linker_set_key" : "event_base_new",
-   "return_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump",
+   "return_type" : "_ZTIP10event_base",
    "source_file" : "/external/libevent/include/event2/event.h"
   },
   {
@@ -6472,7 +6472,7 @@
      "referenced_type" : "_ZTIPK12event_config"
     }
    ],
-   "return_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump",
+   "return_type" : "_ZTIP10event_base",
    "source_file" : "/external/libevent/include/event2/event.h"
   },
   {
@@ -6481,7 +6481,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -6496,7 +6496,7 @@
      "referenced_type" : "_ZTIPv"
     },
     {
-     "referenced_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIPK7timeval"
     }
    ],
    "return_type" : "_ZTIi",
@@ -6508,7 +6508,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -6523,7 +6523,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIP5event"
@@ -6538,7 +6538,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     }
    ],
    "return_type" : "_ZTIi",
@@ -6616,7 +6616,7 @@
      "referenced_type" : "_ZTIP12event_config"
     },
     {
-     "referenced_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIPK7timeval"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -6799,7 +6799,7 @@
      "referenced_type" : "_ZTIPK5event"
     }
    ],
-   "return_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump",
+   "return_type" : "_ZTIP10event_base",
    "source_file" : "/external/libevent/include/event2/event.h"
   },
   {
@@ -6898,7 +6898,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIP7timeval"
@@ -6910,7 +6910,7 @@
   {
    "function_name" : "event_init",
    "linker_set_key" : "event_init",
-   "return_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump",
+   "return_type" : "_ZTIP10event_base",
    "source_file" : "/external/libevent/include/event2/event_compat.h"
   },
   {
@@ -6949,7 +6949,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIPK7timeval"
     }
    ],
    "return_type" : "_ZTIi",
@@ -6961,7 +6961,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -6997,7 +6997,7 @@
      "referenced_type" : "_ZTIPv"
     },
     {
-     "referenced_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIPK7timeval"
     }
    ],
    "return_type" : "_ZTIi",
@@ -7054,7 +7054,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     }
    ],
    "return_type" : "_ZTIi",
@@ -7150,7 +7150,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -7165,7 +7165,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -7198,7 +7198,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -7213,13 +7213,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
      "referenced_type" : "_ZTIPKc"
     },
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     }
    ],
    "return_type" : "_ZTIi",
@@ -7231,10 +7231,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
-     "referenced_type" : "_ZTIP14evconnlistener#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP14evconnlistener"
     }
    ],
    "return_type" : "_ZTIP19evhttp_bound_socket",
@@ -7246,7 +7246,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -7264,7 +7264,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -7297,7 +7297,7 @@
      "referenced_type" : "_ZTIP19evhttp_bound_socket"
     }
    ],
-   "return_type" : "_ZTIP14evconnlistener#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
+   "return_type" : "_ZTIP14evconnlistener",
    "source_file" : "/external/libevent/include/event2/http.h"
   },
   {
@@ -7330,10 +7330,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     },
     {
      "referenced_type" : "_ZTIP11bufferevent"
@@ -7345,7 +7345,7 @@
      "referenced_type" : "_ZTIt"
     }
    ],
-   "return_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
+   "return_type" : "_ZTIP17evhttp_connection",
    "source_file" : "/external/libevent/include/event2/http.h"
   },
   {
@@ -7354,10 +7354,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     },
     {
-     "referenced_type" : "_ZTIP10evdns_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP10evdns_base"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -7366,7 +7366,7 @@
      "referenced_type" : "_ZTIt"
     }
    ],
-   "return_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
+   "return_type" : "_ZTIP17evhttp_connection",
    "source_file" : "/external/libevent/include/event2/http.h"
   },
   {
@@ -7375,7 +7375,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     }
    ],
    "return_type" : "_ZTIv",
@@ -7387,7 +7387,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     }
    ],
    "return_type" : "_ZTIv",
@@ -7399,10 +7399,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     }
    ],
-   "return_type" : "_ZTIPK8sockaddr#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
+   "return_type" : "_ZTIPK8sockaddr",
    "source_file" : "/external/libevent/include/event2/http.h"
   },
   {
@@ -7411,10 +7411,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     }
    ],
-   "return_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
+   "return_type" : "_ZTIP10event_base",
    "source_file" : "/external/libevent/include/event2/http.h"
   },
   {
@@ -7423,7 +7423,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     }
    ],
    "return_type" : "_ZTIP11bufferevent",
@@ -7435,7 +7435,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     },
     {
      "referenced_type" : "_ZTIPPc"
@@ -7453,10 +7453,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     }
    ],
-   "return_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
+   "return_type" : "_ZTIP6evhttp",
    "source_file" : "/external/libevent/include/event2/http.h"
   },
   {
@@ -7471,7 +7471,7 @@
      "referenced_type" : "_ZTIt"
     }
    ],
-   "return_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
+   "return_type" : "_ZTIP17evhttp_connection",
    "source_file" : "/external/libevent/include/event2/http_compat.h"
   },
   {
@@ -7480,10 +7480,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     },
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     }
    ],
    "return_type" : "_ZTIv",
@@ -7495,7 +7495,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     },
     {
      "referenced_type" : "_ZTIPFvP17evhttp_connectionPvE"
@@ -7513,7 +7513,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -7528,7 +7528,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -7543,10 +7543,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     },
     {
-     "referenced_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIPK7timeval"
     }
    ],
    "return_type" : "_ZTIv",
@@ -7558,7 +7558,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -7573,7 +7573,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     },
     {
      "referenced_type" : "_ZTIt"
@@ -7588,7 +7588,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -7603,7 +7603,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -7618,7 +7618,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -7633,7 +7633,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -7648,10 +7648,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     },
     {
-     "referenced_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIPK7timeval"
     }
    ],
    "return_type" : "_ZTIv",
@@ -7675,7 +7675,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
      "referenced_type" : "_ZTIP19evhttp_bound_socket"
@@ -7690,7 +7690,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -7732,7 +7732,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
      "referenced_type" : "_ZTIPFvP19evhttp_bound_socketPvE"
@@ -7750,7 +7750,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     }
    ],
    "return_type" : "_ZTIv",
@@ -7774,7 +7774,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP17evhttp_connection"
     },
     {
      "referenced_type" : "_ZTIP14evhttp_request"
@@ -7795,10 +7795,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     }
    ],
-   "return_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
+   "return_type" : "_ZTIP6evhttp",
    "source_file" : "/external/libevent/include/event2/http.h"
   },
   {
@@ -7852,7 +7852,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -7867,10 +7867,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     }
    ],
    "return_type" : "_ZTIi",
@@ -7909,7 +7909,7 @@
      "referenced_type" : "_ZTIP14evhttp_request"
     }
    ],
-   "return_type" : "_ZTIP17evhttp_connection#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
+   "return_type" : "_ZTIP17evhttp_connection",
    "source_file" : "/external/libevent/include/event2/http.h"
   },
   {
@@ -7945,7 +7945,7 @@
      "referenced_type" : "_ZTIP14evhttp_request"
     }
    ],
-   "return_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
+   "return_type" : "_ZTIP8evbuffer",
    "source_file" : "/external/libevent/include/event2/http.h"
   },
   {
@@ -7969,7 +7969,7 @@
      "referenced_type" : "_ZTIP14evhttp_request"
     }
    ],
-   "return_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
+   "return_type" : "_ZTIP8evbuffer",
    "source_file" : "/external/libevent/include/event2/http.h"
   },
   {
@@ -8155,7 +8155,7 @@
      "referenced_type" : "_ZTIPKc"
     },
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     }
    ],
    "return_type" : "_ZTIv",
@@ -8170,7 +8170,7 @@
      "referenced_type" : "_ZTIP14evhttp_request"
     },
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     }
    ],
    "return_type" : "_ZTIv",
@@ -8185,7 +8185,7 @@
      "referenced_type" : "_ZTIP14evhttp_request"
     },
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIPFvP17evhttp_connectionPvE"
@@ -8233,7 +8233,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
      "referenced_type" : "_ZTIt"
@@ -8248,7 +8248,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
      "referenced_type" : "_ZTIPFP11buffereventP10event_basePvE"
@@ -8266,7 +8266,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -8287,7 +8287,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -8302,7 +8302,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -8317,7 +8317,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
      "referenced_type" : "_ZTIPFvP14evhttp_requestPvE"
@@ -8335,7 +8335,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -8350,7 +8350,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -8365,7 +8365,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -8380,10 +8380,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP6evhttp"
     },
     {
-     "referenced_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIPK7timeval"
     }
    ],
    "return_type" : "_ZTIv",
@@ -8401,7 +8401,7 @@
      "referenced_type" : "_ZTIt"
     }
    ],
-   "return_type" : "_ZTIP6evhttp#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
+   "return_type" : "_ZTIP6evhttp",
    "source_file" : "/external/libevent/include/event2/http_compat.h"
   },
   {
@@ -8410,7 +8410,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evhttp_uri#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP10evhttp_uri"
     }
    ],
    "return_type" : "_ZTIv",
@@ -8506,7 +8506,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evhttp_uri#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP10evhttp_uri"
     },
     {
      "referenced_type" : "_ZTIPc"
@@ -8521,7 +8521,7 @@
   {
    "function_name" : "evhttp_uri_new",
    "linker_set_key" : "evhttp_uri_new",
-   "return_type" : "_ZTIP10evhttp_uri#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
+   "return_type" : "_ZTIP10evhttp_uri",
    "source_file" : "/external/libevent/include/event2/http.h"
   },
   {
@@ -8533,7 +8533,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "return_type" : "_ZTIP10evhttp_uri#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
+   "return_type" : "_ZTIP10evhttp_uri",
    "source_file" : "/external/libevent/include/event2/http.h"
   },
   {
@@ -8548,7 +8548,7 @@
      "referenced_type" : "_ZTIj"
     }
    ],
-   "return_type" : "_ZTIP10evhttp_uri#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
+   "return_type" : "_ZTIP10evhttp_uri",
    "source_file" : "/external/libevent/include/event2/http.h"
   },
   {
@@ -8557,7 +8557,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evhttp_uri#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP10evhttp_uri"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -8572,7 +8572,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evhttp_uri#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP10evhttp_uri"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -8587,7 +8587,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evhttp_uri#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP10evhttp_uri"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -8602,7 +8602,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evhttp_uri#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP10evhttp_uri"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -8617,7 +8617,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evhttp_uri#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP10evhttp_uri"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -8632,7 +8632,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evhttp_uri#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP10evhttp_uri"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -8647,7 +8647,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evhttp_uri#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP10evhttp_uri"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -8662,7 +8662,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10evhttp_uri#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump"
+     "referenced_type" : "_ZTIP10evhttp_uri"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -8911,7 +8911,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evrpc.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     }
    ],
    "return_type" : "_ZTIP10evrpc_pool",
@@ -9166,7 +9166,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     }
    ],
    "return_type" : "_ZTIi",
@@ -9178,7 +9178,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -9193,7 +9193,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIy"
@@ -9214,7 +9214,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -9235,13 +9235,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIj"
     },
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     }
    ],
    "return_type" : "_ZTIv",
@@ -9253,7 +9253,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -9271,7 +9271,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -9289,7 +9289,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -9307,13 +9307,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIj"
     },
     {
-     "referenced_type" : "_ZTIP7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP7timeval"
     }
    ],
    "return_type" : "_ZTIv",
@@ -9325,7 +9325,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIPj"
@@ -9340,7 +9340,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIPj"
@@ -9355,7 +9355,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIPj"
@@ -9370,13 +9370,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIPj"
     },
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     }
    ],
    "return_type" : "_ZTIi",
@@ -9388,7 +9388,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -9409,7 +9409,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIPj"
@@ -9424,7 +9424,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -9442,7 +9442,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -9460,7 +9460,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -9478,13 +9478,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "referenced_type" : "_ZTIj"
     },
     {
-     "referenced_type" : "_ZTIP7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event_tagging.sdump"
+     "referenced_type" : "_ZTIP7timeval"
     }
    ],
    "return_type" : "_ZTIi",
@@ -9508,7 +9508,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump"
+     "referenced_type" : "_ZTIP10event_base"
     }
    ],
    "return_type" : "_ZTIi",
@@ -9682,7 +9682,7 @@
      "referenced_type" : "_ZTIP22evutil_monotonic_timer"
     },
     {
-     "referenced_type" : "_ZTIP7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evutil_time.sdump"
+     "referenced_type" : "_ZTIP7timeval"
     }
    ],
    "return_type" : "_ZTIi",
@@ -9892,10 +9892,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIPK8sockaddr#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evutil.sdump"
+     "referenced_type" : "_ZTIPK8sockaddr"
     },
     {
-     "referenced_type" : "_ZTIPK8sockaddr#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evutil.sdump"
+     "referenced_type" : "_ZTIPK8sockaddr"
     },
     {
      "referenced_type" : "_ZTIi"
@@ -9982,7 +9982,7 @@
    "referenced_type" : "_ZTI10evdns_base",
    "self_type" : "_ZTIP10evdns_base",
    "size" : 4,
-   "source_file" : "/external/libevent/include/event2/bufferevent.h"
+   "source_file" : "/external/libevent/include/event2/dns.h"
   },
   {
    "alignment" : 4,
@@ -9991,7 +9991,7 @@
    "referenced_type" : "_ZTI10event_base",
    "self_type" : "_ZTIP10event_base",
    "size" : 4,
-   "source_file" : "/external/libevent/include/event2/buffer.h"
+   "source_file" : "/external/libevent/include/event2/event_struct.h"
   },
   {
    "alignment" : 4,
@@ -10027,7 +10027,7 @@
    "referenced_type" : "_ZTI11bufferevent",
    "self_type" : "_ZTIP11bufferevent",
    "size" : 4,
-   "source_file" : "/external/libevent/include/event2/bufferevent_struct.h"
+   "source_file" : "/external/libevent/include/event2/http.h"
   },
   {
    "alignment" : 4,
@@ -10270,7 +10270,7 @@
    "referenced_type" : "_ZTI7timeval",
    "self_type" : "_ZTIP7timeval",
    "size" : 4,
-   "source_file" : "/external/libevent/include/event2/event.h"
+   "source_file" : "/external/libevent/include/event2/util.h"
   },
   {
    "alignment" : 4,
@@ -10288,7 +10288,7 @@
    "referenced_type" : "_ZTI8evbuffer",
    "self_type" : "_ZTIP8evbuffer",
    "size" : 4,
-   "source_file" : "/external/libevent/include/event2/buffer.h"
+   "source_file" : "/external/libevent/include/event2/tag.h"
   },
   {
    "alignment" : 4,
@@ -10697,37 +10697,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPK10event_base",
-   "name" : "const event_base *",
-   "referenced_type" : "_ZTIK10event_base#ODR:",
-   "self_type" : "_ZTIPK10event_base#ODR:",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/event.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK10event_base",
-   "name" : "const event_base *",
-   "referenced_type" : "_ZTIK10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump",
-   "self_type" : "_ZTIPK10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/event.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPK10evhttp_uri",
    "name" : "const evhttp_uri *",
    "referenced_type" : "_ZTIK10evhttp_uri",
    "self_type" : "_ZTIPK10evhttp_uri",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/http.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK10evhttp_uri",
-   "name" : "const evhttp_uri *",
-   "referenced_type" : "_ZTIK10evhttp_uri#ODR:",
-   "self_type" : "_ZTIPK10evhttp_uri#ODR:",
    "size" : 4,
    "source_file" : "/external/libevent/include/event2/http.h"
   },
@@ -10760,24 +10733,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPK12event_config",
-   "name" : "const event_config *",
-   "referenced_type" : "_ZTIK12event_config#ODR:",
-   "self_type" : "_ZTIPK12event_config#ODR:",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/event.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK12event_config",
-   "name" : "const event_config *",
-   "referenced_type" : "_ZTIK12event_config#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump",
-   "self_type" : "_ZTIPK12event_config#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/event.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPK14evhttp_request",
    "name" : "const evhttp_request *",
    "referenced_type" : "_ZTIK14evhttp_request",
@@ -10791,78 +10746,6 @@
    "name" : "const bufferevent_ops *",
    "referenced_type" : "_ZTIK15bufferevent_ops",
    "self_type" : "_ZTIPK15bufferevent_ops",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/bufferevent_struct.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK15bufferevent_ops",
-   "name" : "const bufferevent_ops *",
-   "referenced_type" : "_ZTIK15bufferevent_ops#ODR:",
-   "self_type" : "_ZTIPK15bufferevent_ops#ODR:",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/bufferevent_struct.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK15bufferevent_ops",
-   "name" : "const bufferevent_ops *",
-   "referenced_type" : "_ZTIK15bufferevent_ops#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/buffer.sdump",
-   "self_type" : "_ZTIPK15bufferevent_ops#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/buffer.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/bufferevent_struct.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK15bufferevent_ops",
-   "name" : "const bufferevent_ops *",
-   "referenced_type" : "_ZTIK15bufferevent_ops#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent.sdump",
-   "self_type" : "_ZTIPK15bufferevent_ops#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/bufferevent_struct.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK15bufferevent_ops",
-   "name" : "const bufferevent_ops *",
-   "referenced_type" : "_ZTIK15bufferevent_ops#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_filter.sdump",
-   "self_type" : "_ZTIPK15bufferevent_ops#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_filter.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/bufferevent_struct.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK15bufferevent_ops",
-   "name" : "const bufferevent_ops *",
-   "referenced_type" : "_ZTIK15bufferevent_ops#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_pair.sdump",
-   "self_type" : "_ZTIPK15bufferevent_ops#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_pair.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/bufferevent_struct.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK15bufferevent_ops",
-   "name" : "const bufferevent_ops *",
-   "referenced_type" : "_ZTIK15bufferevent_ops#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_ratelim.sdump",
-   "self_type" : "_ZTIPK15bufferevent_ops#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_ratelim.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/bufferevent_struct.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK15bufferevent_ops",
-   "name" : "const bufferevent_ops *",
-   "referenced_type" : "_ZTIK15bufferevent_ops#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_sock.sdump",
-   "self_type" : "_ZTIPK15bufferevent_ops#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_sock.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/bufferevent_struct.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK15bufferevent_ops",
-   "name" : "const bufferevent_ops *",
-   "referenced_type" : "_ZTIK15bufferevent_ops#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
-   "self_type" : "_ZTIPK15bufferevent_ops#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
    "size" : 4,
    "source_file" : "/external/libevent/include/event2/bufferevent_struct.h"
   },
@@ -10886,46 +10769,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPK19ev_token_bucket_cfg",
-   "name" : "const ev_token_bucket_cfg *",
-   "referenced_type" : "_ZTIK19ev_token_bucket_cfg#ODR:",
-   "self_type" : "_ZTIPK19ev_token_bucket_cfg#ODR:",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/bufferevent.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK19ev_token_bucket_cfg",
-   "name" : "const ev_token_bucket_cfg *",
-   "referenced_type" : "_ZTIK19ev_token_bucket_cfg#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_ratelim.sdump",
-   "self_type" : "_ZTIPK19ev_token_bucket_cfg#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_ratelim.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/bufferevent.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPK21evbuffer_file_segment",
    "name" : "const evbuffer_file_segment *",
    "referenced_type" : "_ZTIK21evbuffer_file_segment",
    "self_type" : "_ZTIPK21evbuffer_file_segment",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/buffer.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK21evbuffer_file_segment",
-   "name" : "const evbuffer_file_segment *",
-   "referenced_type" : "_ZTIK21evbuffer_file_segment#ODR:",
-   "self_type" : "_ZTIPK21evbuffer_file_segment#ODR:",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/buffer.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK21evbuffer_file_segment",
-   "name" : "const evbuffer_file_segment *",
-   "referenced_type" : "_ZTIK21evbuffer_file_segment#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/buffer.sdump",
-   "self_type" : "_ZTIPK21evbuffer_file_segment#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/buffer.sdump",
    "size" : 4,
    "source_file" : "/external/libevent/include/event2/buffer.h"
   },
@@ -10958,15 +10805,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPK2tm",
-   "name" : "const tm *",
-   "referenced_type" : "_ZTIK2tm#ODR:",
-   "self_type" : "_ZTIPK2tm#ODR:",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/util.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPK5event",
    "name" : "const event *",
    "referenced_type" : "_ZTIK5event",
@@ -10985,181 +10823,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7in_addr",
-   "name" : "const in_addr *",
-   "referenced_type" : "_ZTIK7in_addr#ODR:",
-   "self_type" : "_ZTIPK7in_addr#ODR:",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/dns.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPK7timeval",
    "name" : "const timeval *",
    "referenced_type" : "_ZTIK7timeval",
    "self_type" : "_ZTIPK7timeval",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/thread.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7timeval",
-   "name" : "const timeval *",
-   "referenced_type" : "_ZTIK7timeval#ODR:",
-   "self_type" : "_ZTIPK7timeval#ODR:",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/thread.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7timeval",
-   "name" : "const timeval *",
-   "referenced_type" : "_ZTIK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/buffer.sdump",
-   "self_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/buffer.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/thread.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7timeval",
-   "name" : "const timeval *",
-   "referenced_type" : "_ZTIK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent.sdump",
-   "self_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/bufferevent.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7timeval",
-   "name" : "const timeval *",
-   "referenced_type" : "_ZTIK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_filter.sdump",
-   "self_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_filter.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/thread.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7timeval",
-   "name" : "const timeval *",
-   "referenced_type" : "_ZTIK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_pair.sdump",
-   "self_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_pair.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/thread.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7timeval",
-   "name" : "const timeval *",
-   "referenced_type" : "_ZTIK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_ratelim.sdump",
-   "self_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_ratelim.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/bufferevent.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7timeval",
-   "name" : "const timeval *",
-   "referenced_type" : "_ZTIK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_sock.sdump",
-   "self_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_sock.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/thread.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7timeval",
-   "name" : "const timeval *",
-   "referenced_type" : "_ZTIK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/epoll.sdump",
-   "self_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/epoll.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/thread.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7timeval",
-   "name" : "const timeval *",
-   "referenced_type" : "_ZTIK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump",
-   "self_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/thread.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7timeval",
-   "name" : "const timeval *",
-   "referenced_type" : "_ZTIK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump",
-   "self_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/event.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7timeval",
-   "name" : "const timeval *",
-   "referenced_type" : "_ZTIK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evthread.sdump",
-   "self_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evthread.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/thread.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7timeval",
-   "name" : "const timeval *",
-   "referenced_type" : "_ZTIK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evutil.sdump",
-   "self_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evutil.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/thread.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7timeval",
-   "name" : "const timeval *",
-   "referenced_type" : "_ZTIK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evutil_rand.sdump",
-   "self_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evutil_rand.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/thread.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7timeval",
-   "name" : "const timeval *",
-   "referenced_type" : "_ZTIK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
-   "self_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/http.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7timeval",
-   "name" : "const timeval *",
-   "referenced_type" : "_ZTIK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/listener.sdump",
-   "self_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/listener.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/thread.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7timeval",
-   "name" : "const timeval *",
-   "referenced_type" : "_ZTIK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/poll.sdump",
-   "self_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/poll.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/thread.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7timeval",
-   "name" : "const timeval *",
-   "referenced_type" : "_ZTIK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/select.sdump",
-   "self_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/select.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/thread.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK7timeval",
-   "name" : "const timeval *",
-   "referenced_type" : "_ZTIK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/signal.sdump",
-   "self_type" : "_ZTIPK7timeval#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/signal.sdump",
    "size" : 4,
    "source_file" : "/external/libevent/include/event2/thread.h"
   },
@@ -11174,46 +10841,10 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPK8addrinfo",
-   "name" : "const addrinfo *",
-   "referenced_type" : "_ZTIK8addrinfo#ODR:",
-   "self_type" : "_ZTIPK8addrinfo#ODR:",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/util.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK8addrinfo",
-   "name" : "const addrinfo *",
-   "referenced_type" : "_ZTIK8addrinfo#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump",
-   "self_type" : "_ZTIPK8addrinfo#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/dns.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPK8evbuffer",
    "name" : "const evbuffer *",
    "referenced_type" : "_ZTIK8evbuffer",
    "self_type" : "_ZTIPK8evbuffer",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/buffer.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK8evbuffer",
-   "name" : "const evbuffer *",
-   "referenced_type" : "_ZTIK8evbuffer#ODR:",
-   "self_type" : "_ZTIPK8evbuffer#ODR:",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/buffer.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK8evbuffer",
-   "name" : "const evbuffer *",
-   "referenced_type" : "_ZTIK8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/buffer.sdump",
-   "self_type" : "_ZTIPK8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/buffer.sdump",
    "size" : 4,
    "source_file" : "/external/libevent/include/event2/buffer.h"
   },
@@ -11228,75 +10859,12 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPK8in6_addr",
-   "name" : "const in6_addr *",
-   "referenced_type" : "_ZTIK8in6_addr#ODR:",
-   "self_type" : "_ZTIPK8in6_addr#ODR:",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/dns.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPK8sockaddr",
    "name" : "const sockaddr *",
    "referenced_type" : "_ZTIK8sockaddr",
    "self_type" : "_ZTIPK8sockaddr",
    "size" : 4,
-   "source_file" : "/external/libevent/include/event2/bufferevent.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK8sockaddr",
-   "name" : "const sockaddr *",
-   "referenced_type" : "_ZTIK8sockaddr#ODR:",
-   "self_type" : "_ZTIPK8sockaddr#ODR:",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/bufferevent.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK8sockaddr",
-   "name" : "const sockaddr *",
-   "referenced_type" : "_ZTIK8sockaddr#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_sock.sdump",
-   "self_type" : "_ZTIPK8sockaddr#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/bufferevent_sock.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/bufferevent.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK8sockaddr",
-   "name" : "const sockaddr *",
-   "referenced_type" : "_ZTIK8sockaddr#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump",
-   "self_type" : "_ZTIPK8sockaddr#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evdns.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/dns.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK8sockaddr",
-   "name" : "const sockaddr *",
-   "referenced_type" : "_ZTIK8sockaddr#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evutil.sdump",
-   "self_type" : "_ZTIPK8sockaddr#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evutil.sdump",
-   "size" : 4,
    "source_file" : "/external/libevent/include/event2/util.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK8sockaddr",
-   "name" : "const sockaddr *",
-   "referenced_type" : "_ZTIK8sockaddr#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
-   "self_type" : "_ZTIPK8sockaddr#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/http.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/http.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK8sockaddr",
-   "name" : "const sockaddr *",
-   "referenced_type" : "_ZTIK8sockaddr#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/listener.sdump",
-   "self_type" : "_ZTIPK8sockaddr#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/listener.sdump",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/listener.h"
   },
   {
    "alignment" : 4,
@@ -11314,7 +10882,7 @@
    "referenced_type" : "_ZTIKc",
    "self_type" : "_ZTIPKc",
    "size" : 4,
-   "source_file" : "/external/libevent/include/event2/buffer.h"
+   "source_file" : "/external/libevent/include/event2/util.h"
   },
   {
    "alignment" : 4,
@@ -11332,13 +10900,13 @@
    "referenced_type" : "_ZTIKv",
    "self_type" : "_ZTIPKv",
    "size" : 4,
-   "source_file" : "/external/libevent/include/event2/buffer.h"
+   "source_file" : "/external/libevent/include/event2/util.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPP10event_base",
    "name" : "event_base **",
-   "referenced_type" : "_ZTIP10event_base#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/event.sdump",
+   "referenced_type" : "_ZTIP10event_base",
    "self_type" : "_ZTIPP10event_base",
    "size" : 4,
    "source_file" : "/external/libevent/include/event2/event.h"
@@ -11408,15 +10976,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPP8addrinfo",
-   "name" : "addrinfo **",
-   "referenced_type" : "_ZTIP8addrinfo#ODR:",
-   "self_type" : "_ZTIPP8addrinfo#ODR:",
-   "size" : 4,
-   "source_file" : "/external/libevent/include/event2/util.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPP8evkeyval",
    "name" : "evkeyval **",
    "referenced_type" : "_ZTIP8evkeyval",
@@ -11476,7 +11035,7 @@
    "referenced_type" : "_ZTIPv",
    "self_type" : "_ZTIPPv",
    "size" : 4,
-   "source_file" : "/external/libevent/include/event2/bufferevent.h"
+   "source_file" : "/external/libevent/include/event2/rpc.h"
   },
   {
    "alignment" : 4,
@@ -11485,7 +11044,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIPc",
    "size" : 4,
-   "source_file" : "/external/libevent/include/event2/buffer.h"
+   "source_file" : "/external/libevent/include/event2/keyvalq_struct.h"
   },
   {
    "alignment" : 4,
@@ -11503,7 +11062,7 @@
    "referenced_type" : "_ZTIi",
    "self_type" : "_ZTIPi",
    "size" : 4,
-   "source_file" : "/external/libevent/include/event2/event.h"
+   "source_file" : "/external/libevent/include/event2/util.h"
   },
   {
    "alignment" : 4,
@@ -11512,7 +11071,7 @@
    "referenced_type" : "_ZTIj",
    "self_type" : "_ZTIPj",
    "size" : 4,
-   "source_file" : "/external/libevent/include/event2/buffer.h"
+   "source_file" : "/external/libevent/include/event2/tag.h"
   },
   {
    "alignment" : 4,
@@ -11539,7 +11098,7 @@
    "referenced_type" : "_ZTIv",
    "self_type" : "_ZTIPv",
    "size" : 4,
-   "source_file" : "/external/libevent/include/event2/buffer.h"
+   "source_file" : "/external/libevent/include/event2/event_struct.h"
   },
   {
    "alignment" : 4,
@@ -11548,7 +11107,7 @@
    "referenced_type" : "_ZTIy",
    "self_type" : "_ZTIPy",
    "size" : 4,
-   "source_file" : "/external/libevent/include/event2/bufferevent.h"
+   "source_file" : "/external/libevent/include/event2/tag.h"
   }
  ],
  "qualified_types" :
@@ -11751,7 +11310,7 @@
    "referenced_type" : "_ZTI8sockaddr",
    "self_type" : "_ZTIK8sockaddr",
    "size" : 16,
-   "source_file" : "/external/libevent/include/event2/bufferevent.h"
+   "source_file" : "/external/libevent/include/event2/util.h"
   },
   {
    "alignment" : 4,
@@ -11781,7 +11340,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIKc",
    "size" : 1,
-   "source_file" : "/external/libevent/include/event2/buffer.h"
+   "source_file" : "/external/libevent/include/event2/util.h"
   },
   {
    "alignment" : 1,
@@ -11819,7 +11378,7 @@
    "name" : "const void",
    "referenced_type" : "_ZTIv",
    "self_type" : "_ZTIKv",
-   "source_file" : "/external/libevent/include/event2/buffer.h"
+   "source_file" : "/external/libevent/include/event2/util.h"
   }
  ],
  "record_types" :
@@ -12126,7 +11685,7 @@
     {
      "field_name" : "input_buffer",
      "field_offset" : 576,
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evrpc.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "field_name" : "ntoread",
@@ -12146,7 +11705,7 @@
     {
      "field_name" : "output_buffer",
      "field_offset" : 704,
-     "referenced_type" : "_ZTIP8evbuffer#ODR:out/soong/.intermediates/external/libevent/libevent/android_vendor.R_x86_static/obj/external/libevent/evrpc.sdump"
+     "referenced_type" : "_ZTIP8evbuffer"
     },
     {
      "field_name" : "cb",

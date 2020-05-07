@@ -27073,7 +27073,7 @@
    "referenced_type" : "_ZTIN7android2wpINS_8hardware7IBinder14DeathRecipientEEE",
    "self_type" : "_ZTIPN7android2wpINS_8hardware7IBinder14DeathRecipientEEE",
    "size" : 4,
-   "source_file" : "/system/libhwbinder/include/hwbinder/Binder.h"
+   "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
   {
    "alignment" : 4,

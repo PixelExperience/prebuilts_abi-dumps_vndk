@@ -1218,7 +1218,7 @@
      "referenced_type" : "_ZTIP12filter_block"
     },
     {
-     "referenced_type" : "_ZTIP11sock_filter#ODR:out/soong/.intermediates/external/minijail/libminijail/android_vendor.R_arm_armv8-a_shared/obj/external/minijail/syscall_filter.sdump"
+     "referenced_type" : "_ZTIP11sock_filter"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -2967,15 +2967,6 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPK10sock_fprog",
-   "name" : "const sock_fprog *",
-   "referenced_type" : "_ZTIK10sock_fprog#ODR:out/soong/.intermediates/external/minijail/libminijail/android_vendor.R_arm_armv8-a_shared/obj/external/minijail/libminijail.sdump",
-   "self_type" : "_ZTIPK10sock_fprog#ODR:out/soong/.intermediates/external/minijail/libminijail/android_vendor.R_arm_armv8-a_shared/obj/external/minijail/libminijail.sdump",
-   "size" : 4,
-   "source_file" : "/external/minijail/libminijail.h"
-  },
-  {
-   "alignment" : 4,
    "linker_set_key" : "_ZTIPK14filter_options",
    "name" : "const filter_options *",
    "referenced_type" : "_ZTIK14filter_options",
@@ -2989,15 +2980,6 @@
    "name" : "const minijail *",
    "referenced_type" : "_ZTIK8minijail",
    "self_type" : "_ZTIPK8minijail",
-   "size" : 4,
-   "source_file" : "/external/minijail/libminijail.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPK8minijail",
-   "name" : "const minijail *",
-   "referenced_type" : "_ZTIK8minijail#ODR:out/soong/.intermediates/external/minijail/libminijail/android_vendor.R_arm_armv8-a_shared/obj/external/minijail/libminijail.sdump",
-   "self_type" : "_ZTIPK8minijail#ODR:out/soong/.intermediates/external/minijail/libminijail/android_vendor.R_arm_armv8-a_shared/obj/external/minijail/libminijail.sdump",
    "size" : 4,
    "source_file" : "/external/minijail/libminijail.h"
   },
@@ -3034,15 +3016,6 @@
    "name" : "sock_filter **",
    "referenced_type" : "_ZTIP11sock_filter",
    "self_type" : "_ZTIPP11sock_filter",
-   "size" : 4,
-   "source_file" : "/external/minijail/bpf.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "_ZTIPP11sock_filter",
-   "name" : "sock_filter **",
-   "referenced_type" : "_ZTIP11sock_filter#ODR:out/soong/.intermediates/external/minijail/libminijail/android_vendor.R_arm_armv8-a_shared/obj/external/minijail/bpf.sdump",
-   "self_type" : "_ZTIPP11sock_filter#ODR:out/soong/.intermediates/external/minijail/libminijail/android_vendor.R_arm_armv8-a_shared/obj/external/minijail/bpf.sdump",
    "size" : 4,
    "source_file" : "/external/minijail/bpf.h"
   },
@@ -3248,7 +3221,7 @@
    [
     {
      "field_name" : "instrs",
-     "referenced_type" : "_ZTIP11sock_filter#ODR:out/soong/.intermediates/external/minijail/libminijail/android_vendor.R_arm_armv8-a_shared/obj/external/minijail/libminijail.sdump"
+     "referenced_type" : "_ZTIP11sock_filter"
     },
     {
      "field_name" : "len",
