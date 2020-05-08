@@ -9860,19 +9860,19 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKN7android8hardware10automotive7vehicle4V2_033UserIdentificationAssociationTypeE",
-   "name" : "const android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationType &",
-   "referenced_type" : "_ZTIKN7android8hardware10automotive7vehicle4V2_033UserIdentificationAssociationTypeE",
-   "self_type" : "_ZTIRKN7android8hardware10automotive7vehicle4V2_033UserIdentificationAssociationTypeE",
+   "linker_set_key" : "_ZTIRKN7android8hardware10automotive7vehicle4V2_032UserIdentificationSetAssociationE",
+   "name" : "const android::hardware::automotive::vehicle::V2_0::UserIdentificationSetAssociation &",
+   "referenced_type" : "_ZTIKN7android8hardware10automotive7vehicle4V2_032UserIdentificationSetAssociationE",
+   "self_type" : "_ZTIRKN7android8hardware10automotive7vehicle4V2_032UserIdentificationSetAssociationE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKN7android8hardware10automotive7vehicle4V2_037UserIdentificationAssociationSetValueE",
-   "name" : "const android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationSetValue &",
-   "referenced_type" : "_ZTIKN7android8hardware10automotive7vehicle4V2_037UserIdentificationAssociationSetValueE",
-   "self_type" : "_ZTIRKN7android8hardware10automotive7vehicle4V2_037UserIdentificationAssociationSetValueE",
+   "linker_set_key" : "_ZTIRKN7android8hardware10automotive7vehicle4V2_033UserIdentificationAssociationTypeE",
+   "name" : "const android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationType &",
+   "referenced_type" : "_ZTIKN7android8hardware10automotive7vehicle4V2_033UserIdentificationAssociationTypeE",
+   "self_type" : "_ZTIRKN7android8hardware10automotive7vehicle4V2_033UserIdentificationAssociationTypeE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
@@ -10020,19 +10020,19 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
-   "name" : "const android::hardware::hidl_vec<android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationType> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
+   "name" : "const android::hardware::hidl_vec<android::hardware::automotive::vehicle::V2_0::UserIdentificationSetAssociation> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
-   "name" : "const android::hardware::hidl_vec<android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationSetValue> &",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
-   "self_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
+   "linker_set_key" : "_ZTIRKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
+   "name" : "const android::hardware::hidl_vec<android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationType> &",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
+   "self_type" : "_ZTIRKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
@@ -10878,19 +10878,19 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android8hardware10automotive7vehicle4V2_033UserIdentificationAssociationTypeE",
-   "name" : "const android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationType *",
-   "referenced_type" : "_ZTIKN7android8hardware10automotive7vehicle4V2_033UserIdentificationAssociationTypeE",
-   "self_type" : "_ZTIPKN7android8hardware10automotive7vehicle4V2_033UserIdentificationAssociationTypeE",
+   "linker_set_key" : "_ZTIPKN7android8hardware10automotive7vehicle4V2_032UserIdentificationSetAssociationE",
+   "name" : "const android::hardware::automotive::vehicle::V2_0::UserIdentificationSetAssociation *",
+   "referenced_type" : "_ZTIKN7android8hardware10automotive7vehicle4V2_032UserIdentificationSetAssociationE",
+   "self_type" : "_ZTIPKN7android8hardware10automotive7vehicle4V2_032UserIdentificationSetAssociationE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android8hardware10automotive7vehicle4V2_037UserIdentificationAssociationSetValueE",
-   "name" : "const android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationSetValue *",
-   "referenced_type" : "_ZTIKN7android8hardware10automotive7vehicle4V2_037UserIdentificationAssociationSetValueE",
-   "self_type" : "_ZTIPKN7android8hardware10automotive7vehicle4V2_037UserIdentificationAssociationSetValueE",
+   "linker_set_key" : "_ZTIPKN7android8hardware10automotive7vehicle4V2_033UserIdentificationAssociationTypeE",
+   "name" : "const android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationType *",
+   "referenced_type" : "_ZTIKN7android8hardware10automotive7vehicle4V2_033UserIdentificationAssociationTypeE",
+   "self_type" : "_ZTIPKN7android8hardware10automotive7vehicle4V2_033UserIdentificationAssociationTypeE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
@@ -11031,19 +11031,19 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationType> *",
-   "referenced_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
-   "self_type" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
+   "linker_set_key" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::automotive::vehicle::V2_0::UserIdentificationSetAssociation> *",
+   "referenced_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
+   "self_type" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationSetValue> *",
-   "referenced_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
-   "self_type" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
+   "linker_set_key" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationType> *",
+   "referenced_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
+   "self_type" : "_ZTIPKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
@@ -11166,19 +11166,19 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
-   "name" : "const android::hardware::hidl_vec<android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationType> *",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
-   "self_type" : "_ZTIPKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
+   "linker_set_key" : "_ZTIPKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
+   "name" : "const android::hardware::hidl_vec<android::hardware::automotive::vehicle::V2_0::UserIdentificationSetAssociation> *",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
+   "self_type" : "_ZTIPKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
-   "name" : "const android::hardware::hidl_vec<android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationSetValue> *",
-   "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
-   "self_type" : "_ZTIPKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
+   "linker_set_key" : "_ZTIPKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
+   "name" : "const android::hardware::hidl_vec<android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationType> *",
+   "referenced_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
+   "self_type" : "_ZTIPKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
@@ -11670,19 +11670,19 @@
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPN7android8hardware10automotive7vehicle4V2_033UserIdentificationAssociationTypeE",
-   "name" : "android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationType *",
-   "referenced_type" : "_ZTIN7android8hardware10automotive7vehicle4V2_033UserIdentificationAssociationTypeE",
-   "self_type" : "_ZTIPN7android8hardware10automotive7vehicle4V2_033UserIdentificationAssociationTypeE",
+   "linker_set_key" : "_ZTIPN7android8hardware10automotive7vehicle4V2_032UserIdentificationSetAssociationE",
+   "name" : "android::hardware::automotive::vehicle::V2_0::UserIdentificationSetAssociation *",
+   "referenced_type" : "_ZTIN7android8hardware10automotive7vehicle4V2_032UserIdentificationSetAssociationE",
+   "self_type" : "_ZTIPN7android8hardware10automotive7vehicle4V2_032UserIdentificationSetAssociationE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
   {
    "alignment" : 4,
-   "linker_set_key" : "_ZTIPN7android8hardware10automotive7vehicle4V2_037UserIdentificationAssociationSetValueE",
-   "name" : "android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationSetValue *",
-   "referenced_type" : "_ZTIN7android8hardware10automotive7vehicle4V2_037UserIdentificationAssociationSetValueE",
-   "self_type" : "_ZTIPN7android8hardware10automotive7vehicle4V2_037UserIdentificationAssociationSetValueE",
+   "linker_set_key" : "_ZTIPN7android8hardware10automotive7vehicle4V2_033UserIdentificationAssociationTypeE",
+   "name" : "android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationType *",
+   "referenced_type" : "_ZTIN7android8hardware10automotive7vehicle4V2_033UserIdentificationAssociationTypeE",
+   "self_type" : "_ZTIPN7android8hardware10automotive7vehicle4V2_033UserIdentificationAssociationTypeE",
    "size" : 4,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
@@ -13099,6 +13099,16 @@
   {
    "alignment" : 4,
    "is_const" : true,
+   "linker_set_key" : "_ZTIKN7android8hardware10automotive7vehicle4V2_032UserIdentificationSetAssociationE",
+   "name" : "const android::hardware::automotive::vehicle::V2_0::UserIdentificationSetAssociation",
+   "referenced_type" : "_ZTIN7android8hardware10automotive7vehicle4V2_032UserIdentificationSetAssociationE",
+   "self_type" : "_ZTIKN7android8hardware10automotive7vehicle4V2_032UserIdentificationSetAssociationE",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
    "linker_set_key" : "_ZTIKN7android8hardware10automotive7vehicle4V2_032VehicleApPowerStateShutdownParamE",
    "name" : "const android::hardware::automotive::vehicle::V2_0::VehicleApPowerStateShutdownParam",
    "referenced_type" : "_ZTIN7android8hardware10automotive7vehicle4V2_032VehicleApPowerStateShutdownParamE",
@@ -13154,7 +13164,7 @@
    "referenced_type" : "_ZTIN7android8hardware10automotive7vehicle4V2_037UserIdentificationAssociationSetValueE",
    "self_type" : "_ZTIKN7android8hardware10automotive7vehicle4V2_037UserIdentificationAssociationSetValueE",
    "size" : 4,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/automotive/vehicle/2.0/android.hardware.automotive.vehicle@2.0_genc++_headers/gen/android/hardware/automotive/vehicle/2.0/types.h"
   },
   {
    "alignment" : 4,
@@ -13439,20 +13449,20 @@
   {
    "alignment" : 4,
    "is_const" : true,
-   "linker_set_key" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationType>",
-   "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
-   "self_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
+   "linker_set_key" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::automotive::vehicle::V2_0::UserIdentificationSetAssociation>",
+   "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
+   "self_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
    "size" : 8,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
   {
    "alignment" : 4,
    "is_const" : true,
-   "linker_set_key" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
-   "name" : "const android::hardware::details::hidl_pointer<android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationSetValue>",
-   "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
-   "self_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
+   "linker_set_key" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
+   "name" : "const android::hardware::details::hidl_pointer<android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationType>",
+   "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
+   "self_type" : "_ZTIKN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
    "size" : 8,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
@@ -13597,20 +13607,20 @@
   {
    "alignment" : 4,
    "is_const" : true,
-   "linker_set_key" : "_ZTIKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
-   "name" : "const android::hardware::hidl_vec<android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationType>",
-   "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
-   "self_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
+   "linker_set_key" : "_ZTIKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
+   "name" : "const android::hardware::hidl_vec<android::hardware::automotive::vehicle::V2_0::UserIdentificationSetAssociation>",
+   "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
+   "self_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
    "size" : 16,
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
   {
    "alignment" : 4,
    "is_const" : true,
-   "linker_set_key" : "_ZTIKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
-   "name" : "const android::hardware::hidl_vec<android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationSetValue>",
-   "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
-   "self_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
+   "linker_set_key" : "_ZTIKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
+   "name" : "const android::hardware::hidl_vec<android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationType>",
+   "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
+   "self_type" : "_ZTIKN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE",
    "size" : 16,
    "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h"
   },
@@ -19007,7 +19017,12 @@
    "fields" :
    [
     {
+     "field_name" : "requestId",
+     "referenced_type" : "_ZTIi"
+    },
+    {
      "field_name" : "numberAssociation",
+     "field_offset" : 32,
      "referenced_type" : "_ZTIi"
     },
     {
@@ -19033,12 +19048,17 @@
    "fields" :
    [
     {
+     "field_name" : "requestId",
+     "referenced_type" : "_ZTIi"
+    },
+    {
      "field_name" : "userInfo",
+     "field_offset" : 32,
      "referenced_type" : "_ZTIN7android8hardware10automotive7vehicle4V2_08UserInfoE"
     },
     {
      "field_name" : "numberAssociationTypes",
-     "field_offset" : 64,
+     "field_offset" : 96,
      "referenced_type" : "_ZTIi"
     },
     {
@@ -19059,18 +19079,23 @@
    "fields" :
    [
     {
+     "field_name" : "requestId",
+     "referenced_type" : "_ZTIi"
+    },
+    {
      "field_name" : "userInfo",
+     "field_offset" : 32,
      "referenced_type" : "_ZTIN7android8hardware10automotive7vehicle4V2_08UserInfoE"
     },
     {
      "field_name" : "numberAssociations",
-     "field_offset" : 64,
+     "field_offset" : 96,
      "referenced_type" : "_ZTIi"
     },
     {
      "field_name" : "associations",
      "field_offset" : 128,
-     "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE"
+     "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE"
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware10automotive7vehicle4V2_028UserIdentificationSetRequestE",
@@ -21722,6 +21747,49 @@
    [
     {
      "access" : "private",
+     "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEUt_E"
+    }
+   ],
+   "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
+   "name" : "android::hardware::details::hidl_pointer<android::hardware::automotive::vehicle::V2_0::UserIdentificationSetAssociation>",
+   "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
+   "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h",
+   "template_args" :
+   [
+    "_ZTIN7android8hardware10automotive7vehicle4V2_032UserIdentificationSetAssociationE"
+   ]
+  },
+  {
+   "access" : "private",
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "mPointer",
+     "referenced_type" : "_ZTIPN7android8hardware10automotive7vehicle4V2_032UserIdentificationSetAssociationE"
+    },
+    {
+     "field_name" : "_pad",
+     "referenced_type" : "_ZTIy"
+    }
+   ],
+   "is_anonymous" : true,
+   "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEUt_E",
+   "name" : "android::hardware::details::hidl_pointer<UserIdentificationSetAssociation>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
+   "record_kind" : "union",
+   "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEUt_E",
+   "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEUt_E",
+   "size" : 8,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "access" : "private",
      "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEUt_E"
     }
    ],
@@ -21756,49 +21824,6 @@
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEUt_E",
    "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEUt_E",
-   "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "access" : "private",
-     "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEUt_E"
-    }
-   ],
-   "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
-   "name" : "android::hardware::details::hidl_pointer<android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationSetValue>",
-   "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
-   "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
-   "size" : 8,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h",
-   "template_args" :
-   [
-    "_ZTIN7android8hardware10automotive7vehicle4V2_037UserIdentificationAssociationSetValueE"
-   ]
-  },
-  {
-   "access" : "private",
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "field_name" : "mPointer",
-     "referenced_type" : "_ZTIPN7android8hardware10automotive7vehicle4V2_037UserIdentificationAssociationSetValueE"
-    },
-    {
-     "field_name" : "_pad",
-     "referenced_type" : "_ZTIy"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEUt_E",
-   "name" : "android::hardware::details::hidl_pointer<UserIdentificationAssociationSetValue>::(anonymous union at system/libhidl/base/include/hidl/HidlInternal.h:110:5)",
-   "record_kind" : "union",
-   "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEUt_E",
-   "self_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEUt_E",
    "size" : 8,
    "source_file" : "/system/libhidl/base/include/hidl/HidlInternal.h"
   },
@@ -22498,6 +22523,45 @@
     {
      "access" : "private",
      "field_name" : "mBuffer",
+     "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE"
+    },
+    {
+     "access" : "private",
+     "field_name" : "mSize",
+     "field_offset" : 64,
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "access" : "private",
+     "field_name" : "mOwnsBuffer",
+     "field_offset" : 96,
+     "referenced_type" : "_ZTIb"
+    },
+    {
+     "access" : "private",
+     "field_name" : "mPad",
+     "field_offset" : 104,
+     "referenced_type" : "_ZTIA3_h"
+    }
+   ],
+   "linker_set_key" : "_ZTIN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
+   "name" : "android::hardware::hidl_vec<android::hardware::automotive::vehicle::V2_0::UserIdentificationSetAssociation>",
+   "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
+   "self_type" : "_ZTIN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_032UserIdentificationSetAssociationEEE",
+   "size" : 16,
+   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h",
+   "template_args" :
+   [
+    "_ZTIN7android8hardware10automotive7vehicle4V2_032UserIdentificationSetAssociationE"
+   ]
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "access" : "private",
+     "field_name" : "mBuffer",
      "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_033UserIdentificationAssociationTypeEEE"
     },
     {
@@ -22528,45 +22592,6 @@
    "template_args" :
    [
     "_ZTIN7android8hardware10automotive7vehicle4V2_033UserIdentificationAssociationTypeE"
-   ]
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "access" : "private",
-     "field_name" : "mBuffer",
-     "referenced_type" : "_ZTIN7android8hardware7details12hidl_pointerINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE"
-    },
-    {
-     "access" : "private",
-     "field_name" : "mSize",
-     "field_offset" : 64,
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "access" : "private",
-     "field_name" : "mOwnsBuffer",
-     "field_offset" : 96,
-     "referenced_type" : "_ZTIb"
-    },
-    {
-     "access" : "private",
-     "field_name" : "mPad",
-     "field_offset" : 104,
-     "referenced_type" : "_ZTIA3_h"
-    }
-   ],
-   "linker_set_key" : "_ZTIN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
-   "name" : "android::hardware::hidl_vec<android::hardware::automotive::vehicle::V2_0::UserIdentificationAssociationSetValue>",
-   "referenced_type" : "_ZTIN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
-   "self_type" : "_ZTIN7android8hardware8hidl_vecINS0_10automotive7vehicle4V2_037UserIdentificationAssociationSetValueEEE",
-   "size" : 16,
-   "source_file" : "/system/libhidl/base/include/hidl/HidlSupport.h",
-   "template_args" :
-   [
-    "_ZTIN7android8hardware10automotive7vehicle4V2_037UserIdentificationAssociationSetValueE"
    ]
   },
   {
