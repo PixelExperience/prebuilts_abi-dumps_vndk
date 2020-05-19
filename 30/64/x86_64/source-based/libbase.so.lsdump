@@ -559,6 +559,10 @@
   },
   {
    "binding" : "weak",
+   "name" : "_ZN3fmt2v620basic_format_contextINSt3__120back_insert_iteratorINS0_8internal6bufferIcEEEEcE3argENS0_17basic_string_viewIcEE"
+  },
+  {
+   "binding" : "weak",
    "name" : "_ZN3fmt2v620basic_format_contextINSt3__120back_insert_iteratorINS0_8internal6bufferIwEEEEwE3argENS0_17basic_string_viewIwEE"
   },
   {
@@ -2837,6 +2841,22 @@
    ],
    "return_type" : "_ZTIv",
    "source_file" : "/external/fmtlib/include/fmt/format.h"
+  },
+  {
+   "function_name" : "fmt::v6::basic_format_context<std::__1::back_insert_iterator<fmt::v6::internal::buffer<char> >, char>::arg",
+   "linker_set_key" : "_ZN3fmt2v620basic_format_contextINSt3__120back_insert_iteratorINS0_8internal6bufferIcEEEEcE3argENS0_17basic_string_viewIcEE",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN3fmt2v620basic_format_contextINSt3__120back_insert_iteratorINS0_8internal6bufferIcEEEEcEE"
+    },
+    {
+     "referenced_type" : "_ZTIN3fmt2v617basic_string_viewIcEE"
+    }
+   ],
+   "return_type" : "_ZTIN3fmt2v616basic_format_argINS0_20basic_format_contextINSt3__120back_insert_iteratorINS0_8internal6bufferIcEEEEcEEEE",
+   "source_file" : "/external/fmtlib/include/fmt/core.h"
   },
   {
    "function_name" : "fmt::v6::basic_format_context<std::__1::back_insert_iterator<fmt::v6::internal::buffer<wchar_t> >, wchar_t>::arg",
