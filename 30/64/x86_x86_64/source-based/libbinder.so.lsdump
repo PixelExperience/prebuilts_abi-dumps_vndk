@@ -1281,10 +1281,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZN7android2spINS_15IServiceManagerEED2Ev"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZN7android2spINS_7BBinderEED2Ev"
   },
   {
@@ -9294,7 +9290,7 @@
    "referenced_type" : "_ZTIFvPKvPvS1_E",
    "return_type" : "_ZTIv",
    "self_type" : "_ZTIFvPKvPvS1_E",
-   "source_file" : "/frameworks/native/libs/binder/include/binder/Binder.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/BpBinder.h"
   },
   {
    "alignment" : 4,
@@ -12006,19 +12002,6 @@
     {
      "is_this_ptr" : true,
      "referenced_type" : "_ZTIPN7android2spINS_12ProcessStateEEE"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
-  },
-  {
-   "function_name" : "android::sp<android::IServiceManager>::~sp",
-   "linker_set_key" : "_ZN7android2spINS_15IServiceManagerEED2Ev",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android2spINS_15IServiceManagerEEE"
     }
    ],
    "return_type" : "_ZTIv",
@@ -22780,7 +22763,7 @@
    "referenced_type" : "_ZTIFvPKvPvS1_E",
    "self_type" : "_ZTIPFvPKvPvS1_E",
    "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/include/binder/Binder.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/BpBinder.h"
   },
   {
    "alignment" : 4,
@@ -23635,7 +23618,7 @@
    "referenced_type" : "_ZTIKi",
    "self_type" : "_ZTIPKi",
    "size" : 4,
-   "source_file" : "/system/core/libutils/include/utils/Vector.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/Parcel.h"
   },
   {
    "alignment" : 4,
@@ -23986,7 +23969,7 @@
    "referenced_type" : "_ZTIN7android14IPCThreadStateE",
    "self_type" : "_ZTIPN7android14IPCThreadStateE",
    "size" : 4,
-   "source_file" : "/frameworks/native/libs/binder/include/binder/IPCThreadState.h"
+   "source_file" : "/frameworks/native/libs/binder/include/binder/Parcel.h"
   },
   {
    "alignment" : 4,
