@@ -12894,7 +12894,7 @@
    "name" : "const android::hardware::automotive::vehicle::V2_0::InitialUserInfoResponse",
    "referenced_type" : "_ZTIN7android8hardware10automotive7vehicle4V2_023InitialUserInfoResponseE",
    "self_type" : "_ZTIKN7android8hardware10automotive7vehicle4V2_023InitialUserInfoResponseE",
-   "size" : 32,
+   "size" : 48,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/automotive/vehicle/2.0/android.hardware.automotive.vehicle@2.0_genc++_headers/gen/android/hardware/automotive/vehicle/2.0/hwtypes.h"
   },
   {
@@ -19004,13 +19004,18 @@
      "field_name" : "userNameToCreate",
      "field_offset" : 128,
      "referenced_type" : "_ZTIN7android8hardware11hidl_stringE"
+    },
+    {
+     "field_name" : "userLocales",
+     "field_offset" : 256,
+     "referenced_type" : "_ZTIN7android8hardware11hidl_stringE"
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware10automotive7vehicle4V2_023InitialUserInfoResponseE",
    "name" : "android::hardware::automotive::vehicle::V2_0::InitialUserInfoResponse",
    "referenced_type" : "_ZTIN7android8hardware10automotive7vehicle4V2_023InitialUserInfoResponseE",
    "self_type" : "_ZTIN7android8hardware10automotive7vehicle4V2_023InitialUserInfoResponseE",
-   "size" : 32,
+   "size" : 48,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/automotive/vehicle/2.0/android.hardware.automotive.vehicle@2.0_genc++_headers/gen/android/hardware/automotive/vehicle/2.0/types.h"
   },
   {
