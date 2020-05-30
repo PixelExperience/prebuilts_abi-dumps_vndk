@@ -80,10 +80,16 @@
    "name" : "_ZN4aidl7android8hardware9keymaster17HardwareAuthToken14readFromParcelEPK7AParcel"
   },
   {
+   "name" : "_ZN4aidl7android8hardware9keymaster17VerificationToken14readFromParcelEPK7AParcel"
+  },
+  {
    "name" : "_ZN4aidl7android8hardware9keymaster9Timestamp14readFromParcelEPK7AParcel"
   },
   {
    "name" : "_ZNK4aidl7android8hardware9keymaster17HardwareAuthToken13writeToParcelEP7AParcel"
+  },
+  {
+   "name" : "_ZNK4aidl7android8hardware9keymaster17VerificationToken13writeToParcelEP7AParcel"
   },
   {
    "name" : "_ZNK4aidl7android8hardware9keymaster9Timestamp13writeToParcelEP7AParcel"
@@ -97,6 +103,9 @@
  [
   {
    "name" : "_ZN4aidl7android8hardware9keymaster17HardwareAuthToken10descriptorE"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware9keymaster17VerificationToken10descriptorE"
   },
   {
    "name" : "_ZN4aidl7android8hardware9keymaster9Timestamp10descriptorE"
@@ -328,6 +337,31 @@
    [
     {
      "enum_field_value" : 0,
+     "name" : "aidl::android::hardware::keymaster::SecurityLevel::SOFTWARE"
+    },
+    {
+     "enum_field_value" : 1,
+     "name" : "aidl::android::hardware::keymaster::SecurityLevel::TRUSTED_ENVIRONMENT"
+    },
+    {
+     "enum_field_value" : 2,
+     "name" : "aidl::android::hardware::keymaster::SecurityLevel::STRONGBOX"
+    }
+   ],
+   "linker_set_key" : "_ZTIN4aidl7android8hardware9keymaster13SecurityLevelE",
+   "name" : "aidl::android::hardware::keymaster::SecurityLevel",
+   "referenced_type" : "_ZTIN4aidl7android8hardware9keymaster13SecurityLevelE",
+   "self_type" : "_ZTIN4aidl7android8hardware9keymaster13SecurityLevelE",
+   "size" : 4,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/include/aidl/android/hardware/keymaster/SecurityLevel.h",
+   "underlying_type" : "_ZTIi"
+  },
+  {
+   "alignment" : 4,
+   "enum_fields" :
+   [
+    {
+     "enum_field_value" : 0,
      "name" : "aidl::android::hardware::keymaster::HardwareAuthenticatorType::NONE"
     },
     {
@@ -398,6 +432,22 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/include/aidl/android/hardware/keymaster/HardwareAuthToken.h"
   },
   {
+   "function_name" : "aidl::android::hardware::keymaster::VerificationToken::readFromParcel",
+   "linker_set_key" : "_ZN4aidl7android8hardware9keymaster17VerificationToken14readFromParcelEPK7AParcel",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware9keymaster17VerificationTokenE"
+    },
+    {
+     "referenced_type" : "_ZTIPK7AParcel"
+    }
+   ],
+   "return_type" : "_ZTIi",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/include/aidl/android/hardware/keymaster/VerificationToken.h"
+  },
+  {
    "function_name" : "aidl::android::hardware::keymaster::Timestamp::readFromParcel",
    "linker_set_key" : "_ZN4aidl7android8hardware9keymaster9Timestamp14readFromParcelEPK7AParcel",
    "parameters" :
@@ -430,6 +480,22 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/include/aidl/android/hardware/keymaster/HardwareAuthToken.h"
   },
   {
+   "function_name" : "aidl::android::hardware::keymaster::VerificationToken::writeToParcel",
+   "linker_set_key" : "_ZNK4aidl7android8hardware9keymaster17VerificationToken13writeToParcelEP7AParcel",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPKN4aidl7android8hardware9keymaster17VerificationTokenE"
+    },
+    {
+     "referenced_type" : "_ZTIP7AParcel"
+    }
+   ],
+   "return_type" : "_ZTIi",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/include/aidl/android/hardware/keymaster/VerificationToken.h"
+  },
+  {
    "function_name" : "aidl::android::hardware::keymaster::Timestamp::writeToParcel",
    "linker_set_key" : "_ZNK4aidl7android8hardware9keymaster9Timestamp13writeToParcelEP7AParcel",
    "parameters" :
@@ -453,6 +519,12 @@
    "name" : "aidl::android::hardware::keymaster::HardwareAuthToken::descriptor",
    "referenced_type" : "_ZTIPKc",
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/include/aidl/android/hardware/keymaster/HardwareAuthToken.h"
+  },
+  {
+   "linker_set_key" : "_ZN4aidl7android8hardware9keymaster17VerificationToken10descriptorE",
+   "name" : "aidl::android::hardware::keymaster::VerificationToken::descriptor",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/include/aidl/android/hardware/keymaster/VerificationToken.h"
   },
   {
    "linker_set_key" : "_ZN4aidl7android8hardware9keymaster9Timestamp10descriptorE",
@@ -774,6 +846,15 @@
   },
   {
    "alignment" : 8,
+   "linker_set_key" : "_ZTIPKN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "name" : "const aidl::android::hardware::keymaster::VerificationToken *",
+   "referenced_type" : "_ZTIKN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "self_type" : "_ZTIPKN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "size" : 8,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/include/aidl/android/hardware/keymaster/VerificationToken.h"
+  },
+  {
+   "alignment" : 8,
    "linker_set_key" : "_ZTIPKN4aidl7android8hardware9keymaster9TimestampE",
    "name" : "const aidl::android::hardware::keymaster::Timestamp *",
    "referenced_type" : "_ZTIKN4aidl7android8hardware9keymaster9TimestampE",
@@ -924,6 +1005,15 @@
    "self_type" : "_ZTIPN4aidl7android8hardware9keymaster17HardwareAuthTokenE",
    "size" : 8,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/include/aidl/android/hardware/keymaster/HardwareAuthToken.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIPN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "name" : "aidl::android::hardware::keymaster::VerificationToken *",
+   "referenced_type" : "_ZTIN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "self_type" : "_ZTIPN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "size" : 8,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/include/aidl/android/hardware/keymaster/VerificationToken.h"
   },
   {
    "alignment" : 8,
@@ -1187,12 +1277,32 @@
   {
    "alignment" : 8,
    "is_const" : true,
+   "linker_set_key" : "_ZTIKN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "name" : "const aidl::android::hardware::keymaster::VerificationToken",
+   "referenced_type" : "_ZTIN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "self_type" : "_ZTIKN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "size" : 48,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/include/aidl/android/hardware/keymaster/VerificationToken.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
    "linker_set_key" : "_ZTIKN4aidl7android8hardware9keymaster9TimestampE",
    "name" : "const aidl::android::hardware::keymaster::Timestamp",
    "referenced_type" : "_ZTIN4aidl7android8hardware9keymaster9TimestampE",
    "self_type" : "_ZTIKN4aidl7android8hardware9keymaster9TimestampE",
    "size" : 8,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/include/aidl/android/hardware/keymaster/Timestamp.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKNSt3__15arrayIN4aidl7android8hardware9keymaster13SecurityLevelELm3EEE",
+   "name" : "const std::array<aidl::android::hardware::keymaster::SecurityLevel, 3>",
+   "referenced_type" : "_ZTINSt3__15arrayIN4aidl7android8hardware9keymaster13SecurityLevelELm3EEE",
+   "self_type" : "_ZTIKNSt3__15arrayIN4aidl7android8hardware9keymaster13SecurityLevelELm3EEE",
+   "size" : 12,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/include/aidl/android/hardware/keymaster/SecurityLevel.h"
   },
   {
    "alignment" : 4,
@@ -1768,6 +1878,38 @@
    "self_type" : "_ZTIN4aidl7android8hardware9keymaster17HardwareAuthTokenE",
    "size" : 64,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/include/aidl/android/hardware/keymaster/HardwareAuthToken.h"
+  },
+  {
+   "alignment" : 8,
+   "fields" :
+   [
+    {
+     "field_name" : "challenge",
+     "referenced_type" : "_ZTIl"
+    },
+    {
+     "field_name" : "timestamp",
+     "field_offset" : 64,
+     "referenced_type" : "_ZTIN4aidl7android8hardware9keymaster9TimestampE"
+    },
+    {
+     "field_name" : "securityLevel",
+     "field_offset" : 128,
+     "referenced_type" : "_ZTIN4aidl7android8hardware9keymaster13SecurityLevelE"
+    },
+    {
+     "field_name" : "mac",
+     "field_offset" : 192,
+     "referenced_type" : "_ZTINSt3__16vectorIaNS_9allocatorIaEEEE"
+    }
+   ],
+   "linker_set_key" : "_ZTIN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "name" : "aidl::android::hardware::keymaster::VerificationToken",
+   "record_kind" : "class",
+   "referenced_type" : "_ZTIN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "self_type" : "_ZTIN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "size" : 48,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/include/aidl/android/hardware/keymaster/VerificationToken.h"
   },
   {
    "alignment" : 8,

@@ -23,6 +23,7 @@
   {
    "alignment" : 1,
    "is_integral" : true,
+   "is_unsigned" : true,
    "linker_set_key" : "_ZTIc",
    "name" : "char",
    "referenced_type" : "_ZTIc",
@@ -55,7 +56,7 @@
    "self_type" : "_ZTIv"
   },
   {
-   "alignment" : 4,
+   "alignment" : 8,
    "is_integral" : true,
    "linker_set_key" : "_ZTIx",
    "name" : "long long",
@@ -96,6 +97,14 @@
   },
   {
    "binding" : "weak",
+   "name" : "_ZN3ndk38AParcel_readStdVectorParcelableElementIN4aidl7android8hardware8identity15RequestDataItemEEEiPK7AParcelPvj"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZN3ndk38AParcel_readStdVectorParcelableElementIN4aidl7android8hardware8identity16RequestNamespaceEEEiPK7AParcelPvj"
+  },
+  {
+   "binding" : "weak",
    "name" : "_ZN3ndk38AParcel_readStdVectorParcelableElementIN4aidl7android8hardware8identity26SecureAccessControlProfileEEEiPK7AParcelPvj"
   },
   {
@@ -104,10 +113,24 @@
   },
   {
    "binding" : "weak",
+   "name" : "_ZN3ndk39AParcel_writeStdVectorParcelableElementIN4aidl7android8hardware8identity15RequestDataItemEEEiP7AParcelPKvj"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZN3ndk39AParcel_writeStdVectorParcelableElementIN4aidl7android8hardware8identity16RequestNamespaceEEEiP7AParcelPKvj"
+  },
+  {
+   "binding" : "weak",
    "name" : "_ZN3ndk39AParcel_writeStdVectorParcelableElementIN4aidl7android8hardware8identity26SecureAccessControlProfileEEEiP7AParcelPKvj"
   },
   {
    "name" : "_ZN4aidl7android8hardware8identity11Certificate14readFromParcelEPK7AParcel"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware8identity15RequestDataItem14readFromParcelEPK7AParcel"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware8identity16RequestNamespace14readFromParcelEPK7AParcel"
   },
   {
    "name" : "_ZN4aidl7android8hardware8identity19HardwareInformation14readFromParcelEPK7AParcel"
@@ -182,10 +205,16 @@
    "name" : "_ZN4aidl7android8hardware8identity20BpIdentityCredential19getInterfaceVersionEPi"
   },
   {
+   "name" : "_ZN4aidl7android8hardware8identity20BpIdentityCredential20setVerificationTokenERKNS1_9keymaster17VerificationTokenE"
+  },
+  {
    "name" : "_ZN4aidl7android8hardware8identity20BpIdentityCredential22createEphemeralKeyPairEPNSt3__16vectorIaNS4_9allocatorIaEEEE"
   },
   {
    "name" : "_ZN4aidl7android8hardware8identity20BpIdentityCredential22generateSigningKeyPairEPNSt3__16vectorIaNS4_9allocatorIaEEEEPNS2_11CertificateE"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware8identity20BpIdentityCredential22setRequestedNamespacesERKNSt3__16vectorINS2_16RequestNamespaceENS4_9allocatorIS6_EEEE"
   },
   {
    "name" : "_ZN4aidl7android8hardware8identity20BpIdentityCredential23startRetrieveEntryValueERKNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEESC_iRKNS4_6vectorIiNS8_IiEEEE"
@@ -308,10 +337,16 @@
    "name" : "_ZN4aidl7android8hardware8identity26IIdentityCredentialDefault19getInterfaceVersionEPi"
   },
   {
+   "name" : "_ZN4aidl7android8hardware8identity26IIdentityCredentialDefault20setVerificationTokenERKNS1_9keymaster17VerificationTokenE"
+  },
+  {
    "name" : "_ZN4aidl7android8hardware8identity26IIdentityCredentialDefault22createEphemeralKeyPairEPNSt3__16vectorIaNS4_9allocatorIaEEEE"
   },
   {
    "name" : "_ZN4aidl7android8hardware8identity26IIdentityCredentialDefault22generateSigningKeyPairEPNSt3__16vectorIaNS4_9allocatorIaEEEEPNS2_11CertificateE"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware8identity26IIdentityCredentialDefault22setRequestedNamespacesERKNSt3__16vectorINS2_16RequestNamespaceENS4_9allocatorIS6_EEEE"
   },
   {
    "name" : "_ZN4aidl7android8hardware8identity26IIdentityCredentialDefault23startRetrieveEntryValueERKNSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEESC_iRKNS4_6vectorIiNS8_IiEEEE"
@@ -401,6 +436,9 @@
    "name" : "_ZN4aidl7android8hardware8identity28BpWritableIdentityCredential25getAttestationCertificateERKNSt3__16vectorIaNS4_9allocatorIaEEEESA_PNS5_INS2_11CertificateENS6_ISB_EEEE"
   },
   {
+   "name" : "_ZN4aidl7android8hardware8identity28BpWritableIdentityCredential34setExpectedProofOfProvisioningSizeEi"
+  },
+  {
    "name" : "_ZN4aidl7android8hardware8identity28BpWritableIdentityCredentialC1ERKN3ndk10SpAIBinderE"
   },
   {
@@ -461,6 +499,9 @@
    "name" : "_ZN4aidl7android8hardware8identity34IWritableIdentityCredentialDefault25getAttestationCertificateERKNSt3__16vectorIaNS4_9allocatorIaEEEESA_PNS5_INS2_11CertificateENS6_ISB_EEEE"
   },
   {
+   "name" : "_ZN4aidl7android8hardware8identity34IWritableIdentityCredentialDefault34setExpectedProofOfProvisioningSizeEi"
+  },
+  {
    "name" : "_ZN4aidl7android8hardware8identity34IWritableIdentityCredentialDefault8asBinderEv"
   },
   {
@@ -468,6 +509,12 @@
   },
   {
    "name" : "_ZNK4aidl7android8hardware8identity11Certificate13writeToParcelEP7AParcel"
+  },
+  {
+   "name" : "_ZNK4aidl7android8hardware8identity15RequestDataItem13writeToParcelEP7AParcel"
+  },
+  {
+   "name" : "_ZNK4aidl7android8hardware8identity16RequestNamespace13writeToParcelEP7AParcel"
   },
   {
    "name" : "_ZNK4aidl7android8hardware8identity19HardwareInformation13writeToParcelEP7AParcel"
@@ -498,6 +545,14 @@
   {
    "binding" : "weak",
    "name" : "_ZNSt3__16vectorIN4aidl7android8hardware8identity11CertificateENS_9allocatorIS5_EEE8__appendEj"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZNSt3__16vectorIN4aidl7android8hardware8identity15RequestDataItemENS_9allocatorIS5_EEE8__appendEj"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZNSt3__16vectorIN4aidl7android8hardware8identity16RequestNamespaceENS_9allocatorIS5_EEE8__appendEj"
   },
   {
    "binding" : "weak",
@@ -532,6 +587,12 @@
   },
   {
    "name" : "_ZN4aidl7android8hardware8identity11Certificate10descriptorE"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware8identity15RequestDataItem10descriptorE"
+  },
+  {
+   "name" : "_ZN4aidl7android8hardware8identity16RequestNamespace10descriptorE"
   },
   {
    "name" : "_ZN4aidl7android8hardware8identity19HardwareInformation10descriptorE"
@@ -946,6 +1007,31 @@
    [
     {
      "enum_field_value" : 0,
+     "name" : "aidl::android::hardware::keymaster::SecurityLevel::SOFTWARE"
+    },
+    {
+     "enum_field_value" : 1,
+     "name" : "aidl::android::hardware::keymaster::SecurityLevel::TRUSTED_ENVIRONMENT"
+    },
+    {
+     "enum_field_value" : 2,
+     "name" : "aidl::android::hardware::keymaster::SecurityLevel::STRONGBOX"
+    }
+   ],
+   "linker_set_key" : "_ZTIN4aidl7android8hardware9keymaster13SecurityLevelE",
+   "name" : "aidl::android::hardware::keymaster::SecurityLevel",
+   "referenced_type" : "_ZTIN4aidl7android8hardware9keymaster13SecurityLevelE",
+   "self_type" : "_ZTIN4aidl7android8hardware9keymaster13SecurityLevelE",
+   "size" : 4,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/include/aidl/android/hardware/keymaster/SecurityLevel.h",
+   "underlying_type" : "_ZTIi"
+  },
+  {
+   "alignment" : 4,
+   "enum_fields" :
+   [
+    {
+     "enum_field_value" : 0,
      "name" : "aidl::android::hardware::keymaster::HardwareAuthenticatorType::NONE"
     },
     {
@@ -1098,6 +1184,44 @@
   },
   {
    "function_name" : "ndk::AParcel_readStdVectorParcelableElement",
+   "linker_set_key" : "_ZN3ndk38AParcel_readStdVectorParcelableElementIN4aidl7android8hardware8identity15RequestDataItemEEEiPK7AParcelPvj",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPK7AParcel"
+    },
+    {
+     "referenced_type" : "_ZTIPv"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "return_type" : "_ZTIi",
+   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h",
+   "template_args" : [ "_ZTIN4aidl7android8hardware8identity15RequestDataItemE" ]
+  },
+  {
+   "function_name" : "ndk::AParcel_readStdVectorParcelableElement",
+   "linker_set_key" : "_ZN3ndk38AParcel_readStdVectorParcelableElementIN4aidl7android8hardware8identity16RequestNamespaceEEEiPK7AParcelPvj",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPK7AParcel"
+    },
+    {
+     "referenced_type" : "_ZTIPv"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "return_type" : "_ZTIi",
+   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h",
+   "template_args" : [ "_ZTIN4aidl7android8hardware8identity16RequestNamespaceE" ]
+  },
+  {
+   "function_name" : "ndk::AParcel_readStdVectorParcelableElement",
    "linker_set_key" : "_ZN3ndk38AParcel_readStdVectorParcelableElementIN4aidl7android8hardware8identity26SecureAccessControlProfileEEEiPK7AParcelPvj",
    "parameters" :
    [
@@ -1136,6 +1260,44 @@
   },
   {
    "function_name" : "ndk::AParcel_writeStdVectorParcelableElement",
+   "linker_set_key" : "_ZN3ndk39AParcel_writeStdVectorParcelableElementIN4aidl7android8hardware8identity15RequestDataItemEEEiP7AParcelPKvj",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIP7AParcel"
+    },
+    {
+     "referenced_type" : "_ZTIPKv"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "return_type" : "_ZTIi",
+   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h",
+   "template_args" : [ "_ZTIN4aidl7android8hardware8identity15RequestDataItemE" ]
+  },
+  {
+   "function_name" : "ndk::AParcel_writeStdVectorParcelableElement",
+   "linker_set_key" : "_ZN3ndk39AParcel_writeStdVectorParcelableElementIN4aidl7android8hardware8identity16RequestNamespaceEEEiP7AParcelPKvj",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIP7AParcel"
+    },
+    {
+     "referenced_type" : "_ZTIPKv"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "return_type" : "_ZTIi",
+   "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h",
+   "template_args" : [ "_ZTIN4aidl7android8hardware8identity16RequestNamespaceE" ]
+  },
+  {
+   "function_name" : "ndk::AParcel_writeStdVectorParcelableElement",
    "linker_set_key" : "_ZN3ndk39AParcel_writeStdVectorParcelableElementIN4aidl7android8hardware8identity26SecureAccessControlProfileEEEiP7AParcelPKvj",
    "parameters" :
    [
@@ -1168,6 +1330,38 @@
    ],
    "return_type" : "_ZTIi",
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/Certificate.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::identity::RequestDataItem::readFromParcel",
+   "linker_set_key" : "_ZN4aidl7android8hardware8identity15RequestDataItem14readFromParcelEPK7AParcel",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8identity15RequestDataItemE"
+    },
+    {
+     "referenced_type" : "_ZTIPK7AParcel"
+    }
+   ],
+   "return_type" : "_ZTIi",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/RequestDataItem.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::identity::RequestNamespace::readFromParcel",
+   "linker_set_key" : "_ZN4aidl7android8hardware8identity16RequestNamespace14readFromParcelEPK7AParcel",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8identity16RequestNamespaceE"
+    },
+    {
+     "referenced_type" : "_ZTIPK7AParcel"
+    }
+   ],
+   "return_type" : "_ZTIi",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/RequestNamespace.h"
   },
   {
    "function_name" : "aidl::android::hardware::identity::HardwareInformation::readFromParcel",
@@ -1532,6 +1726,22 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/BpIdentityCredential.h"
   },
   {
+   "function_name" : "aidl::android::hardware::identity::BpIdentityCredential::setVerificationToken",
+   "linker_set_key" : "_ZN4aidl7android8hardware8identity20BpIdentityCredential20setVerificationTokenERKNS1_9keymaster17VerificationTokenE",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8identity20BpIdentityCredentialE"
+    },
+    {
+     "referenced_type" : "_ZTIRKN4aidl7android8hardware9keymaster17VerificationTokenE"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/BpIdentityCredential.h"
+  },
+  {
    "function_name" : "aidl::android::hardware::identity::BpIdentityCredential::createEphemeralKeyPair",
    "linker_set_key" : "_ZN4aidl7android8hardware8identity20BpIdentityCredential22createEphemeralKeyPairEPNSt3__16vectorIaNS4_9allocatorIaEEEE",
    "parameters" :
@@ -1561,6 +1771,22 @@
     },
     {
      "referenced_type" : "_ZTIPN4aidl7android8hardware8identity11CertificateE"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/BpIdentityCredential.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::identity::BpIdentityCredential::setRequestedNamespaces",
+   "linker_set_key" : "_ZN4aidl7android8hardware8identity20BpIdentityCredential22setRequestedNamespacesERKNSt3__16vectorINS2_16RequestNamespaceENS4_9allocatorIS6_EEEE",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8identity20BpIdentityCredentialE"
+    },
+    {
+     "referenced_type" : "_ZTIRKNSt3__16vectorIN4aidl7android8hardware8identity16RequestNamespaceENS_9allocatorIS5_EEEE"
     }
    ],
    "return_type" : "_ZTIN3ndk13ScopedAStatusE",
@@ -2188,6 +2414,22 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/IIdentityCredential.h"
   },
   {
+   "function_name" : "aidl::android::hardware::identity::IIdentityCredentialDefault::setVerificationToken",
+   "linker_set_key" : "_ZN4aidl7android8hardware8identity26IIdentityCredentialDefault20setVerificationTokenERKNS1_9keymaster17VerificationTokenE",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8identity26IIdentityCredentialDefaultE"
+    },
+    {
+     "referenced_type" : "_ZTIRKN4aidl7android8hardware9keymaster17VerificationTokenE"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/IIdentityCredential.h"
+  },
+  {
    "function_name" : "aidl::android::hardware::identity::IIdentityCredentialDefault::createEphemeralKeyPair",
    "linker_set_key" : "_ZN4aidl7android8hardware8identity26IIdentityCredentialDefault22createEphemeralKeyPairEPNSt3__16vectorIaNS4_9allocatorIaEEEE",
    "parameters" :
@@ -2217,6 +2459,22 @@
     },
     {
      "referenced_type" : "_ZTIPN4aidl7android8hardware8identity11CertificateE"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/IIdentityCredential.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::identity::IIdentityCredentialDefault::setRequestedNamespaces",
+   "linker_set_key" : "_ZN4aidl7android8hardware8identity26IIdentityCredentialDefault22setRequestedNamespacesERKNSt3__16vectorINS2_16RequestNamespaceENS4_9allocatorIS6_EEEE",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8identity26IIdentityCredentialDefaultE"
+    },
+    {
+     "referenced_type" : "_ZTIRKNSt3__16vectorIN4aidl7android8hardware8identity16RequestNamespaceENS_9allocatorIS5_EEEE"
     }
    ],
    "return_type" : "_ZTIN3ndk13ScopedAStatusE",
@@ -2683,6 +2941,22 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/BpWritableIdentityCredential.h"
   },
   {
+   "function_name" : "aidl::android::hardware::identity::BpWritableIdentityCredential::setExpectedProofOfProvisioningSize",
+   "linker_set_key" : "_ZN4aidl7android8hardware8identity28BpWritableIdentityCredential34setExpectedProofOfProvisioningSizeEi",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8identity28BpWritableIdentityCredentialE"
+    },
+    {
+     "referenced_type" : "_ZTIi"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/BpWritableIdentityCredential.h"
+  },
+  {
    "function_name" : "aidl::android::hardware::identity::BpWritableIdentityCredential::BpWritableIdentityCredential",
    "linker_set_key" : "_ZN4aidl7android8hardware8identity28BpWritableIdentityCredentialC1ERKN3ndk10SpAIBinderE",
    "parameters" :
@@ -3039,6 +3313,22 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/IWritableIdentityCredential.h"
   },
   {
+   "function_name" : "aidl::android::hardware::identity::IWritableIdentityCredentialDefault::setExpectedProofOfProvisioningSize",
+   "linker_set_key" : "_ZN4aidl7android8hardware8identity34IWritableIdentityCredentialDefault34setExpectedProofOfProvisioningSizeEi",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN4aidl7android8hardware8identity34IWritableIdentityCredentialDefaultE"
+    },
+    {
+     "referenced_type" : "_ZTIi"
+    }
+   ],
+   "return_type" : "_ZTIN3ndk13ScopedAStatusE",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/IWritableIdentityCredential.h"
+  },
+  {
    "function_name" : "aidl::android::hardware::identity::IWritableIdentityCredentialDefault::asBinder",
    "linker_set_key" : "_ZN4aidl7android8hardware8identity34IWritableIdentityCredentialDefault8asBinderEv",
    "parameters" :
@@ -3081,6 +3371,38 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/Certificate.h"
   },
   {
+   "function_name" : "aidl::android::hardware::identity::RequestDataItem::writeToParcel",
+   "linker_set_key" : "_ZNK4aidl7android8hardware8identity15RequestDataItem13writeToParcelEP7AParcel",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPKN4aidl7android8hardware8identity15RequestDataItemE"
+    },
+    {
+     "referenced_type" : "_ZTIP7AParcel"
+    }
+   ],
+   "return_type" : "_ZTIi",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/RequestDataItem.h"
+  },
+  {
+   "function_name" : "aidl::android::hardware::identity::RequestNamespace::writeToParcel",
+   "linker_set_key" : "_ZNK4aidl7android8hardware8identity16RequestNamespace13writeToParcelEP7AParcel",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPKN4aidl7android8hardware8identity16RequestNamespaceE"
+    },
+    {
+     "referenced_type" : "_ZTIP7AParcel"
+    }
+   ],
+   "return_type" : "_ZTIi",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/RequestNamespace.h"
+  },
+  {
    "function_name" : "aidl::android::hardware::identity::HardwareInformation::writeToParcel",
    "linker_set_key" : "_ZNK4aidl7android8hardware8identity19HardwareInformation13writeToParcelEP7AParcel",
    "parameters" :
@@ -3120,6 +3442,18 @@
    "name" : "aidl::android::hardware::identity::Certificate::descriptor",
    "referenced_type" : "_ZTIPKc",
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/Certificate.h"
+  },
+  {
+   "linker_set_key" : "_ZN4aidl7android8hardware8identity15RequestDataItem10descriptorE",
+   "name" : "aidl::android::hardware::identity::RequestDataItem::descriptor",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/RequestDataItem.h"
+  },
+  {
+   "linker_set_key" : "_ZN4aidl7android8hardware8identity16RequestNamespace10descriptorE",
+   "name" : "aidl::android::hardware::identity::RequestNamespace::descriptor",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/RequestNamespace.h"
   },
   {
    "linker_set_key" : "_ZN4aidl7android8hardware8identity19HardwareInformation10descriptorE",
@@ -3222,6 +3556,15 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIRKN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "name" : "const aidl::android::hardware::keymaster::VerificationToken &",
+   "referenced_type" : "_ZTIKN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "self_type" : "_ZTIRKN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "size" : 4,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/IIdentityCredential.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__110shared_ptrIN4aidl7android8hardware8identity19IIdentityCredentialEEE",
    "name" : "const std::shared_ptr<aidl::android::hardware::identity::IIdentityCredential> &",
    "referenced_type" : "_ZTIKNSt3__110shared_ptrIN4aidl7android8hardware8identity19IIdentityCredentialEEE",
@@ -3264,6 +3607,15 @@
    "self_type" : "_ZTIRKNSt3__16vectorIDsNS_9allocatorIDsEEEE",
    "size" : 4,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorIN4aidl7android8hardware8identity16RequestNamespaceENS_9allocatorIS5_EEEE",
+   "name" : "const std::vector<aidl::android::hardware::identity::RequestNamespace, std::allocator<aidl::android::hardware::identity::RequestNamespace> > &",
+   "referenced_type" : "_ZTIKNSt3__16vectorIN4aidl7android8hardware8identity16RequestNamespaceENS_9allocatorIS5_EEEE",
+   "self_type" : "_ZTIRKNSt3__16vectorIN4aidl7android8hardware8identity16RequestNamespaceENS_9allocatorIS5_EEEE",
+   "size" : 4,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/IIdentityCredential.h"
   },
   {
    "alignment" : 4,
@@ -3567,6 +3919,24 @@
   },
   {
    "alignment" : 4,
+   "linker_set_key" : "_ZTIPKN4aidl7android8hardware8identity15RequestDataItemE",
+   "name" : "const aidl::android::hardware::identity::RequestDataItem *",
+   "referenced_type" : "_ZTIKN4aidl7android8hardware8identity15RequestDataItemE",
+   "self_type" : "_ZTIPKN4aidl7android8hardware8identity15RequestDataItemE",
+   "size" : 4,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/RequestDataItem.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKN4aidl7android8hardware8identity16RequestNamespaceE",
+   "name" : "const aidl::android::hardware::identity::RequestNamespace *",
+   "referenced_type" : "_ZTIKN4aidl7android8hardware8identity16RequestNamespaceE",
+   "self_type" : "_ZTIPKN4aidl7android8hardware8identity16RequestNamespaceE",
+   "size" : 4,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/RequestNamespace.h"
+  },
+  {
+   "alignment" : 4,
    "linker_set_key" : "_ZTIPKN4aidl7android8hardware8identity19HardwareInformationE",
    "name" : "const aidl::android::hardware::identity::HardwareInformation *",
    "referenced_type" : "_ZTIKN4aidl7android8hardware8identity19HardwareInformationE",
@@ -3780,6 +4150,24 @@
    "self_type" : "_ZTIPN4aidl7android8hardware8identity11CertificateE",
    "size" : 4,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/Certificate.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPN4aidl7android8hardware8identity15RequestDataItemE",
+   "name" : "aidl::android::hardware::identity::RequestDataItem *",
+   "referenced_type" : "_ZTIN4aidl7android8hardware8identity15RequestDataItemE",
+   "self_type" : "_ZTIPN4aidl7android8hardware8identity15RequestDataItemE",
+   "size" : 4,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/RequestDataItem.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPN4aidl7android8hardware8identity16RequestNamespaceE",
+   "name" : "aidl::android::hardware::identity::RequestNamespace *",
+   "referenced_type" : "_ZTIN4aidl7android8hardware8identity16RequestNamespaceE",
+   "self_type" : "_ZTIPN4aidl7android8hardware8identity16RequestNamespaceE",
+   "size" : 4,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/RequestNamespace.h"
   },
   {
    "alignment" : 4,
@@ -4239,6 +4627,26 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/Certificate.h"
   },
   {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKN4aidl7android8hardware8identity15RequestDataItemE",
+   "name" : "const aidl::android::hardware::identity::RequestDataItem",
+   "referenced_type" : "_ZTIN4aidl7android8hardware8identity15RequestDataItemE",
+   "self_type" : "_ZTIKN4aidl7android8hardware8identity15RequestDataItemE",
+   "size" : 40,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/RequestDataItem.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKN4aidl7android8hardware8identity16RequestNamespaceE",
+   "name" : "const aidl::android::hardware::identity::RequestNamespace",
+   "referenced_type" : "_ZTIN4aidl7android8hardware8identity16RequestNamespaceE",
+   "self_type" : "_ZTIKN4aidl7android8hardware8identity16RequestNamespaceE",
+   "size" : 24,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/RequestNamespace.h"
+  },
+  {
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN4aidl7android8hardware8identity19HardwareInformationE",
@@ -4249,23 +4657,33 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/HardwareInformation.h"
   },
   {
-   "alignment" : 4,
+   "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN4aidl7android8hardware8identity26SecureAccessControlProfileE",
    "name" : "const aidl::android::hardware::identity::SecureAccessControlProfile",
    "referenced_type" : "_ZTIN4aidl7android8hardware8identity26SecureAccessControlProfileE",
    "self_type" : "_ZTIKN4aidl7android8hardware8identity26SecureAccessControlProfileE",
-   "size" : 48,
+   "size" : 56,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/SecureAccessControlProfile.h"
   },
   {
-   "alignment" : 4,
+   "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKN4aidl7android8hardware9keymaster17HardwareAuthTokenE",
    "name" : "const aidl::android::hardware::keymaster::HardwareAuthToken",
    "referenced_type" : "_ZTIN4aidl7android8hardware9keymaster17HardwareAuthTokenE",
    "self_type" : "_ZTIKN4aidl7android8hardware9keymaster17HardwareAuthTokenE",
-   "size" : 48,
+   "size" : 56,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/IIdentityCredential.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "name" : "const aidl::android::hardware::keymaster::VerificationToken",
+   "referenced_type" : "_ZTIN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "self_type" : "_ZTIKN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "size" : 32,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/IIdentityCredential.h"
   },
   {
@@ -4321,6 +4739,16 @@
   {
    "alignment" : 4,
    "is_const" : true,
+   "linker_set_key" : "_ZTIKNSt3__15arrayIN4aidl7android8hardware9keymaster13SecurityLevelELj3EEE",
+   "name" : "const std::array<aidl::android::hardware::keymaster::SecurityLevel, 3>",
+   "referenced_type" : "_ZTINSt3__15arrayIN4aidl7android8hardware9keymaster13SecurityLevelELj3EEE",
+   "self_type" : "_ZTIKNSt3__15arrayIN4aidl7android8hardware9keymaster13SecurityLevelELj3EEE",
+   "size" : 12,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/include/aidl/android/hardware/keymaster/SecurityLevel.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__15arrayIN4aidl7android8hardware9keymaster25HardwareAuthenticatorTypeELj4EEE",
    "name" : "const std::array<aidl::android::hardware::keymaster::HardwareAuthenticatorType, 4>",
    "referenced_type" : "_ZTINSt3__15arrayIN4aidl7android8hardware9keymaster25HardwareAuthenticatorTypeELj4EEE",
@@ -4337,6 +4765,16 @@
    "self_type" : "_ZTIKNSt3__16vectorIDsNS_9allocatorIDsEEEE",
    "size" : 12,
    "source_file" : "/frameworks/native/libs/binder/ndk/include_ndk/android/binder_parcel_utils.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKNSt3__16vectorIN4aidl7android8hardware8identity16RequestNamespaceENS_9allocatorIS5_EEEE",
+   "name" : "const std::vector<aidl::android::hardware::identity::RequestNamespace, std::allocator<aidl::android::hardware::identity::RequestNamespace> >",
+   "referenced_type" : "_ZTINSt3__16vectorIN4aidl7android8hardware8identity16RequestNamespaceENS_9allocatorIS5_EEEE",
+   "self_type" : "_ZTIKNSt3__16vectorIN4aidl7android8hardware8identity16RequestNamespaceENS_9allocatorIS5_EEEE",
+   "size" : 12,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/IIdentityCredential.h"
   },
   {
    "alignment" : 4,
@@ -4741,6 +5179,14 @@
     },
     {
      "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8identity19IIdentityCredential22setRequestedNamespacesERKNSt3__16vectorINS2_16RequestNamespaceENS4_9allocatorIS6_EEEE"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8identity19IIdentityCredential20setVerificationTokenERKNS1_9keymaster17VerificationTokenE"
+    },
+    {
+     "is_pure" : true,
      "mangled_component_name" : "_ZN4aidl7android8hardware8identity19IIdentityCredential19getInterfaceVersionEPi"
     },
     {
@@ -4925,6 +5371,10 @@
     },
     {
      "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8identity27IWritableIdentityCredential34setExpectedProofOfProvisioningSizeEi"
+    },
+    {
+     "is_pure" : true,
      "mangled_component_name" : "_ZN4aidl7android8hardware8identity27IWritableIdentityCredential19getInterfaceVersionEPi"
     },
     {
@@ -5026,6 +5476,14 @@
     {
      "is_pure" : true,
      "mangled_component_name" : "_ZN4aidl7android8hardware8identity19IIdentityCredential22generateSigningKeyPairEPNSt3__16vectorIaNS4_9allocatorIaEEEEPNS2_11CertificateE"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8identity19IIdentityCredential22setRequestedNamespacesERKNSt3__16vectorINS2_16RequestNamespaceENS4_9allocatorIS6_EEEE"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8identity19IIdentityCredential20setVerificationTokenERKNS1_9keymaster17VerificationTokenE"
     },
     {
      "is_pure" : true,
@@ -5190,6 +5648,10 @@
     {
      "is_pure" : true,
      "mangled_component_name" : "_ZN4aidl7android8hardware8identity27IWritableIdentityCredential19finishAddingEntriesEPNSt3__16vectorIaNS4_9allocatorIaEEEES9_"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8identity27IWritableIdentityCredential34setExpectedProofOfProvisioningSizeEi"
     },
     {
      "is_pure" : true,
@@ -5437,6 +5899,55 @@
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/Certificate.h"
   },
   {
+   "alignment" : 8,
+   "fields" :
+   [
+    {
+     "field_name" : "name",
+     "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+    },
+    {
+     "field_name" : "size",
+     "field_offset" : 128,
+     "referenced_type" : "_ZTIx"
+    },
+    {
+     "field_name" : "accessControlProfileIds",
+     "field_offset" : 192,
+     "referenced_type" : "_ZTINSt3__16vectorIiNS_9allocatorIiEEEE"
+    }
+   ],
+   "linker_set_key" : "_ZTIN4aidl7android8hardware8identity15RequestDataItemE",
+   "name" : "aidl::android::hardware::identity::RequestDataItem",
+   "record_kind" : "class",
+   "referenced_type" : "_ZTIN4aidl7android8hardware8identity15RequestDataItemE",
+   "self_type" : "_ZTIN4aidl7android8hardware8identity15RequestDataItemE",
+   "size" : 40,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/RequestDataItem.h"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "namespaceName",
+     "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
+    },
+    {
+     "field_name" : "items",
+     "field_offset" : 96,
+     "referenced_type" : "_ZTINSt3__16vectorIN4aidl7android8hardware8identity15RequestDataItemENS_9allocatorIS5_EEEE"
+    }
+   ],
+   "linker_set_key" : "_ZTIN4aidl7android8hardware8identity16RequestNamespaceE",
+   "name" : "aidl::android::hardware::identity::RequestNamespace",
+   "record_kind" : "class",
+   "referenced_type" : "_ZTIN4aidl7android8hardware8identity16RequestNamespaceE",
+   "self_type" : "_ZTIN4aidl7android8hardware8identity16RequestNamespaceE",
+   "size" : 24,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/RequestNamespace.h"
+  },
+  {
    "alignment" : 4,
    "fields" :
    [
@@ -5557,6 +6068,14 @@
     },
     {
      "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8identity19IIdentityCredential22setRequestedNamespacesERKNSt3__16vectorINS2_16RequestNamespaceENS4_9allocatorIS6_EEEE"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8identity19IIdentityCredential20setVerificationTokenERKNS1_9keymaster17VerificationTokenE"
+    },
+    {
+     "is_pure" : true,
      "mangled_component_name" : "_ZN4aidl7android8hardware8identity19IIdentityCredential19getInterfaceVersionEPi"
     },
     {
@@ -5644,6 +6163,14 @@
     {
      "is_pure" : true,
      "mangled_component_name" : "_ZN4aidl7android8hardware8identity19IIdentityCredential22generateSigningKeyPairEPNSt3__16vectorIaNS4_9allocatorIaEEEEPNS2_11CertificateE"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8identity19IIdentityCredential22setRequestedNamespacesERKNSt3__16vectorINS2_16RequestNamespaceENS4_9allocatorIS6_EEEE"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8identity19IIdentityCredential20setVerificationTokenERKNS1_9keymaster17VerificationTokenE"
     },
     {
      "mangled_component_name" : "_ZN4aidl7android8hardware8identity20BnIdentityCredential19getInterfaceVersionEPi"
@@ -5744,6 +6271,12 @@
     },
     {
      "mangled_component_name" : "_ZN4aidl7android8hardware8identity20BpIdentityCredential22generateSigningKeyPairEPNSt3__16vectorIaNS4_9allocatorIaEEEEPNS2_11CertificateE"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware8identity20BpIdentityCredential22setRequestedNamespacesERKNSt3__16vectorINS2_16RequestNamespaceENS4_9allocatorIS6_EEEE"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware8identity20BpIdentityCredential20setVerificationTokenERKNS1_9keymaster17VerificationTokenE"
     },
     {
      "mangled_component_name" : "_ZN4aidl7android8hardware8identity20BpIdentityCredential19getInterfaceVersionEPi"
@@ -6039,6 +6572,12 @@
      "mangled_component_name" : "_ZN4aidl7android8hardware8identity26IIdentityCredentialDefault22generateSigningKeyPairEPNSt3__16vectorIaNS4_9allocatorIaEEEEPNS2_11CertificateE"
     },
     {
+     "mangled_component_name" : "_ZN4aidl7android8hardware8identity26IIdentityCredentialDefault22setRequestedNamespacesERKNSt3__16vectorINS2_16RequestNamespaceENS4_9allocatorIS6_EEEE"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware8identity26IIdentityCredentialDefault20setVerificationTokenERKNS1_9keymaster17VerificationTokenE"
+    },
+    {
      "mangled_component_name" : "_ZN4aidl7android8hardware8identity26IIdentityCredentialDefault19getInterfaceVersionEPi"
     },
     {
@@ -6047,7 +6586,7 @@
    ]
   },
   {
-   "alignment" : 4,
+   "alignment" : 8,
    "fields" :
    [
     {
@@ -6066,17 +6605,17 @@
     },
     {
      "field_name" : "timeoutMillis",
-     "field_offset" : 160,
+     "field_offset" : 192,
      "referenced_type" : "_ZTIx"
     },
     {
      "field_name" : "secureUserId",
-     "field_offset" : 224,
+     "field_offset" : 256,
      "referenced_type" : "_ZTIx"
     },
     {
      "field_name" : "mac",
-     "field_offset" : 288,
+     "field_offset" : 320,
      "referenced_type" : "_ZTINSt3__16vectorIaNS_9allocatorIaEEEE"
     }
    ],
@@ -6085,7 +6624,7 @@
    "record_kind" : "class",
    "referenced_type" : "_ZTIN4aidl7android8hardware8identity26SecureAccessControlProfileE",
    "self_type" : "_ZTIN4aidl7android8hardware8identity26SecureAccessControlProfileE",
-   "size" : 48,
+   "size" : 56,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/identity/aidl/android.hardware.identity-ndk_platform-source/gen/include/aidl/android/hardware/identity/SecureAccessControlProfile.h"
   },
   {
@@ -6157,6 +6696,10 @@
     {
      "is_pure" : true,
      "mangled_component_name" : "_ZN4aidl7android8hardware8identity27IWritableIdentityCredential19finishAddingEntriesEPNSt3__16vectorIaNS4_9allocatorIaEEEES9_"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8identity27IWritableIdentityCredential34setExpectedProofOfProvisioningSizeEi"
     },
     {
      "is_pure" : true,
@@ -6235,6 +6778,10 @@
     {
      "is_pure" : true,
      "mangled_component_name" : "_ZN4aidl7android8hardware8identity27IWritableIdentityCredential19finishAddingEntriesEPNSt3__16vectorIaNS4_9allocatorIaEEEES9_"
+    },
+    {
+     "is_pure" : true,
+     "mangled_component_name" : "_ZN4aidl7android8hardware8identity27IWritableIdentityCredential34setExpectedProofOfProvisioningSizeEi"
     },
     {
      "mangled_component_name" : "_ZN4aidl7android8hardware8identity28BnWritableIdentityCredential19getInterfaceVersionEPi"
@@ -6326,6 +6873,9 @@
     },
     {
      "mangled_component_name" : "_ZN4aidl7android8hardware8identity28BpWritableIdentityCredential19finishAddingEntriesEPNSt3__16vectorIaNS4_9allocatorIaEEEES9_"
+    },
+    {
+     "mangled_component_name" : "_ZN4aidl7android8hardware8identity28BpWritableIdentityCredential34setExpectedProofOfProvisioningSizeEi"
     },
     {
      "mangled_component_name" : "_ZN4aidl7android8hardware8identity28BpWritableIdentityCredential19getInterfaceVersionEPi"
@@ -6459,6 +7009,9 @@
      "mangled_component_name" : "_ZN4aidl7android8hardware8identity34IWritableIdentityCredentialDefault19finishAddingEntriesEPNSt3__16vectorIaNS4_9allocatorIaEEEES9_"
     },
     {
+     "mangled_component_name" : "_ZN4aidl7android8hardware8identity34IWritableIdentityCredentialDefault34setExpectedProofOfProvisioningSizeEi"
+    },
+    {
      "mangled_component_name" : "_ZN4aidl7android8hardware8identity34IWritableIdentityCredentialDefault19getInterfaceVersionEPi"
     },
     {
@@ -6467,7 +7020,7 @@
    ]
   },
   {
-   "alignment" : 4,
+   "alignment" : 8,
    "fields" :
    [
     {
@@ -6491,12 +7044,12 @@
     },
     {
      "field_name" : "timestamp",
-     "field_offset" : 224,
+     "field_offset" : 256,
      "referenced_type" : "_ZTIN4aidl7android8hardware9keymaster9TimestampE"
     },
     {
      "field_name" : "mac",
-     "field_offset" : 288,
+     "field_offset" : 320,
      "referenced_type" : "_ZTINSt3__16vectorIaNS_9allocatorIaEEEE"
     }
    ],
@@ -6505,11 +7058,43 @@
    "record_kind" : "class",
    "referenced_type" : "_ZTIN4aidl7android8hardware9keymaster17HardwareAuthTokenE",
    "self_type" : "_ZTIN4aidl7android8hardware9keymaster17HardwareAuthTokenE",
-   "size" : 48,
+   "size" : 56,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/include/aidl/android/hardware/keymaster/HardwareAuthToken.h"
   },
   {
-   "alignment" : 4,
+   "alignment" : 8,
+   "fields" :
+   [
+    {
+     "field_name" : "challenge",
+     "referenced_type" : "_ZTIx"
+    },
+    {
+     "field_name" : "timestamp",
+     "field_offset" : 64,
+     "referenced_type" : "_ZTIN4aidl7android8hardware9keymaster9TimestampE"
+    },
+    {
+     "field_name" : "securityLevel",
+     "field_offset" : 128,
+     "referenced_type" : "_ZTIN4aidl7android8hardware9keymaster13SecurityLevelE"
+    },
+    {
+     "field_name" : "mac",
+     "field_offset" : 160,
+     "referenced_type" : "_ZTINSt3__16vectorIaNS_9allocatorIaEEEE"
+    }
+   ],
+   "linker_set_key" : "_ZTIN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "name" : "aidl::android::hardware::keymaster::VerificationToken",
+   "record_kind" : "class",
+   "referenced_type" : "_ZTIN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "self_type" : "_ZTIN4aidl7android8hardware9keymaster17VerificationTokenE",
+   "size" : 32,
+   "source_file" : "/out/soong/.intermediates/hardware/interfaces/keymaster/aidl/android.hardware.keymaster-ndk_platform-source/gen/include/aidl/android/hardware/keymaster/VerificationToken.h"
+  },
+  {
+   "alignment" : 8,
    "fields" :
    [
     {
