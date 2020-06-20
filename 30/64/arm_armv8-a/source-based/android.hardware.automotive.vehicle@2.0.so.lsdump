@@ -6607,6 +6607,14 @@
     {
      "enum_field_value" : 8,
      "name" : "android::hardware::automotive::vehicle::V2_0::UserFlags::ADMIN"
+    },
+    {
+     "enum_field_value" : 16,
+     "name" : "android::hardware::automotive::vehicle::V2_0::UserFlags::DISABLED"
+    },
+    {
+     "enum_field_value" : 32,
+     "name" : "android::hardware::automotive::vehicle::V2_0::UserFlags::PROFILE"
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware10automotive7vehicle4V2_09UserFlagsE",
@@ -14338,11 +14346,11 @@
   {
    "alignment" : 4,
    "is_const" : true,
-   "linker_set_key" : "_ZTIKNSt3__15arrayIN7android8hardware10automotive7vehicle4V2_09UserFlagsELj5EEE",
-   "name" : "const std::array<android::hardware::automotive::vehicle::V2_0::UserFlags, 5>",
-   "referenced_type" : "_ZTINSt3__15arrayIN7android8hardware10automotive7vehicle4V2_09UserFlagsELj5EEE",
-   "self_type" : "_ZTIKNSt3__15arrayIN7android8hardware10automotive7vehicle4V2_09UserFlagsELj5EEE",
-   "size" : 20,
+   "linker_set_key" : "_ZTIKNSt3__15arrayIN7android8hardware10automotive7vehicle4V2_09UserFlagsELj7EEE",
+   "name" : "const std::array<android::hardware::automotive::vehicle::V2_0::UserFlags, 7>",
+   "referenced_type" : "_ZTINSt3__15arrayIN7android8hardware10automotive7vehicle4V2_09UserFlagsELj7EEE",
+   "self_type" : "_ZTIKNSt3__15arrayIN7android8hardware10automotive7vehicle4V2_09UserFlagsELj7EEE",
+   "size" : 28,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/automotive/vehicle/2.0/android.hardware.automotive.vehicle@2.0_genc++_headers/gen/android/hardware/automotive/vehicle/2.0/types.h"
   },
   {

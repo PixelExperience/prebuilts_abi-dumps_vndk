@@ -4501,6 +4501,10 @@
     {
      "enum_field_value" : 5,
      "name" : "android::hardware::automotive::evs::V1_1::EvsEventType::MASTER_RELEASED"
+    },
+    {
+     "enum_field_value" : 6,
+     "name" : "android::hardware::automotive::evs::V1_1::EvsEventType::STREAM_ERROR"
     }
    ],
    "linker_set_key" : "_ZTIN7android8hardware10automotive3evs4V1_112EvsEventTypeE",
@@ -18854,11 +18858,11 @@
   {
    "alignment" : 4,
    "is_const" : true,
-   "linker_set_key" : "_ZTIKNSt3__15arrayIN7android8hardware10automotive3evs4V1_112EvsEventTypeELm6EEE",
-   "name" : "const std::array<android::hardware::automotive::evs::V1_1::EvsEventType, 6>",
-   "referenced_type" : "_ZTINSt3__15arrayIN7android8hardware10automotive3evs4V1_112EvsEventTypeELm6EEE",
-   "self_type" : "_ZTIKNSt3__15arrayIN7android8hardware10automotive3evs4V1_112EvsEventTypeELm6EEE",
-   "size" : 24,
+   "linker_set_key" : "_ZTIKNSt3__15arrayIN7android8hardware10automotive3evs4V1_112EvsEventTypeELm7EEE",
+   "name" : "const std::array<android::hardware::automotive::evs::V1_1::EvsEventType, 7>",
+   "referenced_type" : "_ZTINSt3__15arrayIN7android8hardware10automotive3evs4V1_112EvsEventTypeELm7EEE",
+   "self_type" : "_ZTIKNSt3__15arrayIN7android8hardware10automotive3evs4V1_112EvsEventTypeELm7EEE",
+   "size" : 28,
    "source_file" : "/out/soong/.intermediates/hardware/interfaces/automotive/evs/1.1/android.hardware.automotive.evs@1.1_genc++_headers/gen/android/hardware/automotive/evs/1.1/types.h"
   },
   {
