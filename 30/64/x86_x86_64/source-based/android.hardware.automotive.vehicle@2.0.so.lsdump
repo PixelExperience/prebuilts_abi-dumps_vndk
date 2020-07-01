@@ -19008,12 +19008,12 @@
      "referenced_type" : "_ZTIN7android8hardware10automotive7vehicle4V2_08UserInfoE"
     },
     {
-     "field_name" : "userNameToCreate",
+     "field_name" : "userLocales",
      "field_offset" : 128,
      "referenced_type" : "_ZTIN7android8hardware11hidl_stringE"
     },
     {
-     "field_name" : "userLocales",
+     "field_name" : "userNameToCreate",
      "field_offset" : 256,
      "referenced_type" : "_ZTIN7android8hardware11hidl_stringE"
     }
