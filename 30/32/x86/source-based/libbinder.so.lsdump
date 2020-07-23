@@ -1760,6 +1760,18 @@
    "name" : "_ZN7android7BBinder17getOrCreateExtrasEv"
   },
   {
+   "binding" : "weak",
+   "name" : "_ZN7android7BBinder21getMinSchedulerPolicyEv"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZN7android7BBinder21setMinSchedulerPolicyEii"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZN7android7BBinder23getMinSchedulerPriorityEv"
+  },
+  {
    "name" : "_ZN7android7BBinder4dumpEiRKNS_6VectorINS_8String16EEE"
   },
   {
@@ -14533,6 +14545,51 @@
     }
    ],
    "return_type" : "_ZTIPN7android7BBinder6ExtrasE",
+   "source_file" : "/frameworks/native/libs/binder/include/binder/Binder.h"
+  },
+  {
+   "function_name" : "android::BBinder::getMinSchedulerPolicy",
+   "linker_set_key" : "_ZN7android7BBinder21getMinSchedulerPolicyEv",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN7android7BBinderE"
+    }
+   ],
+   "return_type" : "_ZTIi",
+   "source_file" : "/frameworks/native/libs/binder/include/binder/Binder.h"
+  },
+  {
+   "function_name" : "android::BBinder::setMinSchedulerPolicy",
+   "linker_set_key" : "_ZN7android7BBinder21setMinSchedulerPolicyEii",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN7android7BBinderE"
+    },
+    {
+     "referenced_type" : "_ZTIi"
+    },
+    {
+     "referenced_type" : "_ZTIi"
+    }
+   ],
+   "return_type" : "_ZTIv",
+   "source_file" : "/frameworks/native/libs/binder/include/binder/Binder.h"
+  },
+  {
+   "function_name" : "android::BBinder::getMinSchedulerPriority",
+   "linker_set_key" : "_ZN7android7BBinder23getMinSchedulerPriorityEv",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN7android7BBinderE"
+    }
+   ],
+   "return_type" : "_ZTIi",
    "source_file" : "/frameworks/native/libs/binder/include/binder/Binder.h"
   },
   {
@@ -36735,7 +36792,7 @@
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN7android7BBinderUt_E",
-   "name" : "android::BBinder::(anonymous union at frameworks/native/libs/binder/include/binder/Binder.h:97:5)",
+   "name" : "android::BBinder::(anonymous union at frameworks/native/libs/binder/include/binder/Binder.h:116:5)",
    "record_kind" : "union",
    "referenced_type" : "_ZTIN7android7BBinderUt_E",
    "self_type" : "_ZTIN7android7BBinderUt_E",
