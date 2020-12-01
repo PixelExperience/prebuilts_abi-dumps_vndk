@@ -21,6 +21,15 @@
   },
   {
    "alignment" : 1,
+   "linker_set_key" : "_ZTIA151_c",
+   "name" : "char [151]",
+   "referenced_type" : "_ZTIc",
+   "self_type" : "_ZTIA151_c",
+   "size" : 151,
+   "source_file" : "/system/core/base/include/android-base/properties.h"
+  },
+  {
+   "alignment" : 1,
    "linker_set_key" : "_ZTIA17_c",
    "name" : "char [17]",
    "referenced_type" : "_ZTIc",
@@ -216,15 +225,6 @@
    "self_type" : "_ZTIA8_h",
    "size" : 8,
    "source_file" : "/external/fmtlib/include/fmt/format.h"
-  },
-  {
-   "alignment" : 1,
-   "linker_set_key" : "_ZTIA92_c",
-   "name" : "char [92]",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIA92_c",
-   "size" : 92,
-   "source_file" : "/system/core/base/include/android-base/properties.h"
   },
   {
    "linker_set_key" : "_ZTIA_c",
@@ -21953,18 +21953,18 @@
      "access" : "private",
      "field_name" : "cached_value_",
      "field_offset" : 384,
-     "referenced_type" : "_ZTIA92_c"
+     "referenced_type" : "_ZTIA151_c"
     },
     {
      "access" : "private",
      "field_name" : "is_read_only_",
-     "field_offset" : 1120,
+     "field_offset" : 1592,
      "referenced_type" : "_ZTIb"
     },
     {
      "access" : "private",
      "field_name" : "read_only_property_",
-     "field_offset" : 1152,
+     "field_offset" : 1600,
      "referenced_type" : "_ZTIPKc"
     }
    ],
@@ -21973,7 +21973,7 @@
    "record_kind" : "class",
    "referenced_type" : "_ZTIN7android4base14CachedPropertyE",
    "self_type" : "_ZTIN7android4base14CachedPropertyE",
-   "size" : 152,
+   "size" : 208,
    "source_file" : "/system/core/base/include/android-base/properties.h"
   },
   {
